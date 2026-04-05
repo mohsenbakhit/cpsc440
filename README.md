@@ -10,5 +10,6 @@ Authors:
 
 ## Setup
 Run the following to setup the conda environment:
-    conda env create -f environment.yml
+```    conda env create -f environment.yml
     conda activate cpsc440
+```
