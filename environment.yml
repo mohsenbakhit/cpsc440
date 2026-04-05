@@ -1,0 +1,13 @@
+name: cpsc440
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - seaborn
+  - matplotlib
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+prefix: /home/mohsen/.conda/envs/cpsc440
