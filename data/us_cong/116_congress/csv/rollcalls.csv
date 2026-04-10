@@ -1,0 +1,1152 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1137283,782650,2019-01-15,House,"On motion to suspend the rules and pass the bill RC# 33",424,0,9,0,433
+1137308,781696,2019-01-03,House,"On motion to table the motion to refer RC# 3",230,197,5,0,432
+1137308,781697,2019-01-03,House,"On ordering the previous question RC# 4",233,197,2,0,432
+1137308,781698,2019-01-03,House,"On motion to commit with instructions RC# 5",197,232,3,0,432
+1137308,781699,2019-01-03,House,"On agreeing to the resolution RC# 6",234,194,4,0,432
+1137309,783040,2019-01-16,House,"On motion to suspend the rules and pass the bill RC# 36",415,6,12,0,433
+1137322,816488,2019-03-07,House,"On agreeing to the Cole amendment (A005) H.Amdt.58 RC# 110",199,235,3,0,437
+1137322,816489,2019-03-07,House,"On agreeing to the Raskin amendment (A003) H.Amdt.56 RC# 109",219,215,3,0,437
+1137322,816491,2019-03-07,House,"On agreeing to the Pressley amendment (A023) H.Amdt.76 RC# 111",126,305,6,0,437
+1137322,816492,2019-03-07,House,"On agreeing to the Green (TN) amendment (A024) H.Amdt.77 RC# 112",200,233,4,0,437
+1137322,816493,2019-03-07,House,"On agreeing to the Davidson (OH) amendment (A031) H.Amdt.84 RC# 113",194,238,5,0,437
+1137322,816494,2019-03-07,House,"On agreeing to the Davidson (OH) amendment (A032) H.Amdt.85 RC# 114",195,237,5,0,437
+1137322,817612,2019-03-08,House,"On motion to recommit with instructions RC# 117",197,228,7,0,432
+1137322,817613,2019-03-08,House,"On agreeing to the Neguse amendment (A052) H.Amdt.105 RC# 116",239,186,12,0,437
+1137322,817614,2019-03-08,House,"On agreeing to the Brindisi amendment (A042) H.Amdt.95 RC# 115",237,188,12,0,437
+1137322,817615,2019-03-08,House,"On passage RC# 118",234,193,5,0,432
+1137324,969505,2020-06-26,House,"On motion to recommit with instructions RC# 121",182,227,0,21,430
+1137324,969506,2020-06-26,House,"On passage RC# 122",232,180,0,19,431
+1137334,895168,2019-10-15,House,"On motion to suspend the rules and pass the bill RC# 557",408,0,24,0,432
+1137347,781789,2019-01-08,Senate,"Cloture on the motion to proceed RC# 1",56,44,0,0,100
+1137347,781790,2019-01-08,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to S. 1 was not invoked (Record Vote No. 1) entered in Senate. RC# 1",56,44,0,0,100
+1137347,781982,2019-01-10,Senate,"Second cloture on the motion to proceed RC# 2",53,43,4,0,100
+1137347,782297,2019-01-14,Senate,"Third cloture on the motion to proceed RC# 3",50,43,7,0,100
+1137347,782298,2019-01-14,Senate,"Motion by Senator McConnell to reconsider the vote by which the third cloture on the motion to proceed to S. 1 was not invoked (Record Vote No. 3) entered in Senate. RC# 3",50,43,7,0,100
+1137347,787471,2019-01-28,Senate,"Upon reconsideration, cloture on the motion to proceed to S. 1 RC# 11",74,19,7,0,100
+1137347,788317,2019-01-29,Senate,"Motion to proceed to consideration of measure RC# 12",76,22,2,0,100
+1137347,790343,2019-01-31,Senate,"Cloture on amendment SA 65 S.Amdt.65 RC# 13",68,23,9,0,100
+1137347,792374,2019-02-04,Senate,"Amendment SA 65, as amended, S.Amdt.65 RC# 14",70,26,4,0,100
+1137347,792375,2019-02-04,Senate,"Cloture on the measure RC# 15",72,24,4,0,100
+1137347,793421,2019-02-05,Senate,"Passed Senate with amendments RC# 16",77,23,0,0,100
+1137353,782321,2019-01-14,House,"On motion to suspend the rules and pass the bill RC# 30",403,2,28,0,433
+1137361,890306,2019-09-11,House,"On agreeing to the Gosar amendment (A003) as modified H.Amdt.616 RC# 520",182,251,5,0,438
+1137361,890307,2019-09-11,House,"On passage RC# 521",248,180,4,0,432
+1137393,781877,2019-01-09,House,"On motion to suspend the rules and pass the bill RC# 18",414,11,8,0,433
+1137404,781694,2019-01-03,House,"On motion to recommit RC# 8",197,233,2,0,432
+1137404,781695,2019-01-03,House,"On passage RC# 9",239,192,1,0,432
+1137407,781700,2019-01-03,House,"On agreeing to Title I of the resolution RC# 7",234,197,1,0,432
+1137407,781701,2019-01-04,House,"On agreeing to Title II of the resolution RC# 12",418,12,2,0,432
+1137407,781890,2019-01-09,House,"On agreeing to Title III of the resolution RC# 19",235,192,6,0,433
+1137447,781692,2019-01-03,House,"On motion to recommit with instructions RC# 10",199,232,1,0,432
+1137447,781693,2019-01-03,House,"On passage RC# 11",241,190,2,0,433
+1137539,794772,2019-02-06,House,"On motion to suspend the rules and pass the bill RC# 67",399,22,11,0,432
+1137555,855163,2019-04-29,House,"On motion to suspend the rules and pass the bill RC# 168",396,18,17,0,431
+1137568,936497,2020-02-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 71",410,4,0,16,430
+1138018,782639,2019-01-15,Senate,"Motion to table the motion to proceed to the measure rejected in Senate RC# 4",42,57,1,0,100
+1138018,782640,2019-01-15,Senate,"Motion to proceed to consideration of measure RC# 5",57,42,1,0,100
+1138018,782971,2019-01-16,Senate,"Cloture on the measure RC# 6",57,42,1,0,100
+1141968,864922,2019-05-15,House,"On passage RC# 207",275,146,10,0,431
+1141970,810813,2019-02-27,House,"On agreeing to the Lesko amendment (A001) H.Amdt.44 RC# 96",182,250,5,0,437
+1141970,810814,2019-02-27,House,"On agreeing to the Horn, Kendra S. amendment (A003) H.Amdt.46 RC# 97",310,119,8,0,437
+1141970,810815,2019-02-27,House,"On motion to recommit with instructions RC# 98",220,209,3,0,432
+1141970,810816,2019-02-27,House,"On passage RC# 99",240,190,2,0,432
+1141977,781872,2019-01-09,House,"On ordering the previous question RC# 16",231,195,7,0,433
+1141977,781873,2019-01-09,House,"On agreeing to the resolution RC# 17",231,195,7,0,433
+1141981,785036,2019-01-22,House,"On motion to suspend the rules and pass the bill RC# 45",377,3,53,0,433
+1142026,781989,2019-01-10,House,"On motion to recommit with instructions RC# 22",193,228,12,0,433
+1142026,781990,2019-01-10,House,"On passage RC# 23",244,180,9,0,433
+1142036,781983,2019-01-10,House,"On motion to recommit with instructions RC# 24",197,229,7,0,433
+1142036,781984,2019-01-10,House,"On passage RC# 25",243,183,7,0,433
+1142048,783008,2019-01-16,House,"On motion to recommit with instructions RC# 38",193,231,9,0,433
+1142048,783009,2019-01-16,House,"On passage RC# 39",237,187,9,0,433
+1142048,783062,2019-01-16,House,"On agreeing to the McGovern amendment (A002) H.Amdt.3 RC# 37",230,197,12,0,439
+1142048,786005,2019-01-24,Senate,"Cloture on amendment SA 5 S.Amdt.5 RC# 9",50,47,3,0,100
+1142048,786006,2019-01-24,Senate,"Cloture on amendment SA 6 S.Amdt.6 RC# 10",52,44,4,0,100
+1142048,829326,2019-03-26,Senate,"Cloture on the motion to proceed to the measure RC# 53",90,10,0,0,100
+1142048,833161,2019-04-01,Senate,"Cloture RC# 56",46,48,6,0,100
+1142048,833162,2019-04-01,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture on H.R. 268 was not invoked (Record Vote No. 56) entered in Senate. RC# 56",46,48,6,0,100
+1142048,833163,2019-04-01,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on amendment SA 201 (Record Vote No. 55) entered in Senate. S.Amdt.201 RC# 55",44,49,7,0,100
+1142048,833164,2019-04-01,Senate,"Cloture on amendment SA 201 S.Amdt.201 RC# 55",44,49,7,0,100
+1142064,829379,2019-03-26,House,"On motion to suspend the rules and pass the bill RC# 129",403,21,7,0,431
+1142081,781879,2019-01-09,House,"On motion to recommit with instructions RC# 20",200,227,6,0,433
+1142081,781880,2019-01-09,House,"On passage RC# 21",240,188,5,0,433
+1142100,781786,2019-01-08,House,"On motion to suspend the rules and pass the bill RC# 13",401,17,15,0,433
+1144576,864874,2019-05-15,House,"On motion to suspend the rules and pass the bill RC# 208",323,96,12,0,431
+1144600,889892,2019-07-24,House,"On agreeing to the Roe, David P. amendment (A004) H.Amdt.600 RC# 503",186,245,1,0,432
+1144600,889893,2019-07-24,House,"On motion to recommit with instructions RC# 504",200,232,0,0,432
+1144600,889894,2019-07-24,House,"On passage RC# 505",264,169,0,0,433
+1147604,979078,2020-09-23,House,"On motion to suspend the rules and pass the bill, as amended",410,5,0,15,430
+1147620,795536,2019-02-07,House,"On motion to suspend the rules and pass the bill, as amended RC# 70",417,0,15,0,432
+1147653,783418,2019-01-17,Senate,"Cloture on the motion to proceed to the measure RC# 7",48,47,5,0,100
+1147662,788688,2019-01-29,House,"On motion to suspend the rules and pass the bill RC# 57",412,12,8,0,432
+1147677,789000,2019-01-29,House,"On motion to suspend the rules and pass the bill RC# 56",422,3,7,0,432
+1149152,795451,2019-02-07,House,"On motion to suspend the rules and pass the bill RC# 71",414,1,17,0,432
+1149167,896387,2019-11-13,House,"On motion to suspend the rules and pass the bill RC# 613",423,0,7,0,430
+1149175,787450,2019-01-28,House,"On motion to suspend the rules and pass the bill RC# 53",412,3,17,0,432
+1151458,808235,2019-02-25,House,"On motion to suspend the rules and pass the bill RC# 88",385,18,28,0,431
+1151471,901869,2020-01-10,House,"On agreeing to the Burgess amendment (A002) H.Amdt.728 RC# 9",161,247,0,28,436
+1151471,901870,2020-01-10,House,"On agreeing to the Balderson amendment (A005) H.Amdt.731 RC# 10",170,239,0,27,436
+1151471,901871,2020-01-10,House,"On agreeing to the Pappas amendment (A012) H.Amdt.738 RC# 11",242,168,0,26,436
+1151471,901872,2020-01-10,House,"On motion to recommit with instructions RC# 12",187,219,0,24,430
+1151471,901873,2020-01-10,House,"On passage RC# 13",247,159,0,24,430
+1151472,782662,2019-01-15,House,"On motion to suspend the rules and pass the resolution RC# 31",237,187,9,0,433
+1151477,879903,2019-06-10,House,"On motion to suspend the rules and pass the bill RC# 242",395,3,34,0,432
+1151478,782663,2019-01-15,House,"On motion to suspend the rules and agree to the resolution RC# 32",424,1,9,0,434
+1153768,783473,2019-01-17,House,"On motion to suspend the rules and pass the resolution RC# 42",362,53,18,0,433
+1153771,889854,2019-07-23,House,"On motion to suspend the rules and pass the bill, as amended RC# 498",268,154,10,0,432
+1153771,889905,2019-07-25,House,"On motion to recommit with instructions RC# 513",215,217,0,0,432
+1153771,889906,2019-07-25,House,"On passage RC# 514",272,158,2,0,432
+1153788,912228,2020-01-30,House,"On motion to concur in the Senate amendment with amendment specified in section 4(a) of H.Res. 811 RC# 33",228,175,0,26,429
+1153788,912229,2020-01-30,House,"On motion to concur in the Senate amendment with amendment specified in section 4(b) of H.Res. 811 RC# 34",236,166,0,27,429
+1153821,783005,2019-01-16,House,"On ordering the previous question RC# 34",230,194,9,0,433
+1153821,783006,2019-01-16,House,"On agreeing to the resolution RC# 35",230,193,10,0,433
+1156977,889780,2019-07-18,House,"On agreeing to the O'Halleran amendment (A002) H.Amdt.596 RC# 494",248,181,3,0,432
+1156977,889781,2019-07-18,House,"On motion to recommit with instructions RC# 495",210,218,4,0,432
+1156977,889782,2019-07-18,House,"On passage RC# 496",231,199,3,0,433
+1157017,820004,2019-03-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 122",427,1,3,0,431
+1157048,783475,2019-01-17,House,"On agreeing to the resolution RC# 40",230,190,13,0,433
+1157054,787677,2019-01-28,House,"On motion to suspend the rules and pass the bill RC# 52",413,3,16,0,432
+1161102,899879,2019-12-03,House,"On motion to suspend the rules and pass the bill, as amended RC# 644",407,1,23,0,431
+1161102,974530,2020-07-30,Senate,"Motion to proceed to consideration of House message to accompany S. 178 RC# 153",47,42,0,11,100
+1161102,978333,2020-09-10,Senate,"Cloture on the motion to concur in the House amendment to S. 178 with an amendment (SA 2652) RC# 168",52,47,0,1,100
+1161102,979534,2020-09-30,Senate,"Motion to proceed to consideration of the House message to accompany S. 178 RC# 198",48,46,0,6,100
+1161102,979535,2020-09-30,Senate,"Motion to table amendment SA 2673 rejected in Senate S.Amdt.2673 RC# 199",47,47,0,6,100
+1161102,980727,2020-10-20,Senate,"Motion to table amendment SA 2680 rejected in Senate S.Amdt.2680 RC# 203",40,57,0,3,100
+1161102,980999,2020-10-21,Senate,"Second cloture on the motion to concur in the House amendment to S. 178 with an amendment (SA 2652) RC# 207",51,44,0,5,100
+1161110,784647,2019-01-22,House,"On motion to suspend the rules and pass the bill RC# 44",357,22,54,0,433
+1161195,785287,2019-01-23,House,"On motion to recommit with instructions RC# 48",200,215,17,0,432
+1161195,785288,2019-01-23,House,"On passage RC# 49",234,180,18,0,432
+1167776,785294,2019-01-23,House,"On agreeing to the resolution RC# 47",223,190,19,0,432
+1167932,889907,2019-07-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 510",333,96,3,0,432
+1170517,900992,2019-12-17,House,"On motion to suspend the rules and pass the bill RC# 687",410,0,20,0,430
+1170607,900151,2019-12-10,House,"On agreeing to the Crist amendment (A006) H.Amdt.705 RC# 662",297,121,18,0,436
+1170607,900152,2019-12-10,House,"On agreeing to the Brown (MD) amendment (A002) H.Amdt.701 RC# 661",235,179,22,0,436
+1170607,900153,2019-12-10,House,"On agreeing to the Case amendments (A001) H.Amdt.700 RC# 660",249,166,21,0,436
+1170607,900154,2019-12-10,House,"On agreeing to the Panetta amendment (A007) H.Amdt.706 RC# 663",389,29,18,0,436
+1170607,900155,2019-12-10,House,"On agreeing to the Mucarsel-Powell amendment (A008) H.Amdt.707 RC# 664",285,134,17,0,436
+1170607,900156,2019-12-10,House,"On agreeing to the Johnson (LA) amendment (A010) H.Amdt.709 RC# 666",160,259,17,0,436
+1170607,900157,2019-12-10,House,"On agreeing to the Luria amendment (A009) H.Amdt.708 RC# 665",368,51,17,0,436
+1170607,900158,2019-12-10,House,"On passage RC# 667",262,151,17,0,430
+1170625,899642,2019-11-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 634",310,107,13,0,430
+1173146,819020,2019-03-11,House,"On motion to suspend the rules and pass the bill, as amended RC# 120",404,7,20,0,431
+1173173,788263,2019-01-29,House,"On motion to suspend the rules and pass the bill RC# 58",414,12,6,0,432
+1175033,788351,2019-01-29,House,"On motion to table motion to reconsider RC# 59",240,176,16,0,432
+1175043,789257,2019-01-30,House,"On agreeing to the Trahan amendment (A003) H.Amdt.19 RC# 62",243,183,12,0,438
+1175043,789258,2019-01-30,House,"On motion to recommit with instructions RC# 63",206,216,10,0,432
+1175043,789259,2019-01-30,House,"On passage RC# 64",259,161,12,0,432
+1177712,789354,2019-01-30,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 65",249,163,20,0,432
+1177738,896061,2019-10-31,House,"On agreeing to the Curtis amendment (A001) H.Amdt.659 RC# 605",180,240,17,0,437
+1177738,896062,2019-10-31,House,"On agreeing to the Tipton amendment (A005) H.Amdt.663 RC# 606",185,231,21,0,437
+1177738,896063,2019-10-31,House,"On agreeing to the Crow amendment (A006) H.Amdt.664 RC# 607",410,6,21,0,437
+1177738,896064,2019-10-31,House,"On motion to recommit with instructions RC# 608",199,210,22,0,431
+1177738,896065,2019-10-31,House,"On passage RC# 609",227,182,22,0,431
+1180270,796157,2019-02-08,House,"On agreeing to the Bergman amendment (A004) H.Amdt.23 RC# 72",172,246,20,0,438
+1180270,796158,2019-02-08,House,"On agreeing to the Sherrill amendment (A019) H.Amdt.38 RC# 73",401,19,18,0,438
+1180270,796159,2019-02-08,House,"On motion to recommit with instructions RC# 74",200,214,18,0,432
+1180270,796160,2019-02-08,House,"On passage RC# 75",400,9,23,0,432
+1180285,789227,2019-01-30,House,"On ordering the previous question RC# 60",232,190,10,0,432
+1180285,789228,2019-01-30,House,"On agreeing to the resolution RC# 61",231,189,12,0,432
+1182163,821305,2019-03-13,Senate,"Motion to table amendment SA 194 S.Amdt.194 RC# 47",52,48,0,0,100
+1182163,821306,2019-03-13,Senate,"Passed Senate with amendments RC# 48",54,46,0,0,100
+1182163,836909,2019-04-04,House,"On motion to commit with instructions RC# 152",194,228,9,0,431
+1182163,836910,2019-04-04,House,"On passage RC# 153",247,175,10,0,432
+1182163,858008,2019-05-02,Senate,"Failed of passage in Senate over veto RC# 94",53,45,2,0,100
+1182193,979639,2020-10-01,House,"On motion to concur in the Senate amendments with an amendment",214,207,0,10,431
+1182216,799780,2019-02-13,House,"On agreeing to the Buck amendment (A001) H.Amdt.41 RC# 81",252,177,8,0,437
+1182216,799781,2019-02-13,House,"On motion to recommit with instructions RC# 82",424,0,7,0,431
+1182216,799782,2019-02-13,House,"On passage RC# 83",248,177,6,0,431
+1182221,830510,2019-03-27,House,"On motion to recommit with instructions RC# 133",191,236,4,0,431
+1182221,830511,2019-03-27,House,"On passage RC# 134",242,187,3,0,432
+1182221,831340,2019-03-27,House,"On agreeing to the Beyer amendment (A006) H.Amdt.114 RC# 132",406,24,7,0,437
+1184982,808474,2019-02-25,Senate,"Cloture on the motion to proceed RC# 27",53,44,3,0,100
+1184982,934872,2020-02-25,Senate,"Cloture on the motion to proceed to the measure RC# 58",56,41,0,3,100
+1194209,834435,2019-04-02,Senate,"Cloture on the motion to proceed to the measure RC# 57",51,48,1,0,100
+1194209,834436,2019-04-02,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to S. Res. 50 was not invoked (Record Vote No. 57) entered in Senate. RC# 57",51,48,1,0,100
+1194222,795457,2019-02-07,House,"On ordering the previous question RC# 68",227,189,16,0,432
+1194222,795458,2019-02-07,House,"On agreeing to the resolution RC# 69",225,193,14,0,432
+1194231,799778,2019-02-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 84",418,0,13,0,431
+1194233,868602,2019-05-20,House,"On motion to suspend the rules and agree to the resolution RC# 219",393,0,38,0,431
+1194255,866264,2019-05-16,House,"On agreeing to the McKinley amendment (A002) H.Amdt.221 RC# 210",189,230,18,0,437
+1194255,866265,2019-05-16,House,"On agreeing to the Harder (CA) amendment (A006) H.Amdt.225 RC# 211",243,174,20,0,437
+1194255,866266,2019-05-16,House,"On agreeing to the Wexton amendment (A021) H.Amdt.240 RC# 212",232,185,20,0,437
+1194255,866267,2019-05-16,House,"On motion to recommit with instructions RC# 213",188,228,15,0,431
+1194255,866268,2019-05-16,House,"On passage RC# 214",234,183,15,0,432
+1194259,862355,2019-05-09,House,"On agreeing to the Holding amendment (A006) H.Amdt.203 RC# 192",184,237,16,0,437
+1194259,862356,2019-05-09,House,"On agreeing to the Brown (MD) amendment (A002) H.Amdt.199 RC# 191",351,70,16,0,437
+1194259,862357,2019-05-09,House,"On agreeing to the Malinowski amendment (A010) H.Amdt.207 RC# 193",302,117,18,0,437
+1194259,862358,2019-05-09,House,"On agreeing to the Wild amendment (A011) H.Amdt.208 RC# 194",308,112,17,0,437
+1194259,862359,2019-05-09,House,"On motion to recommit with instructions RC# 195",182,231,18,0,431
+1194259,862360,2019-05-09,House,"On passage RC# 196",230,183,18,0,431
+1196633,889622,2019-07-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 437",365,65,2,0,432
+1196924,797393,2019-02-11,House,"On motion to suspend the rules and pass the bill RC# 76",377,3,51,0,431
+1198245,811701,2019-02-28,House,"On agreeing to the Schneider amendment (A002) H.Amdt.50 RC# 100",282,144,11,0,437
+1198245,811702,2019-02-28,House,"On agreeing to the Van Drew amendment (A005) H.Amdt.53 RC# 101",234,193,10,0,437
+1198245,811703,2019-02-28,House,"On motion to recommit with instructions RC# 102",194,232,5,0,431
+1198245,811704,2019-02-28,House,"On passage RC# 103",228,198,6,0,432
+1198249,818744,2019-03-11,House,"On motion to suspend the rules and pass the bill RC# 119",387,22,22,0,431
+1199686,944656,2020-03-05,House,"On agreeing to the Cisneros amendment (A006) H.Amdt.809 RC# 87",399,1,0,35,435
+1199686,944657,2020-03-05,House,"On agreeing to the Mucarsel-Powell amendment (A008) H.Amdt.811 RC# 88",403,0,0,32,435
+1199686,944658,2020-03-05,House,"On motion to recommit with instructions RC# 89",227,175,0,27,429
+1199686,944659,2020-03-05,House,"On passage RC# 90",230,171,0,28,429
+1199693,893798,2019-09-12,House,"On agreeing to the Young amendment (A001) H.Amdt.617 RC# 526",193,230,15,0,438
+1199693,893799,2019-09-12,House,"On agreeing to the Gosar amendment (A002) H.Amdt.618 RC# 527",184,237,17,0,438
+1199693,893800,2019-09-12,House,"On agreeing to the Gosar amendment (A003) as modified H.Amdt.619 RC# 528",187,237,14,0,438
+1199693,893801,2019-09-12,House,"On motion to recommit with instructions RC# 529",189,229,14,0,432
+1199693,893802,2019-09-12,House,"On passage RC# 530",225,193,14,0,432
+1199701,799685,2019-02-13,House,"On ordering the previous question RC# 78",227,195,9,0,431
+1199701,799686,2019-02-13,House,"On agreeing to the resolution RC# 79",228,193,10,0,431
+1199707,831483,2019-03-28,House,"On agreeing to the resolution RC# 135",238,185,9,0,432
+1203291,829151,2019-03-26,Senate,"Cloture on the motion to proceed to the measure RC# 52",0,57,43,0,100
+1205611,903224,2020-01-15,House,"On agreeing to the Allen amendment (A003) H.Amdt.750 RC# 19",163,257,0,15,435
+1205611,903225,2020-01-15,House,"On motion to recommit with instructions RC# 20",196,220,0,13,429
+1205611,903226,2020-01-15,House,"On passage RC# 21",261,155,0,13,429
+1205615,800961,2019-02-14,House,"On ordering the previous question RC# 85",229,195,7,0,431
+1205615,800962,2019-02-14,House,"On agreeing to the resolution RC# 86",230,196,5,0,431
+1205663,838647,2019-04-08,House,"On motion to suspend the rules and agree to the resolution RC# 157",386,0,45,0,431
+1211247,899746,2019-11-21,House,"On agreeing to the Harder (CA) amendment (A004) H.Amdt.689 RC# 638",414,1,21,0,436
+1211247,899747,2019-11-21,House,"On agreeing to the Byrne amendment (A003) H.Amdt.688 RC# 637",177,238,21,0,436
+1211247,899748,2019-11-21,House,"On agreeing to the Wexton amendment (A009) H.Amdt.694 RC# 639",415,1,20,0,436
+1211247,899749,2019-11-21,House,"On agreeing to the Delgado amendment (A010) H.Amdt.695 RC# 640",242,176,18,0,436
+1211247,899750,2019-11-21,House,"On motion to table the motion to appeal the ruling of the chair RC# 641",222,188,20,0,430
+1211247,899751,2019-11-21,House,"On passage RC# 642",251,158,21,0,430
+1215667,809423,2019-02-26,House,"On passage RC# 94",245,182,5,0,432
+1215667,822387,2019-03-14,Senate,"Passed Senate without amendment RC# 49",59,41,0,0,100
+1215667,829522,2019-03-26,House,"On passage, the objections of the President to the contrary notwithstanding RC# 127",248,181,3,0,432
+1217254,809368,2019-02-26,House,"On ordering the previous question RC# 90",229,191,11,0,431
+1217254,809369,2019-02-26,House,"On agreeing to the resolution RC# 91",227,194,10,0,431
+1217263,838765,2019-04-08,House,"On motion to suspend the rules and pass the bill RC# 158",329,56,46,0,431
+1217270,809534,2019-02-26,House,"On ordering the previous question RC# 92",228,193,10,0,431
+1217270,809535,2019-02-26,House,"On agreeing to the resolution RC# 93",229,193,9,0,431
+1221988,896001,2019-10-30,House,"On agreeing to the Gosar amendment (A001) H.Amdt.652 RC# 598",185,240,12,0,437
+1221988,896002,2019-10-30,House,"On agreeing to the Gosar amendment (A002) H.Amdt.653 RC# 599",178,243,16,0,437
+1221988,896003,2019-10-30,House,"On agreeing to the Gosar amendment (A003) H.Amdt.654 RC# 600",186,237,14,0,437
+1221988,896004,2019-10-30,House,"On motion to recommit with instructions RC# 601",196,226,9,0,431
+1221988,896005,2019-10-30,House,"On passage RC# 602",236,185,10,0,431
+1222012,900014,2019-12-06,House,"On motion to recommit with instructions RC# 653",200,215,15,0,430
+1222012,900015,2019-12-06,House,"On passage RC# 654",228,187,16,0,431
+1222013,982894,2020-12-03,House,"On motion to suspend the rules and pass the bill, as amended",272,114,0,44,430
+1222017,814523,2019-03-05,House,"On motion to suspend the rules and pass the bill RC# 104",416,0,15,0,431
+1223735,820177,2019-03-12,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 121",416,1,14,0,431
+1223739,830157,2019-03-26,House,"On motion to suspend the rules and pass the bill RC# 128",404,21,6,0,431
+1227363,894504,2019-09-20,House,"On agreeing to the Jordan amendment (A001) H.Amdt.621 RC# 539",161,253,26,0,440
+1227363,894505,2019-09-20,House,"On passage RC# 540",225,186,23,0,434
+1227365,970097,2020-06-29,House,"On motion to recommit with instructions RC# 123",187,223,0,20,430
+1227365,970098,2020-06-29,House,"On passage RC# 124",234,179,0,18,431
+1227372,890245,2019-09-09,House,"On motion to suspend the rules and pass the bill, as amended RC# 515",384,23,25,0,432
+1230940,815645,2019-03-06,House,"On ordering the previous question RC# 106",232,191,8,0,431
+1230940,815646,2019-03-06,House,"On agreeing to the resolution RC# 107",232,192,7,0,431
+1231002,870093,2019-05-22,House,"On agreeing to the Burgess amendment (A006) H.Amdt.252 RC# 223",191,236,10,0,437
+1231002,870094,2019-05-22,House,"On agreeing to the Steil amendment (A002) H.Amdt.248 RC# 222",190,234,13,0,437
+1231002,870095,2019-05-22,House,"On agreeing to the Burgess amendment (A007) H.Amdt.253 RC# 224",192,235,10,0,437
+1231002,870096,2019-05-22,House,"On agreeing to the Stevens amendment (A014) H.Amdt.260 RC# 225",418,10,9,0,437
+1231002,870097,2019-05-22,House,"On motion to recommit with instructions RC# 227",191,231,9,0,431
+1231002,870098,2019-05-22,House,"On agreeing to the Green (TX) amendment (A017) H.Amdt.263 RC# 226",235,193,9,0,437
+1231002,870099,2019-05-22,House,"On passage RC# 228",231,191,9,0,431
+1234561,822290,2019-03-14,House,"On agreeing to the resolution RC# 125",420,0,11,0,431
+1234599,828519,2019-03-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 126",391,24,16,0,431
+1234693,834785,2019-04-03,House,"On agreeing to the Jeffries amendment (A001) H.Amdt.117 RC# 147",363,67,7,0,437
+1234693,834786,2019-04-03,House,"On agreeing to the Scanlon amendment (A002) H.Amdt.118 RC# 148",394,36,7,0,437
+1234693,834787,2019-04-03,House,"On agreeing to the Waters amendment (A007) H.Amdt.123 RC# 149",258,173,6,0,437
+1234693,834788,2019-04-03,House,"On agreeing to the Wagner amendment (A010) H.Amdt.126 RC# 150",429,0,8,0,437
+1234693,836774,2019-04-04,House,"On motion to recommit with instructions RC# 155",185,237,9,0,431
+1234693,836775,2019-04-04,House,"On passage RC# 156",263,158,10,0,431
+1234693,836997,2019-04-04,House,"On agreeing to the Torres Small (NM) amendment (A040) H.Amdt.156 RC# 154",425,0,12,0,437
+1234699,816529,2019-03-07,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 108",407,23,2,0,432
+1234728,894759,2019-09-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 544",321,103,9,0,433
+1234729,833120,2019-04-01,House,"On motion to suspend the rules and pass the bill, as amended RC# 137",384,18,29,0,431
+1236506,841807,2019-04-10,House,"On agreeing to the Delgado amendment (A004) H.Amdt.160 RC# 163",363,60,14,0,437
+1236506,841808,2019-04-10,House,"On agreeing to the Wexton amendment (A006) H.Amdt.162 RC# 164",376,46,15,0,437
+1236506,841809,2019-04-10,House,"On agreeing to the McAdams amendment (A012) H.Amdt.168 RC# 165",423,0,14,0,437
+1236506,841810,2019-04-10,House,"On motion to recommit with instructions RC# 166",204,216,11,0,431
+1236506,841811,2019-04-10,House,"On passage RC# 167",232,190,10,0,432
+1236579,820135,2019-03-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 123",426,1,4,0,431
+1237297,821364,2019-03-13,House,"On agreeing to the resolution RC# 124",233,195,3,0,431
+1238134,878374,2019-06-04,House,"On motion to recommit with instructions RC# 239",202,221,10,0,433
+1238134,878375,2019-06-04,House,"On passage RC# 240",237,187,9,0,433
+1238943,861040,2019-05-07,House,"On motion to suspend the rules and pass the bill RC# 186",400,16,15,0,431
+1238973,867033,2019-05-17,House,"On motion to recommit with instructions RC# 216",181,228,23,0,432
+1238973,867034,2019-05-17,House,"On passage RC# 217",236,173,23,0,432
+1239649,890258,2019-09-09,House,"On motion to suspend the rules and pass the bill RC# 516",295,114,23,0,432
+1239659,840045,2019-04-09,House,"On motion to suspend the rules and pass the bill, as amended RC# 162",393,24,14,0,431
+1239689,947823,2020-03-09,House,"On motion to suspend the rules and pass the bill, as amended RC# 92",391,0,0,38,429
+1240976,895229,2019-10-17,House,"On agreeing to the Huizenga amendment (A001) H.Amdt.627 RC# 561",188,229,20,0,437
+1240976,895230,2019-10-17,House,"On agreeing to the Gottheimer amendment (A002) H.Amdt.628 RC# 562",240,178,19,0,437
+1240976,895231,2019-10-17,House,"On agreeing to the Wagner amendment (A003) H.Amdt.629 RC# 563",188,230,19,0,437
+1240976,895232,2019-10-17,House,"On passage RC# 564",229,186,16,0,431
+1243261,889855,2019-07-23,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 497",398,17,17,0,432
+1244465,830630,2019-03-27,House,"On ordering the previous question RC# 130",231,192,8,0,431
+1244465,830631,2019-03-27,House,"On agreeing to the resolution RC# 131",232,190,9,0,431
+1245131,856104,2019-04-30,House,"On motion to suspend the rules and pass the bill RC# 170",392,20,19,0,431
+1245143,864958,2019-05-15,House,"On motion to suspend the rules and pass the bill RC# 209",415,0,16,0,431
+1245848,878465,2019-06-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 241",395,22,15,0,432
+1245881,858172,2019-05-02,House,"On agreeing to the Porter amendment (A018) H.Amdt.186 RC# 178",262,163,12,0,437
+1245881,858173,2019-05-02,House,"On agreeing to the Gosar amendment (A010) H.Amdt.178 RC# 177",189,234,14,0,437
+1245881,858174,2019-05-02,House,"On agreeing to the Gosar amendment (A009) H.Amdt.177 RC# 176",189,234,14,0,437
+1245881,858175,2019-05-02,House,"On agreeing to the Espaillat amendment (A001) H.Amdt.169 RC# 175",237,185,15,0,437
+1245881,858176,2019-05-02,House,"On agreeing to the Fletcher amendment (A021) H.Amdt.189 RC# 179",305,121,11,0,437
+1245881,858177,2019-05-02,House,"On agreeing to the Schrier amendment (A023) H.Amdt.191 RC# 180",295,132,10,0,437
+1245881,858178,2019-05-02,House,"On motion to recommit with instructions RC# 183",206,214,11,0,431
+1245881,858179,2019-05-02,House,"On agreeing to the Engel amendment (A028) H.Amdt.196 RC# 182",259,166,12,0,437
+1245881,858180,2019-05-02,House,"On agreeing to the Van Drew amendment (A025) H.Amdt.193 RC# 181",257,167,13,0,437
+1245881,858181,2019-05-02,House,"On passage RC# 184",231,190,11,0,432
+1245886,983211,2020-12-10,House,"On motion to suspend the rules and pass the bill",283,105,0,41,429
+1246582,920808,2020-02-11,House,"On motion to suspend the rules and pass the bill, as amended RC# 59",374,37,0,19,430
+1246600,890309,2019-09-11,House,"On agreeing to the Gosar amendment (A002) H.Amdt.607 RC# 522",161,272,5,0,438
+1246600,890310,2019-09-11,House,"On agreeing to the Gosar amendment (A007) H.Amdt.612 RC# 523",179,252,7,0,438
+1246600,890311,2019-09-11,House,"On motion to recommit with instructions RC# 524",194,233,5,0,432
+1246600,890312,2019-09-11,House,"On passage RC# 525",238,189,5,0,432
+1247246,871500,2019-05-23,House,"On motion to recommit with instructions RC# 230",200,222,9,0,431
+1247246,871501,2019-05-23,House,"On passage RC# 231",417,3,11,0,431
+1247248,836128,2019-04-03,House,"On agreeing to the resolution RC# 146",240,186,6,0,432
+1247568,861687,2019-05-07,House,"On motion to suspend the rules and agree to the resolution RC# 185",414,0,17,0,431
+1247581,834433,2019-04-02,House,"On ordering the previous question RC# 140",231,191,9,0,431
+1247581,834434,2019-04-02,House,"On agreeing to the resolution RC# 141",230,188,13,0,431
+1248137,836082,2019-04-03,House,"On ordering the previous question RC# 144",231,193,7,0,431
+1248137,836083,2019-04-03,House,"On agreeing to the resolution RC# 145",231,194,6,0,431
+1248180,889739,2019-07-15,House,"On motion to suspend the rules and pass the bill, as amended RC# 477",405,7,20,0,432
+1250186,895697,2019-10-28,House,"On motion to suspend the rules and pass the bill, as amended RC# 586",403,0,28,0,431
+1250188,895837,2019-10-29,House,"On agreeing to the resolution RC# 591",405,11,16,0,432
+1250194,839907,2019-04-09,House,"On ordering the previous question RC# 160",225,192,14,0,431
+1250194,839908,2019-04-09,House,"On agreeing to the resolution RC# 161",219,201,11,0,431
+1250681,896016,2019-10-30,House,"On agreeing to the Gosar amendment (A002) H.Amdt.656 RC# 593",191,233,13,0,437
+1250681,896017,2019-10-30,House,"On agreeing to the Gosar amendment (A003) H.Amdt.657 RC# 594",181,243,13,0,437
+1250681,896018,2019-10-30,House,"On agreeing to the Arrington amendment (A004) H.Amdt.658 RC# 595",181,245,11,0,437
+1250681,896019,2019-10-30,House,"On motion to recommit with instructions RC# 596",199,222,10,0,431
+1250681,896020,2019-10-30,House,"On passage RC# 597",245,174,12,0,431
+1251179,894762,2019-09-25,House,"On motion to recommit with instructions RC# 545",207,216,10,0,433
+1251179,894763,2019-09-25,House,"On passage RC# 546",230,194,9,0,433
+1251307,857092,2019-05-01,House,"On motion to table the measure RC# 174",226,183,22,0,431
+1253320,939287,2020-02-28,House,"On motion to recommit with instructions RC# 77",187,220,0,22,429
+1253320,939288,2020-02-28,House,"On passage RC# 78",213,195,0,22,430
+1254657,856023,2019-04-30,House,"On motion to suspend the rules and agree to the resolution RC# 171",411,6,14,0,431
+1254662,900016,2019-12-06,House,"On agreeing to the resolution RC# 652",226,188,16,0,430
+1255149,857097,2019-05-01,House,"On ordering the previous question RC# 172",228,191,12,0,431
+1255149,857098,2019-05-01,House,"On agreeing to the resolution RC# 173",226,188,17,0,431
+1255156,916028,2020-02-05,House,"On motion to suspend the rules and pass the bill RC# 37",309,106,0,14,429
+1255593,902514,2020-01-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 15",362,31,0,37,430
+1255661,889496,2019-07-09,House,"On motion to suspend the rules and pass the bill RC# 433",413,7,12,0,432
+1256036,895698,2019-10-28,House,"On motion to suspend the rules and pass the bill, as amended RC# 585",296,109,26,0,431
+1256110,895434,2019-10-22,House,"On motion to suspend the rules and pass the bill, as amended RC# 578",410,6,15,0,431
+1256432,936576,2020-02-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 73",402,10,0,17,429
+1256446,917424,2020-02-06,House,"On agreeing to the Wild amendment (A005) H.Amdt.771 RC# 44",242,178,0,15,435
+1256446,917425,2020-02-06,House,"On agreeing to the Roe, David P. amendment (A004) H.Amdt.770 RC# 43",187,235,0,13,435
+1256446,917426,2020-02-06,House,"On agreeing to the Foxx (NC) amendment (A002) H.Amdt.768 RC# 42",190,229,0,16,435
+1256446,917427,2020-02-06,House,"On agreeing to the Stevens amendment (A001) H.Amdt.767 RC# 41",241,178,0,16,435
+1256446,917428,2020-02-06,House,"On agreeing to the Allen amendment (A006) H.Amdt.772 RC# 45",187,232,0,16,435
+1256446,917429,2020-02-06,House,"On agreeing to the Meadows amendment (A010) H.Amdt.776 RC# 46",186,235,0,14,435
+1256446,917430,2020-02-06,House,"On motion to recommit with instructions RC# 49",195,223,0,11,429
+1256446,917431,2020-02-06,House,"On agreeing to the Rouda amendment (A016) H.Amdt.782 RC# 48",249,173,0,13,435
+1256446,917432,2020-02-06,House,"On agreeing to the Jackson Lee amendment (A011) H.Amdt.777 RC# 47",404,18,0,13,435
+1256446,917433,2020-02-06,House,"On passage RC# 50",224,194,0,12,430
+1256454,889672,2019-07-11,House,"On agreeing to the Connolly amendment (A007) H.Amdt.513 RC# 443",247,182,9,0,438
+1256454,889673,2019-07-11,House,"On agreeing to the Shalala amendment (A009) H.Amdt.515 RC# 444",251,178,9,0,438
+1256454,889674,2019-07-11,House,"On agreeing to the Omar amendment (A010) H.Amdt.516 RC# 445",219,210,9,0,438
+1256454,889675,2019-07-11,House,"On agreeing to the Smith (WA) amendment (A011) H.Amdt.517 RC# 446",243,186,9,0,438
+1256454,889676,2019-07-11,House,"On agreeing to the Torres (CA) amendment (A006) H.Amdt.512 RC# 442",225,205,8,0,438
+1256454,889677,2019-07-11,House,"On agreeing to the Brindisi amendment (A005) H.Amdt.511 RC# 441",243,187,8,0,438
+1256454,889678,2019-07-11,House,"On agreeing to the Smith (WA) amendment (A001) H.Amdt.507 RC# 438",236,193,9,0,438
+1256454,889679,2019-07-11,House,"On agreeing to the Speier amendment (A003) H.Amdt.509 RC# 439",242,187,9,0,438
+1256454,889680,2019-07-11,House,"On agreeing to the Speier amendment (A004) H.Amdt.510 RC# 440",231,199,8,0,438
+1256454,889681,2019-07-11,House,"On agreeing to the Sherman amendment (A015) H.Amdt.521 RC# 447",234,195,9,0,438
+1256454,889682,2019-07-11,House,"On agreeing to the Lieu, Ted amendment (A016) H.Amdt.522 RC# 448",239,187,12,0,438
+1256454,889683,2019-07-11,House,"On agreeing to the Blumenauer amendment (A022) H.Amdt.528 RC# 454",164,264,10,0,438
+1256454,889684,2019-07-11,House,"On agreeing to the Blumenauer amendment (A023) H.Amdt.529 RC# 455",198,229,11,0,438
+1256454,889685,2019-07-11,House,"On agreeing to the Frankel amendment (A024) H.Amdt.530 RC# 456",215,214,9,0,438
+1256454,889686,2019-07-11,House,"On agreeing to the Lieu, Ted amendment (A028) H.Amdt.534 RC# 457",223,205,10,0,438
+1256454,889687,2019-07-11,House,"On agreeing to the Engel amendment (A021) H.Amdt.527 RC# 453",236,189,13,0,438
+1256454,889688,2019-07-11,House,"On agreeing to the Engel amendment (A020) H.Amdt.526 RC# 452",241,183,14,0,438
+1256454,889689,2019-07-11,House,"On agreeing to the Lieu, Ted amendment (A017) H.Amdt.523 RC# 449",246,180,12,0,438
+1256454,889690,2019-07-11,House,"On agreeing to the Smith (WA) amendment (A018) H.Amdt.524 RC# 450",240,185,13,0,438
+1256454,889691,2019-07-11,House,"On agreeing to the Cicilline amendment (A019) H.Amdt.525 RC# 451",252,173,13,0,438
+1256454,889692,2019-07-11,House,"On agreeing to the Raskin amendment (A029) H.Amdt.535 RC# 458",221,207,10,0,438
+1256454,889694,2019-07-12,House,"On agreeing to the Ocasio-Cortez amendment (A053) H.Amdt.559 RC# 468",173,245,20,0,438
+1256454,889695,2019-07-12,House,"On agreeing to the Ocasio-Cortez amendment (A052) H.Amdt.558 RC# 467",179,241,18,0,438
+1256454,889696,2019-07-12,House,"On agreeing to the Thompson (MS) amendment (A054) H.Amdt.560 RC# 469",213,204,21,0,438
+1256454,889697,2019-07-12,House,"On agreeing to the Jayapal amendment (A057) H.Amdt.563 RC# 471",230,189,19,0,438
+1256454,889698,2019-07-12,House,"On motion to recommit with instructions RC# 472",204,212,16,0,432
+1256454,889699,2019-07-12,House,"On agreeing to the Garcia (TX) amendment (A051) H.Amdt.557 RC# 466",198,223,17,0,438
+1256454,889700,2019-07-12,House,"On agreeing to the Malinowski amendment (A055) H.Amdt.561 RC# 470",236,182,20,0,438
+1256454,889701,2019-07-12,House,"On agreeing to the Lee (CA) amendment (A049) H.Amdt.555 RC# 464",242,180,16,0,438
+1256454,889702,2019-07-12,House,"On agreeing to the Amash amendment (A033) H.Amdt.539 RC# 460",187,236,15,0,438
+1256454,889703,2019-07-12,House,"On agreeing to the Lee (CA) amendment (A032) H.Amdt.538 RC# 459",115,307,16,0,438
+1256454,889704,2019-07-12,House,"On agreeing to the Tipton amendment (A046) H.Amdt.552 RC# 461",417,6,15,0,438
+1256454,889705,2019-07-12,House,"On agreeing to the Turner amendment (A047) H.Amdt.553 RC# 462",201,221,16,0,438
+1256454,889706,2019-07-12,House,"On passage RC# 473",220,197,16,0,433
+1256454,889707,2019-07-12,House,"On agreeing to the Khanna amendment (A048) H.Amdt.554 RC# 463",251,170,17,0,438
+1256454,889708,2019-07-12,House,"On agreeing to the Lee (CA) amendment (A050) H.Amdt.556 RC# 465",237,183,18,0,438
+1256475,973088,2020-07-22,House,"On motion to concur in the Senate amendment with amendment specified in section 4(a) of H. Res. 891 RC# 153",233,183,0,14,430
+1256475,973089,2020-07-22,House,"On motion to concur in the Senate amendment with amendment specified in section 4(b) of H. Res. 891 RC# 154",231,184,0,15,430
+1256693,895428,2019-10-22,House,"On agreeing to the Burgess amendment (A001) H.Amdt.633 RC# 573",395,23,19,0,437
+1256693,895429,2019-10-22,House,"On agreeing to the Maloney, Carolyn B. amendment (A004) H.Amdt.636 RC# 574",235,188,14,0,437
+1256693,895430,2019-10-22,House,"On agreeing to the Davidson (OH) amendment (A005) H.Amdt.637 RC# 575",166,258,13,0,437
+1256693,895431,2019-10-22,House,"On motion to recommit with instructions RC# 576",197,224,10,0,431
+1256693,895432,2019-10-22,House,"On passage RC# 577",249,173,9,0,431
+1256707,889497,2019-07-09,House,"On motion to suspend the rules and pass the bill, as amended RC# 431",410,12,10,0,432
+1256969,877124,2019-06-03,Senate,"Cloture on the motion to proceed to the measure RC# 130",22,69,9,0,100
+1257318,879875,2019-06-10,House,"On motion to suspend the rules and pass the bill RC# 243",384,13,35,0,432
+1257334,862353,2019-05-09,House,"On ordering the previous question RC# 189",227,190,14,0,431
+1257334,862354,2019-05-09,House,"On agreeing to the resolution RC# 190",227,191,13,0,431
+1257338,900979,2019-12-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 688",409,7,14,0,430
+1257342,922238,2020-02-12,House,"On agreeing to the Panetta amendment (A005) H.Amdt.793 RC# 63",406,12,0,17,435
+1257342,922239,2020-02-12,House,"On agreeing to the McClintock amendment (A003) H.Amdt.791 RC# 62",182,236,0,17,435
+1257342,922240,2020-02-12,House,"On agreeing to the McClintock amendment (A002) H.Amdt.790 RC# 61",181,239,0,15,435
+1257342,922241,2020-02-12,House,"On agreeing to the DeGette amendment (A001) H.Amdt.789 RC# 60",229,189,0,17,435
+1257342,922242,2020-02-12,House,"On agreeing to the Westerman amendment (A006) H.Amdt.794 RC# 64",193,228,0,14,435
+1257342,922243,2020-02-12,House,"On agreeing to the Westerman amendment (A007) H.Amdt.795 RC# 65",188,233,0,14,435
+1257342,922244,2020-02-12,House,"On motion to recommit with instructions RC# 68",199,215,0,15,429
+1257342,922245,2020-02-12,House,"On agreeing to the Tipton amendment (A009) H.Amdt.797 RC# 67",183,234,0,18,435
+1257342,922246,2020-02-12,House,"On agreeing to the Cunningham amendment (A008) H.Amdt.796 RC# 66",419,1,0,15,435
+1257342,922247,2020-02-12,House,"On passage RC# 69",231,183,0,15,429
+1257352,899994,2019-12-05,House,"On agreeing to the Huizenga amendment (A002) H.Amdt.697 RC# 648",196,231,9,0,436
+1257352,899995,2019-12-05,House,"On passage RC# 649",410,13,7,0,430
+1257752,879882,2019-06-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 244",394,2,36,0,432
+1257755,978612,2020-09-16,House,"On motion to recommit with instructions",255,164,0,11,430
+1257755,978613,2020-09-16,House,"On passage",232,188,0,10,430
+1259963,978473,2020-09-15,House,"On agreeing to the Allen amendment (A003) H.Amdt.877",171,243,0,16,430
+1259963,978474,2020-09-15,House,"On agreeing to the Moulton amendment (A006) H.Amdt.880",379,34,0,17,430
+1259963,978475,2020-09-15,House,"On passage",248,167,0,15,430
+1259986,880425,2019-06-11,House,"On motion to suspend the rules and pass the bill RC# 248",419,0,13,0,432
+1260581,881577,2019-06-13,Senate,"Motion to discharge Senate Committee on Foreign Relations rejected RC# 161",43,56,1,0,100
+1261099,882245,2019-06-13,Senate,"Motion to discharge Senate Committee on Foreign Relations rejected RC# 162",42,57,1,0,100
+1261117,978727,2020-09-17,House,"On motion to recommit with instructions",177,226,0,27,430
+1261117,978728,2020-09-17,House,"On passage",329,73,0,28,430
+1261125,865010,2019-05-15,House,"On ordering the previous question RC# 205",228,189,14,0,431
+1261125,865011,2019-05-15,House,"On agreeing to the resolution RC# 206",229,188,14,0,431
+1261156,888475,2019-06-27,House,"On motion to recommit with instructions RC# 427",189,220,23,0,432
+1261156,888476,2019-06-27,House,"On passage RC# 428",225,184,23,0,432
+1261652,881234,2019-06-12,House,"On agreeing to the Roby amendment (A009) H.Amdt.275 RC# 267",191,231,16,0,438
+1261652,881235,2019-06-12,House,"On agreeing to the Cole amendment (A001) H.Amdt.267 RC# 266",192,230,16,0,438
+1261652,881236,2019-06-12,House,"On agreeing to the Davis, Danny K. amendment (A017) H.Amdt.283 RC# 263",410,12,16,0,438
+1261652,881237,2019-06-12,House,"On agreeing to the Pascrell amendment (A016) H.Amdt.282 RC# 262",413,10,15,0,438
+1261652,881238,2019-06-12,House,"On agreeing to the Buchanan amendment (A018) H.Amdt.284 RC# 268",401,23,14,0,438
+1261652,881239,2019-06-12,House,"On agreeing to the Langevin amendment H.Amdt.285 RC# 269",356,67,15,0,438
+1261652,881240,2019-06-12,House,"On agreeing to the Foster amendment (A022) H.Amdt.288 RC# 272",260,164,14,0,438
+1261652,881241,2019-06-12,House,"On agreeing to the Foster amendment (A021) H.Amdt.287 RC# 271",336,87,15,0,438
+1261652,881242,2019-06-12,House,"On agreeing to the Foster amendment (A020) H.Amdt.286 RC# 270",246,178,14,0,438
+1261652,881243,2019-06-12,House,"On agreeing to the Jackson Lee amendment (A015) H.Amdt.281 RC# 261",312,109,17,0,438
+1261652,881244,2019-06-12,House,"On agreeing to the Jackson Lee amendment (A014) H.Amdt.280 RC# 260",317,105,16,0,438
+1261652,881245,2019-06-12,House,"On agreeing to the DeSaulnier amendment (A006) H.Amdt.272 RC# 254",381,42,15,0,438
+1261652,881246,2019-06-12,House,"On agreeing to the DeSaulnier amendment (A005) H.Amdt.271 RC# 253",290,134,14,0,438
+1261652,881247,2019-06-12,House,"On agreeing to the Shalala amendment (A004) H.Amdt.270 RC# 252",243,179,16,0,438
+1261652,881248,2019-06-12,House,"On agreeing to the McGovern amendment (A002) H.Amdt.268 RC# 251",338,83,17,0,438
+1261652,881249,2019-06-12,House,"On agreeing to the DeSaulnier amendment (A007) H.Amdt.273 RC# 255",347,76,15,0,438
+1261652,881250,2019-06-12,House,"On agreeing to the DeSaulnier amendment (A008) H.Amdt.274 RC# 256",369,55,14,0,438
+1261652,881251,2019-06-12,House,"On agreeing to the DeFazio amendment (A013) H.Amdt.279 RC# 259",313,109,16,0,438
+1261652,881252,2019-06-12,House,"On agreeing to the Scott (VA) amendment (A012) H.Amdt.278 RC# 258",241,181,16,0,438
+1261652,881253,2019-06-12,House,"On agreeing to the Smith (NJ) amendment (A011) H.Amdt.277 RC# 257",413,11,14,0,438
+1261652,881254,2019-06-12,House,"On agreeing to the Foster amendment (A023) H.Amdt.289 RC# 273",358,66,14,0,438
+1261652,881255,2019-06-12,House,"On agreeing to the Schiff amendment (A024) H.Amdt.290 RC# 274",341,83,14,0,438
+1261652,881256,2019-06-12,House,"On agreeing to the Moore amendment (A028) H.Amdt.294 RC# 278",405,19,14,0,438
+1261652,881257,2019-06-12,House,"On agreeing to the Butterfield amendment (A026) H.Amdt.292 RC# 276",356,68,14,0,438
+1261652,881258,2019-06-12,House,"On agreeing to the Johnson (OH) amendment (A027) H.Amdt.293 RC# 277",408,15,15,0,438
+1261652,881259,2019-06-12,House,"On agreeing to the McKinley amendment (A025) H.Amdt.291 RC# 275",415,9,14,0,438
+1261652,881260,2019-06-13,House,"On agreeing to the Banks amendment (A040) H.Amdt.306 RC# 289",150,273,15,0,438
+1261652,881261,2019-06-13,House,"On agreeing to the Richmond amendment (A039) H.Amdt.305 RC# 288",365,59,14,0,438
+1261652,881262,2019-06-13,House,"On agreeing to the Khanna amendment (A038) H.Amdt.304 RC# 287",356,68,14,0,438
+1261652,881263,2019-06-13,House,"On agreeing to the Keating amendment (A041) H.Amdt.307 RC# 290",283,141,14,0,438
+1261652,881264,2019-06-13,House,"On agreeing to the Bera amendment (A044) H.Amdt.310 RC# 293",396,27,15,0,438
+1261652,881265,2019-06-13,House,"On agreeing to the Pressley amendment (A037) H.Amdt.303 RC# 286",401,23,14,0,438
+1261652,881266,2019-06-13,House,"On agreeing to the Cicilline amendment (A043) H.Amdt.309 RC# 292",327,97,14,0,438
+1261652,881267,2019-06-13,House,"On agreeing to the Miller amendment (A042) H.Amdt.308 RC# 291",421,3,14,0,438
+1261652,881268,2019-06-13,House,"On agreeing to the Castor (FL) amendment (A034) H.Amdt.300 RC# 283",236,188,14,0,438
+1261652,881269,2019-06-13,House,"On agreeing to the Matsui amendment (A031) H.Amdt.297 RC# 280",376,48,14,0,438
+1261652,881270,2019-06-13,House,"On agreeing to the Moore amendment (A029) H.Amdt.295 RC# 279",348,75,15,0,438
+1261652,881271,2019-06-13,House,"On agreeing to the Barr amendment (A032) H.Amdt.298 RC# 281",420,4,14,0,438
+1261652,881272,2019-06-13,House,"On agreeing to the Cleaver amendment (A033) H.Amdt.299 RC# 282",386,38,14,0,438
+1261652,881273,2019-06-13,House,"On agreeing to the Hill (AR) amendment (A035) H.Amdt.301 RC# 284",186,237,15,0,438
+1261652,881274,2019-06-13,House,"On agreeing to the Castro (TX) amendment (A045) H.Amdt.311 RC# 294",355,68,15,0,438
+1261652,881275,2019-06-13,House,"On agreeing to the Hill (AR) amendment (A036) H.Amdt.302 RC# 285",158,266,14,0,438
+1261652,881615,2019-06-13,House,"On agreeing to the Craig amendment (A061) H.Amdt.327 RC# 310",390,29,19,0,438
+1261652,881616,2019-06-13,House,"On agreeing to the Porter amendment (A062) H.Amdt.328 RC# 311",316,103,19,0,438
+1261652,881617,2019-06-13,House,"On agreeing to the Porter amendment (A063) H.Amdt.329 RC# 312",311,110,17,0,438
+1261652,881618,2019-06-13,House,"On agreeing to the Craig amendment (A060) H.Amdt.326 RC# 309",376,41,21,0,438
+1261652,881619,2019-06-13,House,"On agreeing to the Craig amendment (A059) H.Amdt.325 RC# 308",383,36,19,0,438
+1261652,881620,2019-06-13,House,"On agreeing to the Schrier amendment (A057) H.Amdt.323 RC# 306",371,49,18,0,438
+1261652,881621,2019-06-13,House,"On agreeing to the Lee (NV) amendment (A058) H.Amdt.324 RC# 307",365,54,19,0,438
+1261652,881622,2019-06-13,House,"On agreeing to the Porter amendment (A064) H.Amdt.330 RC# 313",235,183,20,0,438
+1261652,881623,2019-06-13,House,"On agreeing to the Mucarsel-Powell amendment (A065) H.Amdt.331 RC# 314",281,138,19,0,438
+1261652,881624,2019-06-13,House,"On agreeing to the Crow amendment (A070) H.Amdt.336 RC# 319",345,73,20,0,438
+1261652,881625,2019-06-13,House,"On agreeing to the Houlahan amendment (A071) H.Amdt.337 RC# 320",333,86,19,0,438
+1261652,881626,2019-06-13,House,"On agreeing to the Pocan amendment (A073) H.Amdt.338 RC# 321",225,193,20,0,438
+1261652,881627,2019-06-13,House,"On agreeing to the Delgado amendment (A069) H.Amdt.335 RC# 318",374,44,20,0,438
+1261652,881628,2019-06-13,House,"On agreeing to the Spanberger amendment (A068) H.Amdt.334 RC# 317",364,54,20,0,438
+1261652,881629,2019-06-13,House,"On agreeing to the Levin (MI) amendment (A066) H.Amdt.332 RC# 315",233,187,18,0,438
+1261652,881630,2019-06-13,House,"On agreeing to the Pressley amendment (A067) H.Amdt.333 RC# 316",342,77,19,0,438
+1261652,881631,2019-06-13,House,"On agreeing to the McAdams amendment (A056) H.Amdt.322 RC# 305",388,30,20,0,438
+1261652,881632,2019-06-13,House,"On agreeing to the Ocasio-Cortez amendment (A055) H.Amdt.321 RC# 304",91,331,16,0,438
+1261652,881633,2019-06-13,House,"On agreeing to the Jeffries amendment (A046) H.Amdt.312 RC# 295",275,148,15,0,438
+1261652,881634,2019-06-13,House,"On agreeing to the Maloney, Sean amendment (A047) H.Amdt.313 RC# 296",266,150,22,0,438
+1261652,881635,2019-06-13,House,"On agreeing to the Adams amendment (A048) H.Amdt.314 RC# 297",358,65,15,0,438
+1261652,881636,2019-06-13,House,"On agreeing to the Murphy amendment (A053) H.Amdt.319 RC# 302",366,55,17,0,438
+1261652,881637,2019-06-13,House,"On agreeing to the Ocasio-Cortez amendment (A054) H.Amdt.320 RC# 303",264,158,16,0,438
+1261652,881638,2019-06-13,House,"On agreeing to the Blunt Rochester amendment (A052) H.Amdt.318 RC# 301",376,47,15,0,438
+1261652,881639,2019-06-13,House,"On agreeing to the Beyer amendment (A051) H.Amdt.317 RC# 300",285,138,15,0,438
+1261652,881640,2019-06-13,House,"On agreeing to the Adams amendment (A049) H.Amdt.315 RC# 298",307,115,16,0,438
+1261652,881641,2019-06-13,House,"On agreeing to the Beyer amendment (A050) H.Amdt.316 RC# 299",359,64,15,0,438
+1261652,881642,2019-06-13,House,"On agreeing to the Pascrell amendment (A074) H.Amdt.339 RC# 322",382,32,24,0,438
+1261652,884079,2019-06-18,House,"On agreeing to the Kuster (NH) amendment (A101) as modified H.Amdt.366 RC# 346",327,101,10,0,438
+1261652,884080,2019-06-18,House,"On agreeing to the Amash amendment (A098) H.Amdt.363 RC# 345",175,253,10,0,438
+1261652,884081,2019-06-18,House,"On agreeing to the Brown (MD) amendment (A097) H.Amdt.362 RC# 344",243,183,12,0,438
+1261652,884082,2019-06-18,House,"On agreeing to the Langevin amendment H.Amdt.360 RC# 343",277,151,10,0,438
+1261652,884083,2019-06-18,House,"On agreeing to the Langevin amendment H.Amdt.359 RC# 342",355,73,10,0,438
+1261652,884084,2019-06-18,House,"On agreeing to the Allen amendment (A090) H.Amdt.355 RC# 340",134,293,11,0,438
+1261652,884085,2019-06-18,House,"On agreeing to the Visclosky amendment (A102) H.Amdt.367 RC# 347",389,39,10,0,438
+1261652,884086,2019-06-18,House,"On agreeing to the Visclosky amendments (A093) H.Amdt.358 RC# 341",381,46,11,0,438
+1261652,884087,2019-06-18,House,"On agreeing to the Blunt Rochester amendment (A109) H.Amdt.374 RC# 352",424,3,11,0,438
+1261652,884088,2019-06-18,House,"On agreeing to the Crow amendment (A111) H.Amdt.376 RC# 354",277,151,10,0,438
+1261652,884089,2019-06-18,House,"On agreeing to the Lowey amendments (A085) H.Amdt.350 RC# 339",283,144,11,0,438
+1261652,884090,2019-06-18,House,"On agreeing to the Jayapal amendment (A110) H.Amdt.375 RC# 353",138,289,11,0,438
+1261652,884091,2019-06-18,House,"On agreeing to the Gallagher amendment (A108) H.Amdt.373 RC# 351",192,236,10,0,438
+1261652,884092,2019-06-18,House,"On agreeing to the Lieu, Ted amendment (A106) H.Amdt.371 RC# 349",237,191,10,0,438
+1261652,884093,2019-06-18,House,"On agreeing to the Gallagher amendment (A107) H.Amdt.372 RC# 350",203,225,10,0,438
+1261652,884094,2019-06-18,House,"On agreeing to the Visclosky amendment (A103) H.Amdt.368 RC# 348",254,174,10,0,438
+1261652,884095,2019-06-18,House,"On agreeing to the Grijalva amendment (A079) H.Amdt.344 RC# 328",310,109,19,0,438
+1261652,884096,2019-06-18,House,"On agreeing to the Gosar amendment (A078) H.Amdt.343 RC# 327",174,244,20,0,438
+1261652,884097,2019-06-18,House,"On agreeing to the Cox (CA) amendment (A113) H.Amdt.378 RC# 355",404,22,12,0,438
+1261652,884098,2019-06-18,House,"On agreeing to the Jackson Lee amendment (A077) H.Amdt.342 RC# 326",339,79,20,0,438
+1261652,884099,2019-06-18,House,"On agreeing to the Jackson Lee amendment (A076) H.Amdt.341 RC# 325",414,6,18,0,438
+1261652,884100,2019-06-18,House,"On motion that the Committee rise RC# 323",317,82,39,0,438
+1261652,884101,2019-06-18,House,"On agreeing to the Lesko amendment (A075) H.Amdt.340 RC# 324",188,225,25,0,438
+1261652,884102,2019-06-18,House,"On agreeing to the Gosar amendment (A080) H.Amdt.345 RC# 329",170,248,20,0,438
+1261652,884103,2019-06-18,House,"On agreeing to the Speier amendment (A081) H.Amdt.346 RC# 330",268,152,18,0,438
+1261652,884104,2019-06-18,House,"On agreeing to the Palmer amendment (A087) H.Amdt.352 RC# 336",184,241,13,0,438
+1261652,884105,2019-06-18,House,"On agreeing to the Arrington amendment (A088) H.Amdt.353 RC# 337",174,251,13,0,438
+1261652,884106,2019-06-18,House,"On agreeing to the Walker amendment (A086) H.Amdt.351 RC# 335",110,315,13,0,438
+1261652,884107,2019-06-18,House,"On agreeing to the Grothman amendment (A084) H.Amdt.349 RC# 334",131,292,15,0,438
+1261652,884108,2019-06-18,House,"On agreeing to the Meadows amendment (A082) H.Amdt.347 RC# 331",387,33,18,0,438
+1261652,884109,2019-06-18,House,"On agreeing to the Lowey amendments (A083) H.Amdt.348 RC# 332",231,187,20,0,438
+1261652,884111,2019-06-18,House,"On agreeing to the Banks amendment (A089) H.Amdt.354 RC# 338",123,303,12,0,438
+1261652,884703,2019-06-19,House,"On agreeing to the Huffman amendment (A119) H.Amdt.384 RC# 363",233,201,4,0,438
+1261652,884704,2019-06-19,House,"On agreeing to the Graves (LA) amendment (A120) H.Amdt.385 RC# 364",162,269,7,0,438
+1261652,884705,2019-06-19,House,"On motion to recommit RC# 366",196,231,5,0,432
+1261652,884706,2019-06-19,House,"On agreeing to the Mullin amendment (A118) H.Amdt.383 RC# 362",186,248,4,0,438
+1261652,884707,2019-06-19,House,"On agreeing to the Banks amendment (A121) H.Amdt.386 RC# 365",132,302,4,0,438
+1261652,884708,2019-06-19,House,"On agreeing to the Burgess amendment (A114) H.Amdt.379 RC# 358",146,288,4,0,438
+1261652,884709,2019-06-19,House,"On passage RC# 367",226,203,3,0,432
+1261652,884710,2019-06-19,House,"On agreeing to the Burgess amendment (A115) H.Amdt.380 RC# 359",197,237,4,0,438
+1261652,884711,2019-06-19,House,"On agreeing to the Kaptur amendments (A116) H.Amdt.381 RC# 360",233,200,5,0,438
+1261652,884712,2019-06-19,House,"On agreeing to the Kaptur amendments (A117) H.Amdt.382 RC# 361",382,52,4,0,438
+1261652,894356,2019-09-18,Senate,"Cloture on the motion to proceed to the measure RC# 292",51,44,5,0,100
+1261652,894357,2019-09-18,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 292) entered in Senate. RC# 292",51,44,5,0,100
+1261652,896053,2019-10-31,Senate,"Third cloture motion on the motion to proceed to the measure RC# 342",51,41,8,0,100
+1261652,896054,2019-10-31,Senate,"Motion by Senator McConnell to reconsider the vote by which the third cloture on the motion to proceed to H.R. 2740 was not invoked (Record Vote No. 342) entered in Senate. RC# 342",51,41,8,0,100
+1262152,877603,2019-06-04,Senate,"Resolution RC# 132",93,0,7,0,100
+1262187,941804,2020-03-03,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 81",378,7,0,44,429
+1262563,939289,2020-02-28,House,"On motion to suspend the rules and pass the bill, as amended RC# 76",407,0,0,22,429
+1263084,890277,2019-09-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 519",419,5,8,0,432
+1263085,868850,2019-05-21,House,"On ordering the previous question RC# 220",227,191,13,0,431
+1263085,868851,2019-05-21,House,"On agreeing to the resolution RC# 221",230,190,11,0,431
+1263675,901493,2020-01-08,House,"On motion to suspend the rules and pass the bill, as amended RC# 4",413,3,0,14,430
+1263684,878376,2019-06-04,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 238",423,0,10,0,433
+1264092,919727,2020-02-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 55",374,11,0,44,429
+1265717,889625,2019-07-09,House,"On motion to suspend the rules and pass the bill, as amended RC# 432",417,2,13,0,432
+1265726,947726,2020-03-09,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 91",391,0,0,38,429
+1266286,878377,2019-06-04,House,"On ordering the previous question RC# 235",228,192,12,0,432
+1266286,878378,2019-06-04,House,"On agreeing to the resolution RC# 236",219,203,10,0,432
+1266890,886120,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266892,885868,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266893,885666,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266901,886111,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266903,885671,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266904,886136,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266907,886131,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266910,886110,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266912,885646,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266925,886138,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266928,885626,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266937,886125,2019-06-20,Senate,"Passed Senate without amendment RC# 178",53,45,2,0,100
+1266937,889769,2019-07-17,House,"On passage RC# 488",237,190,5,0,432
+1266937,889916,2019-07-29,Senate,"Failed of passage in Senate over veto RC# 233",46,41,13,0,100
+1266943,885860,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266960,885680,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266962,885665,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266964,885653,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266972,885693,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266972,889767,2019-07-17,House,"On passage RC# 487",238,190,4,0,432
+1266972,889917,2019-07-29,Senate,"Failed of passage in Senate over veto RC# 232",45,39,16,0,100
+1266975,886134,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266980,886115,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266981,886122,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266986,885871,2019-06-20,Senate,"Passed Senate without amendment RC# 179",51,45,4,0,100
+1266992,885690,2019-06-20,Senate,"Passed Senate without amendment RC# 177",53,45,2,0,100
+1266992,889768,2019-07-17,House,"On passage RC# 486",238,190,4,0,432
+1266992,889915,2019-07-29,Senate,"Failed of passage in Senate over veto RC# 231",45,40,15,0,100
+1267204,880474,2019-06-11,House,"On agreeing to the resolution RC# 247",229,191,13,0,433
+1267654,889734,2019-07-15,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 476",414,1,17,0,432
+1267661,880450,2019-06-11,House,"On ordering the previous question RC# 245",227,190,15,0,432
+1267661,880451,2019-06-11,House,"On agreeing to the resolution RC# 246",227,190,15,0,432
+1267919,894676,2019-09-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 541",394,21,18,0,433
+1267920,881122,2019-06-12,House,"On ordering the previous question RC# 264",230,184,18,0,432
+1267920,881123,2019-06-12,House,"On agreeing to the resolution RC# 265",232,189,11,0,432
+1268169,889890,2019-07-24,House,"On motion to recommit with instructions RC# 506",239,192,1,0,432
+1268169,889891,2019-07-24,House,"On passage RC# 507",233,195,4,0,432
+1268184,896270,2019-11-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 611",399,11,20,0,430
+1269360,884894,2019-06-19,House,"On ordering the previous question RC# 356",232,193,7,0,432
+1269360,884895,2019-06-19,House,"On agreeing to the resolution RC# 357",231,195,6,0,432
+1269551,887593,2019-06-25,House,"On agreeing to the King (IA) amendment (A002) H.Amdt.484 RC# 411",191,226,21,0,438
+1269551,887594,2019-06-25,House,"On agreeing to the Norton amendment (A003) H.Amdt.485 RC# 412",226,198,14,0,438
+1269551,888202,2019-06-26,House,"On agreeing to the Banks amendment (A014) H.Amdt.497 RC# 417",141,285,12,0,438
+1269551,888203,2019-06-26,House,"On agreeing to the Quigley amendments (A012) H.Amdt.495 RC# 416",227,200,11,0,438
+1269551,888204,2019-06-26,House,"On agreeing to the Grothman amendment (A011) H.Amdt.494 RC# 415",151,274,13,0,438
+1269551,888205,2019-06-26,House,"On agreeing to the Suozzi amendment (A015) H.Amdt.498 RC# 418",406,19,13,0,438
+1269551,888206,2019-06-26,House,"On agreeing to the Lee (NV) amendment (A016) H.Amdt.499 RC# 419",400,27,11,0,438
+1269551,888207,2019-06-26,House,"On motion to recommit with instructions RC# 423",226,195,11,0,432
+1269551,888208,2019-06-26,House,"On agreeing to the Malinowski amendment (A019) H.Amdt.502 RC# 422",362,65,11,0,438
+1269551,888209,2019-06-26,House,"On agreeing to the Kim amendment (A018) H.Amdt.501 RC# 421",408,17,13,0,438
+1269551,888210,2019-06-26,House,"On agreeing to the Dean amendment (A017) H.Amdt.500 RC# 420",373,51,14,0,438
+1269551,888211,2019-06-26,House,"On passage RC# 424",224,196,12,0,432
+1269790,889889,2019-07-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 502",429,3,0,0,432
+1269878,920653,2020-02-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 56",380,4,0,45,429
+1270003,887536,2019-06-25,House,"On ordering the previous question RC# 403",228,188,16,0,432
+1270003,887537,2019-06-25,House,"On agreeing to the resolution RC# 404",225,190,17,0,432
+1270273,887547,2019-06-25,House,"On ordering the previous question RC# 409",226,188,18,0,432
+1270273,887548,2019-06-25,House,"On agreeing to the resolution RC# 410",225,189,18,0,432
+1270467,889773,2019-07-17,House,"On agreeing to the Chabot amendment (A007) H.Amdt.571 RC# 490",178,255,5,0,438
+1270467,889774,2019-07-17,House,"On agreeing to the Kennedy amendment (A011) H.Amdt.575 RC# 491",237,196,5,0,438
+1270467,889775,2019-07-17,House,"On passage RC# 492",397,31,4,0,432
+1270677,896344,2019-11-13,House,"On motion to suspend the rules and pass the bill RC# 612",424,1,5,0,430
+1270682,894779,2019-09-26,House,"On motion to recommit with instructions RC# 551",202,213,18,0,433
+1270682,894780,2019-09-26,House,"On passage RC# 552",230,184,19,0,433
+1270730,888497,2019-06-27,House,"On consideration of the resolution RC# 425",226,188,18,0,432
+1270730,888498,2019-06-27,House,"On agreeing to the resolution RC# 426",322,85,25,0,432
+1270735,900987,2019-12-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 686",409,1,20,0,430
+1270907,895250,2019-10-18,House,"On agreeing to the Huizenga amendment (A001) H.Amdt.631 RC# 565",184,229,24,0,437
+1270907,895251,2019-10-18,House,"On agreeing to the Hill (AR) amendment (A002) H.Amdt.632 RC# 566",187,224,26,0,437
+1270907,895252,2019-10-18,House,"On passage RC# 567",226,184,21,0,431
+1270911,911057,2020-01-29,House,"On agreeing to the Clay amendment H.Amdt.756 RC# 28",231,185,0,19,435
+1270911,911058,2020-01-29,House,"On agreeing to the Brown (MD) amendment (A013) H.Amdt.765 RC# 29",376,38,0,21,435
+1270911,911059,2020-01-29,House,"On motion to recommit with instructions RC# 30",201,208,0,20,429
+1270911,911060,2020-01-29,House,"On passage RC# 31",221,189,0,19,429
+1271185,889626,2019-07-10,House,"On ordering the previous question on the amendment (A001) H.Amdt.506 RC# 434",232,197,3,0,432
+1271185,889627,2019-07-10,House,"On agreeing to the McGovern amendment (A001) H.Amdt.506 RC# 435",234,197,1,0,432
+1271185,889628,2019-07-10,House,"On agreeing to the resolution RC# 436",234,197,1,0,432
+1271399,896673,2019-11-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 625",290,118,22,0,430
+1271415,894805,2019-09-27,House,"On motion to suspend the rules and pass the bill RC# 554",403,1,29,0,433
+1271441,896342,2019-11-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 614",421,3,6,0,430
+1271481,889751,2019-07-16,House,"On ordering the previous question RC# 478",230,189,13,0,432
+1271481,889752,2019-07-16,House,"On agreeing to the resolution RC# 479",233,190,9,0,432
+1271493,889747,2019-07-16,House,"On motion to strike words from the record RC# 480",190,232,10,0,432
+1271493,889748,2019-07-16,House,"On motion to proceed in order RC# 481",231,190,11,0,432
+1271493,889749,2019-07-16,House,"On agreeing to the resolution RC# 482",240,187,6,0,433
+1271501,889776,2019-07-17,House,"On ordering the previous question RC# 484",231,194,7,0,432
+1271501,889777,2019-07-17,House,"On agreeing to the resolution RC# 485",231,197,4,0,432
+1271540,895556,2019-10-23,Senate,"Failed of passage in Senate RC# 331",43,52,5,0,100
+1271619,889771,2019-07-17,House,"On motion to table the measure RC# 483",332,95,5,0,432
+1271621,889772,2019-07-17,House,"On agreeing to the resolution RC# 489",230,198,4,0,432
+1271932,983069,2020-12-07,House,"On motion to suspend the rules and agree to the resolution, as amended",386,3,1,39,429
+1271944,982968,2020-12-04,House,"On motion to recommit with instructions",174,218,1,37,430
+1271944,982969,2020-12-04,House,"On passage",228,164,0,38,430
+1271994,889895,2019-07-24,House,"On ordering the previous question RC# 500",234,198,0,0,432
+1271994,889896,2019-07-24,House,"On agreeing to the resolution RC# 501",234,195,3,0,432
+1272038,889909,2019-07-25,House,"On ordering the previous question RC# 508",234,195,3,0,432
+1272038,889910,2019-07-25,House,"On agreeing to the resolution RC# 509",232,197,3,0,432
+1272526,895995,2019-10-30,Senate,"Failed of passage in Senate RC# 337",43,52,5,0,100
+1272698,896276,2019-11-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 610",408,0,22,0,430
+1273576,899875,2019-12-03,House,"On motion to suspend the rules and agree to the resolution RC# 643",339,71,20,0,430
+1274067,895227,2019-10-17,Senate,"Failed of passage in Senate RC# 324",41,53,6,0,100
+1274072,890269,2019-09-10,House,"On ordering the previous question RC# 517",232,196,4,0,432
+1274072,890270,2019-09-10,House,"On agreeing to the resolution RC# 518",231,196,5,0,432
+1274153,894758,2019-09-25,Senate,"Passed Senate without amendment RC# 302",54,41,5,0,100
+1274153,894788,2019-09-27,House,"On passage RC# 553",236,174,23,0,433
+1274153,895226,2019-10-17,Senate,"Failed of passage in Senate over veto RC# 325",53,36,11,0,100
+1274577,908629,2020-01-28,House,"On motion to suspend the rules and pass the bill, as amended RC# 27",392,22,0,16,430
+1274652,902884,2020-01-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 14",384,7,0,39,430
+1274844,896676,2019-11-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 627",314,95,21,0,430
+1274850,894354,2019-09-18,House,"On ordering the previous question RC# 533",228,195,11,0,434
+1274850,894355,2019-09-18,House,"On agreeing to the resolution RC# 534",228,196,10,0,434
+1275096,895317,2019-10-21,House,"On motion to suspend the rules and pass the bill RC# 570",389,8,34,0,431
+1275111,894449,2019-09-19,House,"On ordering the previous question RC# 536",228,197,9,0,434
+1275111,894450,2019-09-19,House,"On agreeing to the resolution RC# 537",227,196,11,0,434
+1275153,895320,2019-10-21,House,"On motion to suspend the rules and pass the bill, as amended RC# 569",375,25,31,0,431
+1275160,900352,2019-12-12,House,"On agreeing to the O'Halleran amendment (A005) H.Amdt.715 RC# 677",351,73,12,0,436
+1275160,900353,2019-12-12,House,"On agreeing to the Walden amendment (A001) H.Amdt.711 RC# 676",201,223,12,0,436
+1275160,900354,2019-12-12,House,"On agreeing to the Gottheimer amendment (A007) H.Amdt.717 RC# 678",380,45,11,0,436
+1275160,900355,2019-12-12,House,"On agreeing to the Luria amendment (A010) H.Amdt.720 RC# 679",231,192,13,0,436
+1275160,900356,2019-12-12,House,"On motion to recommit with instructions RC# 681",196,226,8,0,430
+1275160,900357,2019-12-12,House,"On agreeing to the Cunningham amendment (A011) H.Amdt.721 RC# 680",234,192,10,0,436
+1275160,900358,2019-12-12,House,"On passage RC# 682",230,192,8,0,430
+1275209,979232,2020-09-24,House,"On agreeing to the Stevens amendments (A002) H.Amdt.889",235,172,0,23,430
+1275209,979233,2020-09-24,House,"On agreeing to the Haaland amendment (A005) H.Amdt.892",235,173,0,22,430
+1275209,979234,2020-09-24,House,"On agreeing to the Levin (CA) amendments (A006) H.Amdt.893",273,132,0,25,430
+1275209,979235,2020-09-24,House,"On motion to recommit with instructions",193,214,0,23,430
+1275209,979236,2020-09-24,House,"On passage",220,185,0,25,430
+1275379,894768,2019-09-25,House,"On agreeing to the resolution RC# 548",421,0,12,0,433
+1275396,894764,2019-09-25,House,"On ordering the previous question on the amendment (A001) H.Amdt.623 RC# 542",227,191,15,0,433
+1275396,894765,2019-09-25,House,"On agreeing to the resolution RC# 543",228,191,14,0,433
+1275537,894751,2019-09-25,House,"On motion to table the measure RC# 547",232,193,8,0,433
+1275540,894752,2019-09-25,Senate,"Resolution RC# 303",91,4,5,0,100
+1275561,894753,2019-09-25,Senate,"Resolution RC# 307",55,39,6,0,100
+1275564,894754,2019-09-25,Senate,"Disagreed to in Senate RC# 305",47,48,5,0,100
+1275570,894755,2019-09-25,Senate,"Resolution RC# 304",94,0,6,0,100
+1275575,894784,2019-09-26,House,"On ordering the previous question RC# 549",230,187,16,0,433
+1275575,894785,2019-09-26,House,"On agreeing to the resolution RC# 550",229,186,18,0,433
+1275576,894756,2019-09-25,Senate,"Resolution RC# 306",52,42,6,0,100
+1275652,949256,2020-03-10,Senate,"Motion to proceed to consideration of measure RC# 69",55,41,0,4,100
+1275667,903455,2020-01-16,House,"On passage RC# 22",231,180,0,18,429
+1275667,950110,2020-03-11,Senate,"Passed Senate without amendment RC# 70",53,42,0,5,100
+1275667,969519,2020-06-26,House,"On passage, the objections of the President to the contrary notwithstanding RC# 120",238,173,0,19,430
+1275813,894789,2019-09-27,House,"On motion to table the measure RC# 555",222,184,27,0,433
+1276199,981756,2020-11-17,House,"On motion to suspend the rules and pass the bill, as amended",395,4,0,30,429
+1276509,895564,2019-10-23,House,"On agreeing to the Lesko amendment (A002) H.Amdt.639 RC# 581",180,231,26,0,437
+1276509,895565,2019-10-23,House,"On motion to recommit with instructions RC# 582",182,225,24,0,431
+1276509,895566,2019-10-23,House,"On passage RC# 583",227,181,23,0,431
+1276718,896702,2019-11-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 626",385,22,23,0,430
+1276865,895205,2019-10-16,House,"On motion to suspend the rules and pass the resolution RC# 560",354,60,18,0,432
+1276873,895203,2019-10-16,House,"On ordering the previous question RC# 558",228,191,13,0,432
+1276873,895204,2019-10-16,House,"On agreeing to the resolution RC# 559",228,190,14,0,432
+1276956,895845,2019-10-29,House,"On motion to suspend the rules and pass the bill, as amended RC# 592",403,16,12,0,431
+1277256,979544,2020-09-30,House,"On motion to suspend the rules and pass the bill, as amended",414,0,0,16,430
+1277258,900092,2019-12-09,House,"On motion to suspend the rules and pass the bill RC# 656",393,0,37,0,430
+1277356,895315,2019-10-21,House,"On motion to table the measure RC# 568",218,185,28,0,431
+1277359,895486,2019-10-22,House,"On ordering the previous question RC# 571",228,194,9,0,431
+1277359,895487,2019-10-22,House,"On agreeing to the resolution RC# 572",227,195,9,0,431
+1277504,895559,2019-10-23,House,"On ordering the previous question RC# 579",223,180,28,0,431
+1277504,895560,2019-10-23,House,"On agreeing to the resolution RC# 580",226,180,25,0,431
+1277512,940422,2020-03-02,Senate,"Cloture on the motion to proceed to the measure RC# 63",84,3,0,13,100
+1277512,943297,2020-03-04,Senate,"Motion to proceed to consideration of measure RC# 64",90,4,0,6,100
+1277512,947317,2020-03-09,Senate,"Cloture on amendment SA 1407, as modified, S.Amdt.1407 RC# 67",47,44,0,9,100
+1277512,947318,2020-03-09,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on amendment SA 1407, as modified, (Record Vote No. 67) entered in Senate. S.Amdt.1407 RC# 67",47,44,0,9,100
+1277512,947319,2020-03-09,Senate,"Cloture on the measure RC# 68",15,73,0,12,100
+1277512,947320,2020-03-09,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture on S. 2657 was not invoked (Record Vote No. 68) entered in Senate. RC# 68",15,73,0,12,100
+1277739,936717,2020-02-26,House,"On motion to suspend the rules and pass the bill RC# 72",412,0,0,17,429
+1278416,895839,2019-10-29,House,"On ordering the previous question RC# 587",224,189,18,0,431
+1278416,895840,2019-10-29,House,"On agreeing to the resolution RC# 588",223,191,17,0,431
+1278427,896538,2019-11-15,House,"On agreeing to the McAdams amendment (A004) H.Amdt.668 RC# 619",414,1,21,0,436
+1278427,896539,2019-11-15,House,"On agreeing to the Flores amendment (A003) H.Amdt.667 RC# 618",188,232,16,0,436
+1278427,896540,2019-11-15,House,"On agreeing to the Torres (CA) amendment (A002) H.Amdt.666 RC# 617",419,2,15,0,436
+1278427,896541,2019-11-15,House,"On agreeing to the Davidson (OH) amendment (A005) H.Amdt.669 RC# 620",210,214,12,0,436
+1278427,896542,2019-11-15,House,"On agreeing to the Stevens amendment (A018) H.Amdt.682 RC# 621",396,27,13,0,436
+1278427,896543,2019-11-15,House,"On motion to recommit with instructions RC# 623",203,218,9,0,430
+1278427,896544,2019-11-15,House,"On agreeing to the Torres Small (NM) amendment (A021) H.Amdt.685 RC# 622",417,2,17,0,436
+1278427,896545,2019-11-15,House,"On passage RC# 624",235,184,11,0,430
+1278432,895890,2019-10-29,House,"On ordering the previous question RC# 589",222,191,18,0,431
+1278432,895891,2019-10-29,House,"On agreeing to the resolution RC# 590",221,187,23,0,431
+1278533,978464,2020-09-14,House,"On motion to suspend the rules and pass the bill, as amended",402,1,0,27,430
+1278535,896055,2019-10-31,House,"On ordering the previous question RC# 603",231,196,4,0,431
+1278535,896056,2019-10-31,House,"On agreeing to the resolution RC# 604",232,196,4,0,432
+1278670,900149,2019-12-10,Senate,"Passed Senate without amendment RC# 389",91,2,7,0,100
+1279757,923356,2020-02-13,House,"On passage RC# 70",232,183,0,15,430
+1279795,940535,2020-03-02,House,"On motion to suspend the rules and pass the bill, as amended RC# 79",355,0,0,74,429
+1280084,900235,2019-12-11,House,"On motion to recommit with instructions RC# 673",193,230,7,0,430
+1280084,900236,2019-12-11,House,"On passage RC# 674",260,165,6,0,431
+1280094,983208,2020-12-10,House,"On motion to suspend the rules and pass the bill, as amended",382,6,0,41,429
+1280339,901747,2020-01-09,House,"On motion to suspend the rules and pass the bill, as amended RC# 8",370,41,0,19,430
+1280347,896495,2019-11-14,House,"On ordering the previous question RC# 615",226,198,6,0,430
+1280347,896496,2019-11-14,House,"On agreeing to the resolution RC# 616",228,198,4,0,430
+1280554,899557,2019-11-19,House,"On motion to suspend the rules and pass the bill RC# 630",281,135,14,0,430
+1281032,899532,2019-11-19,House,"On ordering the previous question RC# 628",228,192,10,0,430
+1281032,899533,2019-11-19,House,"On agreeing to the resolution RC# 629",230,194,6,0,430
+1284551,899634,2019-11-20,House,"On ordering the previous question RC# 632",223,194,13,0,430
+1284551,899635,2019-11-20,House,"On agreeing to the resolution RC# 633",209,205,16,0,430
+1286560,899896,2019-12-04,House,"On ordering the previous question RC# 645",226,193,11,0,430
+1286560,899897,2019-12-04,House,"On agreeing to the resolution RC# 646",225,196,9,0,430
+1286774,899988,2019-12-05,House,"On ordering the previous question RC# 650",228,196,6,0,430
+1286774,899989,2019-12-05,House,"On agreeing to the resolution RC# 651",226,196,8,0,430
+1287167,970092,2020-06-29,House,"On motion to recommit with instructions RC# 125",184,228,0,18,430
+1287167,970093,2020-06-29,House,"On passage RC# 126",234,179,0,17,430
+1287822,900173,2019-12-10,House,"On ordering the previous question RC# 657",226,188,16,0,430
+1287822,900174,2019-12-10,House,"On agreeing to the resolution RC# 658",226,189,15,0,430
+1288050,901108,2019-12-19,House,"On motion to recommit with instructions RC# 699",388,36,0,6,430
+1288050,901109,2019-12-19,House,"On passage RC# 700",218,206,0,6,430
+1288053,900233,2019-12-11,House,"On ordering the previous question RC# 668",227,189,14,0,430
+1288053,900234,2019-12-11,House,"On agreeing to the resolution RC# 669",222,190,18,0,430
+1288072,949237,2020-03-10,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 93",395,13,0,21,429
+1288078,901071,2019-12-18,House,"On agreeing to Article I of the resolution RC# 695",230,197,1,3,431
+1288078,901072,2019-12-18,House,"On agreeing to Article II of the resolution RC# 696",229,198,1,3,431
+1288078,916204,2020-02-05,Senate,"The Senate adjudges that Donald John Trump, President of the United States, is not guilty as charged in the first Article of Impeachment RC# 33",48,52,0,0,100
+1288078,916205,2020-02-05,Senate,"The Senate adjudges that Donald John Trump, President of the United States, is not guilty as charged in the second Article of Impeachment RC# 34",47,53,0,0,100
+1291802,900982,2019-12-17,House,"On ordering the previous question RC# 683",220,192,18,0,430
+1291802,900983,2019-12-17,House,"On agreeing to the resolution RC# 684",219,189,22,0,430
+1292067,901019,2019-12-18,House,"On ordering the previous question RC# 693",229,197,4,0,430
+1292067,901020,2019-12-18,House,"On agreeing to the resolution RC# 694",228,197,5,0,430
+1292267,901069,2019-12-18,House,"On motion to table the measure RC# 692",226,191,13,0,430
+1292650,901105,2019-12-19,House,"On ordering the previous question RC# 697",227,195,0,8,430
+1292650,901106,2019-12-19,House,"On agreeing to the resolution RC# 698",227,196,0,7,430
+1297445,901485,2020-01-08,House,"On ordering the previous question RC# 2",225,193,0,12,430
+1297445,901486,2020-01-08,House,"On agreeing to the resolution RC# 3",217,199,0,14,430
+1299737,901751,2020-01-09,House,"On ordering the previous question RC# 5",227,191,0,12,430
+1299737,901752,2020-01-09,House,"On agreeing to the resolution RC# 6",226,193,0,11,430
+1299743,901748,2020-01-09,House,"On agreeing to the resolution RC# 7",224,194,0,13,431
+1300965,921967,2020-02-12,Senate,"Motion to proceed to consideration of measure RC# 45",51,45,0,4,100
+1300965,923211,2020-02-13,Senate,"Amendment SA 1322 S.Amdt.1322 RC# 47",99,0,0,1,100
+1300965,923212,2020-02-13,Senate,"Amendment SA 1301 S.Amdt.1301 RC# 46",64,34,0,2,100
+1300965,923213,2020-02-13,Senate,"Motion to table amendment SA 1305 S.Amdt.1305 RC# 48",54,46,0,0,100
+1300965,923214,2020-02-13,Senate,"Amendment SA 1314 S.Amdt.1314 RC# 49",93,7,0,0,100
+1300965,923215,2020-02-13,Senate,"Motion to table amendment SA 1319 S.Amdt.1319 RC# 51",51,49,0,0,100
+1300965,923216,2020-02-13,Senate,"Motion to table amendment SA 1320 S.Amdt.1320 RC# 50",54,46,0,0,100
+1300965,923217,2020-02-13,Senate,"Passed Senate with amendments RC# 52",55,45,0,0,100
+1300965,950077,2020-03-11,House,"On motion to commit with instructions RC# 100",198,212,1,18,429
+1300965,950078,2020-03-11,House,"On passage RC# 101",227,186,0,16,429
+1300965,957822,2020-05-07,Senate,"Failed of passage in Senate over veto RC# 84",49,44,0,7,100
+1303162,902886,2020-01-14,House,"On ordering the previous question RC# 16",226,191,0,12,429
+1303162,902887,2020-01-14,House,"On agreeing to the resolution RC# 17",216,200,0,13,429
+1309991,903231,2020-01-15,House,"On agreeing to the resolution RC# 18",228,193,0,9,430
+1316586,978959,2020-09-22,House,"On motion to suspend the rules and pass the bill, as amended",414,0,0,16,430
+1316807,904243,2020-01-21,Senate,"Motion to table amendment SA 1287 S.Amdt.1287 RC# 18",53,47,0,0,100
+1316807,904244,2020-01-21,Senate,"Motion to table amendment SA 1288 S.Amdt.1288 RC# 19",53,47,0,0,100
+1316807,904245,2020-01-21,Senate,"Motion to table amendment SA 1286 S.Amdt.1286 RC# 17",53,47,0,0,100
+1316807,904246,2020-01-21,Senate,"Motion to table amendment SA 1285 S.Amdt.1285 RC# 16",53,47,0,0,100
+1316807,904247,2020-01-21,Senate,"Motion to table amendment SA 1284 S.Amdt.1284 RC# 15",53,47,0,0,100
+1316807,904248,2020-01-21,Senate,"Motion to table amendment SA 1289 S.Amdt.1289 RC# 20",53,47,0,0,100
+1316807,904249,2020-01-22,Senate,"Motion to table amendment SA 1290 S.Amdt.1290 RC# 21",53,47,0,0,100
+1316807,904250,2020-01-22,Senate,"Motion to table amendment SA 1294 S.Amdt.1294 RC# 25",53,47,0,0,100
+1316807,904251,2020-01-22,Senate,"Motion to table amendment SA 1293 S.Amdt.1293 RC# 24",52,48,0,0,100
+1316807,904252,2020-01-22,Senate,"Motion to table amendment SA 1292 S.Amdt.1292 RC# 23",53,47,0,0,100
+1316807,904253,2020-01-22,Senate,"Motion to table amendment SA 1291 S.Amdt.1291 RC# 22",53,47,0,0,100
+1316807,904254,2020-01-22,Senate,"Resolution RC# 26",53,47,0,0,100
+1321457,909317,2020-01-28,House,"On ordering the previous question RC# 25",227,184,0,18,429
+1321457,909318,2020-01-28,House,"On agreeing to the resolution RC# 26",223,189,0,17,429
+1322991,918229,2020-02-07,House,"On agreeing to the Shalala amendment (A001) H.Amdt.783 RC# 52",257,149,0,29,435
+1322991,918230,2020-02-07,House,"On motion to recommit RC# 53",178,223,0,28,429
+1322991,918231,2020-02-07,House,"On passage RC# 54",237,161,0,31,429
+1326142,912920,2020-01-31,Senate,"Resolution RC# 32",53,47,0,0,100
+1326142,913040,2020-01-31,Senate,"Motion to table amendment SA 1295 S.Amdt.1295 RC# 28",53,47,0,0,100
+1326142,913041,2020-01-31,Senate,"Motion to table amendment SA 1296 S.Amdt.1296 RC# 29",51,49,0,0,100
+1326142,913042,2020-01-31,Senate,"Motion to table amendment SA 1297 S.Amdt.1297 RC# 30",51,49,0,0,100
+1326142,913043,2020-01-31,Senate,"Motion to table amendment SA 1298 S.Amdt.1298 RC# 31",53,47,0,0,100
+1327528,917452,2020-02-06,House,"On agreeing to the resolution RC# 51",223,190,0,16,429
+1331841,917450,2020-02-06,House,"On ordering the previous question RC# 39",224,194,0,11,429
+1331841,917451,2020-02-06,House,"On agreeing to the resolution RC# 40",220,194,0,15,429
+1331913,917342,2020-02-06,House,"On motion to table the measure RC# 38",224,193,0,12,429
+1331919,983134,2020-12-09,House,"On motion to suspend the rules and pass the bill",396,2,0,31,429
+1335776,920740,2020-02-11,House,"On ordering the previous question RC# 57",222,186,0,21,429
+1335776,920741,2020-02-11,House,"On agreeing to the resolution RC# 58",222,185,0,22,429
+1336723,935225,2020-02-25,Senate,"Cloture on the motion to proceed to the measure RC# 57",53,44,0,3,100
+1347947,940542,2020-03-02,House,"On motion to suspend the rules and pass the bill, as amended RC# 80",356,0,0,73,429
+1351670,938355,2020-02-27,House,"On ordering the previous question RC# 74",224,189,0,16,429
+1351670,938356,2020-02-27,House,"On agreeing to the resolution RC# 75",210,200,0,19,429
+1354600,943232,2020-03-04,House,"On ordering the previous question RC# 83",219,194,0,16,429
+1354600,943233,2020-03-04,House,"On agreeing to the resolution RC# 84",220,192,0,17,429
+1358571,950107,2020-03-11,House,"On passage RC# 98",278,136,0,15,429
+1358571,950108,2020-03-11,House,"On agreeing to the Buck amendment (A002) H.Amdt.814 RC# 99",35,376,0,18,429
+1358571,958597,2020-05-13,Senate,"Amendment SA 1583, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was S.Amdt.1583 RC# 89",59,37,0,4,100
+1358571,958598,2020-05-13,Senate,"Amendment SA 1584, under the order of 5/12/20, having achieved 60 votes in the affirmative, was S.Amdt.1584 RC# 90",77,19,0,4,100
+1358571,958828,2020-05-14,Senate,"Passed Senate, under the order of 5/12/20, having achieved 60 votes in the affirmative, with amendments RC# 92",80,16,0,4,100
+1358571,958829,2020-05-14,Senate,"Amendment SA 1586, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was S.Amdt.1586 RC# 91",11,85,0,4,100
+1358571,961465,2020-05-28,House,"On motion that the House disagree to the Senate amendments, and request a conference RC# 115",284,122,0,25,431
+1358583,950173,2020-03-11,House,"On ordering the previous question RC# 95",226,186,0,17,429
+1358583,950174,2020-03-11,House,"On agreeing to the resolution RC# 96",223,188,0,18,429
+1359171,978954,2020-09-22,House,"On motion to suspend the rules and pass the bill, as amended",406,3,0,22,431
+1359716,979541,2020-09-30,House,"On motion to recommit with instructions",184,229,0,17,430
+1359716,979542,2020-09-30,House,"On passage",253,163,0,14,430
+1361816,978722,2020-09-17,House,"On agreeing to the resolution",243,164,1,23,431
+1363545,956880,2020-04-23,House,"On agreeing to the resolution RC# 103",212,182,0,35,429
+1365052,961480,2020-05-28,House,"On motion to suspend the rules and pass the bill, as amended RC# 113",269,147,0,15,431
+1365578,959125,2020-05-15,House,"On motion to recommit with instructions RC# 108",198,209,0,23,430
+1365578,959127,2020-05-15,House,"On passage RC# 109",208,199,0,23,430
+1365742,959138,2020-05-15,House,"On agreeing to the resolution RC# 107",217,189,0,24,430
+1366004,959136,2020-05-15,House,"On ordering the previous question RC# 105",219,182,0,29,430
+1366004,959137,2020-05-15,House,"On agreeing to the resolution RC# 106",207,199,0,24,430
+1367594,976777,2020-07-29,House,"On motion to recommit with instructions",195,212,0,23,430
+1367594,976778,2020-07-29,House,"On passage",249,163,0,18,430
+1367600,961078,2020-05-27,House,"On ordering the previous question RC# 111",232,182,0,16,430
+1367600,961079,2020-05-27,House,"On agreeing to the resolution RC# 112",228,189,0,14,431
+1369029,969132,2020-06-25,House,"On motion to recommit with instructions RC# 118",180,236,0,14,430
+1369029,969133,2020-06-25,House,"On passage RC# 119",236,181,0,14,431
+1369459,970288,2020-06-30,House,"On agreeing to the DeFazio amendments (A002) H.Amdt.821 RC# 132",229,189,0,12,430
+1369459,970289,2020-06-30,House,"On agreeing to the Pallone amendments (A004) H.Amdt.823 RC# 133",234,178,0,18,430
+1369459,970345,2020-07-01,House,"On agreeing to the Graves (MO) amendments H.Amdt.826 RC# 134",179,241,0,10,430
+1369459,970346,2020-07-01,House,"On agreeing to the Foxx (NC) amendment (A008) H.Amdt.827 RC# 135",147,274,0,9,430
+1369459,970347,2020-07-01,House,"On motion to recommit with instructions RC# 137",224,193,0,13,430
+1369459,970348,2020-07-01,House,"On agreeing to the Tlaib amendment (A010) H.Amdt.829 RC# 136",240,181,0,9,430
+1369459,970349,2020-07-01,House,"On passage RC# 138",233,188,0,10,431
+1369508,970052,2020-06-29,House,"On passage RC# 129",230,179,0,21,430
+1369508,980623,2020-10-19,Senate,"Motion to proceed to consideration of measure rejected in Senate RC# 201",43,48,0,9,100
+1370601,968782,2020-06-24,Senate,"Cloture on the motion to proceed to the measure RC# 126",55,45,0,0,100
+1370601,968783,2020-06-24,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 126) entered in Senate. RC# 126",55,45,0,0,100
+1371366,969023,2020-06-25,Senate,"Cloture on the motion to proceed to the measure RC# 127",90,7,0,3,100
+1371366,969990,2020-06-29,Senate,"Motion to proceed to consideration of measure RC# 128",89,4,0,7,100
+1371366,970338,2020-07-01,Senate,"Motion to table amendment SA 2011 S.Amdt.2011 RC# 129",60,33,0,7,100
+1371366,972439,2020-07-21,Senate,"Amendment SA 2252, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was S.Amdt.2252 RC# 132",51,49,0,0,100
+1371366,972440,2020-07-21,Senate,"Amendment SA 2411, under the order of 7/2/20, having achieved 60 votes in the affirmative, was S.Amdt.2411 RC# 133",90,10,0,0,100
+1371366,972441,2020-07-21,Senate,"Amendment SA 2244, under the order of 7/2/20, having achieved 60 votes in the affirmative, was S.Amdt.2244 RC# 134",96,4,0,0,100
+1371366,973075,2020-07-22,Senate,"Amendment SA 1972, under the order of 7/2/20, having achieved 60 votes in the affirmative, as modified, S.Amdt.1972 RC# 136",94,6,0,0,100
+1371366,973076,2020-07-22,Senate,"Amendment SA 1788, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was S.Amdt.1788 RC# 135",23,77,0,0,100
+1371366,973077,2020-07-22,Senate,"Cloture on amendment SA 2301 S.Amdt.2301 RC# 137",87,13,0,0,100
+1371366,973367,2020-07-23,Senate,"Cloture on the measure RC# 139",86,14,0,0,100
+1371366,973368,2020-07-23,Senate,"Amendment SA 2301 S.Amdt.2301 RC# 138",88,12,0,0,100
+1371366,973369,2020-07-23,Senate,"Passed Senate with an amendment RC# 140",86,14,0,0,100
+1371546,968947,2020-06-25,House,"On ordering the previous question RC# 116",231,176,0,23,430
+1371546,969106,2020-06-25,House,"On agreeing to the resolution RC# 117",230,180,0,20,430
+1371585,970058,2020-06-29,House,"On motion to recommit with instructions RC# 127",191,219,0,20,430
+1371585,970059,2020-06-29,House,"On passage RC# 128",232,180,0,19,431
+1371781,976783,2020-07-29,House,"On passage",250,161,0,19,430
+1372076,970275,2020-06-30,House,"On ordering the previous question RC# 130",230,180,0,20,430
+1372076,970276,2020-06-30,House,"On agreeing to the resolution RC# 131",222,183,0,25,430
+1373265,973121,2020-07-22,House,"On motion to suspend the rules and pass the bill, as amended RC# 156",305,113,0,13,431
+1373269,973371,2020-07-23,House,"On agreeing to the Allen amendment (A002) H.Amdt.849 RC# 159",88,329,0,13,430
+1373269,973372,2020-07-23,House,"On agreeing to the Lowey amendments (A004) H.Amdt.851 RC# 160",223,194,0,13,430
+1373269,973373,2020-07-23,House,"On agreeing to the Lowey amendments (A005) H.Amdt.852 RC# 161",187,230,0,13,430
+1373269,976980,2020-07-24,House,"On agreeing to the Allen amendment (A006) H.Amdt.853",117,292,0,21,430
+1373269,976981,2020-07-24,House,"On agreeing to the Tonko amendment (A007) H.Amdt.854",233,176,0,21,430
+1373269,976982,2020-07-24,House,"On motion to recommit with instructions",183,228,1,18,430
+1373269,976983,2020-07-24,House,"On agreeing to the Smith (MO) amendment (A009) H.Amdt.856",155,256,0,19,430
+1373269,976984,2020-07-24,House,"On passage",224,189,0,17,430
+1373531,976784,2020-07-30,House,"On agreeing to the Blumenauer amendment (A006) H.Amdt.864",254,163,0,13,430
+1373531,976785,2020-07-30,House,"On agreeing to the Ocasio-Cortez amendment (A005) H.Amdt.863",126,292,0,12,430
+1373531,976786,2020-07-30,House,"On agreeing to the Underwood amendment (A007) H.Amdt.865",234,181,0,15,430
+1373531,976787,2020-07-31,House,"On agreeing to the Allen amendment (A011) H.Amdt.869",123,292,0,15,430
+1373531,976788,2020-07-31,House,"On motion to recommit with instructions",197,219,0,14,430
+1373531,976789,2020-07-31,House,"On passage",217,197,0,16,430
+1373780,972239,2020-07-20,House,"On ordering the previous question RC# 139",220,162,0,47,429
+1373780,972240,2020-07-20,House,"On agreeing to the resolution RC# 140",224,166,0,39,429
+1374076,973378,2020-07-23,House,"On ordering the previous question RC# 157",230,189,0,11,430
+1374076,973379,2020-07-23,House,"On agreeing to the resolution RC# 158",230,188,0,12,430
+1374800,976792,2020-07-29,House,"On ordering the previous question",230,181,0,19,430
+1374800,976793,2020-07-29,House,"On agreeing to the resolution",229,182,0,19,430
+1375051,978651,2020-09-16,House,"On motion to suspend the rules and pass the bill, as amended",387,33,0,10,430
+1376019,976790,2020-08-22,House,"On motion to recommit with instructions",182,223,0,25,430
+1376019,976791,2020-08-22,House,"On passage",257,150,0,24,431
+1376043,982808,2020-12-02,House,"On motion to suspend the rules and pass the bill, as amended",343,41,0,45,429
+1376862,976794,2020-08-22,House,"On ordering the previous question",230,171,0,29,430
+1376862,976795,2020-08-22,House,"On agreeing to the resolution",230,171,0,29,430
+1377888,978465,2020-09-15,House,"On ordering the previous question",219,170,0,41,430
+1377888,978466,2020-09-15,House,"On agreeing to the resolution",216,157,0,57,430
+1378340,982490,2020-11-20,House,"On agreeing to the Levin (MI) amendment (A004) H.Amdt.901",236,152,0,41,429
+1378340,982491,2020-11-20,House,"On agreeing to the Smucker amendment (A005) H.Amdt.902",142,243,0,44,429
+1378340,982492,2020-11-20,House,"On passage",246,140,0,43,429
+1378544,979081,2020-09-23,House,"On ordering the previous question",231,190,0,9,430
+1378544,979082,2020-09-23,House,"On agreeing to the resolution",229,187,0,14,430
+1378744,979642,2020-10-01,Senate,"Cloture on the motion to proceed to the measure RC# 200",51,43,0,6,100
+1378841,980726,2020-10-20,Senate,"Motion to table the motion to proceed to the measure rejected in Senate RC# 204",45,52,0,3,100
+1379040,979450,2020-09-29,House,"On motion to table the measure",223,176,0,31,430
+1379127,979826,2020-10-02,House,"On agreeing to the resolution",371,18,1,40,430
+1379135,979827,2020-10-02,House,"On agreeing to the resolution",232,157,4,37,430
+1379357,979449,2020-09-29,House,"On motion to suspend the rules and agree to the resolution",397,5,0,29,431
+1379517,979537,2020-09-30,House,"On ordering the previous question",229,185,0,16,430
+1379517,979538,2020-09-30,House,"On agreeing to the resolution",225,188,0,17,430
+1379684,979634,2020-10-01,House,"On ordering the previous question",226,187,0,17,430
+1379684,979635,2020-10-01,House,"On agreeing to the resolution",226,186,0,18,430
+1382990,982410,2020-11-19,House,"On ordering the previous question",227,169,0,33,429
+1382990,982411,2020-11-19,House,"On agreeing to the resolution",229,170,0,30,429
+1383230,983133,2020-12-09,Senate,"Motion to discharge Senate Committee on Foreign Relations rejected RC# 262",47,49,0,4,100
+1383257,983135,2020-12-09,Senate,"Motion to discharge Senate Committee on Foreign Relations rejected RC# 261",46,50,0,4,100
+1384421,982892,2020-12-03,House,"On ordering the previous question",225,160,0,45,430
+1384421,982893,2020-12-03,House,"On agreeing to the resolution",225,160,0,45,430
+1388768,983825,2020-12-21,House,"On agreeing to the resolution",227,180,0,22,429
+1389031,984001,2020-12-28,House,"On motion to suspend the rules and pass the bill",275,134,0,21,430
+1137329,782061,2019-01-11,House,"On motion to suspend the rules and pass the bill RC# 29",411,1,21,0,433
+1137339,783460,2019-01-17,House,"On motion to suspend the rules and pass the bill RC# 41",422,0,11,0,433
+1137417,782062,2019-01-11,House,"On motion to suspend the rules and pass the bill RC# 28",411,7,16,0,434
+1137434,983822,2020-12-21,Senate,"Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 133 RC# 289",92,6,0,2,100
+1137434,983823,2020-12-21,House,"On motion to agree in Senate amendment with portion of amendment comprising divisions B, C, E and F",327,85,0,18,430
+1137434,983824,2020-12-21,House,"On motion to agree in Senate amendment with amendment (except divisions B, C, E and F)",359,53,0,17,429
+1138009,781788,2019-01-08,House,"On motion to suspend the rules and pass the bill RC# 14",414,3,16,0,433
+1141975,782059,2019-01-11,House,"On motion to recommit with instructions RC# 26",190,229,14,0,433
+1141975,782060,2019-01-11,House,"On passage RC# 27",240,179,14,0,433
+1141975,956888,2020-04-23,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 104",388,5,1,35,429
+1141976,809298,2019-02-25,House,"On motion to suspend the rules and pass the bill RC# 89",387,19,25,0,431
+1142030,793487,2019-02-05,Senate,"Cloture on the motion to proceed to the measure RC# 17",99,1,0,0,100
+1142030,795503,2019-02-07,Senate,"Motion to table S.Amdt.158 RC# 18",66,33,1,0,100
+1142030,795504,2019-02-07,Senate,"Motion to table amendment SA 162 S.Amdt.162 RC# 19",68,30,2,0,100
+1142030,797308,2019-02-11,Senate,"Motion to table amendment SA 187 S.Amdt.187 RC# 20",60,33,7,0,100
+1142030,797309,2019-02-11,Senate,"Cloture on the measure RC# 21",87,7,6,0,100
+1142030,798278,2019-02-12,Senate,"Passed Senate with an amendment RC# 22",92,8,0,0,100
+1142030,809514,2019-02-26,House,"On motion to suspend the rules and pass the bill RC# 95",363,62,6,0,431
+1142052,815228,2019-03-05,House,"On motion to suspend the rules and pass the bill RC# 105",417,0,14,0,431
+1142084,864075,2019-05-14,House,"On motion to suspend the rules and pass the bill, as amended RC# 203",410,0,21,0,431
+1151467,834406,2019-04-02,House,"On motion to suspend the rules and pass the bill RC# 142",414,7,11,0,432
+1151476,783439,2019-01-17,House,"On motion to recommit with instructions RC# 43",195,222,16,0,433
+1151476,785299,2019-01-23,House,"On passage RC# 46",229,184,19,0,432
+1157022,871125,2019-05-23,Senate,"Passed Senate with an amendment RC# 127",97,1,2,0,100
+1157022,899898,2019-12-04,House,"On motion to suspend the rules and pass the bill, as amended RC# 647",417,3,10,0,430
+1167735,786132,2019-01-24,House,"On motion to recommit with instructions RC# 50",200,214,18,0,432
+1167735,786133,2019-01-24,House,"On passage RC# 51",231,180,21,0,432
+1167735,801010,2019-02-14,House,"On agreeing to the conference report RC# 87",300,128,4,0,432
+1167735,801289,2019-02-14,Senate,"Cloture on the conference report RC# 25",84,15,1,0,100
+1167735,801290,2019-02-14,Senate,"Senate agreed to conference report RC# 26",83,16,1,0,100
+1172990,895550,2019-10-23,House,"On motion to suspend the rules and pass the bill, as amended RC# 584",402,1,28,0,431
+1173017,889778,2019-07-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 493",419,6,8,0,433
+1173017,954029,2020-03-22,Senate,"Cloture on the motion to proceed to the measure RC# 77",47,47,0,6,100
+1173017,954030,2020-03-22,Senate,"Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 77) entered in Senate. RC# 77",47,47,0,6,100
+1173017,954922,2020-03-23,Senate,"Upon reconsideration, cloture on the motion to proceed to the measure RC# 78",49,46,0,5,100
+1173017,955020,2020-03-25,Senate,"Passed Senate, under the order of 3/25/20, having achieved 60 votes in the affirmative, with an amendment RC# 80",96,0,0,4,100
+1173017,955021,2020-03-25,Senate,"Amendment SA 1577, under the order of 3/25/20, not having achieved 60 votes in the affirmative, was S.Amdt.1577 RC# 79",48,48,0,4,100
+1177724,836923,2019-04-04,House,"On motion to suspend the rules and pass the bill RC# 151",423,0,8,0,431
+1180231,794404,2019-02-06,House,"On motion to suspend the rules and pass the bill RC# 66",404,19,9,0,432
+1185019,906553,2020-01-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 23",393,5,0,32,430
+1188499,981722,2020-11-16,House,"On motion to suspend the rules and pass the bill",401,0,0,28,429
+1196461,797462,2019-02-11,House,"On motion to suspend the rules and pass the bill, as amended RC# 77",379,0,52,0,431
+1201052,983068,2020-12-07,House,"On motion to suspend the rules and pass the bill, as amended",388,6,0,35,429
+1203269,900981,2019-12-17,House,"On motion that the House agree with an amendment to the RC# 690",280,138,12,0,430
+1203269,901103,2019-12-19,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 1158 RC# 427",77,16,0,7,100
+1203269,901104,2019-12-19,Senate,"Senate agreed to the House amendment to the Senate amendment to H.R. 1185 RC# 428",81,11,0,8,100
+1217225,889709,2019-07-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 474",402,12,19,0,433
+1217225,889851,2019-07-23,Senate,"Amendment SA 928, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was S.Amdt.928 RC# 222",32,66,2,0,100
+1217225,889852,2019-07-23,Senate,"Passed Senate without amendment RC# 224",97,2,1,0,100
+1217225,889853,2019-07-23,Senate,"Amendment SA 929, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was S.Amdt.929 RC# 223",22,77,1,0,100
+1223763,982837,2020-12-02,Senate,"Amendment SA 2689, under the order of 12/01/20, not having achieved 60 votes in the affirmative, was S.Amdt.2689 RC# 249",48,49,0,3,100
+1223763,982838,2020-12-02,Senate,"Passed Senate, under the order of 12/01/20, having achieved 60 votes in the affirmative, without amendment RC# 250",96,1,0,3,100
+1230962,861642,2019-05-08,House,"On motion to suspend the rules and pass the bill, as amended RC# 187",422,0,9,0,431
+1231007,861640,2019-05-08,House,"On motion to suspend the rules and pass the bill, as amended RC# 188",421,0,10,0,431
+1234565,833335,2019-04-01,House,"On motion to suspend the rules and pass the bill, as amended RC# 138",394,7,30,0,431
+1238128,950353,2020-03-11,House,"On motion to suspend the rules and pass the bill RC# 97",412,0,0,17,429
+1244471,900996,2019-12-17,House,"On motion that the House agree with an amendment to the RC# 689",297,120,13,0,430
+1244471,901098,2019-12-19,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R.1865 RC# 413",71,21,0,8,100
+1244471,901099,2019-12-19,Senate,"Senate agreed to the House amendment to the Senate amendment to H.R. 1865 RC# 415",71,23,0,6,100
+1244471,901100,2019-12-19,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment to H.R. 1865) RC# 414",64,30,0,6,100
+1246552,868680,2019-05-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 218",397,0,34,0,431
+1246602,963661,2020-06-08,Senate,"Cloture on the motion to proceed to the measure RC# 114",80,17,0,3,100
+1246602,965207,2020-06-10,Senate,"Motion to proceed to consideration of measure RC# 116",79,18,0,3,100
+1246602,965783,2020-06-12,Senate,"Cloture on amendment SA 1617 S.Amdt.1617 RC# 117",65,19,0,16,100
+1246602,966478,2020-06-15,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 1617 S.Amdt.1617 RC# 118",68,30,0,2,100
+1246602,966479,2020-06-15,Senate,"Amendment SA 1617 S.Amdt.1617 RC# 119",73,24,0,3,100
+1246602,966480,2020-06-15,Senate,"Cloture on the measure RC# 120",75,23,0,2,100
+1246602,967026,2020-06-17,Senate,"Passed Senate with an amendment and an amendment to the Title RC# 121",73,25,0,2,100
+1246602,973116,2020-07-22,House,"On motion that the House agree to the Senate amendments RC# 155",310,107,0,13,430
+1248158,983719,2020-12-18,House,"On motion to suspend the rules and pass the bill",386,1,0,42,429
+1250674,862848,2019-05-10,House,"On agreeing to the Sablan amendment (A003) H.Amdt.211 RC# 198",268,143,26,0,437
+1250674,862849,2019-05-10,House,"On agreeing to the Perlmutter amendment (A001) H.Amdt.209 RC# 197",247,165,25,0,437
+1250674,862850,2019-05-10,House,"On agreeing to the Huffman amendment (A006) H.Amdt.214 RC# 199",241,168,28,0,437
+1250674,862851,2019-05-10,House,"On agreeing to the Fletcher amendment (A008) H.Amdt.216 RC# 200",393,20,24,0,437
+1250674,862852,2019-05-10,House,"On motion to recommit with instructions RC# 201",189,215,27,0,431
+1250674,862853,2019-05-10,House,"On passage RC# 202",257,150,24,0,431
+1250674,871567,2019-05-23,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure RC# 128",84,9,7,0,100
+1250674,871568,2019-05-23,Senate,"Passed Senate with an amendment RC# 129",85,8,7,0,100
+1250674,877088,2019-06-03,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 232",354,58,19,0,431
+1253310,900229,2019-12-11,Senate,"Passed Senate without amendment RC# 390",95,0,5,0,100
+1255143,864316,2019-05-14,House,"On motion to suspend the rules and pass the bill, as amended RC# 204",400,9,22,0,431
+1255154,895167,2019-10-15,House,"On motion to suspend the rules and pass the bill, as amended RC# 556",409,1,22,0,432
+1261657,889728,2019-07-15,House,"On motion to suspend the rules and pass the bill RC# 475",414,1,17,0,432
+1264522,943230,2020-03-04,House,"On motion to suspend the rules and pass the bill, as amended RC# 85",415,0,0,14,429
+1264578,877162,2019-06-03,House,"On motion to suspend the rules and pass the bill RC# 233",357,55,19,0,431
+1266319,886034,2019-06-20,House,"On agreeing to the Pence amendment (A042) H.Amdt.428 RC# 376",425,6,7,0,438
+1266319,886035,2019-06-20,House,"On agreeing to the Banks amendment (A040) H.Amdt.426 RC# 375",113,318,7,0,438
+1266319,886036,2019-06-20,House,"On agreeing to the Spanberger amendment (A043) H.Amdt.429 RC# 377",408,22,8,0,438
+1266319,886037,2019-06-20,House,"On agreeing to the Wasserman Schultz amendment (A046) H.Amdt.432 RC# 378",252,178,8,0,438
+1266319,886038,2019-06-20,House,"On agreeing to the Buchanan amendment (A049) H.Amdt.435 RC# 380",239,192,7,0,438
+1266319,886039,2019-06-20,House,"On agreeing to the Pallone amendment (A048) H.Amdt.434 RC# 379",247,185,6,0,438
+1266319,886040,2019-06-20,House,"On agreeing to the Underwood amendment (A038) H.Amdt.424 RC# 374",238,194,6,0,438
+1266319,886041,2019-06-20,House,"On agreeing to the Stevens amendment (A037) H.Amdt.423 RC# 373",381,50,7,0,438
+1266319,886042,2019-06-20,House,"On agreeing to the King (IA) amendment (A007) H.Amdt.393 RC# 369",192,240,6,0,438
+1266319,886043,2019-06-20,House,"On agreeing to the Rutherford amendment (A003) H.Amdt.389 RC# 368",186,245,7,0,438
+1266319,886044,2019-06-20,House,"On agreeing to the Blumenauer amendment (A012) H.Amdt.398 RC# 370",267,165,6,0,438
+1266319,886045,2019-06-20,House,"On agreeing to the Banks amendment (A016) H.Amdt.402 RC# 371",135,296,7,0,438
+1266319,886046,2019-06-20,House,"On agreeing to the Golden amendment (A025) H.Amdt.411 RC# 372",84,345,9,0,438
+1266319,886047,2019-06-20,House,"On agreeing to the Duncan amendment (A051) H.Amdt.437 RC# 381",192,240,6,0,438
+1266319,886048,2019-06-20,House,"On agreeing to the Blumenauer amendment (A052) H.Amdt.438 RC# 382",243,188,7,0,438
+1266319,886049,2019-06-20,House,"On agreeing to the Cunningham amendment (A064) H.Amdt.450 RC# 391",245,187,6,0,438
+1266319,886050,2019-06-20,House,"On agreeing to the Biggs amendment (A063) H.Amdt.449 RC# 390",157,275,6,0,438
+1266319,886051,2019-06-20,House,"On agreeing to the Cunningham amendment (A065) H.Amdt.451 RC# 392",325,107,6,0,438
+1266319,886052,2019-06-20,House,"On agreeing to the Carbajal amendment (A066) H.Amdt.452 RC# 393",238,192,8,0,438
+1266319,886053,2019-06-20,House,"On agreeing to the Hill (CA) amendment (A067) H.Amdt.453 RC# 394",377,55,6,0,438
+1266319,886054,2019-06-20,House,"On agreeing to the Banks amendment (A062) H.Amdt.448 RC# 389",132,299,7,0,438
+1266319,886055,2019-06-20,House,"On agreeing to the Hice (GA) amendment (A061) H.Amdt.447 RC# 388",128,304,6,0,438
+1266319,886056,2019-06-20,House,"On agreeing to the Duncan amendment (A055) H.Amdt.441 RC# 384",198,233,7,0,438
+1266319,886057,2019-06-20,House,"On agreeing to the Gosar amendment (A053) H.Amdt.439 RC# 383",178,254,6,0,438
+1266319,886058,2019-06-20,House,"On agreeing to the Mullin amendment (A056) H.Amdt.442 RC# 385",191,241,6,0,438
+1266319,886059,2019-06-20,House,"On agreeing to the Mullin amendment (A057) H.Amdt.443 RC# 386",189,243,6,0,438
+1266319,886060,2019-06-20,House,"On agreeing to the Graves (LA) amendment (A060) H.Amdt.446 RC# 387",193,239,6,0,438
+1266319,886061,2019-06-20,House,"On agreeing to the Schrier amendment (A068) H.Amdt.454 RC# 395",253,177,8,0,438
+1266319,886803,2019-06-21,House,"On agreeing to the Golden amendment (A075) H.Amdt.461 RC# 397",418,6,14,0,438
+1266319,886804,2019-06-21,House,"On agreeing to the Bost amendment (A073) H.Amdt.459 RC# 396",373,51,14,0,438
+1266319,886805,2019-06-21,House,"On agreeing to the McAdams amendment (A076) H.Amdt.462 RC# 398",420,3,15,0,438
+1266319,887111,2019-06-24,House,"On agreeing to the Duncan amendment (A084) H.Amdt.470 RC# 401",181,236,21,0,438
+1266319,887112,2019-06-24,House,"On agreeing to the Duncan amendment (A083) H.Amdt.469 RC# 400",180,236,22,0,438
+1266319,887113,2019-06-24,House,"On agreeing to the DeFazio amendment (A082) H.Amdt.468 RC# 399",221,195,22,0,438
+1266319,887114,2019-06-24,House,"On agreeing to the Grothman amendment (A086) H.Amdt.472 RC# 402",145,273,20,0,438
+1266319,887675,2019-06-25,House,"On motion to recommit with instructions RC# 407",201,220,11,0,432
+1266319,887676,2019-06-25,House,"On agreeing to the Jayapal amendment (A091) H.Amdt.477 RC# 406",294,127,17,0,438
+1266319,887677,2019-06-25,House,"On agreeing to the Banks amendment (A088) H.Amdt.474 RC# 405",131,287,20,0,438
+1266319,887678,2019-06-25,House,"On passage RC# 408",227,194,11,0,432
+1266319,895411,2019-10-22,Senate,"Cloture on the motion to proceed to the measure RC# 330",92,2,6,0,100
+1266319,895690,2019-10-28,Senate,"Amendment SA 961 S.Amdt.961 RC# 334",90,1,9,0,100
+1266319,895691,2019-10-28,Senate,"Amendment SA 1019 S.Amdt.1019 RC# 335",24,67,9,0,100
+1266319,895692,2019-10-28,Senate,"Amendment SA 1067 S.Amdt.1067 RC# 336",91,1,8,0,100
+1266319,896006,2019-10-30,Senate,"Cloture S.Amdt.948 RC# 338",88,5,7,0,100
+1266319,896058,2019-10-31,Senate,"Amendment SA 1141 as modified S.Amdt.1141 RC# 340",82,11,7,0,100
+1266319,896059,2019-10-31,Senate,"Passed Senate, under the order of 10/30/19, having achieved 60 votes in the affirmative, with an amendment RC# 341",84,9,7,0,100
+1266319,896060,2019-10-31,Senate,"Amendment SA 1209 S.Amdt.1209 RC# 339",29,64,7,0,100
+1266319,899523,2019-11-19,House,"On motion that the House agree with an amendment to the Senate amendment RC# 631",231,192,7,0,430
+1266319,899737,2019-11-21,Senate,"Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 3055 with an amendment (SA 1250) S.Amdt.1250 RC# 363",73,20,7,0,100
+1266319,899738,2019-11-21,Senate,"Senate agreed to the House amendment to the Senate amendment to H.R. 3055 RC# 365",74,20,6,0,100
+1266319,899739,2019-11-21,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 3055 RC# 364",75,19,6,0,100
+1267965,884631,2019-06-19,Senate,"Cloture on the motion to proceed RC# 176",88,11,1,0,100
+1267965,886945,2019-06-24,Senate,"Motion to proceed to consideration of measure RC# 181",86,6,8,0,100
+1267965,888595,2019-06-27,Senate,"Cloture on amendment SA 764, as modified, S.Amdt.764 RC# 186",87,7,6,0,100
+1267965,888596,2019-06-27,Senate,"Amendment SA 861 S.Amdt.861 RC# 187",90,4,6,0,100
+1267965,888597,2019-06-27,Senate,"Passed Senate with an amendment RC# 188",86,8,6,0,100
+1267965,888828,2019-06-28,Senate,"Amendment SA 883, under the order of 06/27/19, not having achieved 60 votes in the affirmative, was S.Amdt.883 RC# 189",50,40,10,0,100
+1267965,894262,2019-09-17,House,"On motion that the House instruct conferees RC# 531",198,219,15,0,432
+1267965,894269,2019-09-17,House,"On motion to that the House to close portions of the conference RC# 532",407,4,23,0,434
+1267965,894342,2019-09-18,Senate,"Cloture on the motion to disagree to the amendment of the House to the Senate bill, agree to the request for conference, and authorize the Presiding Officer to appoint confereees RC# 293",87,7,6,0,100
+1267965,900232,2019-12-11,House,"On agreeing to the conference report RC# 672",377,48,5,0,430
+1267965,900482,2019-12-16,Senate,"Cloture on the conference report to accompany S. 1790 RC# 398",76,6,18,0,100
+1267965,900970,2019-12-17,Senate,"Senate agreed to conference report RC# 400",86,8,6,0,100
+1267965,900971,2019-12-17,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure (the conference report to accompany S. 1790) RC# 399",82,12,6,0,100
+1268473,983712,2020-12-17,House,"On motion to suspend the rules and pass the bill, as amended",387,5,0,37,429
+1268528,899630,2019-11-20,House,"On motion to suspend the rules and pass the bill RC# 635",417,1,13,0,431
+1268531,884026,2019-06-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 333",371,46,15,0,432
+1269392,889856,2019-07-23,House,"On motion to suspend the rules and pass the bill, as amended RC# 499",417,1,14,0,432
+1269869,887601,2019-06-25,House,"On motion to recommit with instructions RC# 413",205,218,9,0,432
+1269869,887602,2019-06-25,House,"On passage RC# 414",230,195,8,0,433
+1269869,887954,2019-06-26,Senate,"Under the order of 06/26/19, not having achieved 60 votes in the affirmative, H.R. 3401 failed of passage in Senate RC# 182",37,55,8,0,100
+1269869,887955,2019-06-26,Senate,"Motion to table amendment SA 902 S.Amdt.902 RC# 183",77,15,8,0,100
+1269869,887956,2019-06-26,Senate,"Passed Senate, under the order of 06/26/19, having achieved 60 votes in the affirmative, with an amendment RC# 185",84,8,8,0,100
+1269869,887957,2019-06-26,Senate,"Amendment SA 901, under the order of 06/26/19, having achieved 60 votes in the affirmative, was S.Amdt.901 RC# 184",84,8,8,0,100
+1269869,888532,2019-06-27,House,"On motion the House agree to the Senate amendment RC# 429",305,102,25,0,432
+1271737,976796,2020-07-27,House,"On motion to suspend the rules and pass the bill",368,1,0,61,430
+1271739,978432,2020-09-14,House,"On motion to suspend the rules and pass the bill",403,2,0,25,430
+1271933,983519,2020-12-16,House,"On motion to suspend the rules and pass the bill",380,0,0,49,429
+1271975,889903,2019-07-25,House,"On passage RC# 511",284,149,0,0,433
+1271975,889904,2019-07-25,House,"On agreeing to the Massie amendment to the title (A001) H.Amdt.605 RC# 512",47,384,1,0,432
+1271975,889952,2019-08-01,Senate,"Amendment SA 932, under the order of 7/30/19, not having achieved 60 votes in the affirmative, was S.Amdt.932 RC# 260",23,70,7,0,100
+1271975,889953,2019-08-01,Senate,"Passed Senate without amendment RC# 262",67,28,5,0,100
+1271975,889954,2019-08-01,Senate,"Cloture on the measure RC# 261",67,27,6,0,100
+1272217,916177,2020-02-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 35",355,62,0,12,429
+1272269,916219,2020-02-05,House,"On motion to suspend the rules and pass the bill RC# 36",373,45,0,11,429
+1272912,900986,2019-12-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 685",408,1,21,0,430
+1274283,894367,2019-09-18,House,"On motion to suspend the rules and pass the bill RC# 535",417,1,16,0,434
+1274980,894452,2019-09-19,House,"On passage RC# 538",301,123,10,0,434
+1274980,894782,2019-09-26,Senate,"Amendment SA 942 S.Amdt.942 RC# 310",24,73,3,0,100
+1274980,894783,2019-09-26,Senate,"Passed Senate without amendment RC# 311",81,16,3,0,100
+1275723,941931,2020-03-03,House,"On motion to suspend the rules and pass the bill, as amended RC# 82",374,16,0,39,429
+1276972,906618,2020-01-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 24",385,8,0,36,429
+1277286,900077,2019-12-09,House,"On motion to suspend the rules and pass the bill RC# 655",393,1,36,0,430
+1277881,899632,2019-11-20,House,"On motion to suspend the rules and pass the bill RC# 636",417,0,14,0,431
+1286766,983018,2020-12-04,House,"On motion to suspend the rules and pass the bill",265,124,0,41,430
+1287833,900150,2019-12-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 659",319,96,15,0,430
+1291686,901107,2019-12-19,House,"On passage RC# 701",385,41,0,5,431
+1291686,903459,2020-01-16,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure RC# 13",78,21,0,1,100
+1291686,903460,2020-01-16,Senate,"Passed Senate without amendment RC# 14",89,10,0,1,100
+1292586,981715,2020-11-16,House,"On motion to suspend the rules and pass the bill",394,0,0,35,429
+1313199,911132,2020-01-29,House,"On motion to suspend the rules and pass the bill RC# 32",320,88,0,21,429
+1356052,943128,2020-03-04,House,"On motion to suspend the rules and pass the bill RC# 86",415,2,0,13,430
+1356052,944603,2020-03-05,Senate,"Motion to table amendment SA 1506 S.Amdt.1506 RC# 65",81,15,0,4,100
+1356052,944604,2020-03-05,Senate,"Passed Senate, under the order of 3/4/20, having achieved 60 votes in the affirmative, without amendment RC# 66",96,1,0,3,100
+1359175,951976,2020-03-14,House,"On motion to suspend the rules and pass the bill, as amended RC# 102",363,40,1,26,430
+1359175,953296,2020-03-18,Senate,"Amendment SA 1556, under the order of 3/18/20, not having achieved 60 votes in the affirmative, was S.Amdt.1556 RC# 73",3,95,0,2,100
+1359175,953297,2020-03-18,Senate,"Amendment SA 1559, under the order of 3/18/20, not having achieved 60 votes in the affirmative, was S.Amdt.1559 RC# 74",47,51,0,2,100
+1359175,953298,2020-03-18,Senate,"Amendment SA 1558, under the order of 3/18/20, not having achieved 60 votes in the affirmative, was S.Amdt.1558 RC# 75",50,48,0,2,100
+1359175,953299,2020-03-18,Senate,"Passed Senate, under the order of 3/18/20, having achieved 60 votes in the affirmative, without amendment RC# 76",90,8,0,2,100
+1361898,972288,2020-07-20,House,"On agreeing to the Escobar amendment (A002) H.Amdt.833 RC# 141",215,190,0,24,429
+1361898,972289,2020-07-20,House,"On agreeing to the McAdams amendment (A003) H.Amdt.834 RC# 142",227,179,0,23,429
+1361898,972290,2020-07-20,House,"On agreeing to the Smith (WA) amendments (A010) H.Amdt.841 RC# 143",336,71,0,22,429
+1361898,972740,2020-07-21,House,"On agreeing to the Jayapal amendment (A005) H.Amdt.836 RC# 145",173,241,0,16,430
+1361898,972741,2020-07-21,House,"On agreeing to the Omar amendment (A004) H.Amdt.835 RC# 144",129,284,0,17,430
+1361898,972742,2020-07-21,House,"On agreeing to the DeGette amendment (A006) H.Amdt.837 RC# 146",234,179,0,17,430
+1361898,972743,2020-07-21,House,"On agreeing to the Neguse amendment (A007) H.Amdt.838 RC# 147",234,181,0,15,430
+1361898,972744,2020-07-21,House,"On motion to recommit with instructions RC# 151",201,219,0,10,430
+1361898,972745,2020-07-21,House,"On agreeing to the Takano amendment (A014) H.Amdt.845 RC# 150",232,184,0,14,430
+1361898,972746,2020-07-21,House,"On agreeing to the Dean amendment (A009) H.Amdt.840 RC# 149",217,198,0,15,430
+1361898,972747,2020-07-21,House,"On agreeing to the Pocan amendment (A008) H.Amdt.839 RC# 148",93,324,0,13,430
+1361898,972748,2020-07-21,House,"On passage RC# 152",295,125,0,10,430
+1361898,981885,2020-11-18,House,"On motion to close portions of the conference",396,8,0,25,429
+1361898,983110,2020-12-08,House,"On agreeing to the conference report",335,78,1,16,430
+1361898,983249,2020-12-11,Senate,"Cloture on the conference report to accompany H.R. 6395 RC# 263",84,13,0,3,100
+1361898,983250,2020-12-11,Senate,"Senate agreed to conference report RC# 264",84,13,0,3,100
+1361898,984004,2020-12-28,House,"Two-thirds of the Members present having voted in the affirmative the bill is passed, the objections of the President to the contrary notwithstanding.",322,87,0,21,430
+1361898,984101,2020-12-30,Senate,"Motion to proceed to consideration of the veto message on H.R. 6395 RC# 290",80,12,0,8,100
+1361898,984105,2021-01-01,Senate,"Cloture on the veto message RC# 291",80,12,0,8,100
+1361898,984106,2021-01-01,Senate,"Passed Senate over veto RC# 292",81,13,0,6,100
+1366003,961077,2020-05-27,House,"On motion to suspend the rules and pass the bill RC# 110",413,1,0,17,431
+1367424,961483,2020-05-28,House,"On motion to suspend the rules and pass the bill, as amended RC# 114",417,1,0,13,431
+1378761,978938,2020-09-22,House,"On motion to suspend the rules and pass the bill",359,57,1,14,431
+1378761,979229,2020-09-24,Senate,"Motion to proceed to consideration of measure RC# 195",93,2,0,5,100
+1378761,979451,2020-09-29,Senate,"Cloture on the measure RC# 196",82,6,0,12,100
+1378761,979540,2020-09-30,Senate,"Passed Senate without amendment RC# 197",84,10,0,6,100
+1378864,983114,2020-12-08,House,"On motion to suspend the rules and pass the bill, as amended",400,1,0,28,429
+1385782,983136,2020-12-09,House,"On motion to suspend the rules and pass the bill",343,67,0,19,429
+1388535,983721,2020-12-18,House,"On motion to suspend the rules and pass the resolution",320,60,0,49,429
+1388548,983742,2020-12-20,House,"On motion to suspend the rules and pass the resolution",329,65,0,35,429

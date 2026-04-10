@@ -1,0 +1,1527 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+896635,567284,2017-01-11,House,"On passage RC# 45",238,183,13,0,434
+896635,567286,2017-01-11,House,"On motion to recommit with instructions RC# 44",190,233,11,0,434
+896635,567287,2017-01-11,House,"On agreeing to the Grijalva amendment (A014) H.Amdt.29 RC# 43",185,236,13,0,434
+896635,567288,2017-01-11,House,"On agreeing to the Tonko amendment (A013) H.Amdt.28 RC# 42",188,235,11,0,434
+896635,567289,2017-01-11,House,"On agreeing to the Scott (VA) amendment (A012) H.Amdt.27 RC# 41",195,227,12,0,434
+896635,567290,2017-01-11,House,"On agreeing to the Ruiz amendment (A011) H.Amdt.26 RC# 40",190,233,11,0,434
+896635,567291,2017-01-11,House,"On agreeing to the Johnson (GA) amendment (A010) H.Amdt.25 RC# 39",188,234,12,0,434
+896635,567292,2017-01-11,House,"On agreeing to the Cicilline amendment (A009) H.Amdt.24 RC# 38",190,232,12,0,434
+896635,567293,2017-01-11,House,"On agreeing to the Castor (FL) amendment (A008) H.Amdt.23 RC# 37",189,231,14,0,434
+896635,567294,2017-01-11,House,"On agreeing to the Peterson amendment (A005) H.Amdt.20 RC# 36",260,161,13,0,434
+896635,567295,2017-01-11,House,"On agreeing to the Goodlatte amendment (A001) H.Amdt.16 RC# 35",237,185,12,0,434
+896636,686215,2018-01-18,House,"On motion the House agree with an amendment to the Senate amendment RC# 33",230,197,4,0,431
+896636,686216,2018-01-18,Senate,"Motion to proceed to consideration of the House message to accompany H.R. 195 RC# 13",97,2,1,0,100
+896636,686481,2018-01-20,Senate,"Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 195 with instructions to report back forthwith with the following amendment (SA 1905) tabled in Senate RC# 15",55,44,1,0,100
+896636,686482,2018-01-22,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 195 RC# 14",50,49,1,0,100
+896636,687025,2018-01-22,House,"On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment RC# 44",266,150,14,0,430
+896636,687026,2018-01-22,Senate,"Senate concurred in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) RC# 17",81,18,1,0,100
+896636,687028,2018-01-22,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) RC# 16",81,18,1,0,100
+896645,566974,2017-01-05,House,"On Agreeing to the Resolution",342,80,11,0,433
+896659,677522,2017-10-03,House,"On passage RC# 549",237,189,7,0,433
+896659,677523,2017-10-03,House,"On motion to recommit with instructions RC# 548",187,238,8,0,433
+896661,567329,2017-01-11,House,"On motion to suspend the rules and pass the bill RC# 34",386,17,31,0,434
+896664,567026,2017-01-05,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 8 rejected in Senate S.Amdt.8 RC# 2",48,52,0,0,100
+896664,567027,2017-01-04,Senate,"Motion to proceed to consideration of measure RC# 1",51,48,1,0,100
+896664,567076,2017-01-09,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 20 rejected in Senate S.Amdt.20 RC# 4",49,47,4,0,100
+896664,567077,2017-01-09,Senate,"Amendment SA 1 S.Amdt.1 RC# 3",14,83,3,0,100
+896664,567174,2017-01-10,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 52 rejected in Senate S.Amdt.52 RC# 5",31,67,2,0,100
+896664,567189,2017-01-10,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 19 rejected in Senate S.Amdt.19 RC# 6",49,49,2,0,100
+896664,567304,2017-01-12,Senate,"Resolution RC# 26",51,48,1,0,100
+896664,567307,2017-01-12,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 86 rejected in Senate S.Amdt.86 RC# 25",49,49,2,0,100
+896664,567308,2017-01-12,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 180 rejected in Senate S.Amdt.180 RC# 24",51,47,2,0,100
+896664,567309,2017-01-12,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 82 rejected in Senate S.Amdt.82 RC# 23",49,49,2,0,100
+896664,567310,2017-01-12,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 184 rejected in Senate S.Amdt.184 RC# 22",52,46,2,0,100
+896664,567311,2017-01-11,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 188 rejected in Senate S.Amdt.188 RC# 21",47,51,2,0,100
+896664,567312,2017-01-11,Senate,"Amendment SA 178 S.Amdt.178 RC# 20",46,52,2,0,100
+896664,567313,2017-01-11,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 174 rejected in Senate S.Amdt.174 RC# 19",49,49,2,0,100
+896664,567314,2017-01-11,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 83 rejected in Senate S.Amdt.83 RC# 18",48,50,2,0,100
+896664,567315,2017-01-11,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 179 rejected in Senate S.Amdt.179 RC# 17",51,47,2,0,100
+896664,567316,2017-01-11,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 181 rejected in Senate S.Amdt.181 RC# 16",47,51,2,0,100
+896664,567317,2017-01-11,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 61 rejected in Senate S.Amdt.61 RC# 15",49,49,2,0,100
+896664,567318,2017-01-11,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 104 rejected in Senate S.Amdt.104 RC# 14",48,50,2,0,100
+896664,567319,2017-01-11,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 176 rejected in Senate S.Amdt.176 RC# 13",50,48,2,0,100
+896664,567320,2017-01-11,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 81 rejected in Senate S.Amdt.81 RC# 12",48,50,2,0,100
+896664,567321,2017-01-11,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 167 rejected in Senate S.Amdt.167 RC# 11",51,47,2,0,100
+896664,567322,2017-01-11,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 64 rejected in Senate S.Amdt.64 RC# 10",51,47,2,0,100
+896664,567323,2017-01-11,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 173 rejected in Senate S.Amdt.173 RC# 9",51,47,2,0,100
+896664,567324,2017-01-11,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 60 rejected in Senate S.Amdt.60 RC# 8",48,50,2,0,100
+896664,567325,2017-01-11,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 13 rejected in Senate S.Amdt.13 RC# 7",47,51,2,0,100
+896664,567638,2017-01-13,House,"On agreeing to the resolution RC# 58",227,198,10,0,435
+896664,567640,2017-01-13,House,"On agreeing to the Yarmuth amendment (A001) H.Amdt.44 RC# 57",149,272,13,0,434
+896666,769997,2018-07-13,House,"On passage RC# 328",230,168,30,0,428
+896666,769998,2018-07-13,House,"On motion to recommit with instructions RC# 327",180,219,29,0,428
+896672,769978,2018-07-11,House,"On passage RC# 321",222,193,13,0,428
+896672,769979,2018-07-11,House,"On motion to recommit with instructions RC# 320",187,228,13,0,428
+896691,671416,2017-06-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 330",424,1,8,0,433
+896703,680050,2017-12-06,House,"On Passage",231,198,4,0,433
+896703,680051,2017-12-06,House,"On Motion to Recommit with Instructions",190,236,6,0,432
+896705,675327,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+896705,676255,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+896705,781220,2018-12-20,House,"On motion that the House agree with an amendment to the RC# 470",220,183,29,0,432
+896709,566979,2017-01-04,House,"On passage RC# 8",238,184,11,0,433
+896709,566981,2017-01-04,House,"On motion to recommit with instructions RC# 7",183,236,14,0,433
+896723,567178,2017-01-10,House,"On passage RC# 31",344,73,17,0,434
+896723,567193,2017-01-10,House,"On agreeing to the Clay amendment H.Amdt.15 RC# 30",163,253,18,0,434
+896723,567194,2017-01-10,House,"On agreeing to the Velazquez amendment (A001) H.Amdt.14 RC# 29",167,249,18,0,434
+896753,604420,2017-03-15,House,"On motion to suspend the rules and pass the bill RC# 159",407,1,21,0,429
+896768,568140,2017-01-17,Senate,"Passed Senate without amendment RC# 28",99,0,1,0,100
+896778,739164,2018-04-16,House,"On Motion to Suspend the Rules and Pass, as Amended",383,2,44,0,429
+896806,566976,2017-01-05,House,"On passage RC# 23",237,187,9,0,433
+896806,566978,2017-01-05,House,"On motion to recommit with instructions RC# 22",190,235,8,0,433
+896806,566992,2017-01-05,House,"On agreeing to the King (IA) amendment (A012) H.Amdt.13 RC# 21",230,193,10,0,433
+896806,566993,2017-01-05,House,"On agreeing to the Scott (VA) amendment (A011) H.Amdt.12 RC# 20",193,232,8,0,433
+896806,566994,2017-01-05,House,"On agreeing to the McNerney amendment (A010) H.Amdt.11 RC# 19",190,235,8,0,433
+896806,566995,2017-01-05,House,"On agreeing to the Nadler amendment (A009) H.Amdt.10 RC# 18",194,231,8,0,433
+896806,566996,2017-01-05,House,"On agreeing to the Johnson (GA) amendment (A007) H.Amdt.8 RC# 17",190,234,9,0,433
+896806,566997,2017-01-05,House,"On agreeing to the Conyers amendment (A006) H.Amdt.7 RC# 16",192,231,10,0,433
+896806,566998,2017-01-05,House,"On agreeing to the Cicilline amendment (A005) H.Amdt.6 RC# 15",186,232,15,0,433
+896806,566999,2017-01-05,House,"On agreeing to the Castor (FL) amendment (A004) H.Amdt.5 RC# 14",190,233,10,0,433
+896806,567000,2017-01-05,House,"On agreeing to the Messer amendment (A002) H.Amdt.3 RC# 12",235,185,13,0,433
+896806,567014,2017-01-05,House,"On agreeing to the Grijalva amendment (A003) H.Amdt.4 RC# 13",193,230,10,0,433
+896829,567530,2017-01-12,House,"On passage RC# 51",243,184,7,0,434
+896829,567532,2017-01-12,House,"On motion to recommit with instructions RC# 50",195,232,7,0,434
+896829,567533,2017-01-12,House,"On agreeing to the Raskin amendment (A005) H.Amdt.43 RC# 49",196,231,7,0,434
+896829,567534,2017-01-12,House,"On agreeing to the DeSaulnier amendment (A004) H.Amdt.42 RC# 48",194,233,7,0,434
+896829,567535,2017-01-12,House,"On agreeing to the Green, Al amendment (A001) H.Amdt.39 RC# 46",192,233,9,0,434
+896829,567646,2017-01-12,House,"On agreeing to the Green, Al amendment (A003) H.Amdt.41 RC# 47",191,232,11,0,434
+896831,675556,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+896831,676391,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+896843,770104,2018-07-24,House,"On Passage",283,132,13,0,428
+896845,672965,2017-07-20,House,"On passage RC# 406",248,179,6,0,433
+896845,672966,2017-07-20,House,"On agreeing to the Grijalva amendment (A003) H.Amdt.212 RC# 405",167,260,6,0,433
+896845,672967,2017-07-20,House,"On agreeing to the Tsongas amendment (A001) H.Amdt.210 RC# 404",190,234,9,0,433
+896856,646502,2017-05-18,House,"On passage RC# 265",271,143,16,0,430
+896859,566955,2017-01-03,House,"On Agreeing to the Resolution",234,193,6,0,433
+896859,566957,2017-01-03,House,"Motion to Commit",193,236,4,0,433
+896859,566958,2017-01-03,House,"On Ordering the Previous Question",237,193,3,0,433
+896859,566959,2017-01-03,House,"Table Motion to Refer",228,184,21,0,433
+896865,672455,2017-07-12,House,"On passage RC# 352",230,190,13,0,433
+896865,672456,2017-07-12,House,"On motion to recommit with instructions RC# 351",189,230,14,0,433
+896865,672457,2017-07-12,House,"On agreeing to the DeSaulnier amendment (A005) H.Amdt.158 RC# 350",201,221,11,0,433
+896868,738371,2018-04-12,House,"On motion to suspend the rules and pass the resolution RC# 138",233,184,11,0,428
+898194,566986,2017-01-05,House,"On agreeing to the resolution RC# 10",231,187,15,0,433
+898194,566988,2017-01-05,House,"On ordering the previous question RC# 9",235,188,10,0,433
+898371,582822,2017-02-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 86",409,1,21,0,431
+898371,637769,2017-05-03,House,"On motion to agree in the Senate amendments numbered 2 and 3, and agree in Senate amendment numbered 1 with an amendment RC# 249",309,118,4,0,431
+898371,638631,2017-05-04,Senate,"Senate agreed to the House amendment to the Senate amendment numbered 1 to the bill (H.R. 244) RC# 121",79,18,3,0,100
+898518,567468,2017-01-12,House,"On passage RC# 54",239,182,13,0,434
+898518,567470,2017-01-12,House,"On motion to recommit with instructions RC# 53",190,235,9,0,434
+898518,567471,2017-01-12,House,"On agreeing to the Conaway amendment (A004) H.Amdt.34 RC# 52",236,191,7,0,434
+899751,767965,2018-06-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 289",382,0,45,0,427
+899756,775188,2018-10-01,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 302 RC# 219",90,7,3,0,100
+899756,775341,2018-10-03,Senate,"Senate agreed to the House amendment to the Senate amendment to H.R. 302 RC# 220",93,6,1,0,100
+899762,567078,2017-01-09,House,"On motion to suspend the rules and pass the bill RC# 25",404,0,29,0,433
+899804,567072,2017-01-09,House,"On motion to suspend the rules and pass the bill RC# 24",405,0,28,0,433
+899848,753838,2018-05-16,House,"On motion to suspend the rules and pass the bill RC# 187",407,0,20,0,427
+899964,578670,2017-02-06,House,"On motion to suspend the rules and pass the bill RC# 80",407,0,25,0,432
+902498,573133,2017-01-30,House,"On motion to suspend the rules and pass the bill RC# 66",388,0,44,0,432
+902514,610416,2017-03-22,House,"On passage RC# 184",416,7,6,0,429
+902514,610418,2017-03-22,House,"On motion to recommit with instructions RC# 183",189,233,7,0,429
+902526,567175,2017-01-10,House,"On agreeing to the resolution RC# 27",233,183,18,0,434
+902526,567177,2017-01-10,House,"On ordering the previous question RC# 26",234,179,21,0,434
+906061,583969,2017-02-14,House,"On passage RC# 92",250,171,10,0,431
+906071,617559,2017-04-03,Senate,"Passed Senate without amendment RC# 102",85,12,3,0,100
+906076,567274,2017-01-11,House,"On agreeing to the resolution RC# 33",233,170,31,0,434
+906076,567275,2017-01-11,House,"On ordering the previous question RC# 32",232,168,34,0,434
+906110,569827,2017-01-23,House,"On motion to suspend the rules and pass the bill RC# 60",398,5,31,0,434
+906140,567490,2017-01-12,Senate,"Passed Senate, having achieved 60 votes in the affirmative (pursuant to H.R. 2028, 114th Congress), without amendment RC# 27",81,17,2,0,100
+906140,567628,2017-01-13,House,"On passage RC# 59",268,151,15,0,434
+908929,677829,2017-10-11,House,"On motion to suspend the rules and pass the bill RC# 562",418,0,15,0,433
+908997,675471,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+908997,676167,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+911380,680181,2017-12-07,House,"On passage RC# 669",426,0,6,0,432
+911383,673033,2017-07-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 408",219,186,28,0,433
+911383,673279,2017-07-28,House,"On passage RC# 438",414,0,19,0,433
+911384,685046,2018-01-11,House,"On passage RC# 16",256,164,12,0,432
+911384,685047,2018-01-11,House,"On motion to commit with instructions RC# 15",189,227,15,0,431
+911384,685048,2018-01-11,House,"On agreeing to the Amash amendment (A002) H.Amdt.510 RC# 14",183,233,16,0,432
+911384,685131,2018-01-11,Senate,"Motion to proceed to consideration of the House message to accompany S. 139 RC# 10",68,27,5,0,100
+911384,685470,2018-01-16,Senate,"Cloture on the motion to concur in the House amendment to S. 139 RC# 11",60,38,2,0,100
+911384,686235,2018-01-18,Senate,"Senate agreed to the House amendment to S. 139 RC# 12",65,34,1,0,100
+911408,671421,2017-06-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 329",424,0,9,0,433
+911410,684894,2018-01-10,House,"On passage RC# 11",239,173,19,0,431
+911410,740530,0000-00-00,Senate,"On the Cloture Motion S. 140",56,42,2,0,100
+911410,740531,2018-04-18,Senate,"On the Cloture Motion S. 140",56,42,2,0,100
+911410,740532,2018-04-16,Senate,"On the Cloture Motion S. 140",55,41,4,0,100
+911410,778619,2018-11-13,Senate,"Cloture on the motion to concur in the House amendment to S. 140 with the following amendment (SA 4054 as modified) RC# 240",93,5,2,0,100
+911410,778699,2018-11-14,Senate,"Amendment SA 4054 as modified S.Amdt.4054 RC# 241",94,6,0,0,100
+911410,778700,2018-11-14,Senate,"Senate concurred in the House amendment to S. 140 with an amendment (SA 4054 as modified) RC# 241",94,6,0,0,100
+911415,649490,2017-05-24,House,"On motion to suspend the rules and pass the bill RC# 278",419,0,11,0,430
+911468,685538,2018-01-16,House,"On motion to suspend the rules and pass the bill RC# 19",400,3,27,0,430
+911475,618201,2017-04-03,House,"On motion to suspend the rules and pass the bill, as amended RC# 210",394,1,34,0,429
+911480,678466,2017-10-25,House,"On passage RC# 588",234,187,11,0,432
+911480,678467,2017-10-25,House,"On agreeing to the Cartwright amendment (A005) H.Amdt.467 RC# 587",186,232,14,0,432
+911480,678468,2017-10-25,House,"On agreeing to the McEachin amendment (A004) H.Amdt.466 RC# 586",187,226,19,0,432
+911480,678469,2017-10-25,House,"On agreeing to the Johnson (GA) amendment (A003) H.Amdt.465 RC# 585",185,231,16,0,432
+911483,567648,2017-01-13,House,"On agreeing to the resolution RC# 56",235,188,11,0,434
+911483,567650,2017-01-13,House,"On ordering the previous question RC# 55",234,179,21,0,434
+913521,573679,2017-01-30,House,"On motion to suspend the rules and pass the bill, as amended RC# 67",396,8,28,0,432
+913598,570449,2017-01-24,House,"On passage RC# 65",238,183,11,0,432
+913598,570451,2017-01-24,House,"On motion to recommit with instructions RC# 64",187,235,10,0,432
+916362,569873,2017-01-23,House,"On motion to suspend the rules and pass the bill RC# 61",408,0,26,0,434
+916453,739280,2018-04-16,House,"On motion to suspend the rules and pass the bill RC# 141",384,1,44,0,429
+928569,753366,2018-05-15,House,"On motion to suspend the rules and pass the bill RC# 181",378,0,49,0,427
+928600,570492,2017-01-24,House,"On agreeing to the resolution RC# 63",236,183,13,0,432
+928600,570494,2017-01-24,House,"On ordering the previous question RC# 62",233,187,12,0,432
+928648,675234,2017-09-07,Senate,"Senate concurred in the House amendment to the Senate amendment numbered 6 to H.R. 601 with an amendment (SA 808) RC# 192",80,17,3,0,100
+928648,675236,2017-09-07,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 601 with an amendment (SA 808) RC# 191",79,18,3,0,100
+928648,675237,2017-09-07,Senate,"Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report the same back to the Senate with changes that (1) are in the jurisdiction of such committee; and (2) ",72,25,3,0,100
+928648,675238,2017-09-07,Senate,"Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report back forthwith with the following amendment (SA 816) tabled in Senate RC# 189",87,10,3,0,100
+928648,675276,2017-09-08,House,"On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment RC# 480",316,90,27,0,433
+931270,703330,2018-02-15,House,"On passage RC# 80",225,192,13,0,430
+931270,703331,2018-02-15,House,"On agreeing to the Langevin amendment H.Amdt.520 RC# 79",188,226,16,0,430
+931313,612789,2017-03-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 196",395,11,23,0,429
+931531,617674,0000-00-00,Senate,"On Passage of the Bill S. 89",85,12,3,0,100
+931572,593786,2017-02-27,House,"On motion to suspend the rules and pass the bill RC# 100",415,1,14,0,430
+931609,691091,2018-01-30,House,"On motion that the House agree with an amendment to the Senate amendments RC# 49",250,166,14,0,430
+931609,697942,2018-02-08,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 695 RC# 29",55,44,1,0,100
+931609,781225,2018-12-20,House,"On motion that the House agree with an amendment to the Senate amendment to the House amendment to the Senate RC# 472",217,185,31,0,433
+931609,781267,2018-12-21,Senate,"Motion to proceed to consideration of the House message to accompany H.R. 695 RC# 274",47,47,6,0,100
+931628,755335,2018-05-22,House,"On passage RC# 214",250,169,8,0,427
+931628,755336,2018-05-22,House,"On motion to recommit with instructions RC# 213",187,231,9,0,427
+931633,635821,2017-05-01,House,"On motion to suspend the rules and pass the bill, as amended RC# 239",407,0,23,0,430
+931636,579045,2017-02-06,House,"On motion to suspend the rules and pass the bill RC# 79",409,1,22,0,432
+931662,604364,2017-03-15,House,"On motion to suspend the rules and pass the bill RC# 160",408,0,21,0,429
+936393,608496,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 69",52,47,1,0,100
+937963,579119,2017-02-07,House,"On passage RC# 83",234,186,12,0,432
+937963,599322,2017-03-07,Senate,"Passed Senate without amendment RC# 82",51,48,1,0,100
+937965,576752,2017-02-03,House,"On passage RC# 78",221,191,20,0,432
+937965,642422,2017-05-10,Senate,"Motion to proceed to consideration of measure rejected in Senate RC# 125",49,51,0,0,100
+937970,601372,2017-03-10,House,"On passage RC# 158",230,188,11,0,429
+937970,601374,2017-03-10,House,"On motion to recommit with instructions RC# 157",186,232,11,0,429
+937970,601375,2017-03-10,House,"On agreeing to the Jeffries amendment (A004) H.Amdt.79 RC# 156",189,229,11,0,429
+937970,601376,2017-03-10,House,"On agreeing to the Conyers amendment (A003) H.Amdt.78 RC# 155",190,227,12,0,429
+937970,601377,2017-03-10,House,"On agreeing to the Jackson Lee amendment (A002) H.Amdt.77 RC# 154",185,225,19,0,429
+937970,601378,2017-03-10,House,"On agreeing to the Soto amendment (A001) H.Amdt.76 RC# 153",181,225,23,0,429
+937974,585166,2017-02-15,House,"On passage RC# 97",236,189,6,0,431
+937974,603451,2017-03-14,Senate,"Passed Senate without amendment RC# 87",51,48,1,0,100
+937990,574783,2017-02-01,House,"On passage RC# 73",228,194,10,0,432
+937990,574785,2017-02-01,Senate,"Motion to proceed to consideration of measure RC# 42",56,42,2,0,100
+937990,575979,2017-02-02,Senate,"Passed Senate without amendment RC# 43",54,45,1,0,100
+937993,586575,2017-02-16,House,"On passage RC# 99",230,188,12,0,430
+937993,616235,2017-03-30,Senate,"Passed Senate without amendment RC# 101",50,50,0,0,100
+937993,616236,2017-03-30,Senate,"Motion to proceed to consideration of measure RC# 100",50,50,0,0,100
+938000,598263,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 37",49,48,3,0,100
+938031,608568,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 69",52,47,1,0,100
+938044,574720,2017-02-01,House,"On agreeing to the resolution RC# 71",231,191,10,0,432
+938044,574722,2017-02-01,House,"On ordering the previous question RC# 70",231,191,10,0,432
+938048,600815,2017-03-09,House,"On passage RC# 152",224,194,11,0,429
+938048,600817,2017-03-09,House,"On motion to recommit with instructions RC# 151",187,233,9,0,429
+938048,600818,2017-03-09,House,"On agreeing to the Cartwright amendment (A002) H.Amdt.67 RC# 150",187,229,13,0,429
+938048,600819,2017-03-09,House,"On agreeing to the Soto amendment (A001) H.Amdt.66 RC# 149",189,233,7,0,429
+938054,573802,2017-01-31,House,"On agreeing to the resolution RC# 69",236,186,10,0,432
+938054,573804,2017-01-31,House,"On ordering the previous question RC# 68",236,183,13,0,432
+938059,678337,2017-10-24,House,"On passage RC# 580",238,183,11,0,432
+938059,678338,2017-10-24,House,"On agreeing to the Conyers amendment (A006) H.Amdt.462 RC# 579",191,229,12,0,432
+938059,678339,2017-10-24,House,"On agreeing to the Cicilline amendment (A005) H.Amdt.461 RC# 578",189,231,12,0,432
+938059,678340,2017-10-24,House,"On agreeing to the Jackson Lee amendment (A004) H.Amdt.460 RC# 577",185,234,13,0,432
+938059,678341,2017-10-24,House,"On agreeing to the Johnson (GA) amendment (A003) H.Amdt.459 RC# 576",183,235,14,0,432
+938059,678342,2017-10-24,House,"On agreeing to the Cohen amendment (A002) H.Amdt.458 RC# 575",187,233,12,0,432
+938068,645775,0000-00-00,Senate,"On the Motion to Proceed H.J.Res. 36",49,51,0,0,100
+938080,575861,2017-02-02,House,"On passage RC# 76",236,187,9,0,432
+938080,596723,2017-03-02,Senate,"Motion to proceed to consideration of measure RC# 80",51,46,3,0,100
+938080,598296,2017-03-06,Senate,"Passed Senate without amendment RC# 81",49,48,3,0,100
+938083,575870,2017-02-02,House,"On passage RC# 77",235,180,17,0,432
+938083,585399,2017-02-15,Senate,"Passed Senate without amendment RC# 66",57,43,0,0,100
+938089,574746,2017-02-01,House,"On passage RC# 72",235,187,10,0,432
+938089,576012,2017-02-02,Senate,"Motion to proceed to consideration of measure RC# 50",52,48,0,0,100
+938089,576749,2017-02-03,Senate,"Passed Senate without amendment RC# 51",52,47,1,0,100
+940216,695907,2018-02-06,House,"On passage RC# 56",266,157,7,0,430
+940236,575872,2017-02-02,House,"On agreeing to the resolution RC# 75",232,190,10,0,432
+940236,575874,2017-02-02,House,"On ordering the previous question RC# 74",230,188,14,0,432
+940236,598340,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 37",49,48,3,0,100
+940236,645739,0000-00-00,Senate,"On the Motion to Proceed H.J.Res. 36",49,51,0,0,100
+940349,781231,2018-12-20,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 462",386,6,40,0,432
+942338,608499,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 69",52,47,1,0,100
+942351,579880,2017-02-07,House,"On passage RC# 85",240,181,11,0,432
+942351,599930,2017-03-08,Senate,"Passed Senate without amendment RC# 83",59,40,1,0,100
+942386,672826,2017-07-18,House,"On passage RC# 391",229,199,5,0,433
+942386,672827,2017-07-18,House,"On motion to recommit with instructions RC# 390",191,235,7,0,433
+942386,672828,2017-07-18,House,"On agreeing to the McNerney amendment (A005) H.Amdt.202 RC# 389",190,236,7,0,433
+942386,672829,2017-07-18,House,"On agreeing to the Polis amendment (A004) H.Amdt.201 RC# 388",186,242,5,0,433
+942386,672830,2017-07-18,House,"On agreeing to the Beyer amendment (A003) H.Amdt.200 RC# 387",191,235,7,0,433
+942386,672831,2017-07-18,House,"On agreeing to the Tonko amendment (A002) H.Amdt.199 RC# 386",182,241,10,0,433
+942386,672832,2017-07-18,House,"On agreeing to the Castor (FL) amendment (A001) H.Amdt.198 RC# 385",194,232,7,0,433
+942392,579604,2017-02-07,House,"On passage RC# 84",234,190,8,0,432
+942392,600761,2017-03-09,Senate,"Passed Senate without amendment RC# 84",50,49,1,0,100
+942502,679611,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+944650,724681,2018-03-19,House,"On motion to suspend the rules and pass the bill RC# 115",385,3,41,0,429
+945845,593825,2017-02-27,House,"On motion to suspend the rules and pass the bill RC# 102",369,42,19,0,430
+946048,678694,2017-11-02,House,"On passage RC# 604",307,111,14,0,432
+947660,675540,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+947660,676360,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+947851,633766,2017-04-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 223",409,0,21,0,430
+947878,579156,2017-02-07,House,"On agreeing to the resolution RC# 82",233,186,13,0,432
+947878,579158,2017-02-07,House,"On ordering the previous question RC# 81",234,187,11,0,432
+947878,599971,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 58",59,40,1,0,100
+947883,617729,2017-04-03,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 209",398,3,28,0,429
+950379,586564,2017-02-16,House,"On passage RC# 98",225,193,12,0,430
+950379,608603,2017-03-21,Senate,"Passed Senate without amendment RC# 92",52,47,1,0,100
+950594,635786,2017-05-01,House,"On motion to suspend the rules and pass the bill, as amended RC# 237",405,2,23,0,430
+950684,585369,2017-02-15,House,"On passage RC# 95",234,191,6,0,431
+950684,616115,2017-03-30,Senate,"Passed Senate without amendment RC# 99",50,49,1,0,100
+950734,675381,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+950734,676322,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+950743,649463,2017-05-24,House,"On passage RC# 282",256,165,9,0,430
+950743,649464,2017-05-24,House,"On motion to recommit with instructions RC# 281",183,230,17,0,430
+950743,649465,2017-05-24,House,"On agreeing to the Huffman amendment (A002) H.Amdt.119 RC# 280",189,230,11,0,430
+950743,649466,2017-05-24,House,"On agreeing to the Esty (CT) amendment (A001) H.Amdt.118 RC# 279",191,229,10,0,430
+950754,585363,2017-02-15,House,"On passage RC# 96",231,193,7,0,431
+950754,637774,2017-05-03,Senate,"Passed Senate without amendment RC# 120",50,49,1,0,100
+950754,637775,2017-05-03,Senate,"Motion to proceed to consideration of measure RC# 119",51,48,1,0,100
+950760,583349,2017-02-13,House,"On motion to suspend the rules and pass the bill RC# 87",407,0,24,0,431
+950804,677469,2017-10-02,House,"On motion to suspend the rules and pass the bill, as amended RC# 545",401,0,32,0,433
+950838,583988,2017-02-14,House,"On agreeing to the resolution RC# 89",225,187,19,0,431
+950838,583990,2017-02-14,House,"On ordering the previous question RC# 88",225,189,17,0,431
+950838,604180,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 42",51,48,1,0,100
+956972,594943,2017-02-28,House,"On agreeing to the Krishnamoorthi amendment (A007) H.Amdt.51 RC# 108",192,230,8,0,430
+956972,594944,2017-02-28,House,"On agreeing to the Krishnamoorthi amendment (A006) H.Amdt.50 RC# 107",189,234,7,0,430
+956972,594945,2017-02-28,House,"On agreeing to the Plaskett amendment (A004) H.Amdt.48 RC# 106",181,243,6,0,430
+956972,594946,2017-02-28,House,"On agreeing to the DeSaulnier amendment (A002) H.Amdt.46 RC# 105",348,75,7,0,430
+956972,595908,2017-03-01,House,"On passage RC# 114",240,185,4,0,429
+956972,595910,2017-03-01,House,"On motion to recommit with instructions RC# 113",190,235,4,0,429
+956972,595911,2017-03-01,House,"On agreeing to the Cummings amendment (A012) H.Amdt.56 RC# 112",194,231,4,0,429
+956972,595912,2017-03-01,House,"On agreeing to the Moore amendment (A011) H.Amdt.55 RC# 111",197,229,3,0,429
+956972,595913,2017-03-01,House,"On agreeing to the Raskin amendment (A010) H.Amdt.54 RC# 110",189,231,9,0,429
+956972,595914,2017-03-01,House,"On agreeing to the Bonamici amendment (A008) H.Amdt.52 RC# 109",191,235,3,0,429
+957014,600749,2017-03-09,House,"On passage RC# 148",220,201,8,0,429
+957014,600751,2017-03-09,House,"On motion to recommit with instructions RC# 147",188,234,7,0,429
+957014,600752,2017-03-09,House,"On agreeing to the Espaillat amendment (A008) H.Amdt.75 RC# 146",193,228,8,0,429
+957014,600753,2017-03-09,House,"On agreeing to the Jackson Lee amendment (A007) H.Amdt.74 RC# 145",193,229,7,0,429
+957014,600754,2017-03-09,House,"On agreeing to the Conyers amendment (A006) H.Amdt.73 RC# 144",191,230,8,0,429
+957014,600755,2017-03-09,House,"On agreeing to the Johnson (GA) amendment (A005) H.Amdt.72 RC# 143",190,230,9,0,429
+957014,600756,2017-03-09,House,"On agreeing to the Soto amendment (A004) H.Amdt.71 RC# 142",192,230,7,0,429
+957014,600757,2017-03-09,House,"On agreeing to the Deutch amendment (A003) H.Amdt.70 RC# 141",189,228,12,0,429
+957014,600758,2017-03-09,House,"On agreeing to the Deutch amendment (A002) H.Amdt.69 RC# 140",182,227,20,0,429
+959949,583994,2017-02-14,House,"On agreeing to the resolution RC# 91",227,188,16,0,431
+959949,583996,2017-02-14,House,"On ordering the previous question RC# 90",227,188,16,0,431
+959954,596743,2017-03-02,House,"On passage RC# 126",246,176,7,0,429
+959954,596745,2017-03-02,House,"On motion to recommit with instructions RC# 125",189,232,8,0,429
+959954,596746,2017-03-02,House,"On agreeing to the Jackson Lee amendment (A003) H.Amdt.65 RC# 124",189,232,8,0,429
+959954,596747,2017-03-02,House,"On agreeing to the Farenthold amendment (A002) H.Amdt.64 RC# 123",263,145,21,0,429
+959954,596748,2017-03-02,House,"On agreeing to the Jackson Lee amendment (A001) H.Amdt.63 RC# 122",180,234,15,0,429
+959968,595898,2017-03-01,House,"On passage RC# 120",241,184,4,0,429
+959968,595900,2017-03-01,House,"On motion to recommit with instructions RC# 119",193,234,2,0,429
+959968,595901,2017-03-01,House,"On agreeing to the Connolly amendment (A006) H.Amdt.62 RC# 118",188,234,7,0,429
+959968,595902,2017-03-01,House,"On agreeing to the Young (IA) amendment (A003) H.Amdt.59 RC# 117",265,158,6,0,429
+960007,679620,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+961628,647089,2017-05-19,House,"On passage RC# 268",229,177,24,0,430
+961628,647090,2017-05-19,House,"On agreeing to the Jackson Lee amendment (A001) H.Amdt.117 RC# 267",178,229,23,0,430
+961641,585419,2017-02-15,House,"On agreeing to the resolution RC# 94",233,188,10,0,431
+961641,585421,2017-02-15,House,"On ordering the previous question RC# 93",233,190,8,0,431
+961641,608547,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 69",52,47,1,0,100
+961659,770067,2018-07-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 338",414,0,14,0,428
+963806,702786,2018-02-14,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 75",411,0,19,0,430
+963811,678760,2017-11-06,House,"On motion to suspend the rules and pass the bill RC# 608",399,0,33,0,432
+963854,679592,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+965737,697841,2018-02-08,House,"On passage RC# 64",280,131,19,0,430
+965759,645851,2017-05-17,House,"On motion to suspend the rules and pass the bill RC# 262",418,1,11,0,430
+965764,610317,2017-03-22,House,"On passage RC# 186",236,175,18,0,429
+965764,610319,2017-03-22,House,"On motion to recommit with instructions RC# 185",179,233,17,0,429
+965796,672794,2017-07-17,House,"On motion to suspend the rules and pass the resolution, as amended RC# 381",399,5,29,0,433
+965804,681238,2017-12-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 700",411,0,20,0,431
+965821,605319,2017-03-16,House,"On passage RC# 169",240,175,14,0,429
+965823,675359,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+965823,676290,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+965826,675455,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+965826,676156,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+965850,637197,2017-05-02,House,"On passage RC# 244",229,197,4,0,430
+965850,637198,2017-05-02,House,"On motion to recommit with instructions RC# 243",192,234,4,0,430
+965870,719919,2018-03-08,House,"On passage RC# 101",215,189,26,0,430
+965870,719920,2018-03-08,House,"On motion to recommit with instructions RC# 100",181,225,24,0,430
+965883,612943,2017-03-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 195",408,0,21,0,429
+965887,722917,2018-03-14,House,"On passage RC# 108",247,169,14,0,430
+965887,722918,2018-03-14,House,"On motion to recommit with instructions RC# 107",182,232,16,0,430
+965920,675427,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+965920,676130,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+966106,603506,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 42",51,48,1,0,100
+966133,679609,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+969713,595838,2017-03-01,House,"On passage RC# 121",231,191,7,0,429
+969713,610164,2017-03-22,Senate,"Passed Senate without amendment RC# 93",50,48,2,0,100
+976602,671411,2017-06-28,House,"On passage RC# 337",218,210,6,0,434
+976602,671412,2017-06-28,House,"On motion to recommit with instructions RC# 336",191,235,7,0,433
+976602,671413,2017-06-28,House,"On agreeing to the Barr amendment (A005) H.Amdt.153 RC# 335",116,310,7,0,433
+976602,671414,2017-06-28,House,"On agreeing to the Hudson amendment (A004) H.Amdt.152 RC# 334",222,197,14,0,433
+977686,710689,2018-02-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 81",394,7,29,0,430
+977686,781164,2018-12-19,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 436",355,7,70,0,432
+977694,621042,2017-04-06,House,"On passage RC# 221",417,3,9,0,429
+977720,595005,2017-02-28,House,"On agreeing to the resolution RC# 104",225,188,17,0,430
+977720,595007,2017-02-28,House,"On ordering the previous question RC# 103",224,191,15,0,430
+977720,610187,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 83",50,48,2,0,100
+978914,595865,2017-03-01,House,"On agreeing to the resolution RC# 116",234,180,15,0,429
+978914,595867,2017-03-01,House,"On ordering the previous question RC# 115",233,189,7,0,429
+978946,608105,2017-03-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 175",407,1,21,0,429
+978947,610169,2017-03-22,House,"On motion to suspend the rules and pass the bill RC# 187",406,6,17,0,429
+978951,607897,2017-03-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 174",409,0,20,0,429
+978964,605453,2017-03-16,House,"On passage RC# 168",237,178,14,0,429
+978964,605455,2017-03-16,House,"On motion to recommit with instructions RC# 167",189,229,11,0,429
+978964,605456,2017-03-16,House,"On agreeing to the Takano amendment (A007) H.Amdt.87 RC# 166",183,232,14,0,429
+978964,605457,2017-03-16,House,"On agreeing to the Walz amendment (A002) H.Amdt.82 RC# 165",194,223,12,0,429
+980652,608092,2017-03-20,House,"On motion to suspend the rules and pass the bill RC# 173",408,0,21,0,429
+980659,608490,2017-03-21,House,"On motion to suspend the rules and pass the bill RC# 181",415,0,14,0,429
+980670,770007,2018-07-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 333",406,4,18,0,428
+982101,678282,2017-10-23,House,"On motion to suspend the rules and pass the bill RC# 570",401,2,29,0,432
+982116,599938,2017-03-08,House,"On passage RC# 136",371,48,10,0,429
+982119,600256,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 58",59,40,1,0,100
+982130,620175,2017-04-05,House,"On passage RC# 220",400,16,13,0,429
+982151,781266,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 493",361,10,61,0,432
+982155,634787,2017-04-27,House,"On motion to suspend the rules and pass the bill RC# 231",417,3,10,0,430
+982178,618641,2017-04-04,House,"On passage RC# 216",331,87,11,0,429
+982178,618642,2017-04-04,House,"On motion to recommit with instructions RC# 215",185,228,16,0,429
+982180,608798,2017-03-21,House,"On motion to suspend the rules and pass the bill RC# 178",414,2,13,0,429
+982200,610130,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 83",50,48,2,0,100
+982204,635792,2017-05-01,House,"On motion to suspend the rules and pass the bill, as amended RC# 238",406,0,24,0,430
+984899,611679,2017-03-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 193",424,0,5,0,429
+984910,681244,2017-12-21,House,"On motion that the House agree with an amendment to the RC# 708",231,188,13,0,432
+984910,681245,2017-12-21,Senate,"Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 1370 RC# 325",66,32,2,0,100
+984910,681246,2017-12-21,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment) RC# 324",91,8,1,0,100
+984914,599414,2017-03-07,House,"On motion to suspend the rules and pass the bill RC# 127",411,2,16,0,429
+984918,690071,2018-01-29,House,"On motion to suspend the rules and pass the bill, as amended RC# 45",406,3,21,0,430
+984925,606056,2017-03-17,House,"On passage RC# 171",412,0,17,0,429
+984925,606058,2017-03-17,House,"On agreeing to the Hanabusa amendment (A011) H.Amdt.98 RC# 170",400,8,21,0,429
+986100,600004,2017-03-08,House,"On agreeing to the resolution RC# 130",235,185,9,0,429
+986100,600006,2017-03-08,House,"On ordering the previous question RC# 129",230,184,15,0,429
+986117,600013,2017-03-08,House,"On agreeing to the resolution RC# 133",233,185,11,0,429
+986117,600015,2017-03-08,House,"On ordering the previous question RC# 131",232,189,8,0,429
+986171,611286,2017-03-23,Senate,"On the Joint Resolution S.J.Res. 34",50,48,2,0,100
+986171,614206,2017-03-28,House,"On Passage",215,205,9,0,429
+986172,672211,2017-07-11,House,"On motion to suspend the rules and pass the bill RC# 345",406,0,26,0,432
+988054,615031,2017-03-29,House,"On passage RC# 206",228,194,7,0,429
+988054,615032,2017-03-29,House,"On motion to recommit with instructions RC# 205",189,232,8,0,429
+988060,677883,2017-10-12,House,"On passage RC# 568",420,0,13,0,433
+988060,677884,2017-10-12,House,"On motion to recommit with instructions RC# 567",190,232,11,0,433
+988072,616064,2017-03-30,House,"On passage RC# 208",229,193,7,0,429
+988072,616065,2017-03-30,House,"On motion to recommit with instructions RC# 207",189,233,7,0,429
+988077,600772,2017-03-09,House,"On agreeing to the resolution RC# 139",233,184,12,0,429
+988077,600774,2017-03-09,House,"On ordering the previous question RC# 138",233,186,10,0,429
+989568,632266,2017-04-25,House,"On Motion to Suspend the Rules and Agree, as Amended",411,2,16,0,429
+989580,690888,2018-01-29,House,"On motion to suspend the rules and pass the bill, as amended RC# 46",397,8,25,0,430
+991270,671415,2017-06-28,House,"On motion to suspend the rules and pass the bill RC# 338",423,0,10,0,433
+991285,672453,2017-07-12,House,"On motion to suspend the rules and pass the bill RC# 349",416,2,15,0,433
+993165,605381,2017-03-16,House,"On agreeing to the resolution RC# 163",229,187,13,0,429
+993165,605383,2017-03-16,House,"On ordering the previous question RC# 162",227,185,17,0,429
+993189,678315,0000-00-00,Senate,"On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2266)",82,17,1,0,100
+993200,677474,2017-10-02,House,"On motion to suspend the rules and pass the bill RC# 544",401,0,32,0,433
+993216,679610,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+993229,679618,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+994383,675320,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+994383,676239,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+994411,645182,2017-05-16,House,"On motion to suspend the rules and pass the bill, as amended RC# 258",408,3,19,0,430
+995733,608998,2017-03-21,House,"On agreeing to the resolution RC# 180",233,186,10,0,429
+995733,609000,2017-03-21,House,"On ordering the previous question RC# 179",233,186,10,0,429
+995739,680709,2017-12-13,House,"On passage RC# 680",289,135,7,0,431
+995740,608630,2017-03-21,House,"On agreeing to the resolution RC# 177",234,182,13,0,429
+995740,608632,2017-03-21,House,"On ordering the previous question RC# 176",231,185,13,0,429
+995744,675353,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+995744,676240,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+995747,675388,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+995747,676329,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+995750,727792,2018-03-22,House,"On motion that the House agree with an amendment to the Senate amendment. RC# 127",256,167,7,0,430
+995750,727793,2018-03-23,Senate,"Senate agreed to the House amendment to the Senate amendment to H.R. 1625 RC# 63",65,32,3,0,100
+995750,727794,2018-03-23,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 1625 RC# 62",67,30,3,0,100
+995751,638739,2017-05-04,House,"On Passage",217,213,1,0,431
+995751,673097,2017-07-25,Senate,"On the Motion to Proceed H.R. 1628",50,50,0,0,100
+995751,673101,2017-07-25,Senate,"On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No 270)",43,57,0,0,100
+995751,673112,2017-07-26,Senate,"On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Heller Amdt. No. 288)",10,90,0,0,100
+995751,673113,2017-07-26,Senate,"On the Motion (Casey Motion to Commit H.R. 1628 with Instructions)",48,51,1,0,100
+995751,673114,2017-07-26,Senate,"On the Motion (Donnelly Motion to Commit H.R. 1628 with Instructions)",48,52,0,0,100
+995751,673115,2017-07-26,Senate,"On the Amendment S.Amdt. 271 to S.Amdt. 267 to H.R. 1628 (American Health Care Act of 2017)",45,55,0,0,100
+995751,673204,2017-07-28,Senate,"On the Amendment S.Amdt. 667 to S.Amdt. 267 to H.R. 1628 (American Health Care Act of 2017)",49,51,0,0,100
+995751,673205,2017-07-28,Senate,"On the Motion (Murray Motion to Commit H.R. 1628 to the Committee on Health, Education, Labor and Pensions, with Instructions)",48,52,0,0,100
+995751,673206,2017-07-27,Senate,"On the Amendment S.Amdt. 502 to S.Amdt. 267 to H.R. 1628 (American Health Care Act of 2017)",52,48,0,0,100
+995751,673207,2017-07-27,Senate,"On the Motion (Schumer Motion to Commit H.R. 1628 with Instructions)",43,57,0,0,100
+995751,673208,2017-07-27,Senate,"On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Strange Amdt. No. 389)",50,50,0,0,100
+995751,673209,2017-07-27,Senate,"On the Amendment S.Amdt. 340 to S.Amdt. 267 to H.R. 1628 (American Health Care Act of 2017)",0,57,43,0,100
+995755,774280,2018-09-05,House,"On motion to recommit with instructions RC# 384",187,224,17,0,428
+995755,774304,2018-09-05,House,"On passage RC# 385",406,4,19,0,429
+996321,686238,2018-01-18,House,"On motion to suspend the rules and pass the bill RC# 34",423,3,4,0,430
+996334,668352,2017-06-22,House,"On passage RC# 319",233,180,18,0,431
+996334,668353,2017-06-22,House,"On agreeing to the Lowenthal amendment (A002) H.Amdt.141 RC# 318",179,232,20,0,431
+996339,638753,2017-05-04,House,"On motion to suspend the rules and pass the bill, as amended RC# 257",419,1,10,0,430
+996361,679604,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+996924,637235,2017-05-02,House,"On motion to suspend the rules and pass the bill RC# 242",419,0,11,0,430
+996927,611335,2017-03-23,House,"On agreeing to the resolution RC# 189",227,189,13,0,429
+996927,611337,2017-03-23,House,"On ordering the previous question RC# 188",233,185,11,0,429
+996929,637571,2017-05-03,House,"On motion to suspend the rules and pass the bill, as amended RC# 250",423,0,7,0,430
+996931,673037,0000-00-00,House,"On Motion to Suspend the Rules and Pass, as Amended",219,186,28,0,433
+996932,675335,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+996932,676254,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+996935,637792,2017-05-03,House,"On motion to suspend the rules and pass the bill, as amended RC# 248",425,0,5,0,430
+997390,678548,2017-10-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 590",423,2,7,0,432
+997396,633767,2017-04-26,House,"On passage RC# 227",378,48,4,0,430
+997396,633768,2017-04-26,House,"On agreeing to the Deutch amendment (A001) H.Amdt.109 RC# 226",410,14,6,0,430
+997400,634529,2017-04-27,House,"On agreeing to the Johnson (GA) amendment (A002) H.Amdt.112 RC# 232",410,5,15,0,430
+997400,634789,2017-04-27,House,"On passage RC# 233",425,0,5,0,430
+997403,675483,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+997403,676307,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+997406,675382,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+997406,676321,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+997415,659963,2017-06-07,Senate,"Cloture on the motion to proceed to the measure RC# 140",91,8,1,0,100
+997415,663097,2017-06-14,Senate,"Amendment SA 232 as modified S.Amdt.232 RC# 144",97,2,1,0,100
+997415,664217,2017-06-15,Senate,"Passed Senate with an amendment and an amendment to the Title RC# 147",98,2,0,0,100
+997415,664218,2017-06-15,Senate,"Amendment SA 240 S.Amdt.240 RC# 146",100,0,0,0,100
+997415,664219,2017-06-15,Senate,"Amendment SA 250 as modified S.Amdt.250 RC# 145",94,6,0,0,100
+997420,679602,2017-12-01,House,"On passage RC# 651",256,163,14,0,433
+997420,679603,2017-12-01,House,"On motion to recommit with instructions RC# 650",193,227,13,0,433
+997437,675354,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+997437,676281,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+997893,672454,2017-07-11,House,"On motion to suspend the rules and pass the bill, as amended RC# 346",401,15,17,0,433
+997898,611615,2017-03-24,House,"On agreeing to the resolution RC# 192",230,194,5,0,429
+997898,611617,2017-03-24,House,"On ordering the previous question RC# 191",236,186,7,0,429
+999707,614111,2017-03-28,House,"On agreeing to the resolution RC# 200",231,189,9,0,429
+999707,614113,2017-03-28,House,"On ordering the previous question RC# 199",232,184,13,0,429
+999718,680493,2017-12-11,House,"On motion to suspend the rules and pass the bill, as amended RC# 673",402,2,27,0,431
+999743,613917,2017-03-28,House,"On agreeing to the resolution RC# 198",231,185,13,0,429
+999743,613919,2017-03-28,House,"On ordering the previous question RC# 197",231,189,9,0,429
+1000327,650891,2017-05-25,House,"On passage RC# 284",368,51,11,0,430
+1000327,650892,2017-05-25,House,"On agreeing to the Jackson Lee amendment (A002) H.Amdt.124 RC# 283",180,238,12,0,430
+1000346,615090,2017-03-29,House,"On agreeing to the resolution RC# 204",232,188,9,0,429
+1000346,615091,2017-03-29,House,"On ordering the previous question RC# 203",232,191,6,0,429
+1000366,672768,2017-07-17,House,"On motion to suspend the rules and pass the resolution RC# 380",402,0,31,0,433
+1001178,675417,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1001178,676123,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1001196,780914,2018-12-17,Senate,"Cloture on the motion to concur in the House amendment to S. 756 with an amendment (SA 4108) RC# 267",82,12,6,0,100
+1001196,780993,2018-12-18,Senate,"Amendment SA 4109 (Division I) S.Amdt.4109 RC# 268",32,67,1,0,100
+1001196,780994,2018-12-18,Senate,"Amendment SA 4109 (Division II) S.Amdt.4109 RC# 269",33,66,1,0,100
+1001196,780995,2018-12-18,Senate,"Amendment SA 4109 (Division III) S.Amdt.4109 RC# 270",37,62,1,0,100
+1001196,780996,2018-12-18,Senate,"Senate concurred in the House amendment to S. 756 with an amendment (SA 4108) RC# 271",87,12,1,0,100
+1001196,780997,2018-12-18,Senate,"Amendment SA 4108 S.Amdt.4108 RC# 271",87,12,1,0,100
+1001196,781230,2018-12-20,House,"On motion that the House suspend the rules and agree to the Senate amendment to the House amendment RC# 448",358,36,38,0,432
+1001214,675475,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1001214,676173,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1001215,675330,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1001215,676245,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1001865,677525,2017-10-03,House,"On motion to suspend the rules and pass the bill, as amended RC# 550",417,3,13,0,433
+1001904,647974,2017-05-22,House,"On motion to suspend the rules and pass the bill RC# 270",371,30,29,0,430
+1001920,675474,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1001920,676169,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1002843,677810,2017-10-10,House,"On motion to suspend the rules and pass the bill RC# 558",397,0,36,0,433
+1002856,711825,2018-02-27,House,"On passage RC# 91",388,25,17,0,430
+1002856,711826,2018-02-27,House,"On agreeing to the Walters, Mimi amendment (A002) H.Amdt.526 RC# 90",308,107,15,0,430
+1002856,724625,2018-03-19,Senate,"Cloture on the motion to proceed to the measure RC# 57",94,2,4,0,100
+1002856,726850,2018-03-21,Senate,"Passed Senate without amendment RC# 60",97,2,1,0,100
+1002856,726851,2018-03-21,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 2213 rejected in Senate S.Amdt.2213 RC# 59",21,78,1,0,100
+1002884,618611,2017-04-04,House,"On agreeing to the resolution RC# 214",238,177,14,0,429
+1002884,618612,2017-04-04,House,"On ordering the previous question RC# 213",229,187,13,0,429
+1002887,620134,2017-04-05,House,"On agreeing to the resolution RC# 218",240,181,8,0,429
+1002887,620135,2017-04-05,House,"On ordering the previous question RC# 217",231,182,16,0,429
+1002892,618691,2017-04-04,House,"On agreeing to the resolution RC# 212",234,184,11,0,429
+1002892,618692,2017-04-04,House,"On ordering the previous question RC# 211",232,188,9,0,429
+1002941,647919,2017-05-22,House,"On motion to suspend the rules and pass the bill RC# 269",372,30,28,0,430
+1003469,646548,2017-05-18,House,"On motion to suspend the rules and pass the bill RC# 266",411,1,18,0,430
+1003469,696441,2018-02-06,House,"On motion that the House agree with an amendment to the Senate amendment RC# 60",245,182,3,0,430
+1003469,697910,2018-02-09,House,"On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment RC# 69",240,186,5,0,431
+1003469,697911,2018-02-09,Senate,"Senate concurred in the House amendment to the Senate amendment to H.R. 1892 with an amendment (SA 1930) RC# 31",71,28,1,0,100
+1003469,697913,2018-02-09,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 1892 with an amendment (SA 1930) RC# 30",73,26,1,0,100
+1003505,668358,2017-06-21,House,"On passage RC# 315",300,118,13,0,431
+1003505,668359,2017-06-21,House,"On agreeing to the Carbajal amendment (A001) H.Amdt.137 RC# 314",171,243,17,0,431
+1003514,780337,2018-12-11,House,"On motion to suspend the rules and pass the bill RC# 430",403,3,26,0,432
+1003868,774373,2018-09-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 398",393,2,33,0,428
+1003881,679608,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+1003917,675473,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1003917,676174,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1003934,718966,2018-03-07,House,"On passage RC# 99",234,180,16,0,430
+1003934,718967,2018-03-07,House,"On motion to recommit with instructions RC# 98",186,227,17,0,430
+1004288,680178,2017-12-07,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 667",419,8,5,0,432
+1004289,696819,2018-02-07,House,"On motion to suspend the rules and pass the bill, as amended RC# 62",404,3,23,0,430
+1004355,650622,2017-05-25,House,"On passage RC# 285",415,3,12,0,430
+1004370,675576,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1004370,676395,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1004371,677280,2017-09-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 531",415,0,18,0,433
+1004410,649495,2017-05-24,House,"On motion to suspend the rules and pass the bill RC# 277",418,0,12,0,430
+1004410,675422,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1004410,676229,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1004719,768355,2018-06-26,House,"On passage RC# 294",288,116,23,0,427
+1008580,633773,2017-04-26,House,"On agreeing to the resolution RC# 225",237,186,7,0,430
+1008580,633774,2017-04-26,House,"On ordering the previous question RC# 224",234,191,5,0,430
+1008602,678345,2017-10-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 574",412,3,17,0,432
+1008930,751375,2018-05-09,House,"On passage RC# 175",221,197,10,0,428
+1008933,753396,2018-05-15,House,"On motion to suspend the rules and agree to the resolution RC# 183",377,2,48,0,427
+1008940,634559,2017-04-27,House,"On agreeing to the resolution RC# 230",226,192,12,0,430
+1008940,634560,2017-04-27,House,"On ordering the previous question RC# 229",230,193,7,0,430
+1008971,635230,2017-04-28,House,"On passage RC# 236",382,30,18,0,430
+1008998,660908,2017-06-08,House,"On passage RC# 299",233,186,11,0,430
+1008998,660909,2017-06-08,House,"On agreeing to the Buck amendment (A006) H.Amdt.133 RC# 298",233,185,12,0,430
+1008998,660910,2017-06-08,House,"On agreeing to the Faso amendment (A004) H.Amdt.131 RC# 297",235,184,11,0,430
+1008998,660911,2017-06-08,House,"On agreeing to the Hollingsworth amendment (A002) H.Amdt.129 RC# 296",231,180,19,0,430
+1008998,660912,2017-06-08,House,"On agreeing to the Hensarling amendment (A001) H.Amdt.128 RC# 295",232,185,13,0,430
+1009412,639272,2017-05-04,House,"On passage RC# 255",429,0,2,0,431
+1009440,660318,2017-06-07,House,"On passage RC# 294",282,137,11,0,430
+1009440,660319,2017-06-07,House,"On agreeing to the Lujan Grisham, M. amendment (A002) H.Amdt.127 RC# 293",179,238,13,0,430
+1009453,737324,2018-04-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 130",408,2,18,0,428
+1009512,679082,2017-11-09,House,"On passage RC# 622",232,188,12,0,432
+1009571,672811,2017-07-17,House,"On motion to suspend the rules and pass the bill RC# 379",401,0,32,0,433
+1009586,781268,2018-12-21,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 487",368,7,57,0,432
+1009733,635229,2017-04-28,House,"On agreeing to the resolution RC# 235",235,178,17,0,430
+1009964,637453,2017-05-02,House,"On agreeing to the resolution RC# 241",231,193,6,0,430
+1009964,637454,2017-05-02,House,"On ordering the previous question RC# 240",233,190,7,0,430
+1009966,678284,2017-10-23,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment RC# 246",79,16,5,0,100
+1009966,678331,2017-10-24,Senate,"Senate agreed to the House amendment to the Senate amendment to H.R. 2266 RC# 248",82,17,1,0,100
+1009966,678332,2017-10-24,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment) RC# 247",80,19,1,0,100
+1009967,671417,2017-06-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 324",409,0,24,0,433
+1010401,648845,2017-05-23,House,"On motion to suspend the rules and pass the bill, as amended RC# 273",418,0,12,0,430
+1010407,637650,2017-05-03,House,"On agreeing to the resolution RC# 247",240,186,4,0,430
+1010407,637651,2017-05-03,House,"On ordering the previous question RC# 246",231,192,7,0,430
+1010475,661662,2017-06-12,House,"On motion to suspend the rules and pass the bill RC# 300",400,1,29,0,430
+1010750,677328,2017-09-27,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 540",413,0,20,0,433
+1010822,770090,2018-07-23,House,"On motion to suspend the rules and pass the bill, as amended RC# 366",379,1,48,0,428
+1010851,639233,2017-05-04,House,"On agreeing to the resolution RC# 253",235,192,3,0,430
+1010851,639234,2017-05-04,House,"On ordering the previous question RC# 252",235,193,2,0,430
+1010857,781264,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 488",332,43,57,0,432
+1010863,679199,2017-11-15,House,"On motion to suspend the rules and pass the bill, as amended RC# 634",423,0,10,0,433
+1011214,680805,2017-12-14,House,"On passage RC# 682",275,146,10,0,431
+1011214,680806,2017-12-14,House,"On motion to recommit with instructions RC# 681",185,235,11,0,431
+1013480,662338,2017-06-13,House,"On passage RC# 307",368,55,7,0,430
+1013505,678329,0000-00-00,Senate,"On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2266)",82,17,1,0,100
+1013987,710394,2018-02-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 82",387,13,30,0,430
+1014317,677824,2017-10-10,House,"On motion to suspend the rules and pass the bill RC# 559",395,0,38,0,433
+1014326,645938,2017-05-17,House,"On agreeing to the resolution RC# 260",233,184,13,0,430
+1014326,645939,2017-05-17,House,"On ordering the previous question RC# 259",230,189,11,0,430
+1014336,646480,2017-05-18,House,"On agreeing to the resolution RC# 264",230,184,16,0,430
+1014336,646481,2017-05-18,House,"On ordering the previous question RC# 263",226,188,16,0,430
+1014359,673493,2017-08-03,Senate,"Passed Senate without amendment RC# 187",94,1,5,0,100
+1014359,673494,2017-08-03,Senate,"Cloture on the motion to proceed to the measure RC# 185",96,1,3,0,100
+1014387,661655,2017-06-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 301",402,1,27,0,430
+1014616,781275,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 489",367,4,61,0,432
+1014671,675449,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1014671,676136,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1014681,675572,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1014681,676394,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1014698,675465,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1014698,676159,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1014957,668666,2017-06-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 323",409,0,22,0,431
+1014960,678608,2017-10-31,House,"On motion to suspend the rules and pass the bill RC# 591",394,1,37,0,432
+1014987,675425,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1014987,676124,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1015029,770121,2018-07-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 373",366,52,10,0,428
+1015029,770178,2018-07-31,Senate,"Senate agreed to the House amendments to S. 1182 RC# 173",86,12,2,0,100
+1015269,664136,2017-06-15,House,"On passage RC# 308",267,144,19,0,430
+1015269,699746,2018-02-12,Senate,"Cloture on the motion to proceed to the measure RC# 32",97,1,2,0,100
+1015269,703366,2018-02-15,Senate,"Cloture on amendment SA 1959 S.Amdt.1959 RC# 36",39,60,1,0,100
+1015269,703367,2018-02-15,Senate,"Cloture on amendment SA 1958 as modified S.Amdt.1958 RC# 35",54,45,1,0,100
+1015269,703368,2018-02-15,Senate,"Cloture on amendment SA 1948 S.Amdt.1948 RC# 34",54,45,1,0,100
+1015269,703369,2018-02-15,Senate,"Cloture on amendment SA 1955 S.Amdt.1955 RC# 33",52,47,1,0,100
+1015273,675380,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1015273,676272,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1015520,648850,2017-05-23,House,"On agreeing to the resolution RC# 272",232,189,9,0,430
+1015520,648851,2017-05-23,House,"On ordering the previous question RC# 271",229,191,10,0,430
+1015536,662345,2017-06-13,House,"On passage RC# 306",238,184,8,0,430
+1015536,662346,2017-06-13,House,"On motion to recommit with instructions RC# 305",193,231,6,0,430
+1015828,781239,2018-12-20,House,"On motion that the House suspend the rules and agree to the Senate amendments RC# 471",399,0,33,0,432
+1015831,675693,2017-09-12,House,"On motion to suspend the rules and pass the bill RC# 485",390,0,43,0,433
+1015844,778822,2018-11-13,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 417",375,1,54,0,430
+1015853,649487,2017-05-24,House,"On agreeing to the resolution RC# 276",239,179,12,0,430
+1015853,649488,2017-05-24,House,"On ordering the previous question RC# 275",231,188,11,0,430
+1016134,658909,2017-06-06,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 286",397,0,33,0,430
+1016170,658842,2017-06-06,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 287",397,0,33,0,430
+1016172,675419,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1016172,676226,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1016190,658301,2017-06-05,Senate,"Resolution RC# 138",90,0,10,0,100
+1016462,662591,0000-00-00,Senate,"On the Motion to Discharge S.J.Res. 42",47,53,0,0,100
+1016474,658914,0000-00-00,House,"On Motion to Suspend the Rules and Agree, as Amended",397,0,33,0,430
+1016477,680175,2017-12-07,House,"On motion to suspend the rules and pass the bill, as amended RC# 671",388,29,15,0,432
+1016567,680511,2017-12-11,House,"On motion to suspend the rules and pass the bill, as amended RC# 672",395,2,34,0,431
+1016580,675456,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1016580,676152,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1016629,679237,2017-11-15,House,"On motion to suspend the rules and pass the bill RC# 636",423,0,10,0,433
+1016634,662379,2017-06-13,Senate,"Motion to discharge Senate Committee on Foreign Relations rejected RC# 143",47,53,0,0,100
+1016648,680063,2017-12-06,House,"On motion to suspend the rules and pass the bill RC# 661",423,0,9,0,432
+1017201,679441,2017-11-28,House,"On motion to suspend the rules and pass the bill RC# 638",409,0,24,0,433
+1018296,660380,2017-06-07,House,"On agreeing to the resolution RC# 289",231,185,14,0,430
+1018296,660381,2017-06-07,House,"On ordering the previous question RC# 288",228,189,13,0,430
+1018297,672815,2017-07-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 384",420,2,11,0,433
+1018312,677357,2017-09-28,House,"On passage RC# 543",244,171,18,0,433
+1018316,660373,2017-06-07,House,"On agreeing to the resolution RC# 291",231,188,11,0,430
+1018316,660374,2017-06-07,House,"On ordering the previous question RC# 290",228,185,17,0,430
+1018317,675541,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1018317,676398,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1018621,675547,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1018621,676378,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1018634,672595,2017-07-13,House,"On agreeing to the Rooney, Thomas J. amendment (A022) H.Amdt.181 RC# 371",107,318,8,0,433
+1018634,672596,2017-07-13,House,"On agreeing to the Gosar amendment (A021) H.Amdt.180 RC# 370",183,242,8,0,433
+1018634,672597,2017-07-13,House,"On agreeing to the Hartzler amendment (A024) H.Amdt.183 RC# 369",209,214,10,0,433
+1018634,672598,2017-07-13,House,"On agreeing to the Perry amendment (A020) H.Amdt.179 RC# 368",185,234,14,0,433
+1018634,672599,2017-07-13,House,"On agreeing to the Buck amendment (A019) H.Amdt.178 RC# 367",203,218,12,0,433
+1018634,672600,2017-07-13,House,"On agreeing to the Garamendi amendment (A018) H.Amdt.177 RC# 366",198,220,15,0,433
+1018634,672601,2017-07-13,House,"On agreeing to the McClintock amendment (A012) H.Amdt.171 RC# 365",175,248,10,0,433
+1018634,672602,2017-07-13,House,"On agreeing to the Blumenauer amendment (A011) H.Amdt.170 RC# 364",169,254,10,0,433
+1018634,672603,2017-07-13,House,"On agreeing to the Garamendi amendment (A010) H.Amdt.169 RC# 363",192,232,9,0,433
+1018634,672604,2017-07-13,House,"On agreeing to the Rogers (AL) amendment (A013) H.Amdt.172 RC# 362",253,172,8,0,433
+1018634,672605,2017-07-13,House,"On agreeing to the Aguilar amendment (A009) H.Amdt.168 RC# 361",188,235,10,0,433
+1018634,672606,2017-07-13,House,"On agreeing to the Blumenauer amendment (A007) H.Amdt.166 RC# 360",173,249,11,0,433
+1018634,672607,2017-07-13,House,"On agreeing to the Nadler amendment (A005) H.Amdt.164 RC# 359",167,257,9,0,433
+1018634,672608,2017-07-13,House,"On agreeing to the Jayapal amendment (A004) H.Amdt.163 RC# 358",179,245,9,0,433
+1018634,672609,2017-07-13,House,"On agreeing to the Polis amendment (A003) H.Amdt.162 RC# 357",73,351,9,0,433
+1018634,672610,2017-07-13,House,"On agreeing to the Conaway amendment (A002) H.Amdt.161 RC# 356",198,225,10,0,433
+1018634,672668,2017-07-14,House,"On passage RC# 378",344,81,8,0,433
+1018634,672669,2017-07-14,House,"On motion to recommit with instructions RC# 377",190,235,8,0,433
+1018634,672670,2017-07-14,House,"On agreeing to the McGovern amendment (A033) H.Amdt.192 RC# 376",424,0,9,0,433
+1018634,672671,2017-07-14,House,"On agreeing to the Hunter amendment (A032) H.Amdt.191 RC# 375",234,190,9,0,433
+1018634,672672,2017-07-14,House,"On agreeing to the Byrne amendment (A031) H.Amdt.190 RC# 374",244,181,8,0,433
+1018634,672673,2017-07-14,House,"On agreeing to the Lamborn amendment (A028) H.Amdt.187 RC# 373",235,189,9,0,433
+1018634,672674,2017-07-14,House,"On agreeing to the Franks (AZ) amendment (A026) H.Amdt.185 RC# 372",208,217,8,0,433
+1018634,675414,2017-09-11,Senate,"Cloture on the motion to proceed to the measure RC# 193",89,3,8,0,100
+1018634,676002,2017-09-13,Senate,"Motion to table amendment SA 871 S.Amdt.871 RC# 195",61,36,3,0,100
+1018634,676238,2017-09-14,Senate,"Cloture on amendment SA 1003 as modified S.Amdt.1003 RC# 197",84,9,7,0,100
+1018634,676700,2017-09-18,Senate,"Passed Senate with an amendment RC# 199",89,8,3,0,100
+1018634,676701,2017-09-18,Senate,"Cloture RC# 198",90,7,3,0,100
+1018634,677887,2017-10-12,House,"On motion to close portions of the conference RC# 565",414,8,11,0,433
+1018634,677888,2017-10-12,House,"On motion that the House instruct conferees RC# 564",184,237,12,0,433
+1018634,679142,2017-11-14,House,"On agreeing to the conference report RC# 631",356,70,7,0,433
+1018839,677298,2017-09-26,House,"On passage RC# 537",214,209,10,0,433
+1018839,677299,2017-09-26,House,"On motion to recommit with instructions RC# 536",191,232,10,0,433
+1018839,677300,2017-09-26,House,"On agreeing to the Pascrell amendment (A002) H.Amdt.448 RC# 535",191,231,11,0,433
+1018848,666603,2017-06-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 310",382,19,29,0,430
+1018861,675010,2017-09-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 440",403,3,27,0,433
+1018862,666635,2017-06-20,House,"On motion to suspend the rules and pass the bill RC# 309",391,8,31,0,430
+1018872,668349,2017-06-23,House,"On passage RC# 322",377,34,20,0,431
+1018872,668350,2017-06-23,House,"On agreeing to the Davidson amendment (A005) H.Amdt.146 RC# 321",264,147,20,0,431
+1018872,668351,2017-06-23,House,"On agreeing to the Krishnamoorthi amendment (A004) H.Amdt.145 RC# 320",380,32,19,0,431
+1018892,673014,2017-07-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 403",386,41,6,0,433
+1018903,763887,2018-06-15,House,"On passage RC# 268",239,142,46,0,427
+1018903,763888,2018-06-15,House,"On agreeing to the Thornberry amendment (A004) H.Amdt.791 RC# 267",223,158,46,0,427
+1019156,672923,2017-07-19,House,"On passage RC# 398",254,175,4,0,433
+1019156,672924,2017-07-19,House,"On motion to recommit with instructions RC# 397",193,232,8,0,433
+1019156,672925,2017-07-19,House,"On agreeing to the Tsongas amendment (A002) H.Amdt.208 RC# 396",179,247,7,0,433
+1019156,672926,2017-07-19,House,"On agreeing to the Engel amendment (A001) H.Amdt.207 RC# 395",182,246,5,0,433
+1019162,679136,2017-11-14,House,"On passage RC# 630",237,189,7,0,433
+1019162,679137,2017-11-14,House,"On motion to recommit with instructions RC# 629",190,236,7,0,433
+1019169,662448,2017-06-13,House,"On agreeing to the resolution RC# 303",229,190,11,0,430
+1019169,662449,2017-06-13,House,"On ordering the previous question RC# 302",229,189,12,0,430
+1019370,671422,2017-06-27,House,"On agreeing to the resolution RC# 326",235,186,12,0,433
+1019370,671423,2017-06-27,House,"On ordering the previous question RC# 325",234,184,15,0,433
+1019703,741030,2018-04-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 147",403,3,23,0,429
+1019705,672880,2017-07-19,House,"On passage RC# 402",248,179,6,0,433
+1019705,672881,2017-07-19,House,"On motion to recommit with instructions RC# 401",189,239,5,0,433
+1019705,672882,2017-07-19,House,"On agreeing to the Beyer amendment (A003) H.Amdt.206 RC# 400",192,236,5,0,433
+1019705,672883,2017-07-19,House,"On agreeing to the Tsongas amendment (A001) H.Amdt.204 RC# 399",180,249,4,0,433
+1020285,686226,2018-01-18,House,"On passage RC# 32",243,184,3,0,430
+1020285,686227,2018-01-18,House,"On motion to recommit with instructions RC# 31",191,236,3,0,430
+1020294,668365,2017-06-21,House,"On agreeing to the resolution RC# 313",230,185,16,0,431
+1020294,668366,2017-06-21,House,"On ordering the previous question RC# 312",229,186,16,0,431
+1020309,678627,2017-11-01,House,"On passage RC# 598",232,188,12,0,432
+1020309,678628,2017-11-01,House,"On motion to recommit with instructions RC# 597",189,230,13,0,432
+1020309,678629,2017-11-01,House,"On agreeing to the Pearce amendment (A007) H.Amdt.474 RC# 596",236,184,12,0,432
+1020309,678630,2017-11-01,House,"On agreeing to the O'Halleran amendment (A003) H.Amdt.470 RC# 595",194,226,12,0,432
+1020309,678631,2017-11-01,House,"On agreeing to the Khanna amendment (A002) H.Amdt.469 RC# 594",189,232,11,0,432
+1020497,675430,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1020497,676126,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1020509,671424,2017-06-27,House,"On motion to suspend the rules and agree to the resolution RC# 328",423,4,6,0,433
+1020525,759870,2018-06-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 232",373,9,45,0,427
+1020527,681250,2017-12-21,House,"On motion to suspend the rules and pass the bill RC# 706",418,0,13,0,431
+1020534,668367,2017-06-22,House,"On agreeing to the resolution RC# 317",233,179,19,0,431
+1020534,668368,2017-06-22,House,"On ordering the previous question RC# 316",226,184,21,0,431
+1020587,679528,2017-11-30,House,"On passage RC# 649",409,8,16,0,433
+1020590,671418,2017-06-29,House,"On passage RC# 342",228,195,10,0,433
+1020590,744456,2017-06-29,House,"On motion to recommit with instructions RC# 341",181,230,22,0,433
+1020591,671419,2017-06-29,House,"On passage RC# 344",257,167,9,0,433
+1020591,671420,2017-06-29,House,"On motion to recommit with instructions RC# 343",193,232,8,0,433
+1020605,780332,2018-12-10,House,"On motion to suspend the rules and pass the bill RC# 427",382,4,46,0,432
+1020607,675344,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1020607,676266,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1020623,770011,2018-07-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 334",406,5,17,0,428
+1020633,675435,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1020633,676141,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1020769,678934,2017-11-08,House,"On passage RC# 620",257,166,9,0,432
+1020769,678935,2017-11-08,House,"On agreeing to the Rush amendment (A004) H.Amdt.481 RC# 619",185,234,13,0,432
+1020772,675460,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1020772,676157,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1020793,675574,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1020793,676306,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1020819,760530,2018-06-06,House,"On passage RC# 238",408,2,17,0,427
+1020819,760531,2018-06-06,House,"On motion to recommit with instructions RC# 237",180,227,20,0,427
+1020821,767545,2018-06-22,House,"On passage RC# 288",396,14,17,0,427
+1020821,767546,2018-06-22,House,"On motion to recommit with instructions RC# 287",185,226,16,0,427
+1020821,774479,2018-09-17,Senate,"Passed Senate with an amendment RC# 210",99,1,0,0,100
+1020821,775335,2018-10-03,Senate,"Senate agreed to the House amendment to the Senate amendment to H.R. 6. RC# 221",98,1,1,0,100
+1020827,754396,2018-05-17,House,"On agreeing to the Young (AK) amendment (A013) H.Amdt.598 RC# 199",208,207,12,0,427
+1020827,754397,2018-05-17,House,"On agreeing to the Westerman amendment (A012) H.Amdt.597 RC# 198",224,191,12,0,427
+1020827,754398,2018-05-17,House,"On agreeing to the Biggs amendment (A034) H.Amdt.619 RC# 197",75,340,12,0,427
+1020827,754399,2018-05-17,House,"On agreeing to the Faso amendment (A031) H.Amdt.616 RC# 196",222,192,13,0,427
+1020827,754400,2018-05-17,House,"On agreeing to the McClintock amendment (A026) H.Amdt.611 RC# 195",83,330,14,0,427
+1020827,754401,2018-05-17,House,"On agreeing to the McClintock amendment (A022) H.Amdt.607 RC# 194",34,380,13,0,427
+1020827,754402,2018-05-17,House,"On agreeing to the Foxx amendment (A020) H.Amdt.605 RC# 193",137,278,12,0,427
+1020827,754523,2018-05-18,House,"On passage RC# 205",198,213,17,0,428
+1020827,754524,2018-05-18,House,"On motion to recommit with instructions RC# 204",183,226,18,0,427
+1020827,754525,2018-05-18,House,"On agreeing to the Banks (IN) amendment (A048) H.Amdt.633 RC# 203",238,173,16,0,427
+1020827,754526,2018-05-18,House,"On agreeing to the Roskam amendment (A045) H.Amdt.630 RC# 202",359,51,17,0,427
+1020827,754527,2018-05-18,House,"On agreeing to the Massie amendment (A042) H.Amdt.627 RC# 201",79,331,17,0,427
+1020827,754528,2018-05-18,House,"On agreeing to the Russell amendment (A035) H.Amdt.620 RC# 200",54,356,17,0,427
+1020827,767259,2018-06-21,House,"On passage RC# 284",213,211,4,0,428
+1020827,767984,2018-06-25,Senate,"Cloture on the motion to proceed to the measure RC# 140",89,3,8,0,100
+1020827,769281,2018-06-28,Senate,"Passed Senate, having achieved 60 votes in the affirmative, with an amendment RC# 143",86,11,3,0,100
+1020827,769282,2018-06-28,Senate,"Amendment SA 3074, not having achieved 60 votes in the affirmative, was S.Amdt.3074 RC# 142",38,57,5,0,100
+1020827,769283,2018-06-28,Senate,"Motion to table amendment SA 3383 S.Amdt.3383 RC# 141",68,30,2,0,100
+1020827,770039,2018-07-18,House,"On motion that the House instruct conferees RC# 336",392,20,16,0,428
+1020827,780333,2018-12-11,Senate,"Senate agreed to conference report RC# 259",87,13,0,0,100
+1020827,780385,2018-12-12,House,"On agreeing to the conference report RC# 434",369,47,16,0,432
+1020831,679241,2017-11-16,House,"On passage RC# 637",227,205,2,0,434
+1020831,679455,2017-11-29,Senate,"Motion by Senator Wyden to commit to Senate Committee on Finance with instructions rejected in Senate RC# 285",48,51,1,0,100
+1020831,679456,2017-11-29,Senate,"Motion to proceed to consideration of measure RC# 284",52,48,0,0,100
+1020831,679519,2017-11-30,Senate,"Motion by Senator Stabenow to commit to Senate Committee on Finance with instructions rejected in Senate RC# 289",45,55,0,0,100
+1020831,679520,2017-11-30,Senate,"Motion by Senator King to commit to Senate Committee on Finance with instructions rejected in Senate RC# 288",48,52,0,0,100
+1020831,679521,2017-11-30,Senate,"Motion by Senator Casey to commit to Senate Committee on Finance with instructions rejected in Senate RC# 287",48,51,1,0,100
+1020831,679522,2017-11-30,Senate,"Motion by Senator Brown to commit to Senate Committee on Finance with instructions rejected in Senate RC# 286",48,52,0,0,100
+1020831,679593,2017-12-01,Senate,"Motion by Senator Menendez to commit to Senate Committee on Finance with instructions rejected in Senate RC# 297",48,52,0,0,100
+1020831,679594,2017-12-01,Senate,"Motion to waive the Budget Act with respect to amendment SA 1850 rejected in Senate S.Amdt.1850 RC# 296",29,71,0,0,100
+1020831,679595,2017-12-01,Senate,"Motion to waive the Budget Act with respect to amendment SA 1854 rejected in Senate S.Amdt.1854 RC# 295",48,52,0,0,100
+1020831,679596,2017-12-01,Senate,"Motion to waive the Budget Act with respect to amendment SA 1720 rejected in Senate S.Amdt.1720 RC# 294",46,54,0,0,100
+1020831,679597,2017-12-01,Senate,"Motion by Senator Cardin to commit to Senate Committee on Finance with instructions rejected in Senate RC# 292",43,57,0,0,100
+1020831,679598,2017-12-01,Senate,"Motion by Senator Baldwin to commit to Senate Committee on Finance with instructions rejected in Senate RC# 291",48,52,0,0,100
+1020831,679599,2017-12-01,Senate,"Motion by Senator Nelson to commit to Senate Committee on Finance with instructions rejected in Senate RC# 290",48,52,0,0,100
+1020831,679612,2017-12-02,Senate,"Passed Senate with an amendment RC# 303",51,49,0,0,100
+1020831,679613,2017-12-02,Senate,"Amendment SA 1856 S.Amdt.1856 RC# 302",52,48,0,0,100
+1020831,679614,2017-12-02,Senate,"Motion to waive the Budget Act with respect to amendment SA 1717 rejected in Senate S.Amdt.1717 RC# 301",48,52,0,0,100
+1020831,679615,2017-12-02,Senate,"Motion by Senator Manchin to commit to Senate Committee on Finance with instructions rejected in Senate RC# 300",38,61,1,0,100
+1020831,679616,2017-12-02,Senate,"Motion to waive the Budget Act with respect to amendment SA 1846 rejected in Senate S.Amdt.1846 RC# 299",34,65,1,0,100
+1020831,679617,2017-12-02,Senate,"Amendment SA 1852 S.Amdt.1852 RC# 298",50,50,0,0,100
+1020831,679764,2017-12-04,House,"On motion that the House instruct conferees RC# 654",186,233,14,0,433
+1020831,679765,2017-12-04,House,"On motion that the House disagree to the Senate amendment, and request a conference RC# 653",222,192,19,0,433
+1020831,680033,2017-12-06,Senate,"Motion by Senator Booker to instruct Senate conferees (health insurance) rejected in Senate RC# 309",47,51,2,0,100
+1020831,680034,2017-12-06,Senate,"Motion by Senator Stabenow to instruct Senate conferees (corporate tax rate) rejected in Senate RC# 308",44,54,2,0,100
+1020831,680035,2017-12-06,Senate,"Motion by Senator King to instruct Senate conferees (Federal budget deficit) rejected in Senate RC# 307",48,50,2,0,100
+1020831,680036,2017-12-06,Senate,"Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees RC# 306",51,47,2,0,100
+1020831,681223,2017-12-19,House,"On agreeing to the conference report RC# 692",227,203,2,0,432
+1020831,681224,2017-12-19,House,"On motion to recommit with instructions to conference committee RC# 691",191,236,4,0,431
+1020831,681225,2017-12-20,Senate,"Senate receded from its amendment and concurred with an amendment (SA 1863) RC# 323",51,48,1,0,100
+1020831,681227,2017-12-20,Senate,"Motion to waive all applicable budget resolutions with respect to the conference report to accompany H.R. 1 rejected in Senate RC# 322",51,48,1,0,100
+1020831,681228,2017-12-19,Senate,"Motion to proceed to consideration of the conference report RC# 321",51,48,1,0,100
+1020831,681239,2017-12-20,House,"On motion that the House agree to the Senate amendment RC# 699",224,201,7,0,432
+1020837,744876,2018-04-26,House,"On agreeing to the Lynch amendment (A021) H.Amdt.566 RC# 160",187,227,14,0,428
+1020837,744877,2018-04-26,House,"On agreeing to the Denham amendment (A018) H.Amdt.563 RC# 159",222,193,13,0,428
+1020837,744878,2018-04-26,House,"On agreeing to the Lipinski amendment (A017) H.Amdt.562 RC# 158",92,323,13,0,428
+1020837,744879,2018-04-26,House,"On agreeing to the King (IA) amendment (A012) H.Amdt.557 RC# 157",172,243,13,0,428
+1020837,744880,2018-04-26,House,"On agreeing to the Rohrabacher amendment (A011) H.Amdt.556 RC# 156",37,375,16,0,428
+1020837,744881,2018-04-26,House,"On agreeing to the DeFazio amendment (A007) H.Amdt.552 RC# 155",192,223,13,0,428
+1020837,745276,2018-04-27,House,"On passage RC# 165",393,13,22,0,428
+1020837,745277,2018-04-27,House,"On motion to recommit with instructions RC# 164",182,223,23,0,428
+1020837,745278,2018-04-27,House,"On agreeing to the Duncan (TN) amendment (A031) H.Amdt.576 RC# 163",212,191,25,0,428
+1020837,745279,2018-04-27,House,"On agreeing to the McClintock amendment (A030) H.Amdt.575 RC# 162",113,293,22,0,428
+1020841,761077,2018-06-07,House,"On passage RC# 243",210,206,11,0,427
+1020841,766194,2018-06-20,Senate,"Motion to discharge Senate Committees on Appropriations; the Budget rejected RC# 134",48,50,2,0,100
+1020883,752205,2018-05-10,House,"On passage RC# 179",340,72,16,0,428
+1020883,752206,2018-05-10,House,"On agreeing to the Titus amendment (A003) H.Amdt.581 RC# 178",80,332,16,0,428
+1021066,679621,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+1021068,675491,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1021068,676205,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1021069,671502,2017-06-29,House,"On agreeing to the resolution RC# 340",236,191,6,0,433
+1021069,671503,2017-06-29,House,"On ordering the previous question RC# 339",235,190,8,0,433
+1021070,671425,2017-06-28,House,"On agreeing to the resolution RC# 332",235,190,8,0,433
+1021070,671426,2017-06-28,House,"On ordering the previous question RC# 331",235,190,8,0,433
+1021077,675370,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1021077,676315,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1021079,679607,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+1021089,679129,2017-11-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 624",396,0,37,0,433
+1021418,744001,2018-04-25,House,"On passage RC# 153",225,189,14,0,428
+1021418,744002,2018-04-25,House,"On motion to recommit with instructions RC# 152",190,226,12,0,428
+1021435,675009,2017-09-05,House,"On motion to suspend the rules and pass the bill RC# 439",407,1,25,0,433
+1021442,679421,2017-11-28,House,"On motion to suspend the rules and pass the bill, as amended RC# 639",309,99,25,0,433
+1021464,675542,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1021464,676377,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1021793,675477,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1021793,676299,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1021794,781162,2018-12-19,House,"On motion to suspend the rules and pass the bill RC# 444",350,11,71,0,432
+1021994,774324,2018-09-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 395",383,2,43,0,428
+1022002,672458,2017-07-12,House,"On agreeing to the resolution RC# 348",232,187,14,0,433
+1022002,672459,2017-07-12,House,"On ordering the previous question RC# 347",234,183,16,0,433
+1022002,675510,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1022002,676231,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1022006,716987,2018-03-05,House,"On motion to suspend the rules and pass the bill RC# 92",389,0,41,0,430
+1022011,673083,2017-07-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 407",241,163,29,0,433
+1022011,673280,2017-07-28,House,"On passage RC# 437",380,35,18,0,433
+1022154,681215,2017-12-19,House,"On motion to suspend the rules and pass the bill RC# 695",418,1,12,0,431
+1022156,672581,2017-07-13,House,"On agreeing to the resolution RC# 355",230,190,13,0,433
+1022156,672582,2017-07-13,House,"On ordering the previous question RC# 354",234,187,12,0,433
+1022156,675539,0000-00-00,Senate,"On Cloture on the Motion to Proceed H.R. 2810",89,3,8,0,100
+1022156,676354,0000-00-00,Senate,"On the Cloture Motion S.Amdt. 1003 to H.R. 2810 (National Defense Authorization Act for Fiscal Year 2018)",84,9,7,0,100
+1022160,681251,2017-12-21,House,"On motion to suspend the rules and pass the bill RC# 710",393,0,38,0,431
+1022303,673036,2017-07-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 409",405,0,28,0,433
+1022325,673122,2017-07-26,House,"On agreeing to the Jackson Lee amendment (A036) H.Amdt.248 RC# 425",234,192,7,0,433
+1022325,673123,2017-07-26,House,"On agreeing to the Pingree amendment (A034) H.Amdt.246 RC# 424",192,235,6,0,433
+1022325,673124,2017-07-26,House,"On agreeing to the Garamendi amendment (A032) H.Amdt.244 RC# 423",180,247,6,0,433
+1022325,673125,2017-07-26,House,"On agreeing to the Esty (CT) amendment (A028) H.Amdt.240 RC# 422",203,224,6,0,433
+1022325,673126,2017-07-26,House,"On agreeing to the Norcross amendment (A023) H.Amdt.235 RC# 421",186,241,6,0,433
+1022325,673127,2017-07-26,House,"On agreeing to the Castor (FL) amendment (A022) H.Amdt.234 RC# 420",181,246,6,0,433
+1022325,673128,2017-07-26,House,"On agreeing to the King (IA) amendment (A015) H.Amdt.227 RC# 419",178,249,6,0,433
+1022325,673129,2017-07-26,House,"On agreeing to the Takano amendment (A007) H.Amdt.219 RC# 418",191,236,6,0,433
+1022325,673130,2017-07-26,House,"On agreeing to the Griffith amendment (A005) H.Amdt.217 RC# 417",116,309,8,0,433
+1022325,673131,2017-07-26,House,"On agreeing to the Perry amendment (A004) H.Amdt.216 RC# 416",107,314,12,0,433
+1022325,673196,2017-07-27,House,"On passage RC# 435",235,192,6,0,433
+1022325,673197,2017-07-27,House,"On motion to recommit with instructions RC# 434",193,234,6,0,433
+1022325,673198,2017-07-27,House,"On agreeing to the Cartwright amendment (A055) H.Amdt.267 RC# 433",253,172,8,0,433
+1022325,673199,2017-07-27,House,"On agreeing to the Nadler amendment (A053) H.Amdt.265 RC# 432",172,252,9,0,433
+1022325,673200,2017-07-27,House,"On agreeing to the Boyle, Brendan F. amendment (A049) H.Amdt.261 RC# 431",256,169,8,0,433
+1022325,673201,2017-07-27,House,"On agreeing to the Suozzi amendment (A048) H.Amdt.260 RC# 430",214,211,8,0,433
+1022325,673202,2017-07-27,House,"On agreeing to the Perry amendment (A043) H.Amdt.255 RC# 429",177,248,8,0,433
+1022325,673203,2017-07-27,House,"On agreeing to the Blackburn amendment (A042) H.Amdt.254 RC# 428",140,285,8,0,433
+1022416,677832,2017-10-11,House,"On motion to suspend the rules and pass the bill RC# 563",418,0,15,0,433
+1022443,760496,2018-06-06,House,"On motion that the House agree to the Senate amendment RC# 239",394,13,20,0,427
+1022548,672833,2017-07-18,House,"On agreeing to the resolution RC# 383",235,188,10,0,433
+1022548,672834,2017-07-18,House,"On ordering the previous question RC# 382",231,188,14,0,433
+1022677,769991,2018-07-12,House,"On passage RC# 325",233,184,11,0,428
+1022677,769992,2018-07-12,House,"On motion to recommit with instructions RC# 324",187,230,11,0,428
+1022683,672884,2017-07-19,House,"On agreeing to the resolution RC# 394",234,194,5,0,433
+1022683,672885,2017-07-19,House,"On ordering the previous question RC# 393",236,192,5,0,433
+1022692,676264,2017-09-14,House,"On motion to suspend the rules and pass the bill, as amended RC# 529",398,4,31,0,433
+1022823,681220,2017-12-19,House,"On passage RC# 694",288,130,13,0,431
+1022829,702216,2018-02-14,House,"On passage RC# 78",245,171,14,0,430
+1022842,679922,2017-12-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 656",409,0,24,0,433
+1022861,781253,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 490",362,5,65,0,432
+1022951,678366,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 111",50,50,0,0,100
+1022992,673098,2017-07-25,House,"On passage RC# 412",231,190,12,0,433
+1022992,678325,2017-10-24,Senate,"Passed Senate without amendment RC# 249",50,50,0,0,100
+1023000,685856,2018-01-17,House,"On passage RC# 24",237,184,9,0,430
+1023000,685857,2018-01-17,House,"On agreeing to the Connolly amendment (A002) H.Amdt.512 RC# 23",420,0,10,0,430
+1023096,675062,2017-09-06,House,"On agreeing to the Babin amendment (A031) H.Amdt.303 RC# 456",173,246,14,0,433
+1023096,675063,2017-09-06,House,"On agreeing to the Smith (MO) amendment (A029) H.Amdt.301 RC# 455",225,195,13,0,433
+1023096,675064,2017-09-06,House,"On agreeing to the Grothman amendment (A027) H.Amdt.299 RC# 454",140,280,13,0,433
+1023096,675065,2017-09-06,House,"On agreeing to the King (IA) amendment (A024) H.Amdt.296 RC# 453",180,241,12,0,433
+1023096,675066,2017-09-06,House,"On agreeing to the Grothman amendment (A021) H.Amdt.293 RC# 452",139,282,12,0,433
+1023096,675067,2017-09-06,House,"On agreeing to the Grothman amendment (A019) H.Amdt.291 RC# 451",124,295,14,0,433
+1023096,675068,2017-09-06,House,"On agreeing to the Rosen amendment (A018) H.Amdt.290 RC# 450",200,220,13,0,433
+1023096,675069,2017-09-06,House,"On agreeing to the Brooks (AL) amendment (A015) H.Amdt.287 RC# 449",128,293,12,0,433
+1023096,675070,2017-09-06,House,"On agreeing to the Budd amendment (A014) H.Amdt.286 RC# 448",159,260,14,0,433
+1023096,675071,2017-09-06,House,"On agreeing to the McClintock amendment (A011) H.Amdt.283 RC# 447",140,280,13,0,433
+1023096,675072,2017-09-06,House,"On agreeing to the Carter (GA) amendment (A006) H.Amdt.278 RC# 446",141,279,13,0,433
+1023096,675073,2017-09-06,House,"On agreeing to the King (IA) amendment (A004) H.Amdt.276 RC# 445",176,241,16,0,433
+1023096,675241,2017-09-07,House,"On agreeing to the Goodlatte amendment (A082) H.Amdt.354 RC# 479",214,197,22,0,433
+1023096,675242,2017-09-07,House,"On agreeing to the Young (AK) amendment (A079) H.Amdt.351 RC# 478",215,196,22,0,433
+1023096,675243,2017-09-07,House,"On agreeing to the Lowenthal amendment (A076) H.Amdt.348 RC# 477",189,220,24,0,433
+1023096,675244,2017-09-07,House,"On agreeing to the Ellison amendment (A075) H.Amdt.347 RC# 476",194,218,21,0,433
+1023096,675245,2017-09-07,House,"On agreeing to the Lujan, Ben Ray amendment (A072) H.Amdt.344 RC# 475",220,191,22,0,433
+1023096,675246,2017-09-07,House,"On agreeing to the Biggs amendment (A070) H.Amdt.342 RC# 474",184,228,21,0,433
+1023096,675247,2017-09-07,House,"On agreeing to the Grijalva amendment (A067) H.Amdt.339 RC# 473",190,218,25,0,433
+1023096,675248,2017-09-07,House,"On agreeing to the Thompson (PA) amendment (A066) H.Amdt.338 RC# 472",207,205,21,0,433
+1023096,675249,2017-09-07,House,"On agreeing to the Grijalva amendment (A061) H.Amdt.333 RC# 471",191,221,21,0,433
+1023096,675250,2017-09-07,House,"On agreeing to the Yoho amendment (A058) H.Amdt.330 RC# 470",199,212,22,0,433
+1023096,675251,2017-09-07,House,"On agreeing to the Grothman amendment (A056) H.Amdt.328 RC# 469",105,307,21,0,433
+1023096,675252,2017-09-07,House,"On agreeing to the Scott, Austin amendment (A050) H.Amdt.322 RC# 468",217,193,23,0,433
+1023096,675253,2017-09-07,House,"On agreeing to the Rothfus amendment (A049) H.Amdt.321 RC# 467",163,248,22,0,433
+1023096,675254,2017-09-07,House,"On agreeing to the Jayapal amendment (A045) H.Amdt.317 RC# 466",180,230,23,0,433
+1023096,675255,2017-09-07,House,"On agreeing to the Castro (TX) amendment (A044) H.Amdt.316 RC# 465",183,230,20,0,433
+1023096,675256,2017-09-07,House,"On agreeing to the King (IA) amendment (A043) as modified H.Amdt.315 RC# 464",173,240,20,0,433
+1023096,675257,2017-09-07,House,"On agreeing to the Hunter amendment (A041) H.Amdt.313 RC# 463",245,168,20,0,433
+1023096,675258,2017-09-07,House,"On agreeing to the Correa amendment (A040) H.Amdt.312 RC# 462",182,229,22,0,433
+1023096,675259,2017-09-07,House,"On agreeing to the Castro (TX) amendment (A039) H.Amdt.311 RC# 461",203,211,19,0,433
+1023096,675260,2017-09-07,House,"On agreeing to the Roybal-Allard amendment (A038) H.Amdt.310 RC# 460",170,241,22,0,433
+1023096,675261,2017-09-07,House,"On agreeing to the Castro (TX) amendment (A037) H.Amdt.309 RC# 459",205,207,21,0,433
+1023096,675279,2017-09-08,House,"On agreeing to the Pearce amendment (A089) H.Amdt.361 RC# 484",216,186,31,0,433
+1023096,675280,2017-09-08,House,"On agreeing to the Carbajal amendment (A086) H.Amdt.358 RC# 483",177,230,26,0,433
+1023096,675281,2017-09-08,House,"On agreeing to the Palmer amendment (A085) H.Amdt.357 RC# 482",178,227,28,0,433
+1023096,675282,2017-09-08,House,"On agreeing to the Blackburn amendment (A084) H.Amdt.356 RC# 481",156,248,29,0,433
+1023096,675969,2017-09-13,House,"On agreeing to the Gibbs amendment (A156) H.Amdt.428 RC# 515",215,201,17,0,433
+1023096,675970,2017-09-13,House,"On agreeing to the Ellison amendment (A155) H.Amdt.427 RC# 514",191,226,16,0,433
+1023096,675971,2017-09-13,House,"On agreeing to the Blackburn amendment (A148) H.Amdt.420 RC# 513",156,260,17,0,433
+1023096,675972,2017-09-13,House,"On agreeing to the Walberg amendment (A147) H.Amdt.419 RC# 512",221,196,16,0,433
+1023096,675973,2017-09-13,House,"On agreeing to the Meadows amendment (A146) H.Amdt.418 RC# 511",178,238,17,0,433
+1023096,675974,2017-09-13,House,"On agreeing to the Grothman amendment (A145) H.Amdt.417 RC# 510",175,241,17,0,433
+1023096,675975,2017-09-13,House,"On agreeing to the Grothman amendment (A144) H.Amdt.416 RC# 509",131,285,17,0,433
+1023096,675976,2017-09-13,House,"On agreeing to the Lewis (MN) amendment (A143) H.Amdt.415 RC# 508",153,263,17,0,433
+1023096,675977,2017-09-13,House,"On agreeing to the Courtney amendment (A142) H.Amdt.414 RC# 507",204,212,17,0,433
+1023096,675978,2017-09-13,House,"On agreeing to the Lowey amendment (A141) H.Amdt.413 RC# 506",228,188,17,0,433
+1023096,675979,2017-09-13,House,"On agreeing to the Lujan, Ben Ray amendment (A140) H.Amdt.412 RC# 505",213,205,15,0,433
+1023096,675980,2017-09-13,House,"On agreeing to the Murphy (PA) amendment (A137) H.Amdt.409 RC# 504",198,219,16,0,433
+1023096,675981,2017-09-13,House,"On agreeing to the Clark (MA) amendment (A136) H.Amdt.408 RC# 503",225,192,16,0,433
+1023096,675982,2017-09-13,House,"On agreeing to the Kildee amendment (A132) H.Amdt.404 RC# 502",243,175,15,0,433
+1023096,675983,2017-09-13,House,"On agreeing to the Meng amendment (A128) H.Amdt.400 RC# 501",220,198,15,0,433
+1023096,675984,2017-09-13,House,"On agreeing to the Pocan amendment (A126) H.Amdt.398 RC# 500",199,219,15,0,433
+1023096,675985,2017-09-13,House,"On agreeing to the Kildee amendment (A124) H.Amdt.396 RC# 499",247,170,16,0,433
+1023096,675986,2017-09-13,House,"On agreeing to the Buck amendment (A118) H.Amdt.390 RC# 498",226,191,16,0,433
+1023096,675987,2017-09-13,House,"On agreeing to the Flores amendment (A117) H.Amdt.389 RC# 497",216,199,18,0,433
+1023096,675988,2017-09-13,House,"On agreeing to the Norton amendment (A113) H.Amdt.385 RC# 496",189,225,19,0,433
+1023096,675989,2017-09-13,House,"On agreeing to the Scott (VA) amendment (A111) H.Amdt.383 RC# 495",192,223,18,0,433
+1023096,675990,2017-09-13,House,"On agreeing to the Grothman amendment (A106) H.Amdt.378 RC# 494",98,313,22,0,433
+1023096,675991,2017-09-13,House,"On agreeing to the Torres amendment (A102) H.Amdt.374 RC# 493",279,137,17,0,433
+1023096,675992,2017-09-13,House,"On agreeing to the Norman amendment (A100) H.Amdt.372 RC# 492",151,260,22,0,433
+1023096,675993,2017-09-13,House,"On agreeing to the Polis amendment (A099) H.Amdt.371 RC# 491",198,212,23,0,433
+1023096,675994,2017-09-13,House,"On agreeing to the Polis amendment (A098) H.Amdt.370 RC# 490",201,212,20,0,433
+1023096,675995,2017-09-13,House,"On agreeing to the Mullin amendment (A097) H.Amdt.369 RC# 489",225,186,22,0,433
+1023096,675996,2017-09-13,House,"On agreeing to the Mullin amendment (A096) H.Amdt.368 RC# 488",218,195,20,0,433
+1023096,676207,2017-09-14,House,"On passage RC# 528",211,198,25,0,434
+1023096,676208,2017-09-14,House,"On motion to recommit with instructions RC# 527",186,223,24,0,433
+1023096,676209,2017-09-14,House,"On agreeing to the Jackson Lee amendment (A173) H.Amdt.445 RC# 526",265,143,25,0,433
+1023096,676210,2017-09-14,House,"On agreeing to the Huizenga amendment (A169) H.Amdt.441 RC# 525",211,195,27,0,433
+1023096,676211,2017-09-14,House,"On agreeing to the Mitchell amendment (A166) H.Amdt.438 RC# 524",166,241,26,0,433
+1023096,676212,2017-09-14,House,"On agreeing to the Ellison amendment (A165) H.Amdt.437 RC# 523",186,221,26,0,433
+1023096,676213,2017-09-14,House,"On agreeing to the Ellison amendment (A164) H.Amdt.436 RC# 522",163,245,25,0,433
+1023096,676214,2017-09-14,House,"On agreeing to the Ellison amendment (A163) H.Amdt.435 RC# 521",183,226,24,0,433
+1023096,676215,2017-09-14,House,"On agreeing to the Norton amendment (A162) H.Amdt.434 RC# 520",186,222,25,0,433
+1023096,676216,2017-09-14,House,"On agreeing to the Gohmert amendment (A161) H.Amdt.433 RC# 519",186,223,24,0,433
+1023096,676217,2017-09-14,House,"On agreeing to the Palmer amendment (A160) H.Amdt.432 RC# 518",214,194,25,0,433
+1023097,677578,2017-10-04,House,"On agreeing to the Scott (VA) amendment (A002) H.Amdt.454 RC# 554",130,292,11,0,433
+1023097,677579,2017-10-04,House,"On agreeing to the Grijalva amendment (A001) H.Amdt.453 RC# 553",108,314,11,0,433
+1023097,677664,2017-10-05,House,"On agreeing to the resolution RC# 557",219,206,9,0,434
+1023097,677665,2017-10-05,House,"On agreeing to the Yarmuth amendment (A004) H.Amdt.456 RC# 556",156,268,9,0,433
+1023097,677666,2017-10-05,House,"On agreeing to the McClintock amendment (A003) H.Amdt.455 RC# 555",139,281,13,0,433
+1023097,678050,2017-10-17,Senate,"Motion to proceed to consideration of measure RC# 219",50,47,3,0,100
+1023097,678130,2017-10-18,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1120 rejected in Senate S.Amdt.1120 RC# 224",46,52,2,0,100
+1023097,678131,2017-10-18,Senate,"Amendment SA 1146 S.Amdt.1146 RC# 223",98,0,2,0,100
+1023097,678132,2017-10-18,Senate,"Amendment SA 1150 S.Amdt.1150 RC# 222",47,51,2,0,100
+1023097,678133,2017-10-18,Senate,"Amendment SA 1119 S.Amdt.1119 RC# 221",47,51,2,0,100
+1023097,678134,2017-10-18,Senate,"Amendment SA 1144 S.Amdt.1144 RC# 220",89,9,2,0,100
+1023097,678167,2017-10-19,Senate,"Resolution RC# 245",51,49,0,0,100
+1023097,678168,2017-10-19,Senate,"Amendment SA 1301 S.Amdt.1301 RC# 243",48,52,0,0,100
+1023097,678169,2017-10-19,Senate,"Amendment SA 1429 S.Amdt.1429 RC# 242",49,51,0,0,100
+1023097,678170,2017-10-19,Senate,"Amendment SA 1404 S.Amdt.1404 RC# 241",7,93,0,0,100
+1023097,678171,2017-10-19,Senate,"Amendment SA 1428 S.Amdt.1428 RC# 240",50,50,0,0,100
+1023097,678172,2017-10-19,Senate,"Amendment SA 1277 S.Amdt.1277 RC# 238",33,66,1,0,100
+1023097,678173,2017-10-19,Senate,"Amendment SA 1430 S.Amdt.1430 RC# 237",32,67,1,0,100
+1023097,678174,2017-10-19,Senate,"Amendment SA 1298 S.Amdt.1298 RC# 236",5,95,0,0,100
+1023097,678175,2017-10-19,Senate,"Amendment SA 1249 S.Amdt.1249 RC# 235",48,51,1,0,100
+1023097,678176,2017-10-19,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1375 rejected in Senate S.Amdt.1375 RC# 234",47,52,1,0,100
+1023097,678177,2017-10-19,Senate,"Amendment SA 1296 S.Amdt.1296 RC# 233",4,94,2,0,100
+1023097,678178,2017-10-19,Senate,"Amendment SA 1378 S.Amdt.1378 RC# 232",47,51,2,0,100
+1023097,678179,2017-10-19,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1228 rejected in Senate S.Amdt.1228 RC# 231",47,51,2,0,100
+1023097,678180,2017-10-19,Senate,"Amendment SA 1139 S.Amdt.1139 RC# 230",47,51,2,0,100
+1023097,678181,2017-10-19,Senate,"Amendment SA 1178 S.Amdt.1178 RC# 229",98,0,2,0,100
+1023097,678182,2017-10-19,Senate,"Amendment SA 1138 S.Amdt.1138 RC# 228",47,51,2,0,100
+1023097,678183,2017-10-19,Senate,"Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1141 rejected in Senate S.Amdt.1141 RC# 227",47,52,1,0,100
+1023097,678184,2017-10-19,Senate,"Amendment SA 1393 S.Amdt.1393 RC# 226",52,47,1,0,100
+1023097,678185,2017-10-19,Senate,"Amendment SA 1302 S.Amdt.1302 RC# 225",47,52,1,0,100
+1023097,678193,2017-10-19,Senate,"Amendment SA 1561 S.Amdt.1561 RC# 244",52,48,0,0,100
+1023097,678194,2017-10-19,Senate,"Amendment SA 1553 S.Amdt.1553 RC# 239",58,41,1,0,100
+1023097,678546,2017-10-26,House,"On motion that the House agree to the Senate amendment RC# 589",216,212,5,0,433
+1023223,673104,2017-07-25,House,"On motion to suspend the rules and pass the bill RC# 413",419,3,11,0,433
+1023223,673254,2017-07-27,Senate,"Passed Senate without amendment RC# 175",98,2,0,0,100
+1023239,673099,2017-07-25,House,"On agreeing to the resolution RC# 411",233,188,12,0,433
+1023239,673100,2017-07-25,House,"On ordering the previous question RC# 410",229,184,20,0,433
+1023239,678324,0000-00-00,Senate,"On the Joint Resolution H.J.Res. 111",50,50,0,0,100
+1023335,673110,2017-07-26,House,"On agreeing to the resolution RC# 415",232,192,9,0,433
+1023335,673111,2017-07-26,House,"On ordering the previous question RC# 414",230,193,10,0,433
+1023421,673153,2017-07-27,House,"On agreeing to the resolution RC# 427",230,196,7,0,433
+1023421,673154,2017-07-27,House,"On ordering the previous question RC# 426",233,185,15,0,433
+1023558,673281,2017-07-28,House,"On agreeing to the resolution RC# 436",224,186,23,0,433
+1023562,679451,0000-00-00,Senate,"On the Motion (Wyden Motion to Commit H.R. 1 to the Committee on Finance )",48,51,1,0,100
+1023562,679600,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+1023581,678838,2017-11-07,House,"On passage RC# 614",242,181,9,0,432
+1023581,678839,2017-11-07,House,"On motion to recommit with instructions RC# 613",186,235,11,0,432
+1023717,678281,2017-10-23,House,"On motion to suspend the rules and pass the bill, as amended RC# 569",402,1,29,0,432
+1023756,702373,2018-02-14,House,"On motion to suspend the rules and pass the bill, as amended RC# 74",415,0,15,0,430
+1023758,678761,2017-11-06,House,"On motion to suspend the rules and pass the bill RC# 607",400,0,32,0,432
+1025461,675041,2017-09-06,House,"On agreeing to the resolution RC# 443",230,191,12,0,433
+1025461,675042,2017-09-06,House,"On ordering the previous question RC# 442",233,187,13,0,433
+1025537,675052,2017-09-06,House,"On motion to suspend the rules and agree to the resolution RC# 441",419,3,11,0,433
+1025543,675232,2017-09-07,House,"On agreeing to the resolution RC# 458",222,190,21,0,433
+1025543,675233,2017-09-07,House,"On ordering the previous question RC# 457",227,186,20,0,433
+1025691,676100,2017-09-14,House,"On passage RC# 517",233,175,25,0,433
+1025691,676101,2017-09-14,House,"On motion to recommit with instructions RC# 516",184,220,29,0,433
+1025710,678936,2017-11-08,House,"On motion to suspend the rules and pass the bill, as amended RC# 621",422,0,10,0,432
+1025797,679931,2017-12-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 655",407,4,22,0,433
+1025948,675957,2017-09-13,House,"On agreeing to the resolution RC# 487",222,186,25,0,433
+1025948,675958,2017-09-13,House,"On ordering the previous question RC# 486",222,184,27,0,433
+1026986,677248,2017-09-25,House,"On motion to suspend the rules and pass the bill RC# 530",245,171,17,0,433
+1026986,677358,2017-09-28,House,"On passage RC# 542",264,155,14,0,433
+1026986,677359,2017-09-28,House,"On motion to recommit with instructions RC# 541",188,227,18,0,433
+1026988,677295,2017-09-26,House,"On agreeing to the resolution RC# 533",230,190,13,0,433
+1026988,677296,2017-09-26,House,"On ordering the previous question RC# 532",230,189,14,0,433
+1026991,679200,2017-11-15,House,"On motion to suspend the rules and pass the bill, as amended RC# 635",420,0,13,0,433
+1027066,677329,2017-09-27,House,"On agreeing to the resolution RC# 539",223,190,20,0,433
+1027066,677330,2017-09-27,House,"On ordering the previous question RC# 538",223,187,23,0,433
+1027068,755075,2018-05-21,House,"On motion to suspend the rules and pass the bill, as amended RC# 209",377,2,48,0,427
+1027092,781273,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 491",370,0,62,0,432
+1027234,696945,2018-02-07,House,"On motion to suspend the rules and pass the bill, as amended RC# 61",407,0,23,0,430
+1027485,678619,2017-11-01,House,"On motion to suspend the rules and pass the bill, as amended RC# 599",419,0,13,0,432
+1027493,679530,2017-11-30,House,"On passage RC# 643",216,204,13,0,433
+1027493,679531,2017-11-30,House,"On agreeing to the Grijalva amendment (A002) H.Amdt.487 RC# 642",182,237,14,0,433
+1027499,677526,2017-10-03,House,"On agreeing to the resolution RC# 547",233,187,13,0,433
+1027499,677527,2017-10-03,House,"On ordering the previous question RC# 546",233,184,16,0,433
+1027505,678860,2017-11-07,House,"On motion to suspend the rules and pass the bill RC# 615",389,32,11,0,432
+1027511,678330,2017-10-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 581",415,2,15,0,432
+1027633,677576,2017-10-04,House,"On agreeing to the resolution RC# 552",232,188,13,0,433
+1027633,677577,2017-10-04,House,"On ordering the previous question RC# 551",231,189,13,0,433
+1027633,678166,0000-00-00,Senate,"On the Concurrent Resolution H.Con.Res. 71",51,49,0,0,100
+1027647,678734,2017-11-03,House,"On passage RC# 606",242,174,16,0,432
+1027647,678735,2017-11-03,House,"On motion to recommit with instructions RC# 605",187,231,14,0,432
+1027840,680968,2017-12-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 687",371,14,46,0,431
+1027845,702222,2018-02-14,House,"On passage RC# 77",271,145,14,0,430
+1027845,702223,2018-02-14,House,"On motion to recommit with instructions RC# 76",189,228,13,0,430
+1027859,781280,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 494",202,171,59,0,432
+1027860,680587,2017-12-12,House,"On passage RC# 675",294,129,8,0,431
+1027860,680588,2017-12-12,House,"On motion to recommit with instructions RC# 674",190,233,8,0,431
+1028087,677826,2017-10-11,House,"On agreeing to the resolution RC# 561",234,185,14,0,433
+1028087,677827,2017-10-11,House,"On ordering the previous question RC# 560",227,190,16,0,433
+1028237,681236,2017-12-20,House,"On passage RC# 702",238,182,11,0,431
+1028237,681237,2017-12-20,House,"On motion to recommit with instructions RC# 701",189,231,11,0,431
+1028240,678371,0000-00-00,Senate,"On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2266)",82,17,1,0,100
+1028364,677886,2017-10-12,House,"On motion to suspend the rules and agree to the resolution RC# 566",353,69,11,0,433
+1028364,678347,2017-10-12,Senate,"On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2266)",82,17,1,0,100
+1028368,737374,2018-04-11,House,"On passage RC# 135",297,121,10,0,428
+1028432,678213,0000-00-00,Senate,"On the Concurrent Resolution H.Con.Res. 71",51,49,0,0,100
+1029048,678335,2017-10-24,House,"On agreeing to the resolution RC# 573",227,190,15,0,432
+1029048,678336,2017-10-24,House,"On ordering the previous question RC# 572",228,189,15,0,432
+1029177,678473,2017-10-25,House,"On agreeing to the resolution RC# 583",233,188,11,0,432
+1029177,678474,2017-10-25,House,"On ordering the previous question RC# 582",229,188,15,0,432
+1029721,678641,2017-11-01,House,"On agreeing to the resolution RC# 593",232,184,16,0,432
+1029721,678642,2017-11-01,House,"On ordering the previous question RC# 592",232,184,16,0,432
+1029730,781271,2018-12-21,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 484",356,17,59,0,432
+1029736,678937,2017-11-08,House,"On motion to suspend the rules and pass the bill, as amended RC# 618",420,0,12,0,432
+1029761,679542,2017-11-30,House,"On passage RC# 648",213,204,16,0,433
+1029761,679543,2017-11-30,House,"On agreeing to the Connolly amendment (A003) H.Amdt.491 RC# 647",193,223,17,0,433
+1029761,679544,2017-11-30,House,"On agreeing to the Hastings amendment (A001) H.Amdt.489 RC# 646",195,221,17,0,433
+1029886,678702,2017-11-02,House,"On agreeing to the resolution RC# 601",240,178,14,0,432
+1029886,678703,2017-11-02,House,"On ordering the previous question RC# 600",230,193,9,0,432
+1029904,679092,2017-11-13,House,"On agreeing to the resolution RC# 623",366,30,36,0,432
+1029912,736842,2018-04-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 131",409,2,17,0,428
+1029917,678704,2017-11-02,House,"On agreeing to the resolution RC# 603",231,192,9,0,432
+1029917,678705,2017-11-02,House,"On ordering the previous question RC# 602",230,191,11,0,432
+1030003,679606,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+1030022,727796,2018-03-22,House,"On motion to suspend the rules and pass the bill, as amended RC# 125",417,2,10,0,429
+1030022,781222,2018-12-20,House,"On motion that the House suspend the rules and agree to the Senate amendments RC# 456",388,2,42,0,432
+1030206,681219,2017-12-19,House,"On motion to suspend the rules and pass the bill, as amended RC# 690",409,17,5,0,431
+1030219,678840,2017-11-07,House,"On agreeing to the resolution RC# 611",233,182,17,0,432
+1030219,678841,2017-11-07,House,"On ordering the previous question RC# 610",233,182,17,0,432
+1030229,685832,2018-01-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 22",412,5,13,0,430
+1030233,781165,2018-12-19,House,"On motion to suspend the rules and pass the bill RC# 438",361,3,68,0,432
+1030358,691125,2018-01-30,House,"On motion to suspend the rules and pass the bill, as amended RC# 50",414,0,16,0,430
+1030363,737365,2018-04-11,House,"On passage RC# 137",245,174,9,0,428
+1030363,737366,2018-04-11,House,"On motion to recommit with instructions RC# 136",188,231,9,0,428
+1030371,678930,2017-11-08,House,"On agreeing to the resolution RC# 617",233,190,9,0,432
+1030371,678931,2017-11-08,House,"On ordering the previous question RC# 616",224,190,18,0,432
+1030375,723718,2018-03-15,House,"On passage RC# 110",246,170,14,0,430
+1030375,723719,2018-03-15,House,"On motion to recommit with instructions RC# 109",182,235,13,0,430
+1030392,685829,2018-01-17,House,"On motion to suspend the rules and pass the bill, as amended RC# 25",418,2,10,0,430
+1030397,680062,2017-12-06,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 664",423,3,6,0,432
+1030574,768294,2018-06-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 293",392,2,33,0,427
+1030587,711643,2018-02-27,House,"On passage RC# 89",245,169,16,0,430
+1030587,711644,2018-02-27,House,"On motion to recommit with instructions RC# 88",185,228,17,0,430
+1030862,685488,2018-01-16,House,"On motion to suspend the rules and pass the bill, as amended RC# 18",402,0,28,0,430
+1030908,680807,2017-12-14,House,"On passage RC# 684",252,167,12,0,431
+1030908,680808,2017-12-14,House,"On motion to recommit with instructions RC# 683",188,233,10,0,431
+1030924,681218,2017-12-19,House,"On motion to suspend the rules and pass the bill, as amended RC# 693",420,1,10,0,431
+1030929,750853,2018-05-07,House,"On motion to suspend the rules and pass the bill, as amended RC# 168",389,0,39,0,428
+1031649,680988,2017-12-18,House,"On motion to suspend the rules and pass the bill, as amended RC# 686",376,9,46,0,431
+1031659,679139,2017-11-14,House,"On agreeing to the resolution RC# 627",233,187,13,0,433
+1031659,679140,2017-11-14,House,"On ordering the previous question RC# 626",234,189,10,0,433
+1031807,679195,2017-11-15,House,"On agreeing to the resolution RC# 633",235,191,7,0,433
+1031807,679196,2017-11-15,House,"On ordering the previous question RC# 632",234,193,6,0,433
+1031807,679601,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+1031992,717765,2018-03-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 93",387,0,43,0,430
+1032226,717945,2018-03-06,Senate,"Cloture on the motion to proceed to the measure RC# 48",67,32,1,0,100
+1032226,721728,2018-03-12,Senate,"Cloture on amendment SA 2151 as modified S.Amdt.2151 RC# 50",66,30,4,0,100
+1032226,722823,2018-03-14,Senate,"Passed Senate with an amendment RC# 54",67,31,2,0,100
+1032226,722824,2018-03-14,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure RC# 53",67,31,2,0,100
+1032226,722825,2018-03-14,Senate,"Cloture on the measure RC# 52",67,31,2,0,100
+1032226,722826,2018-03-14,Senate,"Amendment SA 2151 as modified S.Amdt.2151 RC# 51",67,31,2,0,100
+1032226,755381,2018-05-22,House,"On passage RC# 216",258,159,10,0,427
+1032236,755104,2018-05-21,House,"On motion to suspend the rules and pass the bill, as amended RC# 208",377,1,49,0,427
+1033184,679605,0000-00-00,Senate,"On Passage of the Bill H.R. 1",51,49,0,0,100
+1033195,722593,2018-03-13,House,"On motion to suspend the rules and pass the bill RC# 103",392,6,32,0,430
+1033197,727711,2018-03-22,House,"On motion to suspend the rules and pass the bill, as amended RC# 128",408,0,21,0,429
+1033207,679452,2017-11-29,House,"On agreeing to the resolution RC# 641",228,186,19,0,433
+1033207,679453,2017-11-29,House,"On ordering the previous question RC# 640",227,189,17,0,433
+1033400,679524,2017-11-30,House,"On agreeing to the resolution RC# 645",226,186,21,0,433
+1033400,679525,2017-11-30,House,"On ordering the previous question RC# 644",229,189,15,0,433
+1034423,723631,2018-03-15,House,"On passage RC# 112",283,133,14,0,430
+1034423,723632,2018-03-15,House,"On agreeing to the Waters, Maxine amendment (A002) H.Amdt.534 RC# 111",184,233,13,0,430
+1034446,680176,2017-12-07,House,"On passage RC# 670",235,193,5,0,433
+1034446,680177,2017-12-07,Senate,"Received in the Senate, read twice, considered, read the third time, and passed without amendment RC# 311",81,14,5,0,100
+1034448,701918,2018-02-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 70",402,0,28,0,430
+1034737,680060,2017-12-06,House,"On agreeing to the resolution RC# 660",232,194,6,0,432
+1034737,680061,2017-12-06,House,"On ordering the previous question RC# 659",236,189,7,0,432
+1034742,694830,2018-02-05,House,"On motion to suspend the rules and pass the bill, as amended RC# 51",396,0,34,0,430
+1034989,781221,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 461",379,9,44,0,432
+1034996,680179,2017-12-07,House,"On agreeing to the resolution RC# 666",238,188,6,0,432
+1034996,680180,2017-12-07,House,"On ordering the previous question RC# 665",236,190,6,0,432
+1034999,684890,2018-01-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 12",415,0,16,0,431
+1035006,680054,2017-12-06,House,"On motion to table the measure RC# 658",364,58,10,0,432
+1035008,685063,2018-01-11,House,"On motion to suspend the rules and pass the bill RC# 17",410,2,19,0,431
+1035017,684736,2018-01-09,House,"On motion to suspend the rules and pass the bill RC# 3",413,0,18,0,431
+1035018,725798,2018-03-20,House,"On passage RC# 119",395,19,15,0,429
+1035396,684749,2018-01-09,House,"On motion to suspend the rules and pass the bill RC# 4",415,1,15,0,431
+1035950,774305,2018-09-06,House,"On passage RC# 392",260,146,23,0,429
+1035950,774306,2018-09-06,House,"On motion to recommit with instructions RC# 391",178,231,20,0,429
+1035950,774307,2018-09-06,House,"On agreeing to the DeGette amendment (A002) H.Amdt.963 RC# 390",195,210,24,0,429
+1035950,774308,2018-09-06,House,"On agreeing to the Pallone amendment (A001) H.Amdt.962 RC# 389",176,227,26,0,429
+1035962,717817,2018-03-06,House,"On passage RC# 95",264,143,23,0,430
+1035962,717818,2018-03-06,House,"On motion to recommit with instructions RC# 94",182,228,20,0,430
+1036275,680701,2017-12-13,House,"On agreeing to the resolution RC# 679",240,184,7,0,431
+1036275,680702,2017-12-13,House,"On ordering the previous question RC# 678",236,187,8,0,431
+1036286,680669,2017-12-13,House,"On agreeing to the resolution RC# 677",238,182,11,0,431
+1036286,680670,2017-12-13,House,"On ordering the previous question RC# 676",229,189,13,0,431
+1037359,681249,2017-12-21,House,"On passage RC# 709",251,169,12,0,432
+1037371,681216,2017-12-19,House,"On agreeing to the resolution RC# 689",233,193,5,0,431
+1037371,681217,2017-12-19,House,"On ordering the previous question RC# 688",233,187,11,0,431
+1037607,774369,2018-09-12,House,"On motion to suspend the rules and pass the bill RC# 396",378,1,49,0,428
+1038038,681234,2017-12-20,House,"On agreeing to the resolution RC# 698",232,190,9,0,431
+1038038,681235,2017-12-20,House,"On ordering the previous question RC# 697",234,188,9,0,431
+1038292,686477,2018-01-19,House,"On passage RC# 36",241,183,6,0,430
+1038298,681247,2017-12-21,House,"On agreeing to the resolution RC# 705",228,188,15,0,431
+1038298,681248,2017-12-21,House,"On ordering the previous question RC# 704",232,188,11,0,431
+1046842,781263,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 480",382,2,48,0,432
+1046858,781178,2018-12-19,House,"On motion to suspend the rules and pass the bill RC# 439",357,4,71,0,432
+1047595,684758,2018-01-09,House,"On motion to suspend the rules and agree to the resolution RC# 2",415,2,14,0,431
+1050310,684910,2018-01-10,House,"On agreeing to the resolution RC# 8",233,181,17,0,431
+1050312,744953,2018-04-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 161",410,2,16,0,428
+1050316,684941,2018-01-10,House,"On agreeing to the resolution RC# 10",227,181,23,0,431
+1050316,684942,2018-01-10,House,"On ordering the previous question RC# 9",234,181,16,0,431
+1053116,767215,2018-06-21,House,"On passage RC# 282",193,231,3,0,427
+1053116,767216,2018-06-21,House,"On motion to recommit with instructions RC# 281",191,234,2,0,427
+1058036,697953,2018-02-08,House,"On passage RC# 66",280,139,11,0,430
+1058962,738648,2018-04-13,House,"On passage RC# 139",300,104,25,0,429
+1061002,685841,2018-01-17,House,"On agreeing to the resolution RC# 21",228,188,14,0,430
+1061002,685842,2018-01-17,House,"On ordering the previous question RC# 20",230,187,13,0,430
+1061014,686283,2018-01-18,House,"On agreeing to the resolution RC# 30",228,189,13,0,430
+1061014,686284,2018-01-18,House,"On ordering the previous question RC# 29",229,190,11,0,430
+1061017,690063,2018-01-29,Senate,"Cloture on the motion to proceed to the measure RC# 25",51,46,3,0,100
+1062459,686247,2018-01-18,House,"On agreeing to the resolution RC# 28",226,194,10,0,430
+1062459,686248,2018-01-18,House,"On ordering the previous question RC# 27",229,191,10,0,430
+1064998,755015,2018-05-21,House,"On motion to suspend the rules and pass the bill, as amended RC# 207",382,0,45,0,427
+1065007,781223,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 463",230,162,40,0,432
+1066450,686475,2018-01-19,House,"On motion to table the measure RC# 35",355,66,9,0,430
+1066520,753336,2018-05-15,House,"On motion to suspend the rules and pass the bill RC# 182",377,1,49,0,427
+1066637,724836,2018-03-19,House,"On motion to suspend the rules and pass the bill, as amended RC# 116",391,0,38,0,429
+1066922,686487,2018-01-20,House,"On agreeing to the resolution RC# 42",235,170,25,0,430
+1066922,686488,2018-01-20,House,"On ordering the previous question RC# 41",224,180,26,0,430
+1066922,686489,2018-01-20,House,"On motion to table the motion to appeal the ruling of the chair RC# 40",224,173,33,0,430
+1072315,770091,2018-07-23,House,"On motion to suspend the rules and pass the bill, as amended RC# 367",378,4,46,0,428
+1073910,691097,2018-01-30,House,"On agreeing to the resolution RC# 48",236,183,11,0,430
+1073910,691098,2018-01-30,House,"On ordering the previous question RC# 47",232,187,11,0,430
+1075161,722861,2018-03-14,House,"On motion to suspend the rules and pass the bill, as amended RC# 106",407,10,13,0,430
+1075194,750053,2018-05-07,House,"On motion to suspend the rules and pass the bill, as amended RC# 167",388,0,39,0,427
+1081547,695912,2018-02-06,House,"On agreeing to the resolution RC# 55",231,186,13,0,430
+1081547,695913,2018-02-06,House,"On ordering the previous question RC# 54",231,188,11,0,430
+1081552,753958,2018-05-16,House,"On passage RC# 189",347,70,10,0,427
+1081552,755384,2018-05-22,Senate,"Cloture on the motion to concur in the House amendment to S. 2372 RC# 104",91,4,5,0,100
+1081552,755689,2018-05-23,Senate,"Senate agreed to the House amendment to S. 2372 RC# 106",92,5,3,0,100
+1082973,695851,2018-02-06,House,"On motion to table the measure RC# 53",231,187,12,0,430
+1082982,770002,2018-07-16,House,"On Motion to Suspend the Rules and Pass",368,0,60,0,428
+1082994,695853,2018-02-06,House,"On agreeing to the resolution RC# 59",236,188,6,0,430
+1082994,695854,2018-02-06,House,"On ordering the previous question RC# 58",235,189,6,0,430
+1083898,770003,2018-07-16,House,"On motion to suspend the rules and pass the bill RC# 330",368,0,60,0,428
+1084833,770010,2018-07-17,House,"On motion to suspend the rules and pass the bill RC# 335",412,0,16,0,428
+1084859,700919,2018-02-13,House,"On motion to suspend the rules and pass the bill, as amended RC# 71",400,2,28,0,430
+1085067,697848,2018-02-09,House,"On agreeing to the resolution RC# 68",224,193,13,0,430
+1085067,697849,2018-02-09,House,"On ordering the previous question RC# 67",224,186,20,0,430
+1088067,702901,2018-02-14,House,"On agreeing to the resolution RC# 73",227,187,16,0,430
+1088067,702902,2018-02-14,House,"On ordering the previous question RC# 72",228,187,15,0,430
+1088068,759943,2018-06-05,House,"On motion to suspend the rules and pass the bill RC# 231",374,5,48,0,427
+1090889,762254,2018-06-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 259",398,0,29,0,427
+1094118,781228,2018-12-20,House,"On motion that the House suspend the rules and agree to the Senate amendment to the House amendment RC# 450",386,2,44,0,432
+1096888,743199,2018-04-24,House,"On motion to suspend the rules and pass the bill, as amended RC# 149",379,16,33,0,428
+1096892,711596,2018-02-27,House,"On agreeing to the resolution RC# 87",230,177,23,0,430
+1096892,711597,2018-02-27,House,"On ordering the previous question RC# 86",227,185,18,0,430
+1096898,727761,2018-03-22,House,"On motion to suspend the rules and pass the bill, as amended RC# 129",397,1,31,0,429
+1096907,711588,2018-02-27,House,"On agreeing to the resolution RC# 85",235,175,20,0,430
+1096907,711589,2018-02-27,House,"On ordering the previous question RC# 84",228,184,18,0,430
+1097814,727872,2018-03-22,House,"On motion to suspend the rules and pass the bill, as amended RC# 126",409,5,15,0,429
+1097835,753852,2018-05-16,Senate,"Passed Senate without amendment RC# 97",52,47,1,0,100
+1097835,753853,2018-05-16,Senate,"Motion to proceed to consideration of measure RC# 96",52,47,1,0,100
+1098919,725549,2018-03-20,Senate,"Motion to table the motion to discharge Committee on Foreign Relations RC# 58",55,44,1,0,100
+1098919,779107,2018-11-28,Senate,"Senate Committee on Foreign Relations discharged RC# 250",63,37,0,0,100
+1098919,780370,2018-12-12,Senate,"Motion to proceed to consideration of measure RC# 261",60,39,1,0,100
+1098919,780404,2018-12-13,Senate,"Amendment SA 4080 S.Amdt.4080 RC# 263",58,41,1,0,100
+1098919,780405,2018-12-13,Senate,"Amendment SA 4098 S.Amdt.4098 RC# 265",45,54,1,0,100
+1098919,780406,2018-12-13,Senate,"Amendment SA 4096 as modified S.Amdt.4096 RC# 264",99,0,1,0,100
+1098919,780407,2018-12-13,Senate,"Passed Senate with amendments RC# 266",56,41,3,0,100
+1098919,781168,2018-12-12,Senate,"By a decision of the Senate the point of order that amendments offered under 50 U.S.C. 1546a be germane to the underlying joint resolution to which they are offered was well taken RC# 262",96,3,1,0,100
+1101403,743550,2018-04-24,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 148",392,3,33,0,428
+1101412,718824,2018-03-07,House,"On agreeing to the resolution RC# 97",227,185,18,0,430
+1101412,718825,2018-03-07,House,"On ordering the previous question RC# 96",229,183,18,0,430
+1102777,739834,2018-04-17,House,"On passage RC# 142",420,1,8,0,429
+1105422,722887,2018-03-14,House,"On agreeing to the resolution RC# 105",235,182,13,0,430
+1105422,722888,2018-03-14,House,"On ordering the previous question RC# 104",234,183,13,0,430
+1105425,722893,2018-03-13,House,"On motion to suspend the rules and pass the bill RC# 102",259,140,31,0,430
+1105425,726761,2018-03-21,House,"On passage RC# 121",267,149,13,0,429
+1105425,726762,2018-03-21,House,"On motion to recommit with instructions RC# 120",182,233,14,0,429
+1105981,774475,2018-09-17,Senate,"Passed Senate with an amendment RC# 209",98,2,0,0,100
+1105981,774476,2018-09-17,Senate,"Amendment SA 4011 S.Amdt.4011 RC# 208",11,89,0,0,100
+1106013,723647,2018-03-15,House,"On agreeing to the resolution RC# 114",235,177,18,0,430
+1106013,723648,2018-03-15,House,"On ordering the previous question RC# 113",232,182,16,0,430
+1106041,778928,2018-11-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 421",376,16,38,0,430
+1107331,762179,2018-06-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 258",383,13,31,0,427
+1107333,725729,2018-03-20,House,"On agreeing to the resolution RC# 118",225,183,21,0,429
+1107333,725730,2018-03-20,House,"On ordering the previous question RC# 117",233,181,15,0,429
+1107792,780326,2018-12-10,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 426",385,1,46,0,432
+1108242,727749,2018-03-22,House,"On agreeing to the resolution RC# 124",211,207,12,0,430
+1108242,727750,2018-03-22,House,"On ordering the previous question RC# 123",233,186,10,0,429
+1108748,740292,2018-04-17,Senate,"Motion to proceed to consideration of measure RC# 75",50,47,3,0,100
+1108748,740810,2018-04-18,Senate,"Passed Senate without amendment RC# 76",51,47,2,0,100
+1108748,750852,2018-05-08,House,"On passage RC# 171",234,175,19,0,428
+1110340,774903,2018-09-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 404",394,15,19,0,428
+1112346,740872,2018-04-18,House,"On passage RC# 145",414,3,12,0,429
+1112379,737508,2018-04-11,House,"On agreeing to the resolution RC# 134",230,184,14,0,428
+1112379,737509,2018-04-11,House,"On ordering the previous question RC# 133",231,186,11,0,428
+1112385,740862,2018-04-18,House,"On passage RC# 146",414,0,15,0,429
+1112434,744489,2018-04-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 154",415,0,13,0,428
+1112651,781244,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 457",390,2,40,0,432
+1113163,755763,2018-05-24,House,"On passage RC# 230",351,66,10,0,427
+1113163,755764,2018-05-24,House,"On motion to table the motion to appeal the ruling of the chair RC# 229",224,191,12,0,427
+1113163,755765,2018-05-23,House,"On agreeing to the Polis amendment (A019) H.Amdt.652 RC# 228",174,239,14,0,427
+1113163,755766,2018-05-23,House,"On agreeing to the Engel amendment (A018) H.Amdt.651 RC# 227",382,30,15,0,427
+1113163,755767,2018-05-23,House,"On agreeing to the Tenney amendment (A017) H.Amdt.650 RC# 226",174,239,14,0,427
+1113163,755768,2018-05-23,House,"On agreeing to the McKinley amendment (A016) H.Amdt.649 RC# 225",160,252,15,0,427
+1113163,755769,2018-05-23,House,"On agreeing to the McGovern amendment (A015) H.Amdt.648 RC# 224",408,1,18,0,427
+1113163,755770,2018-05-23,House,"On agreeing to the Amodei amendment (A014) H.Amdt.647 RC# 223",229,183,15,0,427
+1113163,755771,2018-05-23,House,"On agreeing to the Garamendi amendment (A005) H.Amdt.638 RC# 222",188,226,13,0,427
+1113163,755772,2018-05-23,House,"On agreeing to the Aguilar amendment (A004) H.Amdt.637 RC# 221",198,217,12,0,427
+1113163,755773,2018-05-23,House,"On agreeing to the Gabbard amendment (A003) H.Amdt.636 RC# 220",60,355,12,0,427
+1113163,755774,2018-05-23,House,"On agreeing to the Nolan amendment (A002) H.Amdt.635 RC# 219",62,351,14,0,427
+1113163,760926,2018-06-07,Senate,"Cloture on the motion to proceed to the measure RC# 119",92,4,4,0,100
+1113163,761711,2018-06-11,Senate,"Motion to proceed to consideration of measure RC# 120",91,4,5,0,100
+1113163,762915,2018-06-13,Senate,"Motion to table amendment SA 2366 rejected in Senate S.Amdt.2366 RC# 122",30,68,2,0,100
+1113163,762916,2018-06-13,Senate,"Motion to table amendment SA 2842 rejected in Senate S.Amdt.2842 RC# 121",47,51,2,0,100
+1113163,763544,2018-06-14,Senate,"Cloture on the measure RC# 126",81,15,4,0,100
+1113163,763545,2018-06-14,Senate,"Amendment SA 2885 S.Amdt.2885 RC# 125",97,0,3,0,100
+1113163,763546,2018-06-14,Senate,"Cloture on amendment SA 2282 as modified S.Amdt.2282 RC# 124",83,14,3,0,100
+1113163,763547,2018-06-14,Senate,"Cloture on amendment SA 2700 S.Amdt.2700 RC# 123",35,62,3,0,100
+1113163,764337,2018-06-18,Senate,"Passed Senate with an amendment RC# 128",85,10,5,0,100
+1113163,764338,2018-06-18,Senate,"Motion to waive section 4106(b)(1) of H. Con. Res. 71, 115th Congress, with respect to amendment SA 2282, as modified, as amended, S.Amdt.2282 RC# 127",81,14,5,0,100
+1113163,768851,2018-06-27,House,"On Closing Portions of the Conference RC# 301",403,15,9,0,427
+1113163,768852,2018-06-27,House,"On motion that the House instruct conferees RC# 300",188,231,8,0,427
+1113163,769893,2018-07-10,Senate,"Motion by Senator Reed to instruct Senate conferees (NATO) RC# 149",97,2,1,0,100
+1113163,769894,2018-07-10,Senate,"Motion by Senator Cornyn to instruct Senate conferees (Committee on Foreign Investment) RC# 148",97,2,1,0,100
+1113163,769895,2018-07-10,Senate,"Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees RC# 147",91,8,1,0,100
+1113163,770148,2018-07-26,House,"On agreeing to the conference report RC# 379",359,54,15,0,428
+1113163,770202,2018-08-01,Senate,"Senate agreed to conference report RC# 181",87,10,3,0,100
+1113224,781229,2018-12-20,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 459",378,13,41,0,432
+1113416,740891,2018-04-18,House,"On agreeing to the resolution RC# 144",239,177,13,0,429
+1113416,740892,2018-04-18,House,"On ordering the previous question RC# 143",226,189,14,0,429
+1113425,781217,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 454",389,1,42,0,432
+1114155,754353,2018-05-17,Senate,"Motion to proceed to consideration of measure rejected in Senate RC# 99",21,76,3,0,100
+1114967,743912,2018-04-25,House,"On agreeing to the resolution RC# 151",228,184,16,0,428
+1114967,743913,2018-04-25,House,"On ordering the previous question RC# 150",225,190,13,0,428
+1115425,781224,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 458",389,0,43,0,432
+1115444,770076,2018-07-19,House,"On agreeing to the resolution RC# 363",229,180,19,0,428
+1115562,760037,2018-06-05,House,"On motion to suspend the rules and pass the bill RC# 233",376,4,47,0,427
+1115563,751361,2018-05-09,House,"On passage RC# 177",230,185,13,0,428
+1115563,751362,2018-05-09,House,"On motion to recommit with instructions RC# 176",193,220,15,0,428
+1115576,745266,2018-04-27,House,"On motion to table the measure RC# 166",215,171,42,0,428
+1116368,765191,2018-06-19,House,"On motion to suspend the rules and pass the bill, as amended RC# 270",356,3,68,0,427
+1116700,765227,2018-06-19,House,"On motion to suspend the rules and pass the bill, as amended RC# 269",342,13,72,0,427
+1116714,755380,2018-05-22,House,"On motion to suspend the rules and pass the bill, as amended RC# 215",360,59,8,0,427
+1116716,750927,2018-05-08,House,"On agreeing to the resolution RC# 170",227,181,20,0,428
+1116716,750928,2018-05-08,House,"On ordering the previous question RC# 169",226,177,25,0,428
+1117010,753866,2018-05-16,House,"On passage RC# 188",382,35,10,0,427
+1117017,751416,2018-05-09,House,"On agreeing to the resolution RC# 174",224,184,20,0,428
+1117017,751417,2018-05-09,House,"On ordering the previous question RC# 173",223,189,16,0,428
+1117020,750983,2018-05-08,House,"On motion to table the measure RC# 172",223,182,23,0,428
+1117288,763584,2018-06-14,House,"On passage RC# 266",230,173,24,0,427
+1117767,769911,2018-07-10,House,"On motion to suspend the rules and pass the bill, as amended RC# 315",385,0,43,0,428
+1117885,767978,2018-06-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 290",379,4,44,0,427
+1118354,753862,2018-05-16,House,"On agreeing to the resolution RC# 186",229,185,13,0,427
+1118354,753863,2018-05-16,House,"On ordering the previous question RC# 185",230,184,13,0,427
+1118354,753864,2018-05-16,House,"On consideration of the resolution RC# 184",223,181,23,0,427
+1118361,769892,2018-07-10,House,"On motion to suspend the rules and pass the bill RC# 314",368,19,40,0,427
+1118368,763476,2018-06-14,House,"On passage RC# 265",353,52,22,0,427
+1118370,778820,2018-11-16,House,"On motion to suspend the rules and pass the bill, as amended RC# 419",375,1,54,0,430
+1118384,766380,2018-06-20,House,"On passage RC# 276",261,155,11,0,427
+1118384,766381,2018-06-20,House,"On motion to recommit with instructions RC# 275",190,226,11,0,427
+1118664,768391,2018-06-26,House,"On motion to suspend the rules and pass the bill, as amended RC# 295",400,2,25,0,427
+1118667,754312,2018-05-17,House,"On agreeing to the resolution RC# 191",228,188,11,0,427
+1118667,754313,2018-05-17,House,"On ordering the previous question RC# 190",228,189,10,0,427
+1118890,770129,2018-07-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 374",417,0,11,0,428
+1119267,760977,2018-06-07,House,"On agreeing to the Norman amendment (A036) H.Amdt.749 RC# 252",128,289,10,0,427
+1119267,760978,2018-06-07,House,"On agreeing to the Blackburn amendment (A032) H.Amdt.745 RC# 251",155,262,10,0,427
+1119267,760979,2018-06-07,House,"On agreeing to the Lowenthal amendment (A029) H.Amdt.742 RC# 250",195,223,9,0,427
+1119267,760980,2018-06-07,House,"On agreeing to the Gosar amendment (A027) H.Amdt.740 RC# 249",139,276,12,0,427
+1119267,760981,2018-06-07,House,"On agreeing to the Connolly amendment (A025) H.Amdt.738 RC# 248",179,239,9,0,427
+1119267,760982,2018-06-07,House,"On agreeing to the Lee amendment (A024) H.Amdt.737 RC# 247",177,241,9,0,427
+1119267,760983,2018-06-07,House,"On agreeing to the Gosar amendment (A022) H.Amdt.735 RC# 246",123,295,9,0,427
+1119267,760984,2018-06-07,House,"On agreeing to the Beyer amendment (A017) H.Amdt.730 RC# 245",204,214,9,0,427
+1119267,760985,2018-06-07,House,"On agreeing to the Tsongas amendment (A012) H.Amdt.725 RC# 244",201,217,9,0,427
+1119267,761349,2018-06-08,House,"On passage RC# 257",235,179,13,0,427
+1119267,761350,2018-06-08,House,"On motion to recommit with instructions RC# 256",187,225,15,0,427
+1119267,761351,2018-06-08,House,"On agreeing to the Takano amendment (A048) H.Amdt.761 RC# 255",195,217,15,0,427
+1119267,761352,2018-06-08,House,"On agreeing to the Meadows amendment (A047) H.Amdt.760 RC# 254",207,201,19,0,427
+1119267,761353,2018-06-08,House,"On agreeing to the Gohmert amendment (A044) H.Amdt.757 RC# 253",212,201,14,0,427
+1119267,764387,2018-06-18,Senate,"Cloture on the motion to proceed to the measure RC# 129",92,3,5,0,100
+1119267,764882,2018-06-19,Senate,"Amendment SA 2920 S.Amdt.2920 RC# 131",96,0,4,0,100
+1119267,764883,2018-06-19,Senate,"Amendment SA 2914 S.Amdt.2914 RC# 130",93,3,4,0,100
+1119267,766019,2018-06-20,Senate,"Amendment SA 2971 S.Amdt.2971 RC# 136",96,0,4,0,100
+1119267,766020,2018-06-20,Senate,"Amendment SA 2926 S.Amdt.2926 RC# 135",96,0,4,0,100
+1119267,766021,2018-06-20,Senate,"Amendment SA 2985 S.Amdt.2985 RC# 133",95,2,3,0,100
+1119267,766022,2018-06-20,Senate,"Amendment SA 2943 as modified S.Amdt.2943 RC# 132",87,9,4,0,100
+1119267,767235,2018-06-21,Senate,"Motion to table amendment SA 3021, as modified, S.Amdt.3021 RC# 138",62,34,4,0,100
+1119267,767236,2018-06-21,Senate,"Amendment SA 2983 S.Amdt.2983 RC# 137",96,0,4,0,100
+1119267,767844,2018-06-25,Senate,"Passed Senate with an amendment RC# 139",86,5,9,0,100
+1119267,769974,2018-07-11,Senate,"Motion by Senator Corker to instruct Senate conferees (Trade Expansion Act of 1962) RC# 151",88,11,1,0,100
+1119267,769975,2018-07-11,Senate,"Motion by Senator Cassidy to instruct Senate conferees (National Flood Insurance Program) RC# 150",94,5,1,0,100
+1119267,774325,2018-09-12,Senate,"Senate agreed to conference report RC# 207",92,5,3,0,100
+1119267,774372,2018-09-13,House,"On agreeing to the conference report RC# 399",377,20,31,0,428
+1119270,763014,2018-06-13,House,"On motion to suspend the rules and pass the bill RC# 263",406,3,18,0,427
+1119272,763008,2018-06-13,House,"On motion to suspend the rules and pass the bill RC# 264",409,8,10,0,427
+1119283,755308,2018-05-22,House,"On agreeing to the resolution RC# 211",227,180,20,0,427
+1119283,755309,2018-05-22,House,"On ordering the previous question RC# 210",222,184,21,0,427
+1119507,781235,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 452",391,0,41,0,432
+1119551,774323,2018-09-12,House,"On motion to suspend the rules and pass the bill, as amended RC# 394",379,3,46,0,428
+1119566,755692,2018-05-23,House,"On agreeing to the resolution RC# 218",229,183,15,0,427
+1119566,755693,2018-05-23,House,"On ordering the previous question RC# 217",222,189,16,0,427
+1119989,781227,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 453",388,2,42,0,432
+1121257,760514,2018-06-06,House,"On agreeing to the resolution RC# 235",223,175,29,0,427
+1121257,760515,2018-06-06,House,"On ordering the previous question RC# 234",224,176,27,0,427
+1121421,760974,2018-06-07,House,"On agreeing to the resolution RC# 241",225,187,15,0,427
+1121421,760975,2018-06-07,House,"On ordering the previous question RC# 240",227,185,15,0,427
+1121596,777292,2018-10-09,Senate,"Cloture on the motion to concur in the House amendments to S. 3021 RC# 224",96,3,1,0,100
+1121596,777363,2018-10-10,Senate,"Senate agreed in the House amendments to S. 3021 RC# 225",99,1,0,0,100
+1121604,781257,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 481",383,1,48,0,432
+1121621,780336,2018-12-11,House,"On motion to suspend the rules and pass the bill RC# 429",406,3,23,0,432
+1121694,778615,2018-11-13,House,"On motion to suspend the rules and pass the bill RC# 416",385,4,38,0,427
+1122039,763102,2018-06-13,House,"On agreeing to the resolution RC# 262",233,175,19,0,427
+1122039,763103,2018-06-13,House,"On ordering the previous question RC# 261",230,183,14,0,427
+1122307,766201,2018-06-20,House,"On passage RC# 278",357,57,13,0,427
+1122307,766202,2018-06-20,House,"On motion to recommit with instructions RC# 277",175,240,12,0,427
+1122882,766152,2018-06-20,House,"On agreeing to the resolution RC# 274",225,180,22,0,427
+1122882,766153,2018-06-20,House,"On ordering the previous question RC# 273",221,185,21,0,427
+1122885,768916,2018-06-27,House,"On passage RC# 297",121,301,6,0,428
+1122885,768917,2018-06-27,House,"On motion to recommit with instructions RC# 296",190,230,7,0,427
+1122891,770045,2018-07-18,House,"On agreeing to the McHenry amendment (A080) H.Amdt.949 RC# 362",201,212,15,0,428
+1122891,770046,2018-07-18,House,"On agreeing to the Rothfus amendment (A079) H.Amdt.948 RC# 361",231,184,13,0,428
+1122891,770047,2018-07-18,House,"On agreeing to the Meadows amendment (A078) H.Amdt.947 RC# 360",223,192,13,0,428
+1122891,770048,2018-07-18,House,"On agreeing to the Palmer amendment (A077) H.Amdt.946 RC# 359",226,189,13,0,428
+1122891,770049,2018-07-18,House,"On agreeing to the Carbajal amendment (A075) H.Amdt.944 RC# 358",190,224,14,0,428
+1122891,770050,2018-07-18,House,"On agreeing to the Smith (MO) amendment (A064) H.Amdt.933 RC# 357",215,199,14,0,428
+1122891,770051,2018-07-18,House,"On agreeing to the Hice, Jody B. amendment (A063) H.Amdt.932 RC# 356",174,240,14,0,428
+1122891,770052,2018-07-18,House,"On agreeing to the Gosar amendment (A057) H.Amdt.926 RC# 355",193,220,15,0,428
+1122891,770053,2018-07-18,House,"On agreeing to the Pearce amendment (A056) H.Amdt.925 RC# 354",216,199,13,0,428
+1122891,770054,2018-07-18,House,"On agreeing to the Pearce amendment (A055) H.Amdt.924 RC# 353",206,209,13,0,428
+1122891,770055,2018-07-18,House,"On agreeing to the Gallego amendment (A047) H.Amdt.916 RC# 352",203,212,13,0,428
+1122891,770056,2018-07-18,House,"On agreeing to the Goodlatte amendment (A046) H.Amdt.915 RC# 351",213,202,13,0,428
+1122891,770057,2018-07-18,House,"On agreeing to the Lamborn amendment (A045) H.Amdt.914 RC# 350",213,201,14,0,428
+1122891,770058,2018-07-18,House,"On agreeing to the Lamborn amendment (A044) H.Amdt.913 RC# 349",213,202,13,0,428
+1122891,770059,2018-07-18,House,"On agreeing to the McMorris Rodgers amendment (A042) H.Amdt.911 RC# 348",227,185,16,0,428
+1122891,770060,2018-07-18,House,"On agreeing to the Mullin amendment (A040) H.Amdt.909 RC# 347",215,199,14,0,428
+1122891,770061,2018-07-18,House,"On agreeing to the Mullin amendment (A039) H.Amdt.908 RC# 346",215,194,19,0,428
+1122891,770062,2018-07-18,House,"On agreeing to the Grothman amendment (A035) as modified H.Amdt.904 RC# 345",114,297,17,0,428
+1122891,770063,2018-07-18,House,"On agreeing to the Adams amendment (A027) H.Amdt.896 RC# 344",194,218,16,0,428
+1122891,770064,2018-07-18,House,"On agreeing to the O'Halleran amendment (A025) H.Amdt.894 RC# 343",217,196,15,0,428
+1122891,770065,2018-07-18,House,"On agreeing to the Grijalva amendment (A023) H.Amdt.892 RC# 342",190,223,15,0,428
+1122891,770066,2018-07-18,House,"On agreeing to the Biggs amendment (A001) H.Amdt.870 RC# 341",172,237,19,0,428
+1122891,770079,2018-07-19,House,"On passage RC# 365",217,199,12,0,428
+1122891,770080,2018-07-19,House,"On motion to recommit with instructions RC# 364",182,232,14,0,428
+1122891,770100,2018-07-24,Senate,"Amendment SA 3430 S.Amdt.3430 RC# 167",87,11,2,0,100
+1122891,770101,2018-07-24,Senate,"Amendment SA 3407 S.Amdt.3407 RC# 166",97,1,2,0,100
+1122891,770102,2018-07-24,Senate,"Amendment SA 3422 S.Amdt.3422 RC# 165",99,0,1,0,100
+1122891,770103,2018-07-24,Senate,"Amendment SA 3405 S.Amdt.3405 RC# 164",98,1,1,0,100
+1122891,770122,2018-07-25,Senate,"Amendment SA 3543 S.Amdt.3543 RC# 171",25,74,1,0,100
+1122891,770123,2018-07-25,Senate,"Amendment SA 3553 S.Amdt.3553 RC# 170",99,0,1,0,100
+1122891,770124,2018-07-25,Senate,"Amendment SA 3414 as modified S.Amdt.3414 RC# 169",95,4,1,0,100
+1122891,770125,2018-07-25,Senate,"Amendment SA 3433 S.Amdt.3433 RC# 168",98,0,2,0,100
+1122891,770179,2018-07-31,Senate,"Cloture on amendment SA 3399 RC# 175",94,4,2,0,100
+1122891,770203,2018-08-01,Senate,"Passed Senate with an amendment RC# 180",92,6,2,0,100
+1122891,770204,2018-08-01,Senate,"Motion to table amendment SA 3402 S.Amdt.3402 RC# 179",54,44,2,0,100
+1122891,770205,2018-08-01,Senate,"Amendment SA 3524, having achieved 60 votes in the affirmative, was S.Amdt.3524 RC# 178",83,15,2,0,100
+1122891,770206,2018-08-01,Senate,"Amendment SA 3522, not having achieved 60 votes in the affirmative, was S.Amdt.3522 RC# 177",14,84,2,0,100
+1122891,770207,2018-08-01,Senate,"Amendment SA 3464, not having achieved 60 votes in the affirmative, was S.Amdt.3464 RC# 176",50,47,3,0,100
+1122891,774301,2018-09-06,House,"On motion that the House instruct conferees RC# 388",187,218,24,0,429
+1122994,767071,2018-06-21,House,"On agreeing to the resolution RC# 286",227,195,5,0,427
+1122994,767072,2018-06-21,House,"On ordering the previous question RC# 285",233,191,3,0,427
+1123005,768999,2018-06-27,House,"On agreeing to the Poe (TX) amendment (A012) H.Amdt.816 RC# 303",175,241,11,0,427
+1123005,769000,2018-06-27,House,"On agreeing to the Langevin amendment H.Amdt.812 RC# 302",188,228,11,0,427
+1123005,769234,2018-06-28,House,"On passage RC# 313",359,49,19,0,427
+1123005,769235,2018-06-28,House,"On motion to recommit with instructions RC# 312",186,224,17,0,427
+1123005,769236,2018-06-28,House,"On agreeing to the Courtney amendment (A037) H.Amdt.841 RC# 311",144,267,16,0,427
+1123005,769237,2018-06-28,House,"On agreeing to the Foster amendment (A033) H.Amdt.837 RC# 310",160,251,16,0,427
+1123005,769238,2018-06-28,House,"On agreeing to the Clark (MA) amendment (A028) H.Amdt.832 RC# 309",252,157,18,0,427
+1123005,769239,2018-06-28,House,"On agreeing to the Gallagher amendment (A021) H.Amdt.825 RC# 308",115,296,16,0,427
+1123005,769240,2018-06-28,House,"On agreeing to the Gallagher amendment (A020) H.Amdt.824 RC# 307",116,296,15,0,427
+1123005,772304,2018-08-20,Senate,"Amendment SA 3706 S.Amdt.3706 RC# 187",85,0,15,0,100
+1123005,772305,2018-08-20,Senate,"Amendment SA 3705 S.Amdt.3705 RC# 186",85,0,15,0,100
+1123005,772405,2018-08-21,Senate,"Amendment SA 3703 S.Amdt.3703 RC# 189",95,0,5,0,100
+1123005,772406,2018-08-21,Senate,"Amendment SA 3773 S.Amdt.3773 RC# 188",95,0,5,0,100
+1123005,772627,2018-08-23,Senate,"Passed Senate with an amendment RC# 193",85,7,8,0,100
+1123005,772628,2018-08-23,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 3695 S.Amdt.3695 RC# 192",68,24,8,0,100
+1123005,772629,2018-08-23,Senate,"Amendment SA 3967, not having achieved 60 votes in the affirmative, was S.Amdt.3967 RC# 191",45,48,7,0,100
+1123005,772630,2018-08-23,Senate,"Cloture on amendment SA 3695 S.Amdt.3695 RC# 190",90,6,4,0,100
+1123005,774276,2018-09-04,House,"On motion that the House instruct conferees RC# 380",171,221,36,0,428
+1123005,774498,2018-09-18,Senate,"Senate agreed to conference report RC# 212",93,7,0,0,100
+1123005,774499,2018-09-18,Senate,"Cloture on the conference report to accompany H.R. 6157 RC# 211",92,8,0,0,100
+1123005,774901,2018-09-26,House,"On agreeing to the conference report RC# 405",361,61,6,0,428
+1123024,767090,2018-06-21,House,"On agreeing to the resolution RC# 280",226,195,6,0,427
+1123024,767091,2018-06-21,House,"On ordering the previous question RC# 279",232,190,5,0,427
+1123266,770126,2018-07-25,House,"On passage RC# 377",277,142,9,0,428
+1123398,779056,2018-11-27,House,"On motion to suspend the rules and pass the bill, as amended RC# 422",374,11,46,0,431
+1123412,768381,2018-06-26,House,"On agreeing to the resolution RC# 292",222,172,33,0,427
+1123412,768382,2018-06-26,House,"On ordering the previous question RC# 291",219,172,36,0,427
+1123557,769976,2018-07-11,House,"On agreeing to the resolution RC# 317",227,184,17,0,428
+1123557,769977,2018-07-11,House,"On ordering the previous question RC# 316",225,186,17,0,428
+1123560,768973,2018-06-27,House,"On agreeing to the resolution RC# 299",230,185,12,0,427
+1123560,768974,2018-06-27,House,"On ordering the previous question RC# 298",231,188,8,0,427
+1123565,781158,2018-12-19,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 442",348,11,73,0,432
+1123631,769303,2018-06-28,House,"On agreeing to the resolution RC# 305",224,184,19,0,427
+1123631,769304,2018-06-28,House,"On ordering the previous question RC# 304",224,186,17,0,427
+1123634,769988,2018-07-12,House,"On passage RC# 326",363,54,11,0,428
+1123648,769291,2018-06-28,House,"On agreeing to the resolution RC# 306",226,183,18,0,427
+1123863,781274,2018-12-21,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 495",371,3,58,0,432
+1124055,770127,2018-07-25,House,"On passage RC# 376",242,176,10,0,428
+1124055,770128,2018-07-25,House,"On motion to recommit with instructions RC# 375",187,229,12,0,428
+1124135,781270,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 482",376,6,50,0,432
+1124139,769971,2018-07-11,House,"On agreeing to the resolution RC# 319",229,183,16,0,428
+1124139,769972,2018-07-11,House,"On ordering the previous question RC# 318",228,184,16,0,428
+1124216,769989,2018-07-12,House,"On agreeing to the resolution RC# 323",235,178,15,0,428
+1124216,769990,2018-07-12,House,"On ordering the previous question RC# 322",229,182,17,0,428
+1124218,770042,2018-07-18,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 337",244,35,149,0,428
+1124325,774789,2018-09-25,House,"On motion to suspend the rules and pass the bill RC# 400",389,6,33,0,428
+1124326,774801,2018-09-25,House,"On motion to suspend the rules and pass the bill, as amended RC# 401",392,5,31,0,428
+1124364,770008,2018-07-17,House,"On agreeing to the resolution RC# 332",229,184,15,0,428
+1124364,770009,2018-07-17,House,"On ordering the previous question RC# 331",230,183,15,0,428
+1124416,770043,2018-07-18,House,"On agreeing to the resolution RC# 340",229,183,16,0,428
+1124416,770044,2018-07-18,House,"On ordering the previous question RC# 339",226,186,16,0,428
+1124485,781245,2018-12-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 464",387,0,45,0,432
+1124570,781269,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 492",352,18,62,0,432
+1124571,770075,2018-07-19,Senate,"Submitted in the Senate, considered, and agreed to without amendment RC# 162",98,0,2,0,100
+1124581,774275,2018-09-04,House,"On motion to suspend the rules and pass the bill RC# 381",272,119,37,0,428
+1124627,770107,2018-07-24,House,"On agreeing to the resolution RC# 369",229,179,20,0,428
+1124627,770108,2018-07-24,House,"On ordering the previous question RC# 368",224,184,20,0,428
+1124632,770105,2018-07-24,House,"On agreeing to the resolution RC# 371",225,184,19,0,428
+1124632,770106,2018-07-24,House,"On ordering the previous question RC# 370",223,188,17,0,428
+1124860,781255,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 485",239,137,56,0,432
+1124902,770150,2018-07-26,House,"On ordering the previous question RC# 378",226,183,19,0,428
+1124971,781226,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 473",382,9,41,0,432
+1125032,781166,2018-12-19,House,"On motion that the House suspend the rules and agree to the Senate amendment RC# 437",352,6,74,0,432
+1125304,781216,2018-12-19,House,"On motion to suspend the rules and pass the bill, as amended RC# 443",359,1,72,0,432
+1125566,781272,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 478",381,2,49,0,432
+1125749,777362,2018-10-10,Senate,"Failed of passage in Senate RC# 226",50,50,0,0,100
+1125821,774309,2018-09-07,House,"On passage RC# 393",247,152,30,0,429
+1125846,774278,2018-09-05,House,"On agreeing to the resolution RC# 383",224,180,24,0,428
+1125846,774279,2018-09-05,House,"On ordering the previous question RC# 382",221,186,21,0,428
+1125987,774302,2018-09-06,House,"On agreeing to the resolution RC# 387",225,179,25,0,429
+1125987,774303,2018-09-06,House,"On ordering the previous question RC# 386",224,181,24,0,429
+1126043,774937,2018-09-26,House,"On motion to suspend the rules and pass the bill RC# 408",297,124,7,0,428
+1126133,775119,2018-09-28,House,"On passage RC# 414",220,191,18,0,429
+1126133,775120,2018-09-28,House,"On motion to recommit with instructions RC# 413",184,226,18,0,428
+1126134,775032,2018-09-27,House,"On passage RC# 412",260,156,12,0,428
+1126141,775033,2018-09-27,House,"On passage RC# 411",240,177,11,0,428
+1126180,778821,2018-11-16,House,"On passage RC# 420",196,180,54,0,430
+1126218,774376,2018-09-13,House,"On agreeing to the resolution RC# 397",222,171,35,0,428
+1126273,781278,2018-12-21,House,"On motion to suspend the rules and agree to the resolution RC# 474",366,0,66,0,432
+1126523,781243,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 465",388,0,44,0,432
+1126682,781279,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 496",365,5,62,0,432
+1126796,774904,2018-09-26,House,"On agreeing to the resolution RC# 406",279,72,77,0,428
+1126916,780373,2018-12-12,Senate,"Passed Senate without amendment RC# 260",50,49,1,0,100
+1127104,774890,2018-09-26,House,"On agreeing to the resolution RC# 403",230,188,10,0,428
+1127104,774891,2018-09-26,House,"On ordering the previous question RC# 402",230,188,10,0,428
+1127224,779391,2018-11-30,House,"On motion to suspend the rules and pass the bill, as amended RC# 425",391,0,41,0,432
+1127227,775019,2018-09-27,House,"On agreeing to the resolution RC# 410",226,189,13,0,428
+1127227,775020,2018-09-27,House,"On ordering the previous question RC# 409",227,189,12,0,428
+1127259,774887,2018-09-26,House,"On motion to suspend the rules and agree to the resolution RC# 407",398,23,7,0,428
+1127337,780408,2018-12-13,House,"On motion to suspend the rules and agree to the resolution, as amended RC# 435",394,1,37,0,432
+1127406,775117,2018-09-28,House,"On motion to suspend the rules and agree to the resolution RC# 415",393,8,27,0,428
+1127434,781163,2018-12-19,House,"On motion to suspend the rules and pass the bill RC# 445",331,28,73,0,432
+1127843,778742,2018-11-15,Senate,"Motion to discharge Senate Committee on Foreign Relations tabled RC# 243",77,21,2,0,100
+1128606,781242,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 451",386,5,41,0,432
+1130094,778819,2018-11-14,House,"On agreeing to the resolution RC# 418",201,187,42,0,430
+1130329,781281,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 500",315,48,69,0,432
+1131131,781265,2018-12-21,House,"On motion to suspend the rules and pass the bill, as amended RC# 486",370,0,62,0,432
+1131135,781234,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 460",390,0,42,0,432
+1131243,779390,2018-11-29,House,"On agreeing to the resolution RC# 423",219,181,32,0,432
+1131377,779389,2018-11-29,House,"On motion to suspend the rules and pass the bill RC# 424",350,46,36,0,432
+1132469,780334,2018-12-11,House,"On motion to suspend the rules and pass the bill RC# 428",400,11,21,0,432
+1132669,781238,2018-12-20,House,"On motion to suspend the rules and pass the bill, as amended RC# 455",378,11,43,0,432
+1132945,780382,2018-12-12,House,"On ordering the previous question RC# 431",220,191,21,0,432
+1132945,780383,2018-12-12,House,"On agreeing to the resolution RC# 432",206,203,24,0,433
+1133088,781156,2018-12-19,House,"On motion to suspend the rules and pass the bill RC# 441",351,10,71,0,432
+1133635,781277,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 479",375,6,51,0,432
+1133934,781256,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 476",372,1,59,0,432
+1133939,781254,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 475",372,2,58,0,432
+1134815,781233,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 466",389,0,43,0,432
+1135177,781157,2018-12-19,House,"On motion to suspend the rules and pass the bill RC# 440",362,1,69,0,432
+1135204,781241,2018-12-20,House,"On agreeing to the resolution RC# 447",350,30,52,0,432
+1135206,781232,2018-12-20,House,"On motion to suspend the rules and pass the bill RC# 449",367,9,56,0,432
+1135221,781276,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 477",378,2,52,0,432
+1135225,781240,2018-12-20,House,"On agreeing to the resolution RC# 446",207,170,55,0,432
+1135629,781218,2018-12-20,House,"On ordering the previous question RC# 468",223,178,31,0,432
+1135629,781219,2018-12-20,House,"On agreeing to the resolution RC# 469",221,179,32,0,432
+1135814,781258,2018-12-21,House,"On motion to suspend the rules and agree to the resolution RC# 499",344,25,63,0,432
+1135815,781259,2018-12-21,House,"On motion to suspend the rules and agree to the resolution RC# 483",362,12,58,0,432
+1135820,781260,2018-12-21,House,"On motion to suspend the rules and pass the bill RC# 497",148,226,58,0,432
