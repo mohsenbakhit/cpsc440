@@ -1,0 +1,1342 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1391903,984151,2021-01-03,House,"On agreeing to the resolution",371,2,0,59,432
+1393278,984165,2021-01-04,House,"On motion to table the motion to postpone consideration to a day certain",214,204,0,11,429
+1393278,984166,2021-01-04,House,"On motion to table the motion to refer",214,196,0,19,429
+1393278,984167,2021-01-04,House,"On ordering the previous question",217,204,0,8,429
+1393278,984168,2021-01-04,House,"On motion to commit with instructions",203,217,0,9,429
+1393278,984169,2021-01-04,House,"On agreeing to the resolution",217,206,0,6,429
+1393281,1053839,2021-04-14,House,"On motion to suspend the rules and pass the bill",381,37,0,11,429
+1393297,984248,2021-01-05,House,"On motion to suspend the rules and pass the bill",412,2,0,16,430
+1393355,1204243,2022-05-12,House,"On motion to suspend the rules and pass the bill",412,3,2,11,428
+1393375,1157438,2022-02-28,House,"On motion to suspend the rules and pass the bill, as amended",422,3,0,8,433
+1393390,1020297,2021-03-02,House,"On agreeing to the Bush amendment (A004) H.Amdt.18",97,328,0,6,431
+1393390,1020298,2021-03-02,House,"On agreeing to the Davis, Rodney amendment (A005) H.Amdt.19",207,218,0,6,431
+1393390,1020299,2021-03-02,House,"On agreeing to the Lofgren amendments (A002) H.Amdt.16",218,210,0,3,431
+1393390,1020300,2021-03-02,House,"On agreeing to the Lofgren amendments (A006) H.Amdt.20",221,207,0,3,431
+1393390,1021364,2021-03-03,House,"On agreeing to the Lofgren amendments (A009) H.Amdt.23",223,208,0,0,431
+1393390,1021365,2021-03-03,House,"On agreeing to the Pressley amendment (A008) H.Amdt.22",125,302,0,4,431
+1393390,1021366,2021-03-03,House,"On motion to recommit",210,219,0,2,431
+1393390,1021367,2021-03-03,House,"On passage",220,210,0,2,432
+1393394,1061373,2021-04-22,House,"On motion to recommit",205,215,0,9,429
+1393394,1061374,2021-04-22,House,"On passage",216,208,0,6,430
+1393402,1204188,2022-05-12,House,"On motion to suspend the rules and pass the bill",405,3,2,18,428
+1393420,1116306,2021-11-16,House,"On motion to suspend the rules and pass the bill, as amended",427,0,0,6,433
+1394612,1204213,2022-05-12,House,"On motion to suspend the rules and pass the bill",408,3,2,15,428
+1394620,1204225,2022-05-12,House,"On motion to suspend the rules and pass the bill",406,4,2,16,428
+1394630,1222137,2022-07-14,House,"On motion to suspend the rules and pass the bill",386,35,4,5,430
+1394633,1014585,2021-02-23,House,"On motion to suspend the rules and pass the bill",406,15,0,10,431
+1395611,1203635,2022-05-11,House,"On motion to suspend the rules and pass the bill",408,0,1,19,428
+1400500,1222585,2022-07-29,House,"On passage",278,134,0,18,430
+1400568,1098296,2021-06-15,House,"On motion to suspend the rules and pass the bill",240,188,0,2,430
+1400568,1101958,2021-06-24,House,"On passage",245,181,0,4,430
+1401017,987752,2021-01-13,House,"On agreeing to the resolution",232,197,0,4,433
+1401017,1005547,2021-02-13,Senate,"The Senate adjudges that Donald John Trump, former President of the United States, is not guilty as charged in the Article of Impeachment RC# 59",57,43,0,0,100
+1401017,1105673,2021-01-26,Senate,"Motion to Table: Is the Point of Order Well Taken?",55,45,0,0,100
+1401225,1099324,2021-06-17,House,"On motion to recommit",204,219,0,7,430
+1401225,1099325,2021-06-17,House,"On passage",268,161,0,2,431
+1401812,985115,2021-01-12,House,"On agreeing to the resolution",223,205,0,5,433
+1403958,987753,2021-01-13,House,"On ordering the previous question",221,205,0,6,432
+1403958,987754,2021-01-13,House,"On agreeing to the resolution",221,203,0,8,432
+1403967,985170,2021-01-12,House,"On ordering the previous question",219,206,0,7,432
+1403967,985171,2021-01-12,House,"On agreeing to the resolution",222,204,0,7,433
+1405809,1226186,2022-09-15,House,"On agreeing to the Hice (GA) amendment (A002) H.Amdt.318",204,226,0,2,432
+1405809,1226187,2022-09-15,House,"On passage",225,204,0,3,432
+1408717,989461,2021-01-21,House,"On passage",326,78,0,27,431
+1408717,989501,2021-01-21,Senate,"Received in the Senate, read twice, considered, read the third time, and passed (under the order of 1/21/21, having achieved 60 votes in the affirmative) without amendment RC# 4",69,27,0,4,100
+1412019,1205942,2022-05-18,House,"On passage",222,203,0,4,429
+1412019,1210064,2022-05-26,Senate,"Motion by Senator Schumer to reconsider the vote by which cloture was not invoked on the motion to proceed to H.R. 350 (Record Vote No. 210) entered in Senate.",47,47,0,6,100
+1417919,1102604,2021-06-28,House,"On motion to suspend the rules and pass the bill, as amended",307,112,0,11,430
+1417930,1031091,2021-03-17,House,"On passage",222,204,0,4,430
+1418077,1115559,2021-11-04,House,"On motion to suspend the rules and pass the bill",422,2,1,8,433
+1422248,1054927,2021-04-15,House,"On motion to suspend the rules and pass the bill",413,8,0,8,429
+1422497,1029834,2021-03-16,House,"On motion to suspend the rules and pass the bill",345,73,0,11,429
+1422605,997566,2021-02-05,House,"On agreeing to the Levin (MI) amendments (A002) H.Amdt.5",243,178,0,10,431
+1422605,997567,2021-02-05,House,"On agreeing to the Hill amendment (A005) H.Amdt.8",186,236,0,9,431
+1422605,997568,2021-02-05,House,"On agreeing to the Stefanik amendment (A006) H.Amdt.9",175,245,0,11,431
+1422605,997569,2021-02-05,House,"On passage",247,173,0,11,431
+1424608,990913,2021-01-26,Senate,"Submitted in the Senate, considered, and agreed to without amendment RC# 9",83,17,0,0,100
+1426709,1203610,2022-05-11,House,"On motion to suspend the rules and pass the bill",412,7,0,9,428
+1429126,1015307,2021-02-24,House,"On motion to suspend the rules and pass the bill",414,11,0,6,431
+1429128,1115360,2021-11-02,House,"On motion to suspend the rules and pass the bill",425,2,0,4,431
+1429347,1054932,2021-04-15,House,"On agreeing to the Miller-Meeks amendment (A003) H.Amdt.38",183,244,0,2,429
+1429347,1054933,2021-04-15,House,"On agreeing to the Scott (VA) amendments (A002) H.Amdt.37",216,207,0,6,429
+1429347,1054934,2021-04-15,House,"On passage",217,210,0,2,429
+1429347,1095221,2021-06-08,Senate,"Cloture on the motion to proceed to the measure RC# 227",49,50,0,1,100
+1429355,1116438,2021-11-30,House,"On motion to suspend the rules and pass the bill, as amended",294,130,0,9,433
+1429435,1102993,2021-06-29,House,"On motion to suspend the rules and pass the bill, as amended",395,15,0,20,430
+1429465,1195978,2022-04-27,House,"On motion to suspend the rules and pass the bill, as amended",421,4,0,4,429
+1429540,1222028,2022-07-12,House,"On motion to suspend the rules and pass the bill, as amended",417,0,0,13,430
+1433257,1222166,2022-07-19,House,"On motion to suspend the rules and pass the bill",379,41,0,10,430
+1433324,996815,2021-02-04,House,"On agreeing to the resolution",230,199,0,2,431
+1433325,995654,2021-02-03,House,"On agreeing to the resolution",218,212,0,1,431
+1433388,1110446,2021-10-20,House,"On motion to suspend the rules and pass the bill, as amended",395,30,0,6,431
+1434877,1139237,2022-02-08,House,"On motion to suspend the rules and pass the bill, as amended",422,4,1,6,433
+1434885,1203676,2022-05-11,House,"On motion to suspend the rules and pass the bill",380,26,1,21,428
+1434895,994525,2021-02-02,Senate,"Motion to proceed to consideration of measure RC# 13",50,49,0,1,100
+1434895,996886,2021-02-04,Senate,"Amendment SA 546 S.Amdt.546 RC# 26",99,1,0,0,100
+1434895,996887,2021-02-04,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 132 rejected in Senate S.Amdt.132 RC# 25",52,48,0,0,100
+1434895,996888,2021-02-04,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 687 rejected in Senate S.Amdt.687 RC# 24",50,50,0,0,100
+1434895,996889,2021-02-04,Senate,"Amendment SA 834 as modified S.Amdt.834 RC# 27",100,0,0,0,100
+1434895,996890,2021-02-04,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 91 rejected in Senate S.Amdt.91 RC# 29",49,51,0,0,100
+1434895,996891,2021-02-04,Senate,"Amendment SA 1 S.Amdt.1 RC# 31",29,71,0,0,100
+1434895,996892,2021-02-04,Senate,"Amendment SA 786 S.Amdt.786 RC# 30",97,3,0,0,100
+1434895,996893,2021-02-04,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 192 rejected in Senate S.Amdt.192 RC# 23",52,48,0,0,100
+1434895,996894,2021-02-04,Senate,"Amendment SA 833 S.Amdt.833 RC# 28",57,43,0,0,100
+1434895,996895,2021-02-04,Senate,"Amendment SA 653 S.Amdt.653 RC# 22",98,2,0,0,100
+1434895,996896,2021-02-04,Senate,"Amendment SA 69 S.Amdt.69 RC# 16",100,0,0,0,100
+1434895,996897,2021-02-04,Senate,"Amendment SA 53 S.Amdt.53 RC# 15",50,50,0,0,100
+1434895,996898,2021-02-04,Senate,"Amendment SA 261 S.Amdt.261 RC# 14",90,10,0,0,100
+1434895,996899,2021-02-04,Senate,"Amendment SA 48 S.Amdt.48 RC# 17",50,50,0,0,100
+1434895,996900,2021-02-04,Senate,"Amendment SA 54 S.Amdt.54 RC# 18",58,42,0,0,100
+1434895,996901,2021-02-04,Senate,"Amendment SA 716 S.Amdt.716 RC# 21",100,0,0,0,100
+1434895,996902,2021-02-04,Senate,"Amendment SA 553 S.Amdt.553 RC# 20",50,50,0,0,100
+1434895,996903,2021-02-04,Senate,"Amendment SA 775 S.Amdt.775 RC# 19",99,1,0,0,100
+1434895,996904,2021-02-05,Senate,"Amendment SA 678 S.Amdt.678 RC# 32",52,48,0,0,100
+1434895,996905,2021-02-05,Senate,"Amendment SA 542 S.Amdt.542 RC# 33",50,50,0,0,100
+1434895,996906,2021-02-05,Senate,"Amendment SA 821 S.Amdt.821 RC# 34",50,50,0,0,100
+1434895,996907,2021-02-05,Senate,"Amendment SA 253 S.Amdt.253 RC# 48",53,47,0,0,100
+1434895,996908,2021-02-05,Senate,"Amendment SA 803 S.Amdt.803 RC# 47",71,29,0,0,100
+1434895,996909,2021-02-05,Senate,"Amendment SA 887 S.Amdt.887 RC# 46",50,50,0,0,100
+1434895,996910,2021-02-05,Senate,"Amendment SA 55 S.Amdt.55 RC# 45",50,50,0,0,100
+1434895,996911,2021-02-05,Senate,"Amendment SA 871 S.Amdt.871 RC# 49",26,74,0,0,100
+1434895,996912,2021-02-05,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 461 rejected in Senate S.Amdt.461 RC# 50",51,49,0,0,100
+1434895,996913,2021-02-05,Senate,"Amendment SA 889 S.Amdt.889 RC# 53",50,50,0,0,100
+1434895,996914,2021-02-05,Senate,"Amendment SA 888 S.Amdt.888 RC# 52",50,50,0,0,100
+1434895,996915,2021-02-05,Senate,"Amendment SA 651 S.Amdt.651 RC# 51",50,50,0,0,100
+1434895,996916,2021-02-05,Senate,"Amendment SA 837 S.Amdt.837 RC# 44",51,49,0,0,100
+1434895,996917,2021-02-05,Senate,"Amendment SA 655 S.Amdt.655 RC# 43",51,49,0,0,100
+1434895,996918,2021-02-05,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 483 rejected in Senate S.Amdt.483 RC# 37",50,50,0,0,100
+1434895,996919,2021-02-05,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 66 rejected in Senate S.Amdt.66 RC# 36",50,50,0,0,100
+1434895,996920,2021-02-05,Senate,"Amendment SA 558 S.Amdt.558 RC# 35",100,0,0,0,100
+1434895,996921,2021-02-05,Senate,"Amendment SA 782 S.Amdt.782 RC# 38",49,51,0,0,100
+1434895,996922,2021-02-05,Senate,"Amendment SA 441 S.Amdt.441 RC# 39",8,92,0,0,100
+1434895,996923,2021-02-05,Senate,"Amendment SA 872 S.Amdt.872 RC# 42",50,50,0,0,100
+1434895,996924,2021-02-05,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 811 rejected in Senate S.Amdt.811 RC# 41",40,60,0,0,100
+1434895,996925,2021-02-05,Senate,"Amendment SA 770 S.Amdt.770 RC# 40",50,50,0,0,100
+1434895,996926,2021-02-05,Senate,"Resolution RC# 54",50,50,0,0,100
+1434987,1053835,2021-04-14,House,"On motion to suspend the rules and pass the bill",412,8,0,9,429
+1434992,994526,2021-02-02,House,"On ordering the previous question",219,207,0,5,431
+1434992,994527,2021-02-02,House,"On agreeing to the resolution",216,210,0,6,432
+1436589,1108936,2021-09-20,House,"On motion to suspend the rules and pass the bill",423,0,0,8,431
+1436592,996800,2021-02-04,House,"On ordering the previous question",218,209,0,4,431
+1436592,996801,2021-02-04,House,"On agreeing to the resolution",218,210,0,3,431
+1438485,1017507,2021-02-26,House,"On agreeing to the Curtis amendment (A003) H.Amdt.12",221,205,0,5,431
+1438485,1017508,2021-02-26,House,"On agreeing to the Neguse amendments (A002) H.Amdt.11",229,198,0,4,431
+1438485,1017509,2021-02-26,House,"On agreeing to the Neguse amendments (A004) H.Amdt.13",197,226,0,8,431
+1438485,1017510,2021-02-26,House,"On motion to recommit",204,221,0,6,431
+1438485,1017511,2021-02-26,House,"On passage",227,200,0,4,431
+1438517,1025396,2021-03-09,House,"On agreeing to the Scott (VA) amendments (A002) H.Amdt.25",227,196,0,8,431
+1438517,1025397,2021-03-09,House,"On agreeing to the Scott (VA) amendments (A003) H.Amdt.26",185,243,0,3,431
+1438517,1025398,2021-03-09,House,"On motion to recommit",206,218,0,7,431
+1438517,1025399,2021-03-09,House,"On passage",225,206,0,1,432
+1438527,1203651,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",401,19,0,8,428
+1438529,1105276,2021-07-19,House,"On motion to suspend the rules and pass the bill",415,0,0,15,430
+1439005,1230478,2022-12-01,House,"Final Passage Under Suspension of the Rules Results",400,22,0,9,431
+1439713,1117084,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",395,30,0,8,433
+1439730,1226143,2022-09-14,House,"On motion to suspend the rules and pass the bill, as amended",293,133,0,6,432
+1439754,1204181,2022-05-12,House,"On agreeing to the Cammack amendment (A003) H.Amdt.199",204,216,0,8,428
+1439754,1204182,2022-05-12,House,"On agreeing to the Guest amendment (A004) H.Amdt.200",200,221,0,7,428
+1439754,1204183,2022-05-12,House,"On agreeing to the Thompson (MS) amendments (A002) H.Amdt.198",215,198,0,15,428
+1439754,1204184,2022-05-12,House,"On motion to recommit",205,216,0,7,428
+1439754,1204185,2022-05-12,House,"On passage",220,201,0,7,428
+1439787,997460,2021-02-05,House,"On ordering the previous question",220,210,0,1,431
+1439787,997461,2021-02-05,House,"On agreeing to the resolution",219,209,0,3,431
+1441600,1106499,2021-08-23,House,"On motion to suspend the rules and pass the bill",423,1,0,7,431
+1441651,1194800,2022-04-27,House,"On motion to suspend the rules and pass the bill, as amended",406,20,0,3,429
+1441664,1203652,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",419,0,0,9,428
+1441676,1054955,2021-04-15,House,"On motion to suspend the rules and pass the bill",415,2,0,12,429
+1444468,1002349,2021-02-09,Senate,"Submitted in the Senate, considered, and agreed to without amendment RC# 56",89,11,0,0,100
+1450150,1054878,2021-04-15,House,"On motion to suspend the rules and pass the bill, as amended",411,5,0,13,429
+1450197,1172627,2022-03-17,House,"On agreeing to the Fitzgerald amendment (A002) H.Amdt.184",184,246,0,2,432
+1450197,1172628,2022-03-17,House,"On motion to recommit",208,222,0,2,432
+1450197,1172629,2022-03-17,House,"On passage",222,209,0,1,432
+1450198,1100889,2021-06-22,House,"On motion to suspend the rules and pass the bill, as amended",416,5,0,9,430
+1450203,1110476,2021-10-19,House,"On motion to suspend the rules and pass the bill",421,3,0,7,431
+1451155,1106514,2021-08-23,House,"On motion to suspend the rules and pass the bill",418,7,0,6,431
+1451165,1160982,2022-02-28,House,"On motion to suspend the rules and pass the bill",422,0,0,11,433
+1451759,1078286,2021-05-14,House,"On passage",315,101,0,14,430
+1451763,1226128,2022-09-13,House,"On motion to suspend the rules and pass the bill, as amended",326,88,0,16,430
+1457054,1032858,2021-03-19,House,"On motion to suspend the rules and agree to the resolution",398,14,1,17,430
+1457059,1056567,2021-04-19,House,"On motion to suspend the rules and agree to the resolution",418,1,0,11,430
+1457065,1016488,2021-02-25,House,"On passage",224,206,0,2,432
+1457065,1016489,2021-02-25,House,"Table the motion to reconsider",211,195,0,25,431
+1457106,1098813,2021-06-16,House,"On agreeing to the Burgess amendment (A002) H.Amdt.52",209,218,0,3,430
+1457106,1098814,2021-06-16,House,"On agreeing to the Hill amendment (A004) H.Amdt.54",204,225,0,1,430
+1457106,1098815,2021-06-16,House,"On agreeing to the Schrier amendment (A005) H.Amdt.55",380,47,0,3,430
+1457106,1098816,2021-06-16,House,"On agreeing to the Waters amendments (A003) H.Amdt.53",215,211,0,4,430
+1457106,1098817,2021-06-16,House,"On motion to recommit",207,218,0,5,430
+1457106,1098818,2021-06-16,House,"On passage",215,214,0,2,431
+1457119,1117082,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",428,1,0,5,434
+1457137,1109409,2021-09-28,House,"On motion to suspend the rules and pass the bill",391,36,0,4,431
+1457146,1031020,2021-03-17,House,"On motion to suspend the rules and pass the bill, as amended",413,12,0,5,430
+1460751,1109485,2021-09-29,House,"On motion to suspend the rules and pass the bill",259,170,0,2,431
+1460770,1015299,2021-02-24,House,"On motion to suspend the rules and pass the bill",429,0,0,2,431
+1460797,1055542,2021-04-16,House,"On agreeing to the Keller amendment (A003) H.Amdt.41",168,256,0,5,429
+1460797,1055543,2021-04-16,House,"On passage",254,166,0,9,429
+1462496,1183983,2022-04-05,House,"On motion to suspend the rules and pass the bill, as amended",409,11,0,9,429
+1462525,1015308,2021-02-24,House,"On agreeing to the resolution",218,208,0,5,431
+1462525,1015309,2021-02-24,House,"On ordering the previous question",219,211,0,1,431
+1462536,1054918,2021-04-15,House,"On motion to suspend the rules and pass the bill, as amended",396,13,0,20,429
+1462538,1109301,2021-09-28,House,"On motion to suspend the rules and pass the bill, as amended",386,35,0,10,431
+1464467,1181463,2022-03-30,House,"On motion to suspend the rules and pass the bill, as amended",417,4,1,9,431
+1464525,1017386,2021-02-27,House,"On motion to recommit",205,218,0,8,431
+1464525,1017387,2021-02-27,House,"On passage",219,212,0,1,432
+1464525,1022553,2021-03-04,Senate,"Motion to proceed to consideration of measure RC# 73",50,50,0,0,100
+1464525,1023098,2021-03-05,Senate,"Amendment SA 1092 S.Amdt.1092 RC# 76",50,49,0,1,100
+1464525,1023099,2021-03-05,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 972 rejected in Senate S.Amdt.972 RC# 74",42,58,0,0,100
+1464525,1023100,2021-03-06,Senate,"Amendment SA 1010 S.Amdt.1010 RC# 86",49,50,0,1,100
+1464525,1023101,2021-03-06,Senate,"Amendment SA 1014 S.Amdt.1014 RC# 88",47,51,0,2,100
+1464525,1023102,2021-03-06,Senate,"Amendment SA 1026 S.Amdt.1026 RC# 80",48,51,0,1,100
+1464525,1023103,2021-03-06,Senate,"Amendment SA 1030 S.Amdt.1030 RC# 78",49,50,0,1,100
+1464525,1023104,2021-03-06,Senate,"Amendment SA 1154 S.Amdt.1154 RC# 107",49,50,0,1,100
+1464525,1023105,2021-03-06,Senate,"Amendment SA 1161 S.Amdt.1161 RC# 84",49,50,0,1,100
+1464525,1023106,2021-03-06,Senate,"Amendment SA 1162 S.Amdt.1162 RC# 103",49,50,0,1,100
+1464525,1023107,2021-03-06,Senate,"Amendment SA 1331 S.Amdt.1331 RC# 105",49,50,0,1,100
+1464525,1023108,2021-03-06,Senate,"Amendment SA 1344 S.Amdt.1344 RC# 81",51,48,0,1,100
+1464525,1023109,2021-03-06,Senate,"Amendment SA 1364 S.Amdt.1364 RC# 96",49,50,0,1,100
+1464525,1023110,2021-03-06,Senate,"Amendment SA 1369 as modified S.Amdt.1369 RC# 82",48,51,0,1,100
+1464525,1023111,2021-03-06,Senate,"Amendment SA 1378 S.Amdt.1378 RC# 79",50,49,0,1,100
+1464525,1023112,2021-03-06,Senate,"Amendment SA 1381 S.Amdt.1381 RC# 101",49,50,0,1,100
+1464525,1023113,2021-03-06,Senate,"Amendment SA 1383 S.Amdt.1383 RC# 89",48,50,0,2,100
+1464525,1023114,2021-03-06,Senate,"Amendment SA 1391 S.Amdt.1391 RC# 109",93,6,0,1,100
+1464525,1023115,2021-03-06,Senate,"Amendment SA 1395 S.Amdt.1395 RC# 91",47,51,0,2,100
+1464525,1023116,2021-03-06,Senate,"Amendment SA 902 S.Amdt.902 RC# 106",45,54,0,1,100
+1464525,1023117,2021-03-06,Senate,"Amendment SA 944 S.Amdt.944 RC# 87",49,50,0,1,100
+1464525,1023118,2021-03-06,Senate,"Amendment SA 968 S.Amdt.968 RC# 104",49,50,0,1,100
+1464525,1023119,2021-03-06,Senate,"Amendment SA 969 S.Amdt.969 RC# 95",49,50,0,1,100
+1464525,1023120,2021-03-06,Senate,"Amendment SA 996 S.Amdt.996 RC# 93",49,50,0,1,100
+1464525,1023121,2021-03-06,Senate,"Motion by Senator Capito to commit to Senate Committee on Finance with instructions rejected in Senate RC# 90",48,50,0,2,100
+1464525,1023122,2021-03-06,Senate,"Motion by Senator Cornyn to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions rejected in Senate RC# 102",49,50,0,1,100
+1464525,1023123,2021-03-06,Senate,"Motion by Senator Cotton to commit to Senate Committee on Finance with instructions rejected in Senate RC# 92",48,50,0,2,100
+1464525,1023124,2021-03-06,Senate,"Motion by Senator Daines to commit to Senate Committee on Foreign Relations with instructions rejected in Senate RC# 108",49,50,0,1,100
+1464525,1023125,2021-03-06,Senate,"Motion by Senator Grassley to commit to Senate Committee on Finance with instructions rejected in Senate RC# 85",49,50,0,1,100
+1464525,1023126,2021-03-06,Senate,"Motion by Senator Hagerty to commit to Senate Committees on Environment and Public Works; Agriculture, Nutrition, and Forestry; Health, Education, Labor, and Pensions; Banking, Housing, and Urban Affairs; Homeland Security and Governmental Affairs; Small ",49,50,0,1,100
+1464525,1023127,2021-03-06,Senate,"Motion by Senator Kennedy to commit to Senate Committee on Small Business and Entrepreneurship with instructions rejected in Senate RC# 99",48,50,0,2,100
+1464525,1023128,2021-03-06,Senate,"Motion by Senator Scott FL, to commit to Senate Committee on Homeland Security and Governmental Affairs with instructions rejected in Senate RC# 100",48,51,0,1,100
+1464525,1023129,2021-03-06,Senate,"Motion to waive all applicable budgetary disciple with respect to amendment SA 1242 rejected in Senate S.Amdt.1242 RC# 77",48,51,0,1,100
+1464525,1023130,2021-03-06,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 1031 rejected in Senate S.Amdt.1031 RC# 94",52,47,0,1,100
+1464525,1023131,2021-03-06,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 1197 rejected in Senate S.Amdt.1197 RC# 83",51,48,0,1,100
+1464525,1023132,2021-03-06,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 1386 rejected in Senate S.Amdt.1386 RC# 97",49,50,0,1,100
+1464525,1023133,2021-03-06,Senate,"Passed Senate with an amendment RC# 110",50,49,0,1,100
+1464525,1026277,2021-03-10,House,"On motion that the House concur in the Senate amendment",220,211,0,1,432
+1464554,1021295,2021-03-03,House,"On motion to recommit",208,219,0,4,431
+1464554,1021296,2021-03-03,House,"On passage",220,212,0,0,432
+1466695,1126467,2022-01-19,House,"On motion to suspend the rules and pass the bill",426,0,0,7,433
+1466741,1100879,2021-06-22,House,"On motion to suspend the rules and pass the bill",398,21,0,11,430
+1466774,1115557,2021-11-04,House,"On motion to suspend the rules and pass the bill, as amended",383,41,0,9,433
+1466810,1059667,2021-04-21,House,"On motion to recommit",208,216,0,5,429
+1466810,1059668,2021-04-21,House,"On passage",218,208,0,3,429
+1466815,1098788,2021-06-16,House,"On passage",415,14,0,2,431
+1466825,1226150,2022-09-14,House,"On motion to suspend the rules and pass the bill",347,78,0,7,432
+1469034,1203568,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",333,81,0,14,428
+1469034,1230649,2022-12-14,House,"Vote on House Agreeing to the Senate Action",224,201,0,5,430
+1469034,1230720,2022-12-15,Senate,"SENATE AGREED (FREE TEXT)",71,19,0,10,100
+1469034,1230721,2022-12-15,Senate,"FREE TEXT",35,56,0,9,100
+1469034,1230722,2022-12-15,Senate,"FREE TEXT",45,47,0,8,100
+1469034,1230723,2022-12-15,Senate,"MOTION TO CONSIDER",75,20,0,5,100
+1469066,1017395,2021-02-26,House,"On agreeing to the resolution",219,210,0,2,431
+1469066,1017396,2021-02-26,House,"On ordering the previous question",217,205,0,9,431
+1469075,1098606,2021-06-15,House,"On motion to suspend the rules and pass the bill, as amended",248,177,0,5,430
+1469075,1101894,2021-06-24,House,"On passage",252,176,0,2,430
+1469083,1059602,2021-04-21,House,"On motion to suspend the rules and pass the bill, as amended",350,71,0,8,429
+1470426,1226244,2022-09-19,House,"On motion to suspend the rules and pass the bill, as amended",290,125,0,17,432
+1470432,1216013,2022-06-14,House,"On motion to suspend the rules and pass the bill, as amended",380,30,0,17,427
+1470448,1054948,2021-04-15,House,"On motion to suspend the rules and pass the bill",362,49,0,18,429
+1470471,1027280,2021-03-11,House,"On motion to recommit",207,217,0,6,430
+1470471,1027281,2021-03-11,House,"On passage",227,203,0,1,431
+1470485,1194703,2022-04-26,House,"On motion to suspend the rules and pass the bill",404,11,0,14,429
+1470505,1026330,2021-03-10,House,"On agreeing to the Nadler amendments (A001) H.Amdt.29",225,202,0,3,430
+1470505,1027345,2021-03-11,House,"On motion to recommit",206,212,0,12,430
+1470505,1027346,2021-03-11,House,"On passage",219,210,0,1,430
+1470518,1018767,2021-03-01,House,"On agreeing to the resolution",218,207,0,6,431
+1470518,1018768,2021-03-01,House,"On ordering the previous question",220,201,0,10,431
+1471561,1055447,2021-04-15,House,"On motion to suspend the rules and pass the bill",397,16,0,16,429
+1471562,1055569,2021-04-16,House,"On motion to suspend the rules and pass the bill",411,8,0,10,429
+1471587,1055491,2021-04-15,House,"On motion to suspend the rules and pass the bill",409,4,0,16,429
+1471594,1055349,2021-04-15,House,"On motion to suspend the rules and pass the bill",400,16,0,13,429
+1472798,1032158,2021-03-18,House,"On motion to recommit",203,216,0,10,429
+1472798,1032159,2021-03-18,House,"On passage",228,197,0,5,430
+1472815,1138596,2022-02-08,House,"On motion to suspend the rules and pass the bill",432,0,1,0,433
+1472819,1053834,2021-04-14,House,"On motion to suspend the rules and pass the bill",415,11,0,3,429
+1472849,1137665,2022-02-07,House,"On motion to suspend the rules and pass the bill",426,5,0,2,433
+1472876,1059607,2021-04-21,House,"On motion to recommit",209,215,0,5,429
+1472876,1059608,2021-04-21,House,"On passage",217,207,0,5,429
+1474199,1116953,2021-12-07,House,"On passage",222,212,0,0,434
+1474199,1204299,2021-12-09,Senate,"Cloture on the motion to concur in the House amendment to S. 610",64,36,0,0,100
+1474199,1204300,2021-12-09,Senate,"Senate agreed to the House amendment to S. 610",59,35,0,6,100
+1475849,1115365,2021-11-01,House,"On motion to suspend the rules and pass the bill",361,55,3,12,431
+1475865,1117107,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",392,36,0,5,433
+1475873,1024108,2021-03-08,House,"On agreeing to the resolution",218,197,0,16,431
+1475873,1024109,2021-03-08,House,"On ordering the previous question",213,195,0,23,431
+1475878,1030942,2021-03-17,House,"On agreeing to the Nadler amendments (A002) H.Amdt.31",228,197,0,4,429
+1475878,1030943,2021-03-17,House,"On agreeing to the Stefanik amendment (A003) H.Amdt.32",177,249,0,3,429
+1475878,1030944,2021-03-17,House,"On agreeing to the Wagner amendment (A004) H.Amdt.33",242,174,0,13,429
+1475878,1030945,2021-03-17,House,"On passage",244,172,0,14,430
+1475879,1105348,2021-07-26,House,"On motion to suspend the rules and pass the bill, as amended",416,0,0,14,430
+1475897,1030940,2021-03-17,House,"On motion to suspend the rules and pass the bill, as amended",399,14,0,16,429
+1475908,1031030,2021-03-17,House,"On motion to suspend the rules and pass the bill, as amended",384,38,0,7,429
+1475908,1105277,2021-07-20,Senate,"Amendment SA 2121, as modified, S.Amdt.2121 RC# 271",40,60,0,0,100
+1475908,1105278,2021-07-20,Senate,"Passed Senate, under the order of 7/14/21, having achieved 60 votes in the affirmative, without amendment RC# 272",100,0,0,0,100
+1475921,1032109,2021-03-18,House,"On motion to recommit",204,218,0,7,429
+1475921,1032110,2021-03-18,House,"On passage",247,174,0,8,429
+1475935,1179757,2022-03-28,House,"On motion to suspend the rules and pass the bill, as amended",405,12,0,14,431
+1475945,1077132,2021-05-11,House,"On motion to suspend the rules and pass the bill",250,168,0,12,430
+1475945,1080705,2021-05-19,House,"On passage",402,23,0,4,429
+1477210,1025308,2021-03-09,House,"On agreeing to the resolution",219,210,0,2,431
+1477210,1025309,2021-03-09,House,"On ordering the previous question",216,206,0,9,431
+1477237,1109304,2021-09-28,House,"On motion to suspend the rules and pass the bill, as amended",361,66,0,4,431
+1478641,1054942,2021-04-15,House,"On motion to suspend the rules and pass the bill",408,10,0,11,429
+1478715,1164900,2022-03-07,House,"On motion to suspend the rules and pass the bill, as amended",403,19,0,10,432
+1480329,1123843,2022-01-12,House,"On agreeing to the Moore (AL) amendment (A003) H.Amdt.152",198,225,0,9,432
+1480329,1123844,2022-01-12,House,"On motion to recommit",204,219,0,9,432
+1480329,1123845,2022-01-12,House,"On passage",287,135,0,10,432
+1480337,1222575,2022-07-29,House,"On motion to recommit",207,220,0,3,430
+1480337,1222576,2022-07-29,House,"On passage",217,213,0,1,431
+1480382,1030005,2021-03-16,House,"On motion to suspend the rules and pass the bill, as amended",415,3,0,11,429
+1480382,1036785,2021-03-24,Senate,"Cloture on the motion to proceed to the measure RC# 136",96,4,0,0,100
+1480382,1037890,2021-03-25,Senate,"Amendment SA 1401 S.Amdt.1401 RC# 137",48,52,0,0,100
+1480382,1037891,2021-03-25,Senate,"Amendment SA 1405 S.Amdt.1405 RC# 138",48,52,0,0,100
+1480382,1038080,2021-03-25,Senate,"Motion to waive all applicable budgetary discipline with respect to the measure RC# 139",64,36,0,0,100
+1480382,1038081,2021-03-25,Senate,"Passed Senate, under the order of 3/24/2021, having achieved 60 votes in the affirmative, without amendment RC# 140",92,7,0,1,100
+1482312,1032859,2021-03-19,House,"On motion to recommit",202,216,0,11,429
+1482312,1032860,2021-03-19,House,"On passage",246,175,0,8,429
+1482312,1038135,2021-03-25,Senate,"Amendment SA 1411 S.Amdt.1411 RC# 141",47,50,0,3,100
+1482312,1038136,2021-03-25,Senate,"Passed Senate, having achieved 60 votes in the affirmative, with an amendment RC# 142",90,2,0,8,100
+1482312,1052365,2021-04-13,House,"On motion that the House suspend the rules and concur in the Senate amendment",384,38,0,6,428
+1483612,1230716,2022-12-15,House,"Passage of a Measure",219,201,0,10,430
+1483634,1054946,2021-04-15,House,"On motion to suspend the rules and pass the bill",412,5,0,12,429
+1483692,1222135,2022-07-14,House,"On motion to suspend the rules and pass the bill, as amended",405,20,0,5,430
+1483697,1115581,2021-11-04,House,"On motion to suspend the rules and pass the bill",409,16,0,6,431
+1483697,1230965,2022-12-21,House,"On Motion to Suspend the Rules and Concur in the Senate Amendment",393,19,0,18,430
+1483703,1029781,2021-03-16,House,"On agreeing to the resolution",216,204,0,9,429
+1483703,1029782,2021-03-16,House,"On ordering the previous question",212,200,0,17,429
+1483708,1182827,2022-04-04,House,"On motion to suspend the rules and pass the bill, as amended",310,110,0,9,429
+1484385,1194696,2022-04-27,House,"On motion to suspend the rules and pass the bill",425,0,0,4,429
+1484388,1105968,2021-08-11,Senate,"Senate Committee on Rules and Administration discharged RC# 358",50,49,0,1,100
+1484408,1116208,2021-11-16,House,"On motion to suspend the rules and pass the bill",414,9,0,10,433
+1484431,1115362,2021-11-02,House,"On motion to suspend the rules and pass the bill",397,25,0,9,431
+1484454,1032155,2021-03-18,House,"On motion to table the measure",218,200,3,9,430
+1485418,1100883,2021-06-23,House,"On agreeing to the Scott (VA) amendments (A002) H.Amdt.58",231,192,0,7,430
+1485418,1100884,2021-06-23,House,"On agreeing to the Scott (VA) amendments (A003) H.Amdt.59",182,243,0,5,430
+1485418,1100885,2021-06-23,House,"On passage",247,178,0,5,430
+1485452,1056539,2021-04-19,House,"On motion to suspend the rules and pass the bill, as amended",321,101,0,7,429
+1485455,1117129,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",373,52,0,8,433
+1485548,1215589,2022-06-13,House,"On motion to suspend the rules and pass the bill",412,2,0,13,427
+1485551,1109302,2021-09-28,House,"On motion to suspend the rules and pass the bill",406,16,0,9,431
+1486180,1157425,2022-02-28,House,"On motion to suspend the rules and pass the bill, as amended",235,188,0,10,433
+1486180,1173117,2022-03-18,House,"On passage",235,189,0,8,432
+1486185,1115391,2021-11-02,House,"On motion to suspend the rules and pass the bill, as amended",407,16,0,8,431
+1487440,1079909,2021-05-18,Senate,"Motion to proceed to consideration of measure RC# 194",50,49,0,1,100
+1487440,1080668,2021-05-19,Senate,"Passed Senate without amendment RC# 195",50,48,0,2,100
+1487440,1102058,2021-06-24,House,"On passage",219,210,0,1,430
+1487448,1053809,2021-04-14,Senate,"Cloture on the motion to proceed RC# 151",92,6,0,2,100
+1487448,1061605,2021-04-22,Senate,"Amendment SA 1425, under the order of 4/21/21, not having achieved 60 votes in the affirmative, was S.Amdt.1425 RC# 163",49,48,0,3,100
+1487448,1061606,2021-04-22,Senate,"Amendment SA 1456, under the order of 4/21/21, not having achieved 60 votes in the affirmative, was S.Amdt.1456 RC# 162",49,48,0,3,100
+1487448,1061607,2021-04-22,Senate,"Amendment SA 1458, under the order of 4/21/21, not having achieved 60 votes in the affirmative, was S.Amdt.1458 RC# 164",46,51,0,3,100
+1487448,1061608,2021-04-22,Senate,"Passed Senate, under the order of 4/21/21, having achieved 60 votes in the affirmative, with an amendment RC# 165",94,1,0,5,100
+1487448,1079521,2021-05-18,House,"On motion to suspend the rules and pass the bill",364,62,0,3,429
+1487493,1064188,2021-04-27,Senate,"Cloture on the motion to proceed to the measure RC# 172",92,2,0,6,100
+1487493,1066932,2021-04-29,Senate,"Amendment SA 1471, as modified, S.Amdt.1471 RC# 176",14,81,0,5,100
+1487493,1066933,2021-04-29,Senate,"Amendment SA 1472, under the order of 4/28/21, not having achieved 60 votes in the affirmative, was S.Amdt.1472 RC# 177",41,54,0,5,100
+1487493,1066934,2021-04-29,Senate,"Passed Senate, under the order of 4/28/21, having achieved 60 votes in the affirmative, with an amendment RC# 178",89,2,0,9,100
+1487518,1110698,2021-10-26,House,"On agreeing to the Scott (VA) amendments (A002) H.Amdt.134",238,189,0,4,431
+1487518,1110699,2021-10-26,House,"On agreeing to the Scott (VA) amendments (A003) H.Amdt.135",175,250,0,6,431
+1487518,1110700,2021-10-26,House,"On passage",228,200,0,3,431
+1487987,1227858,2022-09-29,House,"On motion to suspend the rules and pass the bill",414,7,0,11,432
+1487989,1105353,2021-07-27,House,"On motion to suspend the rules and pass the bill",424,0,0,6,430
+1488612,1065547,2021-04-28,Senate,"Passed Senate without amendment RC# 175",52,42,0,6,100
+1488612,1102266,2021-06-25,House,"On passage",229,191,0,10,430
+1488641,1076428,2021-05-11,Senate,"Passed Senate without amendment RC# 183",52,47,0,1,100
+1488641,1101866,2021-06-24,House,"On passage",218,208,0,4,430
+1488665,1230944,2022-12-22,House,"On Motion to Suspend the Rules and Pass",342,71,0,17,430
+1488703,1115498,2021-11-03,House,"On motion to suspend the rules and pass the bill",387,35,4,5,431
+1489123,1080699,2021-05-19,House,"On agreeing to the resolution",245,180,0,4,429
+1489134,1229997,2022-11-17,House,"Final Passage Under Suspension of the Rules Results",414,2,1,15,432
+1489135,1102557,2021-06-28,House,"On motion to suspend the rules and pass the bill, as amended",345,67,0,18,430
+1489138,1115558,2021-11-04,House,"On motion to suspend the rules and pass the bill",416,4,0,13,433
+1489611,1105392,2021-07-29,House,"On motion to suspend the rules and pass the bill, as amended",423,0,0,7,430
+1489611,1105393,2021-07-29,House,"On motion to table the motion to reconsider",239,181,0,10,430
+1490781,1139252,2022-02-08,House,"On motion to suspend the rules and pass the bill",428,1,1,3,433
+1491590,1117161,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",411,14,0,8,433
+1491593,1105350,2021-07-26,House,"On motion to suspend the rules and pass the bill, as amended",412,0,0,18,430
+1491611,1117089,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",410,15,0,8,433
+1492862,1215350,2022-06-09,House,"On passage",224,202,0,2,428
+1492879,1110447,2021-10-20,House,"On motion to suspend the rules and pass the bill, as amended",380,46,0,5,431
+1495852,1116080,2021-11-15,House,"On motion to suspend the rules and pass the bill",424,0,0,9,433
+1495855,1105326,2021-07-21,House,"On agreeing to the Tonko amendments (A002) H.Amdt.77",226,195,0,9,430
+1495855,1105327,2021-07-21,House,"On motion to recommit",204,218,0,8,430
+1495855,1105328,2021-07-21,House,"On passage",241,183,0,6,430
+1495953,1226374,2022-09-21,House,"On motion to commit",202,228,0,2,432
+1495953,1226375,2022-09-21,House,"On passage",232,193,0,7,432
+1496092,1167129,2022-03-09,House,"On motion to concur in Senate amendment with amendment (divisions B, C, F, X, Z, titles 2 and 3 of division N)",361,69,0,3,433
+1496092,1167130,2022-03-09,House,"On motion to concur in Senate amendment with amendment (remaining divisions)",260,171,1,1,433
+1496092,1167131,2022-03-09,House,"On motion to table the motion to reconsider the vote",249,180,0,4,433
+1496092,1167132,2022-03-09,House,"Table motion to reconsider first divided question",270,157,0,6,433
+1496092,1204256,2022-03-10,Senate,"Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, S.Amdt.4983",35,64,0,1,100
+1496092,1204257,2022-03-10,Senate,"Amendment SA 4989 S.Amdt.4989",49,50,0,1,100
+1496092,1204258,2022-03-10,Senate,"Amendment SA 4990 S.Amdt.4990",35,64,0,1,100
+1496092,1204259,2022-03-10,Senate,"Senate agreed to the House amendment to the Senate Amendment to H.R. 2471, under the order of 3/10/2022, having achieved 60 votes in the affirmative",68,31,0,1,100
+1496096,1053850,2021-04-14,House,"On agreeing to the resolution",217,207,0,5,429
+1496096,1053851,2021-04-14,House,"On ordering the previous question",217,208,0,4,429
+1500486,1230496,2022-12-01,House,"Final Passage Under Suspension of the Rules Results",376,44,0,11,431
+1500510,1184040,2022-04-05,House,"On motion to suspend the rules and pass the bill, as amended",418,6,0,5,429
+1500518,1203606,2022-05-11,House,"On agreeing to the Joyce (OH) amendment (A003) H.Amdt.195",419,0,0,9,428
+1500518,1203607,2022-05-11,House,"On agreeing to the Keller amendment (A004) H.Amdt.196",180,242,0,6,428
+1500518,1203608,2022-05-11,House,"On agreeing to the Scott (VA) amendments (A002) H.Amdt.194",224,195,0,9,428
+1500518,1203609,2022-05-11,House,"On passage",288,131,0,9,428
+1500523,1216804,2022-06-15,House,"On agreeing to the Gonzalez, Vicente amendment (A004) H.Amdt.226",297,123,0,8,428
+1500523,1216805,2022-06-15,House,"On agreeing to the Green, Al (TX) amendments (A002) H.Amdt.224",217,192,0,19,428
+1500523,1216806,2022-06-15,House,"On agreeing to the Green, Al (TX) amendments (A003) H.Amdt.225",202,217,0,9,428
+1500523,1216807,2022-06-15,House,"On agreeing to the Payne amendment (A005) H.Amdt.227",224,198,0,6,428
+1500523,1216808,2022-06-15,House,"On motion to recommit",202,219,0,7,428
+1500523,1216809,2022-06-15,House,"On passage",215,207,0,6,428
+1500546,1105400,2021-07-29,House,"On motion to suspend the rules and pass the bill, as amended",416,2,0,12,430
+1500564,1117172,2021-12-08,House,"On motion to suspend the rules and agree to the resolution, as amended",427,1,0,5,433
+1501009,1077743,2021-05-13,House,"On agreeing to the Wagner amendment (A004) H.Amdt.48",199,224,0,7,430
+1501009,1077744,2021-05-13,House,"On agreeing to the Waters amendments (A002) H.Amdt.46",210,202,0,18,430
+1501009,1077745,2021-05-13,House,"On agreeing to the Waters amendments (A003) H.Amdt.47",208,214,0,8,430
+1501009,1077746,2021-05-13,House,"On passage",215,207,0,8,430
+1501230,1109338,2021-09-28,House,"On motion to suspend the rules and pass the bill, as amended",414,10,0,7,431
+1501230,1230927,2022-12-22,Senate,"On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: the House Amendment to Senate Amendment No. 4 with an Amendment (Amendment No. 6552))",65,31,0,4,100
+1501230,1230928,2022-12-22,Senate,"On the Amendment S.Amdt. 6561 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",34,63,0,3,100
+1501230,1230929,2022-12-22,Senate,"On the Amendment S.Amdt. 6555 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",34,63,0,3,100
+1501230,1230930,2022-12-22,Senate,"On the Amendment S.Amdt. 6559 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",47,50,0,3,100
+1501230,1230931,2022-12-22,Senate,"On the Amendment S.Amdt. 6621 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",10,87,0,3,100
+1501230,1230932,2022-12-22,Senate,"On the Amendment S.Amdt. 6563 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",47,50,0,3,100
+1501230,1230933,2022-12-22,Senate,"On the Amendment S.Amdt. 6577 to S.Amdt. 6558 to S.Amdt. 6552 to H.R. 2617",44,53,0,3,100
+1501230,1230934,2022-12-22,Senate,"On the Amendment S.Amdt. 6569 to S.Amdt. 6558 to S.Amdt. 6552 to H.R. 2617",40,57,0,3,100
+1501230,1230935,2022-12-22,Senate,"On the Amendment S.Amdt. 6558 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",73,24,0,3,100
+1501230,1230936,2022-12-22,Senate,"On the Amendment S.Amdt. 6595 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",92,5,0,3,100
+1501230,1230937,2022-12-22,Senate,"On the Amendment S.Amdt. 6597 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",88,8,0,4,100
+1501230,1230938,2022-12-22,Senate,"On the Amendment S.Amdt. 6607 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",90,6,0,4,100
+1501230,1230939,2022-12-22,Senate,"On the Amendment S.Amdt. 6617 to S.Amdt. 6552 to H.R. 2617 (Performance Enhancement Reform Act)",93,4,0,3,100
+1501230,1230940,2022-12-22,Senate,"On the Motion (Motion to Concur in the House Amendment to Senate Amendment No. 4 with an Amendment No. 6552)",68,29,0,3,100
+1501230,1230941,2022-12-23,House,"On Motion to Concur in the Senate Adt to the House Adt to the Senate Adt",225,201,1,4,431
+1501672,1102969,2021-06-29,House,"On agreeing to the Comer amendment (A003) H.Amdt.64",182,220,0,28,430
+1501672,1102970,2021-06-29,House,"On agreeing to the Maloney, Carolyn B. amendments (A002) H.Amdt.63",219,184,0,27,430
+1501672,1102971,2021-06-29,House,"On passage",221,182,0,27,430
+1502148,1116564,2021-12-01,House,"On motion to suspend the rules and pass the bill, as amended",404,19,0,10,433
+1502160,1102029,2021-06-24,Senate,"Amendment SA 2119 S.Amdt.2119 RC# 250",11,89,0,0,100
+1502160,1102030,2021-06-24,Senate,"Passed Senate without amendment RC# 251",92,8,0,0,100
+1502178,1180636,2022-03-30,House,"On motion to suspend the rules and pass the bill",364,61,1,5,431
+1502204,1058029,2021-04-20,House,"On motion to table the measure",216,210,0,4,430
+1502208,1105279,2021-07-20,House,"On motion to recommit",207,217,0,6,430
+1502208,1105280,2021-07-20,House,"On passage",221,205,0,4,430
+1502213,1058030,2021-04-20,House,"On agreeing to the resolution",214,207,0,8,429
+1502213,1058031,2021-04-20,House,"On ordering the previous question",216,206,0,7,429
+1502227,1078948,2021-05-17,Senate,"Cloture on the motion to proceed to the measure RC# 192",86,11,0,3,100
+1502227,1080657,2021-05-19,Senate,"Amendment SA 1517, under the order of 5/19/21, having achieved 60 votes in the affirmative, was S.Amdt.1517 RC# 196",71,27,0,2,100
+1502227,1080658,2021-05-19,Senate,"Amendment SA 1547, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was S.Amdt.1547 RC# 197",47,50,0,3,100
+1502227,1082298,2021-05-20,Senate,"Amendment SA 1518, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was S.Amdt.1518 RC# 199",46,48,0,6,100
+1502227,1082299,2021-05-20,Senate,"Amendment SA 1523, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was S.Amdt.1523 RC# 198",44,53,0,3,100
+1502227,1084710,2021-05-25,Senate,"Amendment SA 1565, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was S.Amdt.1565 RC# 205",53,46,0,1,100
+1502227,1084711,2021-05-25,Senate,"Amendment SA 1891, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was S.Amdt.1891 RC# 206",48,51,0,1,100
+1502227,1084712,2021-05-25,Senate,"Amendment SA 1975, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was S.Amdt.1975 RC# 204",50,49,0,1,100
+1502227,1086401,2021-05-26,Senate,"Amendment SA 1588, under the order of 5/25/21, having achieved 60 votes in the affirmative, was S.Amdt.1588 RC# 210",83,14,0,3,100
+1502227,1086402,2021-05-26,Senate,"Amendment SA 1710, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was S.Amdt.1710 RC# 209",51,49,0,0,100
+1502227,1086403,2021-05-26,Senate,"Amendment SA 1771, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was S.Amdt.1771 RC# 212",48,49,0,3,100
+1502227,1086404,2021-05-26,Senate,"Amendment SA 1911 S.Amdt.1911 RC# 207",49,51,0,0,100
+1502227,1086405,2021-05-26,Senate,"Amendment SA 1929, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was S.Amdt.1929 RC# 211",48,49,0,3,100
+1502227,1086406,2021-05-26,Senate,"Amendment SA 2014, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was S.Amdt.2014 RC# 208",50,50,0,0,100
+1502227,1086407,2021-05-26,Senate,"Amendment SA 2023, under the order of 5/25/21, having achieved 60 votes in the affirmative, was S.Amdt.2023 RC# 213",67,30,0,3,100
+1502227,1087237,2021-05-27,Senate,"Amendment SA 1562 as modified, under the order of 5/27/21, having achieved 60 votes in the affirmative, was S.Amdt.1562 RC# 216",91,4,0,5,100
+1502227,1087238,2021-05-27,Senate,"Cloture on amendment SA 1502 S.Amdt.1502 RC# 214",68,30,0,2,100
+1502227,1087239,2021-05-27,Senate,"Motion to table amendment SA 1802 S.Amdt.1802 RC# 215",55,40,0,5,100
+1502227,1095232,2021-06-08,Senate,"Amendment SA 1502 S.Amdt.1502 RC# 225",68,32,0,0,100
+1502227,1095233,2021-06-08,Senate,"Amendment SA 1858 S.Amdt.1858 RC# 223",42,58,0,0,100
+1502227,1095234,2021-06-08,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 1502 S.Amdt.1502 RC# 224",72,28,0,0,100
+1502227,1095235,2021-06-08,Senate,"Passed Senate, under the order of 5/28/21, having achieved 60 votes in the affirmative, with an amendment RC# 226",68,32,0,0,100
+1502714,1206046,2022-05-18,House,"On motion to suspend the rules and pass the bill, as amended",420,0,0,8,428
+1503146,1109406,2021-09-29,House,"On motion to commit",211,219,0,1,431
+1503146,1109407,2021-09-29,House,"On passage",219,212,0,1,432
+1503146,1109439,2021-09-30,Senate,"Motion to proceed to consideration of the House message to accompany S. 1301 RC# 402",50,43,0,7,100
+1503146,1109731,2021-10-07,Senate,"Amendment SA 3847 S.Amdt.3847 RC# 412",50,48,0,2,100
+1503146,1109732,2021-10-07,Senate,"Cloture on the motion to concur in the House amendment to S. 1301 with an amendment (SA 3847) RC# 411",61,38,0,1,100
+1503146,1109733,2021-10-07,Senate,"Senate concurred in the House amendment to S.1301 with an amendment (SA 3847) RC# 412",50,48,0,2,100
+1503160,1111189,2021-11-01,House,"On motion to suspend the rules and pass the bill",357,59,1,14,431
+1503206,1215948,2022-06-14,House,"On agreeing to the Butterfield amendment (A005) H.Amdt.222",216,206,0,5,427
+1503206,1215949,2022-06-14,House,"On agreeing to the Dingell amendments (A002) H.Amdt.219",276,147,1,3,427
+1503206,1215950,2022-06-14,House,"On agreeing to the Dingell amendments (A003) H.Amdt.220",412,8,0,7,427
+1503206,1215951,2022-06-14,House,"On agreeing to the Kildee amendment (A004) H.Amdt.221",231,189,0,7,427
+1503206,1215952,2022-06-14,House,"On motion to recommit",202,220,0,5,427
+1503206,1215953,2022-06-14,House,"On passage",231,190,0,6,427
+1503896,1139741,2022-02-09,House,"On motion to suspend the rules and pass the bill",245,167,1,21,434
+1504748,1077751,2021-05-13,House,"On motion to suspend the rules and pass the bill",323,93,2,12,430
+1504757,1230947,2022-12-22,House,"On Motion to Suspend the Rules and Pass",337,79,0,14,430
+1505166,1110908,2021-10-27,House,"On motion to suspend the rules and pass the bill",424,3,0,4,431
+1505210,1110914,2021-10-27,House,"On motion to suspend the rules and pass the bill, as amended",420,3,0,8,431
+1505249,1230570,2022-12-12,House,"Final Passage Under Suspension of the Rules Results",356,56,0,18,430
+1505395,1116627,2021-12-02,House,"On motion to suspend the rules and pass the bill, as amended",364,57,0,12,433
+1505397,1079283,2021-05-17,House,"On motion to suspend the rules and pass the bill",411,4,0,14,429
+1506366,1226184,2022-09-15,House,"On agreeing to the Maloney, Carolyn B. amendments (A001) H.Amdt.314",224,206,0,8,438
+1506366,1226185,2022-09-15,House,"On passage",221,203,0,8,432
+1506367,1110554,2021-10-25,House,"On motion to suspend the rules and pass the bill, as amended",400,19,0,12,431
+1506386,1206039,2022-05-18,House,"On motion to suspend the rules and pass the bill, as amended",400,21,0,7,428
+1506388,1179672,2022-03-29,House,"On motion to suspend the rules and pass the bill, as amended",414,5,0,12,431
+1507372,1102955,2021-06-29,House,"On passage",285,120,0,26,431
+1508175,1171462,2022-03-15,House,"On motion to suspend the rules and pass the bill, as amended",414,9,0,9,432
+1508206,1138633,2022-02-08,House,"On passage",342,92,0,0,434
+1508206,1204260,2022-02-28,Senate,"Cloture on the motion to proceed to the measure",74,20,0,6,100
+1508206,1204261,2022-03-07,Senate,"Cloture on the measure",74,17,0,9,100
+1508206,1204262,2022-03-08,Senate,"Motion to waive section 3101(b) of S. Con. Res. 11, 114th Congress, with respect to the measure",68,30,0,2,100
+1508206,1204263,2022-03-08,Senate,"Passed Senate without amendment",79,19,0,2,100
+1508209,1110492,2021-10-22,House,"On motion to recommit",200,224,0,7,431
+1508209,1110493,2021-10-22,House,"On passage",276,149,0,6,431
+1508222,1077133,2021-05-12,House,"On agreeing to the resolution",214,210,0,6,430
+1508222,1077134,2021-05-12,House,"On ordering the previous question",212,206,0,12,430
+1509125,1171561,2022-03-16,House,"On motion to suspend the rules and pass the bill",422,4,0,6,432
+1509136,1115584,2021-11-04,House,"On motion to suspend the rules and pass the bill, as amended",410,16,0,7,433
+1509137,1230481,2022-12-08,House,"Final Passage Under Suspension of the Rules Results",406,8,0,17,431
+1509161,1117119,2021-12-07,House,"On passage",363,70,0,0,433
+1509161,1204296,2021-12-14,Senate,"Cloture on the motion to concur in the House amendment to S. 1605",86,13,0,1,100
+1509161,1204297,2021-12-15,Senate,"Senate agreed to the House amendment to S. 1605",88,11,0,1,100
+1509447,1080671,2021-05-19,House,"On passage",252,175,0,3,430
+1509447,1087734,2021-05-28,Senate,"Cloture on the motion to proceed to the measure RC# 218",54,35,0,11,100
+1509451,1082333,2021-05-20,House,"On motion to recommit",209,218,0,2,429
+1509451,1082334,2021-05-20,House,"On passage",213,212,3,2,430
+1509451,1105390,2021-07-29,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 2123 S.Amdt.2123 RC# 286",72,26,0,2,100
+1509451,1105391,2021-07-29,Senate,"Passed Senate, under the order of 7/29/21, having achieved 60 votes in the affirmative, with an amendment RC# 287",98,0,0,2,100
+1509451,1105401,2021-07-29,House,"On motion that the House suspend the rules and agree to the Senate amendment",416,11,0,4,431
+1509826,1079508,2021-05-18,House,"On agreeing to the resolution",212,206,0,11,429
+1509826,1079509,2021-05-18,House,"On ordering the previous question",217,209,0,3,429
+1510230,1080688,2021-05-19,House,"On agreeing to the resolution",216,208,0,5,429
+1510230,1080689,2021-05-19,House,"On ordering the previous question",217,208,0,4,429
+1510673,1179855,2022-03-29,House,"On motion to suspend the rules and pass the bill, as amended",406,20,0,5,431
+1510682,1098338,2021-06-15,House,"On motion to suspend the rules and pass the bill, as amended",406,21,0,4,431
+1510689,1196146,2022-04-27,House,"On motion to suspend the rules and pass the bill, as amended",366,60,0,3,429
+1510727,1080632,2021-05-19,House,"On motion to table the measure",218,210,0,2,430
+1511178,1230488,2022-12-01,House,"Passage of a Measure",259,167,0,5,431
+1511327,1205409,2022-05-17,House,"On motion to suspend the rules and pass the bill",384,22,4,18,428
+1511593,1115488,2021-11-02,House,"On motion to suspend the rules and pass the bill",418,2,0,11,431
+1511599,1115383,2021-11-02,House,"On motion to suspend the rules and pass the bill",423,0,0,8,431
+1511599,1230490,2022-12-06,House,"Vote on House Agreeing to the Senate Action",417,0,0,14,431
+1512264,1109489,2021-09-30,House,"On motion to suspend the rules and pass the bill, as amended",416,9,0,6,431
+1512265,1139958,2022-02-09,House,"On motion to suspend the rules and pass the bill",417,1,2,13,433
+1512287,1227175,2022-09-28,House,"On motion to suspend the rules and pass the bill, as amended",369,56,0,7,432
+1512317,1117094,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",423,3,0,7,433
+1512333,1109052,2021-09-21,House,"On motion to suspend the rules and pass the bill",427,0,0,4,431
+1512379,1139803,2022-02-09,House,"On agreeing to the Cicilline amendments (A002) H.Amdt.175",223,207,0,3,433
+1512379,1139804,2022-02-09,House,"On passage",227,206,0,0,433
+1512381,1204241,2022-05-12,House,"On motion to suspend the rules and pass the bill",408,3,2,15,428
+1512396,1117131,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",425,1,0,7,433
+1512928,1105359,2021-07-27,House,"On motion to suspend the rules and pass the bill",413,7,0,10,430
+1512951,1203708,2022-05-11,House,"On motion to suspend the rules and pass the bill",418,0,0,10,428
+1512998,1230943,2022-12-22,House,"On Passage",326,95,0,9,430
+1513342,1229998,2022-11-17,House,"Final Passage Under Suspension of the Rules Results",402,13,0,17,432
+1513348,1109410,2021-09-29,House,"On motion to suspend the rules and pass the bill, as amended",410,15,0,6,431
+1513373,1110482,2021-10-20,House,"On motion to suspend the rules and pass the bill",397,22,0,12,431
+1513376,1115376,2021-11-02,House,"On motion to suspend the rules and pass the bill",399,23,0,9,431
+1513402,1102543,2021-06-28,House,"On motion to suspend the rules and pass the bill, as amended",351,68,0,11,430
+1513430,1182082,2022-04-01,House,"On agreeing to the Gottheimer amendment (A002) H.Amdt.188",243,172,0,14,429
+1513430,1182083,2022-04-01,House,"On agreeing to the Lamb amendment (A003) H.Amdt.189",234,189,0,6,429
+1513430,1182084,2022-04-01,House,"On agreeing to the Raskin amendment (A004) H.Amdt.190",209,214,0,6,429
+1513430,1182085,2022-04-01,House,"On motion to recommit",202,220,0,7,429
+1513430,1182086,2022-04-01,House,"On passage",220,204,0,5,429
+1513439,1222303,2022-07-26,House,"On motion to suspend the rules and pass the bill, as amended",323,92,0,15,430
+1514708,1116308,2021-11-18,House,"On motion to suspend the rules and pass the bill, as amended",420,4,0,9,433
+1514715,1103596,2021-06-30,House,"On agreeing to the DeFazio amendments (A004) H.Amdt.69",180,226,0,24,430
+1514715,1103597,2021-06-30,House,"On agreeing to the DeFazio amendments (A005) H.Amdt.70",221,187,0,22,430
+1514715,1103598,2021-06-30,House,"On agreeing to the Lamb amendments (A002) H.Amdt.67",217,186,0,27,430
+1514715,1103599,2021-06-30,House,"On agreeing to the Van Duyne amendment (A007) H.Amdt.72",230,178,0,22,430
+1514715,1103902,2021-07-01,House,"On agreeing to the Davids (KS) amendments (A008) H.Amdt.73",217,199,0,14,430
+1514715,1103903,2021-07-01,House,"On agreeing to the Lee (NV) amendment (A009) H.Amdt.74",220,200,0,10,430
+1514715,1103904,2021-07-01,House,"On motion to recommit",202,217,0,11,430
+1514715,1103905,2021-07-01,House,"On passage",221,201,0,8,430
+1514715,1105324,2021-07-21,Senate,"Cloture on the motion to proceed to the measure RC# 276",49,51,0,0,100
+1514715,1105325,2021-07-21,Senate,"Motion by Senator Schumer to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 276) entered in Senate. RC# 276",49,51,0,0,100
+1514715,1105363,2021-07-28,Senate,"Upon reconsideration, cloture on the motion to proceed to H.R. 3684 RC# 285",67,32,0,1,100
+1514715,1105402,2021-07-30,Senate,"Motion to proceed to consideration of measure RC# 288",66,28,0,6,100
+1514715,1105416,2021-08-02,Senate,"Amendment SA 2133, under the order of 8/2/2021, having achieved 60 votes in the affirmative, was S.Amdt.2133 RC# 291",90,7,0,3,100
+1514715,1105417,2021-08-02,Senate,"Amendment SA 2162, under the order of 8/2/2021, having achieved 60 votes in the affirmative, was S.Amdt.2162 RC# 292",95,1,0,4,100
+1514715,1105418,2021-08-02,Senate,"Amendment SA 2180, under the order of 8/2/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2180 RC# 293",45,48,0,7,100
+1514715,1105422,2021-08-03,Senate,"Amendment SA 2140, under the order of 8/3/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2140 RC# 296",48,50,0,2,100
+1514715,1105423,2021-08-03,Senate,"Amendment SA 2181, under the order of 8/2/2021, having achieved 60 votes in the affirmative, was S.Amdt.2181 RC# 294",95,3,0,2,100
+1514715,1105424,2021-08-03,Senate,"Amendment SA 2255, under the order of 8/3/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2255 RC# 295",20,78,0,2,100
+1514715,1105425,2021-08-03,Senate,"Amendment SA 2354, under the order of 8/3/2021, having achieved 60 votes in the affirmative, was S.Amdt.2354 RC# 297",97,0,0,3,100
+1514715,1105622,2021-08-04,Senate,"Amendment SA 2146 S.Amdt.2146 RC# 299",43,55,0,2,100
+1514715,1105623,2021-08-04,Senate,"Amendment SA 2164 S.Amdt.2164 RC# 306",95,0,0,5,100
+1514715,1105624,2021-08-04,Senate,"Amendment SA 2210, under the order of 8/4/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2210 RC# 300",19,79,0,2,100
+1514715,1105625,2021-08-04,Senate,"Amendment SA 2233, under the order of 8/4/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2233 RC# 302",53,45,0,2,100
+1514715,1105626,2021-08-04,Senate,"Amendment SA 2245, under the order of 8/3/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2245 RC# 298",48,49,0,3,100
+1514715,1105627,2021-08-04,Senate,"Amendment SA 2279, under the order of 8/4/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2279 RC# 305",47,50,0,3,100
+1514715,1105628,2021-08-04,Senate,"Amendment SA 2338, under the order of 8/4/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2338 RC# 304",42,55,0,3,100
+1514715,1105629,2021-08-04,Senate,"Amendment SA 2449, under the order of 8/4/2021, not having achieved 60 votes in the affirmative, was S.Amdt.2449 RC# 303",48,50,0,2,100
+1514715,1105630,2021-08-04,Senate,"Amendment SA 2464, under the order of 8/4/2021, having achieved 60 votes in the affirmative, was S.Amdt.2464 RC# 301",96,2,0,2,100
+1514715,1105631,2021-08-04,Senate,"Amendment SA 2570 S.Amdt.2570 RC# 307",58,39,0,3,100
+1514715,1105831,2021-08-07,Senate,"Cloture on amendment SA 2137 S.Amdt.2137 RC# 309",67,27,0,6,100
+1514715,1105832,2021-08-08,Senate,"Amendment SA 2137 S.Amdt.2137 RC# 312",69,28,0,3,100
+1514715,1105833,2021-08-08,Senate,"Cloture on the measure RC# 313",68,29,0,3,100
+1514715,1105834,2021-08-08,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 2137 S.Amdt.2137 RC# 311",64,33,0,3,100
+1514715,1105920,2021-08-10,Senate,"Passed Senate with an amendment RC# 314",69,30,0,1,100
+1514715,1115607,2021-11-05,House,"On motion that the House agree to the Senate amendment",228,206,0,0,434
+1514715,1115608,2021-11-05,House,"On motion to table the motion to reconsider",228,205,0,1,434
+1514742,1115582,2021-11-04,House,"On motion to suspend the rules and pass the bill",402,11,0,20,433
+1515117,1117086,2021-12-08,House,"On motion to suspend the rules and pass the bill",374,52,0,7,433
+1515166,1109141,2021-09-24,House,"On motion to recommit",210,219,0,2,431
+1515166,1109142,2021-09-24,House,"On passage",218,211,0,3,432
+1515166,1204264,2022-02-28,Senate,"Cloture on the motion to proceed to the measure",46,48,0,6,100
+1515169,1222307,2022-07-27,House,"On motion to recommit",198,225,0,7,430
+1515169,1222308,2022-07-27,House,"On passage",237,192,0,1,430
+1515771,1227752,2022-09-29,House,"On passage",242,184,0,6,432
+1515794,1185840,2022-04-07,House,"On motion to recommit",205,219,0,5,429
+1515794,1185841,2022-04-07,House,"On passage",223,203,0,4,430
+1515983,1097839,2021-06-14,House,"On agreeing to the resolution",216,206,0,8,430
+1515983,1097840,2021-06-14,House,"On ordering the previous question",217,203,0,10,430
+1516337,1117118,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",378,48,0,7,433
+1516379,1110462,2021-10-20,House,"On motion to suspend the rules and pass the bill, as amended",420,4,0,7,431
+1516569,1100518,2021-06-22,Senate,"Cloture on the motion to proceed to the measure RC# 246",50,50,0,0,100
+1516597,1218881,2022-06-23,House,"On motion to suspend the rules and pass the bill, as amended",376,42,0,11,429
+1516615,1098752,2021-06-16,House,"On agreeing to the resolution",214,208,0,8,430
+1516775,1206193,2022-05-18,House,"On motion to suspend the rules and pass the bill",418,0,0,10,428
+1516821,1180454,2022-03-30,House,"On motion to suspend the rules and pass the bill",412,1,1,17,431
+1516834,1161009,2022-03-02,House,"On agreeing to the Brownley amendment (A004) H.Amdt.179",425,0,0,7,432
+1516834,1161010,2022-03-02,House,"On agreeing to the Miller-Meeks amendment (A003) H.Amdt.178",203,223,0,6,432
+1516834,1161011,2022-03-02,House,"On agreeing to the Takano amendments (A002) H.Amdt.177",331,96,0,5,432
+1516834,1162577,2022-03-03,House,"On agreeing to the Ruiz amendment (A006) H.Amdt.181",425,0,0,7,432
+1516834,1162578,2022-03-03,House,"On agreeing to the Ryan amendment (A007) H.Amdt.182",348,78,0,6,432
+1516834,1162579,2022-03-03,House,"On passage",256,174,0,3,433
+1516834,1214772,2022-06-07,Senate,"Cloture on the motion to proceed to the measure",86,12,0,2,100
+1516834,1215587,2022-06-13,Senate,"Cloture on amendment SA 5051 S.Amdt.5051",78,17,0,5,100
+1516834,1216439,2022-06-15,Senate,"Amendment SA 5051 S.Amdt.5051",84,15,0,1,100
+1516834,1216440,2022-06-15,Senate,"Cloture on the measure",76,23,0,1,100
+1516834,1216780,2022-06-16,Senate,"Passed Senate with an amendment",84,14,0,2,100
+1516847,1115547,2021-11-04,House,"On agreeing to the Keller amendment (A003) H.Amdt.138",197,228,0,6,431
+1516847,1115548,2021-11-04,House,"On agreeing to the Pappas amendment (A002) H.Amdt.137",225,201,0,5,431
+1516847,1115549,2021-11-04,House,"On passage",224,200,0,7,431
+1516870,1105340,2021-07-22,House,"On passage",407,16,0,7,430
+1517133,1222304,2022-07-27,House,"On motion to recommit",205,221,0,4,430
+1517133,1222305,2022-07-27,House,"On passage",416,12,0,2,430
+1517153,1116446,2021-11-30,House,"On motion to suspend the rules and pass the bill",399,28,0,6,433
+1517168,1110445,2021-10-20,House,"On motion to suspend the rules and pass the bill, as amended",397,29,0,5,431
+1517185,1100875,2021-06-23,House,"On agreeing to the resolution",218,205,0,7,430
+1517185,1100876,2021-06-23,House,"On ordering the previous question",218,209,0,3,430
+1517190,1116577,2021-12-01,House,"On motion to suspend the rules and pass the bill, as amended",394,27,0,12,433
+1517200,1116576,2021-12-01,House,"On motion to suspend the rules and pass the bill, as amended",408,17,0,8,433
+1517205,1110485,2021-10-20,House,"On motion to suspend the rules and pass the bill, as amended",413,14,0,4,431
+1517216,1110450,2021-10-20,House,"On motion to suspend the rules and pass the bill, as amended",410,17,0,4,431
+1517346,1110381,2021-10-19,House,"On motion to suspend the rules and pass the bill, as amended",379,51,0,1,431
+1517374,1110771,2021-10-25,House,"On motion to suspend the rules and pass the bill",391,29,0,11,431
+1517672,1196116,2022-04-27,House,"On motion to suspend the rules and pass the bill",340,86,0,3,429
+1517746,1226436,2022-09-22,House,"On passage",220,207,0,5,432
+1517761,1226149,2022-09-14,House,"On motion to suspend the rules and pass the bill",387,38,0,7,432
+1517883,1218819,2022-06-23,House,"On agreeing to the Jackson Lee amendment (A002) H.Amdt.240",216,200,0,13,429
+1517883,1218820,2022-06-23,House,"On agreeing to the Maloney, Carolyn B. amendment (A003) H.Amdt.241",213,201,0,15,429
+1517883,1218821,2022-06-23,House,"On motion to recommit",202,218,0,9,429
+1517883,1218822,2022-06-23,House,"On passage",220,201,0,8,429
+1518042,1102981,2021-06-29,House,"On agreeing to the resolution",218,197,0,15,430
+1518042,1102982,2021-06-29,House,"On ordering the previous question",214,195,0,21,430
+1518044,1103587,2021-06-30,House,"On agreeing to the resolution",222,190,0,19,431
+1518130,1116312,2021-11-16,House,"On motion to suspend the rules and pass the bill",420,4,0,9,433
+1518145,1103629,2021-06-30,House,"On agreeing to the DeSaulnier amendment (A001) H.Amdt.65",84,325,0,21,430
+1518145,1103630,2021-06-30,House,"On agreeing to the resolution",219,190,0,21,430
+1518145,1103631,2021-06-30,House,"On ordering the previous question on the amendment (A001) H.Amdt.65",219,188,0,23,430
+1518230,1109299,2021-09-28,House,"On motion to suspend the rules and pass the bill",412,9,0,10,431
+1518255,1115340,2021-11-02,House,"On motion to suspend the rules and pass the bill, as amended",413,10,0,8,431
+1518386,1105394,2021-07-29,House,"On motion to suspend the rules and pass the bill, as amended",420,0,0,10,430
+1518388,1105368,2021-07-28,House,"On agreeing to the Ryan amendments (A002) H.Amdt.93",220,207,0,3,430
+1518388,1105369,2021-07-28,House,"On agreeing to the Ryan amendments (A004) H.Amdt.95",180,243,0,7,430
+1518388,1105370,2021-07-28,House,"On motion to recommit",202,218,0,10,430
+1518388,1105371,2021-07-28,House,"On passage",215,207,0,8,430
+1518388,1222160,2022-07-19,Senate,"Motion to proceed to consideration of the House message to accompany H.R. 4346",64,34,0,2,100
+1518388,1222223,2022-07-26,Senate,"Motion to waive section 404(a) of S. Con. Res. 13, 111th Congress, as amended by S. Con. Res. 11, 114th Congress, with respect to amendment SA 5135 S.Amdt.5135",63,32,0,5,100
+1518388,1222229,2022-07-26,Senate,"Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135)",64,32,0,4,100
+1518388,1222301,2022-07-27,Senate,"Amendment SA 5135 S.Amdt.5135",64,33,0,3,100
+1518388,1222302,2022-07-27,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 5135 S.Amdt.5135",64,33,0,3,100
+1518388,1222482,2022-07-28,House,"On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment",243,187,1,0,431
+1518444,1109046,2021-09-22,House,"On agreeing to the DeGette amendment (A008) H.Amdt.104",222,200,0,9,431
+1518444,1109047,2021-09-22,House,"On agreeing to the Dean amendment (A002) H.Amdt.98",219,204,0,8,431
+1518444,1109048,2021-09-22,House,"On agreeing to the Neguse amendment (A009) H.Amdt.105",224,204,0,3,431
+1518444,1109049,2021-09-22,House,"On agreeing to the Plaskett amendment (A003) H.Amdt.99",235,190,0,6,431
+1518444,1109050,2021-09-22,House,"On agreeing to the Slotkin amendment (A007) H.Amdt.103",236,186,0,9,431
+1518444,1109051,2021-09-22,House,"On agreeing to the Tlaib amendment (A006) H.Amdt.102",222,203,0,6,431
+1518444,1109104,2021-09-23,House,"On agreeing to the Bowman amendment (A015) H.Amdt.111",141,286,0,4,431
+1518444,1109105,2021-09-23,House,"On agreeing to the Bowman amendment (A026) H.Amdt.122",234,183,0,14,431
+1518444,1109106,2021-09-23,House,"On agreeing to the Garamendi amendment (A021) H.Amdt.117",118,299,0,14,431
+1518444,1109107,2021-09-23,House,"On agreeing to the Jacobs (CA) amendment (A024) H.Amdt.120",142,286,0,3,431
+1518444,1109108,2021-09-23,House,"On agreeing to the Johnson (GA) amendment (A020) H.Amdt.116",198,231,0,2,431
+1518444,1109109,2021-09-23,House,"On agreeing to the Khanna amendment (A017) H.Amdt.113",219,207,0,5,431
+1518444,1109110,2021-09-23,House,"On agreeing to the Langevin amendment H.Amdt.121",225,187,0,19,431
+1518444,1109111,2021-09-23,House,"On agreeing to the Leger Fernandez amendment (A030) H.Amdt.126",240,185,0,6,431
+1518444,1109112,2021-09-23,House,"On agreeing to the Maloney, Carolyn B. amendment (A019) H.Amdt.115",223,202,0,6,431
+1518444,1109113,2021-09-23,House,"On agreeing to the Meeks amendment (A018) H.Amdt.114",223,204,0,4,431
+1518444,1109114,2021-09-23,House,"On agreeing to the Mfume amendment (A016) H.Amdt.112",219,202,0,10,431
+1518444,1109115,2021-09-23,House,"On agreeing to the Ocasio-Cortez amendment (A023) H.Amdt.119",86,332,0,13,431
+1518444,1109116,2021-09-23,House,"On agreeing to the Schrader amendment (A022) H.Amdt.118",167,256,0,8,431
+1518444,1109117,2021-09-23,House,"On agreeing to the Smith (WA) amendments (A027) as modified H.Amdt.123",367,59,0,5,431
+1518444,1109118,2021-09-23,House,"On agreeing to the Smith (WA) amendments (A028) H.Amdt.124",362,59,0,10,431
+1518444,1109119,2021-09-23,House,"On agreeing to the Smith (WA) amendments (A029) H.Amdt.125",360,66,0,5,431
+1518444,1109120,2021-09-23,House,"On agreeing to the Torres (CA) amendment (A031) H.Amdt.127",215,213,0,3,431
+1518444,1109121,2021-09-23,House,"On passage",316,113,0,2,431
+1518444,1116281,2021-11-17,Senate,"Cloture on the motion to proceed to the measure RC# 472",84,15,0,1,100
+1518444,1204265,2021-11-29,Senate,"Motion by Senator Schumer to reconsider the vote by which cloture on amendment SA 3867, as modified, was not invoked (Record Vote No. 473) entered in Senate. S.Amdt.3867",45,51,0,4,100
+1518447,1116563,2021-12-01,House,"On motion to suspend the rules and pass the bill",302,127,0,4,433
+1518483,1105364,2021-07-28,House,"On agreeing to the Lee (CA) amendments (A003) H.Amdt.90",202,217,0,11,430
+1518483,1105365,2021-07-28,House,"On agreeing to the Lee (CA) amendments (A004) H.Amdt.91",217,200,0,13,430
+1518483,1105366,2021-07-28,House,"On motion to recommit",207,217,0,6,430
+1518483,1105367,2021-07-28,House,"On passage",217,212,0,2,431
+1518483,1204266,2022-04-05,Senate,"Motion by Senator Schumer to reconsider to reconsider the vote by which cloture was not invoked on the motion to proceed (Record Vote No. 129) entered in Senate.",47,52,0,1,100
+1518488,1110328,2021-10-19,House,"On motion to suspend the rules and pass the bill, as amended",368,56,0,7,431
+1518983,1171563,2022-03-16,House,"On motion to suspend the rules and pass the bill",403,25,0,4,432
+1519003,1222173,2022-07-19,House,"On motion to suspend the rules and pass the bill, as amended",377,45,0,8,430
+1519211,1230964,2022-12-21,House,"On Motion to Suspend the Rules and Pass",350,59,0,21,430
+1519407,1117211,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",385,42,0,6,433
+1519409,1137038,2022-02-07,House,"On agreeing to the Buck amendment (A002) H.Amdt.171",427,0,0,6,433
+1519409,1137039,2022-02-07,House,"On passage",335,97,0,2,434
+1519418,1115456,2021-11-02,House,"On motion to suspend the rules and pass the bill",407,9,0,15,431
+1519433,1185037,2022-04-05,House,"On motion to suspend the rules and pass the bill, as amended",348,75,0,6,429
+1519506,1115382,2021-11-02,House,"On motion to suspend the rules and pass the bill",409,14,0,8,431
+1519508,1115412,2021-11-02,House,"On motion to suspend the rules and pass the bill",411,9,0,11,431
+1519511,1105354,2021-07-27,House,"On agreeing to the DeLauro amendments (A002) H.Amdt.80",154,264,0,12,430
+1519511,1105355,2021-07-27,House,"On agreeing to the DeLauro amendments (A003) H.Amdt.81",220,203,0,7,430
+1519511,1105356,2021-07-27,House,"On agreeing to the DeLauro amendments (A005) H.Amdt.83",192,232,0,6,430
+1519511,1105357,2021-07-27,House,"On agreeing to the Lesko amendment (A006) H.Amdt.84",147,276,0,7,430
+1519511,1105358,2021-07-27,House,"On agreeing to the Ocasio-Cortez amendment (A007) H.Amdt.85",140,285,0,5,430
+1519511,1105395,2021-07-29,House,"On agreeing to the DeLauro amendments (A008) as modified H.Amdt.86",371,55,0,4,430
+1519511,1105396,2021-07-29,House,"On agreeing to the DeLauro amendments (A009) H.Amdt.87",221,206,0,3,430
+1519511,1105397,2021-07-29,House,"On motion to recommit",208,217,0,5,430
+1519511,1105398,2021-07-29,House,"On motion to table the motion to reconsider",219,209,0,2,430
+1519511,1105399,2021-07-29,House,"On passage",219,208,0,4,431
+1519516,1135095,2022-02-03,House,"On agreeing to the Bice (OK) amendment (A010) H.Amdt.166",279,153,0,1,433
+1519516,1135096,2022-02-03,House,"On agreeing to the Bonamici amendments (A003) H.Amdt.159",262,168,0,3,433
+1519516,1135097,2022-02-03,House,"On agreeing to the Castro (TX) amendment (A006) H.Amdt.162",216,214,0,3,433
+1519516,1135098,2022-02-03,House,"On agreeing to the Crenshaw amendment (A007) H.Amdt.163",264,163,0,6,433
+1519516,1135099,2022-02-03,House,"On agreeing to the Garamendi amendment (A008) H.Amdt.164",367,59,0,7,433
+1519516,1135100,2022-02-03,House,"On agreeing to the Jayapal amendment (A005) H.Amdt.161",181,248,0,4,433
+1519516,1135101,2022-02-03,House,"On agreeing to the Jayapal amendment (A009) H.Amdt.165",175,255,0,3,433
+1519516,1135102,2022-02-03,House,"On agreeing to the Johnson (TX) amendments (A002) H.Amdt.158",221,211,0,1,433
+1519516,1135103,2022-02-03,House,"On agreeing to the Lofgren amendments (A004) H.Amdt.160",204,225,0,4,433
+1519516,1135104,2022-02-03,House,"On agreeing to the Perry amendment (A011) H.Amdt.167",196,235,0,2,433
+1519516,1135656,2022-02-04,House,"On agreeing to the Levin (MI) amendment (A013) H.Amdt.169",238,193,0,2,433
+1519516,1135657,2022-02-04,House,"On agreeing to the Steel amendment (A012) H.Amdt.168",265,166,0,2,433
+1519516,1135658,2022-02-04,House,"On motion to recommit",211,221,0,1,433
+1519516,1135659,2022-02-04,House,"On passage",222,210,0,2,434
+1519516,1181516,2022-03-31,House,"On motion that the House instruct conferees",351,74,0,6,431
+1519516,1204267,2022-03-21,Senate,"Cloture on the motion to proceed to the measure",66,29,0,5,100
+1519516,1204268,2022-03-23,Senate,"Motion to proceed to consideration of measure",66,31,0,3,100
+1519516,1204269,2022-03-28,Senate,"Cloture S.Amdt.5002",68,28,0,4,100
+1519516,1204270,2022-03-28,Senate,"Passed Senate, under the order of 3/24/2022, having achieved 60 votes in the affirmative, with an amendment",68,28,0,4,100
+1519516,1204271,2022-04-28,Senate,"Cloture on the motion to insist on the amendment of the Senate to H.R. 4521, agree to the request for conference, and authorize the Presiding Officer to appoint conferees",68,29,0,3,100
+1519516,1204272,2022-04-28,Senate,"Motion to insist on the amendment of the Senate to H.R. 4521, agree to the request for conference, and authorize the Presiding Officer to appoint conferees agreed to.",67,27,0,6,100
+1519516,1204273,2022-05-04,Senate,"Motion by Senator Barrasso to instruct Senate conferees (OCS 5-Year Plan)",53,44,0,3,100
+1519516,1204274,2022-05-04,Senate,"Motion by Senator Capito to instruct Senate conferees (Climate Emergency Declaration)",49,47,0,4,100
+1519516,1204275,2022-05-04,Senate,"Motion by Senator Cotton to instruct Senate conferees (Green Climate Fund to DARPA)",50,44,0,6,100
+1519516,1204276,2022-05-04,Senate,"Motion by Senator Cruz to instruct Senate conferees (Iran)",86,12,0,2,100
+1519516,1204277,2022-05-04,Senate,"Motion by Senator Hassan to instruct Senate conferees (R&D Tax Credit)",90,5,0,5,100
+1519516,1204278,2022-05-04,Senate,"Motion by Senator Johnson to instruct Senate conferees (Reject Mink Fur Prohibition)",59,33,0,8,100
+1519516,1204279,2022-05-04,Senate,"Motion by Senator Lankford to instruct Senate conferees (Iran), under the order of 4/27/22, having achieved 60 votes in the affirmative, was",62,33,0,5,100
+1519516,1204280,2022-05-04,Senate,"Motion by Senator Lee to instruct Senate conferees (Green Climate Fund) rejected in Senate",48,49,0,3,100
+1519516,1204281,2022-05-04,Senate,"Motion by Senator Sanders to instruct Senate conferees (NASA) rejected in Senate",17,78,0,5,100
+1519516,1204282,2022-05-04,Senate,"Motion by Senator Sanders to instruct Senate conferees (Warrants) rejected in Senate",6,87,0,7,100
+1519516,1204283,2022-05-04,Senate,"Motion by Senator Scott SC, to instruct Senate conferees (Prohibits Co2 Mandate without China) rejected in Senate",47,49,0,4,100
+1519516,1204284,2022-05-04,Senate,"Motion by Senator Toomey to instruct Senate conferees (Trade, Section 301)",53,43,0,4,100
+1519524,1105274,2021-07-20,House,"On agreeing to the resolution",219,208,0,3,430
+1519524,1105275,2021-07-20,House,"On ordering the previous question",216,207,0,7,430
+1519627,1117080,2021-12-08,House,"On motion to suspend the rules and pass the bill",369,58,0,6,433
+1519725,1110470,2021-10-20,House,"On motion to suspend the rules and pass the bill, as amended",412,2,0,17,431
+1519802,1126410,2022-01-20,House,"On agreeing to the Escobar amendment (A003) H.Amdt.155",228,198,0,7,433
+1519802,1126411,2022-01-20,House,"On motion to recommit",206,221,0,6,433
+1519802,1126412,2022-01-20,House,"On passage",265,163,0,5,433
+1519852,1115560,2021-11-04,House,"On motion to suspend the rules and pass the bill",416,4,1,12,433
+1519905,1117125,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",415,9,0,9,433
+1520015,1109296,2021-09-28,House,"On motion to suspend the rules and pass the bill, as amended",403,17,0,11,431
+1520031,1105347,2021-07-26,House,"On motion to table the measure",218,197,0,15,430
+1520032,1195939,2022-04-27,House,"On motion to suspend the rules and pass the bill",384,44,0,1,429
+1520035,1105351,2021-07-27,House,"On agreeing to the resolution",218,207,0,5,430
+1520035,1105352,2021-07-27,House,"On ordering the previous question",217,201,0,12,430
+1520036,1115561,2021-11-04,House,"On motion to suspend the rules and pass the bill",409,14,1,9,433
+1520099,1226309,2022-09-20,House,"On motion to suspend the rules and pass the bill",414,12,0,6,432
+1520135,1117120,2021-12-08,House,"On motion to suspend the rules and pass the bill",417,8,0,8,433
+1520172,1205437,2022-05-17,House,"On motion to suspend the rules and pass the bill",410,1,2,15,428
+1520187,1179702,2022-03-29,House,"On motion to suspend the rules and pass the bill, as amended",376,47,0,8,431
+1520191,1105360,2021-07-28,House,"On agreeing to the resolution",217,208,0,6,431
+1520191,1105361,2021-07-28,House,"On motion to table the motion to reconsider",201,192,0,37,430
+1520191,1105362,2021-07-28,House,"On ordering the previous question",217,208,0,5,430
+1520242,1205405,2022-05-17,House,"On motion to suspend the rules and pass the bill",404,14,0,10,428
+1520331,1222138,2022-07-14,House,"On motion to suspend the rules and agree to the resolution",423,1,0,6,430
+1520365,1230480,2022-12-01,House,"Final Passage Under Suspension of the Rules Results",407,17,0,8,432
+1520373,1205964,2022-05-18,House,"On motion to suspend the rules and pass the bill",419,0,0,9,428
+1520418,1227780,2022-09-29,House,"On motion to suspend the rules and pass the bill",393,29,0,10,432
+1520495,1115377,2021-11-02,House,"On motion to suspend the rules and pass the bill",375,45,1,10,431
+1520890,1106495,2021-08-24,House,"On motion to recommit",212,218,0,1,431
+1520890,1106496,2021-08-24,House,"On passage",219,212,0,1,432
+1521005,1179558,2022-03-29,House,"On motion to suspend the rules and pass the bill",377,48,0,6,431
+1521203,1109405,2021-09-28,House,"On motion to suspend the rules and pass the bill",410,14,0,7,431
+1521501,1105925,2021-08-10,Senate,"Amendment SA 3055 S.Amdt.3055 RC# 316",99,0,0,1,100
+1521501,1105926,2021-08-10,Senate,"Amendment SA 3073 S.Amdt.3073 RC# 324",49,50,0,1,100
+1521501,1105927,2021-08-10,Senate,"Amendment SA 3099 S.Amdt.3099 RC# 321",49,50,0,1,100
+1521501,1105928,2021-08-10,Senate,"Amendment SA 3103 S.Amdt.3103 RC# 330",53,46,0,1,100
+1521501,1105929,2021-08-10,Senate,"Amendment SA 3104 S.Amdt.3104 RC# 320",49,50,0,1,100
+1521501,1105930,2021-08-10,Senate,"Amendment SA 3105 S.Amdt.3105 RC# 323",57,42,0,1,100
+1521501,1105931,2021-08-10,Senate,"Amendment SA 3106 S.Amdt.3106 RC# 318",99,0,0,1,100
+1521501,1105932,2021-08-10,Senate,"Amendment SA 3113 S.Amdt.3113 RC# 328",99,0,0,1,100
+1521501,1105933,2021-08-10,Senate,"Amendment SA 3114 S.Amdt.3114 RC# 331",86,13,0,1,100
+1521501,1105934,2021-08-10,Senate,"Amendment SA 3115 S.Amdt.3115 RC# 333",66,33,0,1,100
+1521501,1105935,2021-08-10,Senate,"Amendment SA 3128 S.Amdt.3128 RC# 332",51,48,0,1,100
+1521501,1105936,2021-08-10,Senate,"Amendment SA 3150 S.Amdt.3150 RC# 338",28,71,0,1,100
+1521501,1105937,2021-08-10,Senate,"Amendment SA 3251 S.Amdt.3251 RC# 326",48,51,0,1,100
+1521501,1105938,2021-08-10,Senate,"Amendment SA 3293 S.Amdt.3293 RC# 325",46,53,0,1,100
+1521501,1105939,2021-08-10,Senate,"Amendment SA 3317 S.Amdt.3317 RC# 319",49,50,0,1,100
+1521501,1105940,2021-08-10,Senate,"Amendment SA 3330 S.Amdt.3330 RC# 317",51,48,0,1,100
+1521501,1105941,2021-08-10,Senate,"Amendment SA 3365 S.Amdt.3365 RC# 322",50,49,0,1,100
+1521501,1105942,2021-08-10,Senate,"Amendment SA 3383 S.Amdt.3383 RC# 334",99,0,0,1,100
+1521501,1105943,2021-08-10,Senate,"Amendment SA 3444 S.Amdt.3444 RC# 335",98,1,0,1,100
+1521501,1105944,2021-08-10,Senate,"Amendment SA 3569 S.Amdt.3569 RC# 327",47,51,0,2,100
+1521501,1105945,2021-08-10,Senate,"Amendment SA 3627 S.Amdt.3627 RC# 337",90,9,0,1,100
+1521501,1105946,2021-08-10,Senate,"Amendment SA 3648 S.Amdt.3648 RC# 339",85,13,0,2,100
+1521501,1105947,2021-08-10,Senate,"Amendment SA 3652 S.Amdt.3652 RC# 340",49,50,0,1,100
+1521501,1105948,2021-08-10,Senate,"Amendment SA 3731 S.Amdt.3731 RC# 329",99,0,0,1,100
+1521501,1105949,2021-08-10,Senate,"Amendment SA 3792 S.Amdt.3792 RC# 336",50,49,0,1,100
+1521501,1105950,2021-08-10,Senate,"Motion to proceed to consideration of measure RC# 315",50,49,0,1,100
+1521501,1105951,2021-08-11,Senate,"Amendment SA 2734 S.Amdt.2734 RC# 345",95,3,0,2,100
+1521501,1105952,2021-08-11,Senate,"Amendment SA 3062 S.Amdt.3062 RC# 343",49,50,0,1,100
+1521501,1105953,2021-08-11,Senate,"Amendment SA 3141 S.Amdt.3141 RC# 349",51,48,0,1,100
+1521501,1105954,2021-08-11,Senate,"Amendment SA 3243 S.Amdt.3243 RC# 346",52,47,0,1,100
+1521501,1105955,2021-08-11,Senate,"Amendment SA 3331 S.Amdt.3331 RC# 350",49,50,0,1,100
+1521501,1105956,2021-08-11,Senate,"Amendment SA 3568 S.Amdt.3568 RC# 352",47,52,0,1,100
+1521501,1105957,2021-08-11,Senate,"Amendment SA 3626 S.Amdt.3626 RC# 354",49,50,0,1,100
+1521501,1105958,2021-08-11,Senate,"Amendment SA 3650 S.Amdt.3650 RC# 353",49,50,0,1,100
+1521501,1105959,2021-08-11,Senate,"Amendment SA 3680 S.Amdt.3680 RC# 342",50,49,0,1,100
+1521501,1105960,2021-08-11,Senate,"Amendment SA 3742 S.Amdt.3742 RC# 351",53,46,0,1,100
+1521501,1105961,2021-08-11,Senate,"Amendment SA 3758 S.Amdt.3758 RC# 348",48,51,0,1,100
+1521501,1105962,2021-08-11,Senate,"Amendment SA 3781 S.Amdt.3781 RC# 344",49,50,0,1,100
+1521501,1105963,2021-08-11,Senate,"Amendment SA 3795 S.Amdt.3795 RC# 341",76,23,0,1,100
+1521501,1105964,2021-08-11,Senate,"Amendment SA 3797 S.Amdt.3797 RC# 347",88,11,0,1,100
+1521501,1105965,2021-08-11,Senate,"Amendment SA 3815 S.Amdt.3815 RC# 356",49,50,0,1,100
+1521501,1105966,2021-08-11,Senate,"Motion to waive section 904 of the CBA with respect to amendment SA 3681 rejected in Senate S.Amdt.3681 RC# 354",49,50,0,1,100
+1521501,1105967,2021-08-11,Senate,"Resolution RC# 357",50,49,0,1,100
+1521501,1106469,2021-08-11,Senate,"Motion to waive section 904 of the CBA with respect to amendment SA 3681 rejected in Senate S.Amdt.3681 RC# 355",50,49,0,1,100
+1521527,1170928,2022-03-15,House,"On motion to suspend the rules and pass the bill, as amended",397,27,0,8,432
+1521529,1117324,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",364,60,0,9,433
+1521531,1205451,2022-05-17,House,"On motion to suspend the rules and pass the bill",404,6,0,18,428
+1522114,1106497,2021-08-24,House,"On agreeing to the resolution",220,212,0,0,432
+1522114,1106498,2021-08-24,House,"On ordering the previous question",220,212,0,0,432
+1522511,1117251,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",386,41,0,6,433
+1522518,1222577,2022-07-29,House,"On agreeing to the Schrier amendment (A002) H.Amdt.311",223,203,0,10,436
+1522518,1222578,2022-07-29,House,"On agreeing to the Velazquez amendment (A003) H.Amdt.312",296,128,0,12,436
+1522518,1222579,2022-07-29,House,"On motion to recommit",200,218,0,12,430
+1522518,1222580,2022-07-29,House,"On passage",218,199,0,14,431
+1522703,1204363,2022-05-13,House,"On agreeing to the Bonamici amendments (A002) H.Amdt.202",219,201,0,8,428
+1522703,1204364,2022-05-13,House,"On agreeing to the Bonamici amendments (A003) H.Amdt.203",198,219,0,11,428
+1522703,1204365,2022-05-13,House,"On agreeing to the Gottheimer amendment (A004) H.Amdt.204",418,0,0,10,428
+1522703,1204366,2022-05-13,House,"On motion to recommit",201,216,0,11,428
+1522703,1204367,2022-05-13,House,"On passage",246,169,0,13,428
+1523162,1115373,2021-11-02,House,"On motion to suspend the rules and pass the bill",406,17,0,8,431
+1523480,1110443,2021-10-20,Senate,"Cloture on the motion to proceed to the measure RC# 420",49,51,0,0,100
+1523480,1110444,2021-10-20,Senate,"Motion by Senator Schumer to reconsider the vote by which cloture on the motion to proceed to S. 2747 was not invoked (Record Vote No. 420) entered in Senate. RC# 420",49,51,0,0,100
+1523729,1222098,2022-07-12,House,"On motion to suspend the rules and pass the bill",330,81,3,16,430
+1523741,1117240,2021-12-08,House,"On motion to suspend the rules and pass the bill",418,9,0,6,433
+1523756,1222132,2022-07-13,House,"On motion to suspend the rules and pass the bill",429,0,0,1,430
+1523848,1108934,2021-09-20,House,"On motion to suspend the rules and pass the bill",423,0,0,8,431
+1523994,1108970,2021-09-21,House,"On motion to recommit",209,215,0,7,431
+1523994,1108971,2021-09-21,House,"On passage",220,211,0,1,432
+1523994,1109189,2021-09-27,Senate,"Cloture on the motion to proceed to the measure RC# 385",48,50,0,2,100
+1523994,1109190,2021-09-27,Senate,"Motion by Senator Schumer to reconsider the vote by which cloture on the motion to proceed to H.R. 5305 was not invoked (Record Vote No. 385) entered in Senate. RC# 385",48,50,0,2,100
+1523994,1109448,2021-09-30,Senate,"Amendment SA 3831, under the order of 9/29/21, not having achieved 60 votes in the affirmative, was S.Amdt.3831 RC# 395",50,50,0,0,100
+1523994,1109449,2021-09-30,Senate,"Amendment SA 3832, under the order of 9/29/21, not having achieved 60 votes in the affirmative, was S.Amdt.3832 RC# 396",53,47,0,0,100
+1523994,1109450,2021-09-30,Senate,"Amendment SA 3833 S.Amdt.3833 RC# 394",50,50,0,0,100
+1523994,1109451,2021-09-30,Senate,"Passed Senate, under the order of 9/29/21, having achieved 60 votes in the affirmative, with an amendment RC# 397",65,35,0,0,100
+1523994,1109560,2021-09-30,House,"On motion that the House agree to the Senate amendment",254,175,0,3,432
+1524007,1108972,2021-09-21,House,"On agreeing to the resolution",217,207,0,7,431
+1524007,1108973,2021-09-21,House,"On ordering the previous question",218,210,0,3,431
+1524008,1226129,2022-09-13,House,"On motion to suspend the rules and pass the bill, as amended",308,110,0,14,432
+1524011,1117244,2021-12-09,House,"On agreeing to the Maloney, Carolyn B. amendments (A002) H.Amdt.146",218,211,0,4,433
+1524011,1117245,2021-12-09,House,"On agreeing to the Maloney, Carolyn B. amendments (A003) H.Amdt.147",211,218,0,4,433
+1524011,1117246,2021-12-09,House,"On agreeing to the Ocasio-Cortez amendment (A004) H.Amdt.148",196,233,0,4,433
+1524011,1117247,2021-12-09,House,"On motion to recommit",212,217,0,4,433
+1524011,1117248,2021-12-09,House,"On passage",220,208,0,6,434
+1524171,1227721,2022-09-29,House,"On motion to suspend the rules and pass the bill",425,0,0,7,432
+1524174,1180671,2022-03-30,House,"On motion to suspend the rules and pass the bill, as amended",409,17,0,5,431
+1524180,1230495,2022-12-06,House,"Final Passage Under Suspension of the Rules Results",408,11,0,12,431
+1524181,1203753,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",397,20,0,11,428
+1524204,1109103,2021-09-23,House,"On motion to suspend the rules and pass the bill",420,9,2,1,432
+1524304,1230948,2022-12-21,House,"On Motion to Suspend the Rules and Pass",393,19,0,18,430
+1524543,1116336,2021-11-19,House,"On motion to recommit",208,220,0,6,434
+1524543,1116337,2021-11-19,House,"On motion to table the motion to reconsider",217,105,0,112,434
+1524543,1116338,2021-11-19,House,"On passage",220,213,0,1,434
+1524543,1223104,2022-08-06,Senate,"Motion to proceed to consideration of measure",50,50,0,0,100
+1524543,1223105,2022-08-07,Senate,"Amendment SA 5208 S.Amdt.5208",1,97,0,2,100
+1524543,1223106,2022-08-07,Senate,"Amendment SA 5209 S.Amdt.5209",1,98,0,1,100
+1524543,1223107,2022-08-07,Senate,"Amendment SA 5211 S.Amdt.5211",3,97,0,0,100
+1524543,1223108,2022-08-07,Senate,"Amendment SA 5263 S.Amdt.5263",50,50,0,0,100
+1524543,1223109,2022-08-07,Senate,"Amendment SA 5281 S.Amdt.5281",1,99,0,0,100
+1524543,1223110,2022-08-07,Senate,"Amendment SA 5301 S.Amdt.5301",50,50,0,0,100
+1524543,1223111,2022-08-07,Senate,"Amendment SA 5316 S.Amdt.5316",49,51,0,0,100
+1524543,1223112,2022-08-07,Senate,"Amendment SA 5382 S.Amdt.5382",50,50,0,0,100
+1524543,1223113,2022-08-07,Senate,"Amendment SA 5384 S.Amdt.5384",50,50,0,0,100
+1524543,1223114,2022-08-07,Senate,"Amendment SA 5385 S.Amdt.5385",50,50,0,0,100
+1524543,1223115,2022-08-07,Senate,"Amendment SA 5387 S.Amdt.5387",50,50,0,0,100
+1524543,1223116,2022-08-07,Senate,"Amendment SA 5389 S.Amdt.5389",50,50,0,0,100
+1524543,1223117,2022-08-07,Senate,"Amendment SA 5404 S.Amdt.5404",50,50,0,0,100
+1524543,1223118,2022-08-07,Senate,"Amendment SA 5409 S.Amdt.5409",50,50,0,0,100
+1524543,1223119,2022-08-07,Senate,"Amendment SA 5418 S.Amdt.5418",50,50,0,0,100
+1524543,1223120,2022-08-07,Senate,"Amendment SA 5421 S.Amdt.5421",49,51,0,0,100
+1524543,1223121,2022-08-07,Senate,"Amendment SA 5435 S.Amdt.5435",50,50,0,0,100
+1524543,1223122,2022-08-07,Senate,"Amendment SA 5472 S.Amdt.5472",57,43,0,0,100
+1524543,1223123,2022-08-07,Senate,"Amendment SA 5487 S.Amdt.5487",50,50,0,0,100
+1524543,1223124,2022-08-07,Senate,"Amendment SA 5488 S.Amdt.5488",50,50,0,0,100
+1524543,1223125,2022-08-07,Senate,"Motion by Senator Blackburn to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate",50,50,0,0,100
+1524543,1223126,2022-08-07,Senate,"Motion by Senator Collins to commit to Senate Committee on Finance with instructions rejected in Senate",50,50,0,0,100
+1524543,1223127,2022-08-07,Senate,"Motion by Senator Cruz to commit to Senate Committee on Homeland Security and Governmental Affairs with instructions rejected in Senate",49,51,0,0,100
+1524543,1223128,2022-08-07,Senate,"Motion by Senator Cruz to commit to Senate Committee on the Judiciary with instructions rejected in Senate",50,50,0,0,100
+1524543,1223129,2022-08-07,Senate,"Motion by Senator Hagerty to commit to Senate Committee on the Judiciary with instructions rejected in Senate",50,50,0,0,100
+1524543,1223130,2022-08-07,Senate,"Motion by Senator Hoeven to commit to Senate Committee on Finance with instructions rejected in Senate",50,50,0,0,100
+1524543,1223131,2022-08-07,Senate,"Motion by Senator Rubio to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions rejected in Senate",50,50,0,0,100
+1524543,1223132,2022-08-07,Senate,"Motion by Senator Rubio to commit to Senate Committee on the Judiciary with instructions rejected in Senate",50,50,0,0,100
+1524543,1223133,2022-08-07,Senate,"Motion by Senator Scott FL, to commit to Senate Committee on Finance with instructions rejected in Senate",50,50,0,0,100
+1524543,1223134,2022-08-07,Senate,"Motion by Senator Scott SC, to commit to Senate Committee on Finance with instructions rejected in Senate",50,50,0,0,100
+1524543,1223135,2022-08-07,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 5194, as modified, rejected in Senate S.Amdt.5194",57,43,0,0,100
+1524543,1223136,2022-08-07,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 5210 rejected in Senate S.Amdt.5210",1,99,0,0,100
+1524543,1223137,2022-08-07,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 5262 rejected in Senate S.Amdt.5262",5,94,0,1,100
+1524543,1223138,2022-08-07,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 5265 rejected in Senate S.Amdt.5265",54,46,0,0,100
+1524543,1223139,2022-08-07,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 5469 rejected in Senate S.Amdt.5469",55,45,0,0,100
+1524543,1223140,2022-08-07,Senate,"Motion to waive all applicable budgetary discipline with respect to amendment SA 5480 rejected in Senate S.Amdt.5480",56,44,0,0,100
+1524543,1223141,2022-08-07,Senate,"Motion to waive waive all applicable budgetary discipline with respect to amendment SA 5383 rejected in Senate S.Amdt.5383",49,50,0,1,100
+1524543,1223142,2022-08-07,Senate,"Passed Senate with an amendment",50,50,0,0,100
+1524543,1224057,2022-08-12,House,"On motion that the House agree to the Senate amendment",220,207,0,4,431
+1524644,1218992,2022-06-23,House,"On motion to suspend the rules and pass the bill, as amended",405,16,0,8,429
+1524804,1109403,2021-09-29,House,"On agreeing to the resolution",214,212,0,5,431
+1524804,1109404,2021-09-29,House,"On ordering the previous question",217,206,2,6,431
+1525084,1230076,2022-11-29,House,"Final Passage Under Suspension of the Rules Results",307,101,0,23,431
+1525089,1109488,2021-10-01,House,"On motion to suspend the rules and pass the bill",365,51,0,15,431
+1525109,1229947,2022-11-14,House,"Final Passage Under Suspension of the Rules Results",304,111,0,17,432
+1525423,1117093,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",408,18,0,7,433
+1525424,1115499,2021-11-03,Senate,"Cloture on the motion to proceed to the measure RC# 459",50,49,0,1,100
+1525424,1115500,2021-11-03,Senate,"Motion by Senator Schumer to reconsider the vote by which cloture on the motion to proceed to S. 4 was not invoked (Record Vote No. 459) entered in Senate. RC# 459",50,49,0,1,100
+1525432,1180662,2022-03-30,House,"On motion to suspend the rules and pass the bill",238,187,1,5,431
+1525432,1205972,2022-05-18,House,"On passage",230,190,1,7,428
+1525432,1217606,2022-06-21,Senate,"Motion to proceed to consideration of the House message to accompany S. 2938",64,34,0,2,100
+1525432,1218687,2022-06-23,Senate,"Amendment SA 5099 S.Amdt.5099",65,33,0,2,100
+1525432,1218688,2022-06-23,Senate,"Cloture on the motion to concur in the House amendment to S. 2938 with an amendment SA 5099",65,34,0,1,100
+1525432,1218689,2022-06-23,Senate,"Motion to table amendment SA 5100 rejected in Senate",39,58,0,3,100
+1525432,1219244,2022-06-24,House,"On motion that the House agree to the Senate amendments to the House amendment",234,193,0,3,430
+1525643,1124937,2022-01-18,House,"On motion to suspend the rules and pass the bill",414,6,0,13,433
+1525740,1180469,2022-03-30,House,"On motion to suspend the rules and pass the bill, as amended",304,122,0,5,431
+1526058,1109856,2021-10-12,House,"On agreeing to the resolution",219,206,0,7,432
+1526064,1116319,2021-11-18,House,"On motion to suspend the rules and pass the bill, as amended",369,49,0,15,433
+1526067,1117087,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",410,17,0,6,433
+1526082,1117184,2021-12-08,House,"On motion to suspend the rules and pass the bill, as amended",405,20,0,8,433
+1526085,1134421,2022-02-01,House,"On motion to suspend the rules and pass the bill",421,0,1,12,434
+1526550,1218289,2022-06-22,House,"On agreeing to the Eshoo amendment (A002) H.Amdt.238",381,40,0,8,429
+1526550,1218290,2022-06-22,House,"On passage",336,85,0,8,429
+1526567,1222134,2022-07-14,House,"On motion to suspend the rules and agree to the resolution",409,18,0,3,430
+1526889,1117190,2021-12-08,House,"On motion to suspend the rules and pass the bill",411,13,0,9,433
+1526897,1165276,2022-03-07,House,"On motion to suspend the rules and pass the bill, as amended",390,33,0,9,432
+1526898,1117237,2021-12-08,House,"On motion to suspend the rules and pass the bill",393,33,0,7,433
+1527261,1110473,2021-10-21,House,"On agreeing to the resolution",221,205,0,5,431
+1527261,1110474,2021-10-21,House,"On ordering the previous question",221,206,0,4,431
+1527271,1184079,2022-04-05,House,"On motion to suspend the rules and pass the bill, as amended",414,11,0,4,429
+1527449,1204900,2022-05-16,House,"On motion to suspend the rules and pass the bill, as amended",313,105,0,10,428
+1527450,1119539,2021-12-14,House,"On passage",219,212,0,3,434
+1527453,1180688,2022-03-30,House,"On motion to suspend the rules and pass the bill",402,24,0,5,431
+1527466,1182830,2022-04-04,House,"On motion to suspend the rules and pass the bill, as amended",343,75,0,11,429
+1527473,1222107,2022-07-14,House,"On motion to suspend the rules and pass the bill",348,63,5,14,430
+1527475,1110475,2021-10-21,House,"On agreeing to the resolution",229,202,0,1,432
+1527531,1117088,2021-12-08,House,"On motion to suspend the rules and pass the bill",414,1,0,18,433
+1527535,1117108,2021-12-08,House,"On motion to suspend the rules and pass the bill",415,5,0,13,433
+1527536,1117104,2021-12-08,House,"On motion to suspend the rules and pass the bill",418,2,0,13,433
+1527555,1184440,2022-04-05,House,"On motion to suspend the rules and pass the bill, as amended",383,41,0,5,429
+1527558,1166273,2022-03-08,House,"On motion to suspend the rules and pass the bill",387,33,0,12,432
+1527663,1180428,2022-03-30,House,"On motion to suspend the rules and pass the bill",339,85,0,7,431
+1527667,1117101,2021-12-08,House,"On motion to suspend the rules and pass the bill",415,5,0,13,433
+1527674,1116625,2021-12-01,House,"On motion to suspend the rules and pass the bill",422,4,0,7,433
+1527866,1207059,2022-05-18,House,"On motion to suspend the rules and pass the bill, as amended",420,0,0,8,428
+1528150,1124260,2022-01-13,House,"On motion that the House agree with an amendment to the Senate amendment",220,203,0,10,433
+1528150,1204285,2022-01-19,Senate,"Motion by Senator Schumer to appeal the ruling of the chair not agreed to, the question being, ""Shall the decision of the Chair stand as the judgement of the Senate""",52,48,0,0,100
+1528150,1204286,2022-01-19,Senate,"Motion to proceed to consideration of the motion to reconsider the vote by which cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 5746 (Record Vote No. 9) withdrawn in Senate.",49,51,0,0,100
+1528157,1205371,2022-05-17,House,"On motion to suspend the rules and pass the bill",411,1,0,16,428
+1528330,1226144,2022-09-14,House,"On motion to suspend the rules and pass the bill, as amended",406,20,0,6,432
+1528352,1110878,2021-10-28,House,"On motion to suspend the rules and pass the bill",358,59,0,14,431
+1528356,1230489,2022-12-01,House,"Final Passage Under Suspension of the Rules Results",406,14,0,11,431
+1528360,1226437,2022-09-22,House,"On passage",250,178,0,4,432
+1528600,1230499,2022-12-06,House,"Vote on House Agreeing to the Senate Action",396,24,0,11,431
+1528613,1115497,2021-11-03,House,"On motion to suspend the rules and agree to the resolution",382,40,4,5,431
+1532190,1226215,2022-09-19,House,"On motion to suspend the rules and pass the bill",363,52,0,17,432
+1532275,1230945,2022-12-21,House,"On Motion to Suspend the Rules and Pass",378,33,0,19,430
+1532315,1222106,2022-07-14,House,"On motion to suspend the rules and agree to the resolution",417,7,0,6,430
+1532340,1215110,2022-06-08,House,"On motion to suspend the rules and pass the bill",359,61,0,7,427
+1532447,1203743,2022-05-11,House,"On motion to suspend the rules and pass the bill",401,1,1,25,428
+1532456,1115603,2021-11-05,House,"On Consideration of the Resolution",215,212,0,7,434
+1532456,1115604,2021-11-06,House,"On agreeing to the resolution",221,213,0,0,434
+1532456,1115605,2021-11-06,House,"On ordering the previous question",221,213,0,0,434
+1532809,1203653,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",371,48,0,9,428
+1532822,1203633,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",329,88,0,11,428
+1533243,1117085,2021-12-08,House,"On motion to suspend the rules and pass the bill",413,3,0,17,433
+1533253,1116282,2021-11-17,House,"On agreeing to the resolution",223,207,1,3,434
+1533824,1117091,2021-12-08,House,"On motion to suspend the rules and pass the bill",411,7,0,15,433
+1534262,1116277,2021-11-17,House,"On agreeing to the resolution",222,208,0,3,433
+1534262,1116278,2021-11-17,House,"On ordering the previous question",221,207,0,5,433
+1534290,1204301,2021-12-08,Senate,"Passed Senate without amendment",52,48,0,0,100
+1534373,1204361,2021-12-07,Senate,"Motion to discharge Senate Committee on Foreign Relations rejected",30,67,0,3,100
+1534384,1116310,2021-11-18,House,"On agreeing to the resolution",220,211,0,2,433
+1534384,1116311,2021-11-18,House,"On ordering the previous question",220,210,0,3,433
+1534450,1206414,2022-05-18,House,"On motion to suspend the rules and pass the bill",407,11,0,10,428
+1534574,1207058,2022-05-18,House,"On motion to suspend the rules and pass the bill",414,2,0,12,428
+1535397,1215106,2022-06-07,House,"On motion to suspend the rules and pass the bill, as amended",325,83,0,19,427
+1535413,1195116,2022-04-27,House,"On motion to suspend the rules and pass the bill, as amended",424,2,0,3,429
+1536408,1178651,2022-03-28,House,"On motion to suspend the rules and pass the bill",349,63,0,19,431
+1536610,1116628,2021-12-02,House,"On agreeing to the resolution",219,208,0,6,433
+1536610,1116629,2021-12-02,House,"On motion to table the motion to reconsider",217,202,0,14,433
+1536610,1116630,2021-12-02,House,"On ordering the previous question",218,209,0,6,433
+1536614,1194866,2022-04-27,House,"On motion to suspend the rules and agree to the resolution, as amended",409,17,0,3,429
+1536615,1184185,2022-04-05,House,"On motion to suspend the rules and agree to the resolution, as amended",362,63,0,4,429
+1536625,1230950,2022-12-21,House,"On Motion to Suspend the Rules and Pass",397,12,0,21,430
+1536635,1116631,2021-12-02,House,"On motion to recommit",211,219,0,3,433
+1536635,1116632,2021-12-02,House,"On motion to table the motion to reconsider",217,209,0,7,433
+1536635,1116633,2021-12-02,House,"On passage",221,212,0,0,433
+1536635,1204287,2021-12-02,Senate,"Amendment SA 4868 S.Amdt.4868",48,50,0,2,100
+1536635,1204288,2021-12-02,Senate,"Passed Senate, under the order of 12/2/2021, having achieved 60 votes in the affirmative, without amendment",69,28,0,3,100
+1536807,1117081,2021-12-08,House,"On motion to suspend the rules and agree to the resolution, as amended",428,0,0,6,434
+1537520,1116904,2021-12-07,House,"On agreeing to the resolution",219,213,0,1,433
+1537520,1116905,2021-12-07,House,"On ordering the previous question",218,210,0,5,433
+1537911,1229999,2022-11-17,House,"Final Passage Under Suspension of the Rules Results",359,62,2,9,432
+1537974,1204352,2022-03-02,Senate,"Passed Senate without amendment",49,44,0,7,100
+1537975,1222094,2022-07-13,House,"On motion to commit",208,219,0,3,430
+1537975,1222095,2022-07-13,House,"On passage",342,88,0,1,431
+1537975,1222296,2022-07-27,Senate,"Motion by Senator Schumer to reconsider the vote by which cloture on the motion to concur in the House amendment to S. 3373 was not invoked (Record Vote No. 272) entered in Senate.",55,42,0,3,100
+1537975,1222934,2022-08-02,Senate,"Motion by Senator Blackburn to concur in the House Amendment to S. 3373 with an amendment (SA 5185), under the order of 8/2/22, not having achieved 60 votes in the affirmative, was not",48,47,0,5,100
+1537975,1222935,2022-08-02,Senate,"Motion by Senator Paul to concur in the House Amendment to S. 3373 with an amendment (SA 5184), under the order of 8/2/22, not having achieved 60 votes in the affirmative, was not",7,90,0,3,100
+1537975,1222936,2022-08-02,Senate,"Motion by Senator Toomey to concur in the House Amendment to S. 3373 with an amendment (SA 5184), under the order of 8/2/22, not having achieved 60 votes in the affirmative, was not",47,48,0,5,100
+1537975,1222937,2022-08-02,Senate,"Senate agreed to the House amendment to S. 3373, under the order of 8/2/2022, having achieved 60 votes in the affirmative",86,11,0,3,100
+1541102,1215588,2022-06-13,House,"On motion to suspend the rules and pass the bill, as amended",338,73,0,16,427
+1541115,1119529,2021-12-15,House,"On passage",221,209,0,4,434
+1541115,1204302,2021-12-14,Senate,"Motion to proceed to consideration of measure",50,49,0,1,100
+1541115,1204303,2021-12-14,Senate,"Passed Senate without amendment",50,49,0,1,100
+1541119,1119530,2021-12-14,House,"On agreeing to the resolution",220,210,0,3,433
+1541119,1119531,2021-12-14,House,"On ordering the previous question",218,209,0,6,433
+1541146,1119534,2021-12-14,House,"On agreeing to the resolution",220,212,0,1,433
+1541146,1119535,2021-12-14,House,"On ordering the previous question",220,212,0,1,433
+1541159,1119536,2021-12-14,House,"On agreeing to the resolution",219,213,0,1,433
+1541159,1119537,2021-12-14,House,"On ordering the previous question",220,210,0,3,433
+1541160,1119538,2021-12-14,House,"On agreeing to the resolution",222,208,0,3,433
+1541867,1204374,2022-01-13,Senate,"Under the order of 12/18/21, not having achieved 60 votes in the affirmative, failed of passage in Senate",55,44,0,1,100
+1550067,1222582,2022-07-29,House,"On motion to suspend the rules and pass the bill",303,89,0,38,430
+1550083,1123360,2022-01-11,House,"On agreeing to the resolution",219,203,0,10,432
+1550083,1123361,2022-01-11,House,"On ordering the previous question",219,203,0,10,432
+1551340,1227735,2022-09-29,House,"On motion to suspend the rules and pass the bill",423,0,0,9,432
+1554475,1203747,2022-05-11,House,"On motion to suspend the rules and pass the bill",404,0,1,23,428
+1554480,1205370,2022-05-17,House,"On motion to suspend the rules and pass the bill, as amended",370,43,0,15,428
+1554521,1123821,2022-01-12,House,"On agreeing to the resolution",220,202,0,11,433
+1554521,1123822,2022-01-12,House,"On ordering the previous question",220,201,0,12,433
+1559266,1230484,2022-12-06,House,"Final Passage Under Suspension of the Rules Results",424,1,0,6,431
+1564483,1196202,2022-04-28,House,"On passage",417,10,0,3,430
+1564530,1205505,2022-05-17,House,"On motion to suspend the rules and pass the bill",412,2,0,14,428
+1567397,1226440,2022-09-22,House,"On passage",360,64,0,9,433
+1567428,1171654,2022-03-16,House,"On motion to suspend the rules and pass the bill",406,16,0,10,432
+1572506,1218758,2022-06-23,House,"On motion to suspend the rules and pass the bill, as amended",371,49,0,9,429
+1579447,1218151,2022-06-22,House,"On motion to suspend the rules and pass the bill, as amended",259,162,0,8,429
+1579447,1222073,2022-07-13,House,"On passage",260,169,0,2,431
+1579484,1222140,2022-07-14,House,"On motion to suspend the rules and agree to the resolution, as amended",413,8,0,9,430
+1579598,1222224,2022-07-26,House,"On motion to suspend the rules and pass the bill, as amended",401,20,0,9,430
+1579643,1203527,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",262,156,0,10,428
+1579643,1206059,2022-05-18,House,"On motion to recommit",198,219,0,11,428
+1579643,1206060,2022-05-18,House,"On passage",258,165,0,5,428
+1581580,1133589,2022-02-02,House,"On agreeing to the resolution",219,203,0,11,433
+1581580,1133590,2022-02-02,House,"On ordering the previous question",219,205,0,9,433
+1583084,1215590,2022-06-13,House,"On motion to suspend the rules and pass the bill",369,42,0,16,427
+1583637,1205404,2022-05-17,House,"On motion to suspend the rules and pass the bill, as amended",412,1,0,15,428
+1585008,1204362,2022-03-10,Senate,"Motion to discharge Senate Committee on Foreign Relations rejected",19,80,0,1,100
+1585183,1138579,2022-02-08,House,"On passage",272,162,0,0,434
+1585183,1204289,2022-02-17,Senate,"Amendment SA 4927 S.Amdt.4927",44,49,0,7,100
+1585183,1204290,2022-02-17,Senate,"Amendment SA 4929 S.Amdt.4929",46,47,0,7,100
+1585183,1204291,2022-02-17,Senate,"Amendment SA 4930, under the order of 2/17/2022, not having achieved 60 votes in the affirmative, was S.Amdt.4930",47,45,0,8,100
+1585183,1204292,2022-02-17,Senate,"Cloture on the motion to proceed to the measure",65,30,0,5,100
+1585183,1204293,2022-02-17,Senate,"Passed Senate, under the order of 2/17/2022, having achieved 60 votes in the affirmative, without amendment",65,27,0,8,100
+1585215,1138793,2022-02-08,House,"On agreeing to the resolution",221,211,0,1,433
+1585215,1138794,2022-02-08,House,"On ordering the previous question",221,205,0,7,433
+1585236,1167769,2022-03-08,House,"On motion to suspend the rules and agree to the resolution, as amended",418,0,0,14,432
+1588083,1204323,2022-03-15,Senate,"Passed Senate without amendment",57,40,0,3,100
+1590278,1204314,2022-03-03,Senate,"Passed Senate without amendment",48,47,0,5,100
+1590319,1204304,2022-05-03,Senate,"Passed Senate without amendment",55,41,0,4,100
+1592737,1227733,2022-09-29,House,"On motion to suspend the rules and pass the bill, as amended",381,42,0,9,432
+1597847,1205067,2022-05-16,House,"On motion to suspend the rules and pass the bill, as amended",288,129,0,11,428
+1597852,1204777,2022-05-16,House,"On motion to suspend the rules and pass the bill, as amended",386,31,0,11,428
+1597853,1181490,2022-03-31,House,"On motion to recommit",197,225,0,9,431
+1597853,1181491,2022-03-31,House,"On passage",232,193,0,6,431
+1597853,1226484,2022-09-27,Senate,"Cloture on the motion to proceed to the measure",72,23,0,5,100
+1597853,1227689,2022-09-29,Senate,"Passed Senate under the order of 9/29/2022, having achieved 60 votes in the affirmative with an amendment",72,25,0,3,100
+1597853,1228067,2022-09-30,House,"On motion that the House agree to the Senate amendment",230,201,0,2,433
+1598915,1180097,2022-03-29,House,"On motion to suspend the rules and pass the bill, as amended",378,46,0,7,431
+1598969,1205372,2022-05-17,House,"On motion to suspend the rules and pass the bill",398,15,0,15,428
+1599054,1205484,2022-05-17,House,"On motion to suspend the rules and pass the bill, as amended",388,26,0,14,428
+1599076,1159203,2022-03-01,House,"On agreeing to the resolution",220,200,0,12,432
+1599076,1159204,2022-03-01,House,"On ordering the previous question",221,202,0,9,432
+1599137,1205367,2022-05-17,House,"On motion to suspend the rules and pass the bill, as amended",383,30,0,15,428
+1600025,1160986,2022-03-02,House,"On motion to suspend the rules and agree to the resolution",426,3,0,4,433
+1600105,1230498,2022-12-01,House,"Passage of a Measure",324,90,0,17,431
+1601273,1203657,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",416,2,0,10,428
+1601287,1203796,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",417,2,0,9,428
+1602427,1222299,2022-07-27,House,"On passage",254,175,0,1,430
+1602473,1194819,2022-04-27,House,"On motion to suspend the rules and pass the bill, as amended",417,8,0,4,429
+1604167,1205941,2022-05-18,House,"On motion to suspend the rules and pass the bill",402,17,0,9,428
+1604185,1227866,2022-09-29,House,"On motion to suspend the rules and pass the bill, as amended",325,93,0,14,432
+1604192,1205944,2022-05-18,House,"On motion to suspend the rules and pass the bill, as amended",405,12,0,11,428
+1604749,1230955,2022-12-22,House,"On Motion to Suspend the Rules and Pass",377,42,0,11,430
+1604857,1167144,2022-03-09,House,"On motion to recommit",208,223,0,2,433
+1604857,1167145,2022-03-09,House,"On passage",414,17,0,2,433
+1604857,1185867,2022-04-07,House,"On motion that the House suspend the rules and agree to the Senate amendment",413,9,0,8,430
+1604857,1204294,2022-04-07,Senate,"Passed Senate with an amendment",100,0,0,0,100
+1605456,1167107,2022-03-09,House,"On agreeing to the resolution",218,204,0,10,432
+1605456,1167108,2022-03-09,House,"On ordering the previous question",219,199,0,14,432
+1605474,1222163,2022-07-19,House,"On motion to suspend the rules and pass the bill, as amended",379,43,0,8,430
+1606934,1203807,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",418,2,0,8,428
+1607593,1214754,2022-06-07,House,"On motion to suspend the rules and pass the bill",392,21,0,14,427
+1607963,1203756,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",379,37,0,12,428
+1608021,1203569,2022-05-11,House,"On motion to suspend the rules and pass the bill, as amended",362,56,0,10,428
+1608043,1171582,2022-03-16,House,"On agreeing to the resolution",219,207,0,6,432
+1608043,1171583,2022-03-16,House,"On ordering the previous question",219,204,0,9,432
+1608393,1230077,2022-11-29,House,"Final Passage Under Suspension of the Rules Results",389,22,0,20,431
+1608472,1204371,2022-04-27,Senate,"Motion to proceed to consideration of measure rejected in Senate",49,49,0,2,100
+1608971,1230497,2022-12-06,House,"Final Passage Under Suspension of the Rules Results",333,92,0,6,431
+1609009,1172646,2022-03-17,House,"On motion to suspend the rules and pass the bill",424,8,0,1,433
+1609009,1185859,2022-04-07,House,"On motion that the House suspend the rules and agree to the Senate amendment",420,3,0,7,430
+1609009,1204295,2022-04-07,Senate,"Passed Senate with an amendment",100,0,0,0,100
+1609245,1205332,2022-05-17,House,"On motion to suspend the rules and pass the bill, as amended",410,3,0,15,428
+1609271,1222100,2022-07-13,House,"On motion to suspend the rules and pass the bill, as amended",410,16,0,4,430
+1609651,1222231,2022-07-26,House,"On motion to suspend the rules and pass the bill",350,69,0,11,430
+1610030,1226233,2022-09-19,House,"On motion to suspend the rules and pass the bill",402,4,0,26,432
+1610437,1230646,2022-12-14,House,"Passage of a Measure",219,205,0,6,430
+1611016,1215963,2022-06-14,House,"On motion to suspend the rules and pass the bill",396,14,0,17,427
+1612354,1184905,2022-04-06,House,"On motion to suspend the rules and pass the bill, as amended",418,7,0,4,429
+1612643,1222586,2022-07-29,House,"On motion to suspend the rules and pass the bill, as amended",391,9,0,30,430
+1612728,1222297,2022-07-26,House,"On motion to suspend the rules and pass the bill, as amended",359,62,0,9,430
+1612934,1215080,2022-06-08,House,"On motion to suspend the rules and pass the bill",421,0,0,6,427
+1612952,1195705,2022-04-27,House,"On motion to suspend the rules and pass the bill, as amended",415,9,0,5,429
+1612965,1227806,2022-09-29,House,"On motion to suspend the rules and pass the bill, as amended",374,52,0,6,432
+1612977,1206028,2022-05-18,House,"On motion to suspend the rules and pass the bill",417,0,0,11,428
+1612979,1205352,2022-05-17,House,"On agreeing to the Miller-Meeks amendment (A005) H.Amdt.209",174,241,0,13,428
+1612979,1205353,2022-05-17,House,"On agreeing to the Scott (VA) amendments (A002) H.Amdt.206",313,107,0,8,428
+1612979,1205354,2022-05-17,House,"On agreeing to the Scott (VA) amendments (A003) H.Amdt.207",222,196,0,10,428
+1612979,1205355,2022-05-17,House,"On agreeing to the Scott (VA) amendments (A004) H.Amdt.208",194,219,0,15,428
+1612979,1205356,2022-05-17,House,"On motion to recommit",193,223,0,12,428
+1612979,1205357,2022-05-17,House,"On passage",220,196,0,12,428
+1612982,1194848,2022-04-27,House,"On motion to suspend the rules and pass the bill, as amended",394,3,0,32,429
+1612988,1222136,2022-07-14,House,"On motion to suspend the rules and pass the bill, as amended",406,21,0,3,430
+1612998,1181443,2022-03-31,House,"On agreeing to the resolution",219,202,0,10,431
+1612998,1181444,2022-03-31,House,"On ordering the previous question",219,202,0,10,431
+1613002,1215120,2022-06-08,House,"On motion to suspend the rules and pass the bill",416,3,0,8,427
+1613258,1195941,2022-04-27,House,"On motion to suspend the rules and pass the bill",414,9,0,6,429
+1613665,1184945,2022-04-06,House,"On agreeing to the resolution",221,200,0,8,429
+1613665,1184946,2022-04-06,House,"On ordering the previous question",219,206,0,4,429
+1613674,1205362,2022-05-17,House,"On motion to suspend the rules and pass the bill",397,15,0,16,428
+1614148,1207065,2022-05-19,Senate,"Cloture on the motion to proceed",52,43,0,5,100
+1614153,1230078,2022-11-29,House,"Final Passage Under Suspension of the Rules Results",247,160,1,23,431
+1614153,1230648,2022-12-14,House,"Passage of a Measure",264,162,0,4,430
+1614470,1184852,2022-04-06,House,"On agreeing to the resolution",218,206,0,5,429
+1614470,1184853,2022-04-06,House,"On ordering the previous question",221,206,0,2,429
+1614499,1184856,2022-04-06,House,"On agreeing to the resolution",220,203,0,6,429
+1614738,1230479,2022-12-06,House,"Final Passage Under Suspension of the Rules Results",408,17,0,6,431
+1615562,1205350,2022-05-17,House,"On motion to suspend the rules and pass the bill",402,2,0,24,428
+1615816,1230626,2022-12-13,House,"Vote on House Agreeing to the Senate Action",420,3,0,7,430
+1617247,1206117,2022-05-18,House,"On motion to suspend the rules and pass the bill",401,17,0,10,428
+1617518,1216810,2022-06-16,House,"On motion to recommit",206,218,0,5,429
+1617518,1216811,2022-06-16,House,"On passage",221,204,0,4,429
+1617534,1196161,2022-04-28,House,"On agreeing to the resolution",220,205,0,4,429
+1617534,1196162,2022-04-28,House,"On ordering the previous question",218,204,0,7,429
+1617767,1215111,2022-06-08,House,"On motion to suspend the rules and pass the bill",368,52,0,7,427
+1617786,1210052,2022-05-26,Senate,"Motion by Senator McConnell to reconsider the vote by which S.J. Res. 46 failed of passage (Record Vote No. 211) entered in Senate.",46,48,0,6,100
+1617801,1230949,2022-12-22,House,"On Motion to Suspend the Rules and Pass",360,55,0,15,430
+1618691,1204298,2022-05-11,Senate,"Cloture on the motion to proceed to the measure",49,51,0,0,100
+1618698,1215107,2022-06-08,House,"On motion to suspend the rules and pass the bill",399,18,0,10,427
+1619053,1216076,2022-06-14,House,"On motion to suspend the rules and pass the bill",396,27,0,4,427
+1619184,1215077,2022-06-08,House,"On motion to suspend the rules and pass the bill, as amended",392,28,0,7,427
+1619188,1215112,2022-06-08,House,"On motion to suspend the rules and pass the bill",402,19,0,6,427
+1619199,1207051,2022-05-19,House,"On agreeing to the Demings amendment (A002) H.Amdt.214",217,205,0,6,428
+1619199,1207052,2022-05-19,House,"On agreeing to the Pappas amendment (A003) H.Amdt.215",214,207,0,7,428
+1619199,1207053,2022-05-19,House,"On motion to recommit",201,220,0,7,428
+1619199,1207054,2022-05-19,House,"On passage",217,207,0,5,429
+1619201,1218221,2022-06-22,House,"On agreeing to the Demings amendment (A004) H.Amdt.234",411,10,0,8,429
+1619201,1218222,2022-06-22,House,"On agreeing to the Griffith amendment (A006) H.Amdt.236",180,239,0,10,429
+1619201,1218223,2022-06-22,House,"On agreeing to the Pallone amendments (A002) H.Amdt.232",387,32,0,10,429
+1619201,1218224,2022-06-22,House,"On agreeing to the Pallone amendments (A003) H.Amdt.233",366,51,0,12,429
+1619201,1218225,2022-06-22,House,"On agreeing to the Rodgers (WA) amendment (A005) H.Amdt.235",320,103,0,6,429
+1619201,1218226,2022-06-22,House,"On passage",402,20,0,7,429
+1619769,1202777,2022-05-10,House,"On passage",368,57,0,5,430
+1619769,1204776,2022-05-16,Senate,"Cloture on the motion to proceed to the measure",81,11,0,8,100
+1619769,1205296,2022-05-17,Senate,"Motion to proceed to consideration of measure",88,11,0,1,100
+1619769,1207082,2022-05-19,Senate,Cloture,86,11,0,3,100
+1619769,1207083,2022-05-19,Senate,"Passed Senate without amendment",86,11,0,3,100
+1619770,1222164,2022-07-19,House,"On motion to suspend the rules and pass the bill",397,22,0,11,430
+1619811,1215109,2022-06-08,House,"On motion to suspend the rules and pass the bill",411,11,0,5,427
+1619814,1202778,2022-05-10,House,"On agreeing to the resolution",217,202,0,10,429
+1619814,1202779,2022-05-10,House,"On ordering the previous question",218,203,0,8,429
+1620386,1222228,2022-07-26,House,"On motion to suspend the rules and pass the bill, as amended",349,70,0,11,430
+1620922,1227763,2022-09-29,House,"On motion to recommit",208,220,0,4,432
+1620922,1227764,2022-09-29,House,"On passage",220,205,0,7,432
+1620936,1217725,2022-06-21,House,"On motion to suspend the rules and pass the bill, as amended",368,47,0,14,429
+1620938,1215108,2022-06-08,House,"On motion to suspend the rules and pass the bill, as amended",384,37,0,6,427
+1620938,1222531,2022-07-28,Senate,"Passed Senate, under the order of 7/20/2022, having achieved 60 votes in the affirmative, with an amendment",93,1,0,6,100
+1620938,1230724,2022-12-15,Senate,"SENATE AGREED (FREE TEXT)",83,11,0,6,100
+1620938,1230725,2022-12-15,Senate,"FREE TEXT",40,54,0,6,100
+1620938,1230726,2022-12-15,Senate,"CLOTURE MOTION",47,47,0,6,100
+1620943,1205359,2022-05-17,House,"On agreeing to the resolution",220,199,0,9,428
+1620943,1205360,2022-05-17,House,"On ordering the previous question",221,195,0,12,428
+1621096,1205939,2022-05-18,House,"On motion to recommit",202,218,0,8,428
+1621096,1205940,2022-05-18,House,"On passage",231,192,0,5,428
+1621106,1205948,2022-05-18,House,"On agreeing to the resolution",218,202,0,8,428
+1621106,1205949,2022-05-18,House,"On ordering the previous question",217,201,0,10,428
+1621117,1205935,2022-05-18,House,"On motion to suspend the rules and agree to the resolution, as amended",420,1,0,8,429
+1621119,1205950,2022-05-18,House,"On motion to suspend the rules and pass the bill",414,9,0,6,429
+1621440,1222150,2022-07-18,House,"On motion to suspend the rules and agree to the resolution, as amended",394,18,0,19,431
+1623117,1222074,2022-07-13,House,"On agreeing to the Escobar amendment (A007) H.Amdt.251",219,209,0,2,430
+1623117,1222075,2022-07-13,House,"On agreeing to the Foster amendment (A013) H.Amdt.257",216,209,0,5,430
+1623117,1222076,2022-07-13,House,"On agreeing to the Garamendi amendment (A014) H.Amdt.258",118,309,0,3,430
+1623117,1222077,2022-07-13,House,"On agreeing to the Jayapal amendment (A011) H.Amdt.255",155,272,0,3,430
+1623117,1222078,2022-07-13,House,"On agreeing to the Jones amendment (A003) H.Amdt.247",221,207,0,2,430
+1623117,1222079,2022-07-13,House,"On agreeing to the Khanna amendment (A008) H.Amdt.252",215,212,0,3,430
+1623117,1222080,2022-07-13,House,"On agreeing to the Kim (NJ) amendment (A005) H.Amdt.249",220,207,0,3,430
+1623117,1222081,2022-07-13,House,"On agreeing to the Lee (CA) amendment (A009) H.Amdt.253",78,350,0,2,430
+1623117,1222082,2022-07-13,House,"On agreeing to the Lee (CA) amendment (A010) H.Amdt.254",151,277,0,2,430
+1623117,1222083,2022-07-13,House,"On agreeing to the Norton amendment (A016) H.Amdt.260",218,209,0,3,430
+1623117,1222084,2022-07-13,House,"On agreeing to the Rice (NY) amendment (A019) H.Amdt.263",220,205,0,5,430
+1623117,1222085,2022-07-13,House,"On agreeing to the Sanchez amendment (A017) H.Amdt.261",207,219,0,4,430
+1623117,1222086,2022-07-13,House,"On agreeing to the Schakowsky amendment (A004) H.Amdt.248",220,209,0,1,430
+1623117,1222087,2022-07-13,House,"On agreeing to the Schiff amendment (A002) H.Amdt.246",218,207,0,5,430
+1623117,1222088,2022-07-13,House,"On agreeing to the Schneider amendment (A018) H.Amdt.262",218,208,0,4,430
+1623117,1222089,2022-07-13,House,"On agreeing to the Smith (WA) amendment (A012) H.Amdt.256",208,221,0,1,430
+1623117,1222090,2022-07-13,House,"On agreeing to the Tlaib amendment (A015) H.Amdt.259",156,270,0,4,430
+1623117,1222108,2022-07-14,House,"On agreeing to the Aguilar amendment (A020) H.Amdt.264",217,206,0,7,430
+1623117,1222109,2022-07-14,House,"On agreeing to the Bowman amendment (A028) H.Amdt.272",155,273,0,2,430
+1623117,1222110,2022-07-14,House,"On agreeing to the Connolly amendment (A039) H.Amdt.283",215,201,0,14,430
+1623117,1222111,2022-07-14,House,"On agreeing to the Connolly amendment (A043) H.Amdt.287",170,257,0,3,430
+1623117,1222112,2022-07-14,House,"On agreeing to the DeGette amendment (A041) H.Amdt.285",219,207,0,4,430
+1623117,1222113,2022-07-14,House,"On agreeing to the Evans amendment (A042) H.Amdt.286",220,206,0,4,430
+1623117,1222114,2022-07-14,House,"On agreeing to the Garamendi amendment (A034) H.Amdt.278",195,232,0,3,430
+1623117,1222115,2022-07-14,House,"On agreeing to the Green, Al (TX) amendment (A037) H.Amdt.281",216,208,0,6,430
+1623117,1222116,2022-07-14,House,"On agreeing to the Jayapal amendment (A030) H.Amdt.274",207,219,0,4,430
+1623117,1222117,2022-07-14,House,"On agreeing to the Keating amendment (A029) H.Amdt.273",208,217,0,5,430
+1623117,1222118,2022-07-14,House,"On agreeing to the Langevin amendment H.Amdt.279",226,201,0,3,430
+1623117,1222119,2022-07-14,House,"On agreeing to the Levin (MI) amendment (A023) H.Amdt.267",233,196,0,1,430
+1623117,1222120,2022-07-14,House,"On agreeing to the Meng amendment (A045) H.Amdt.289",243,187,0,0,430
+1623117,1222121,2022-07-14,House,"On agreeing to the Neguse amendment (A040) H.Amdt.284",214,201,0,15,430
+1623117,1222122,2022-07-14,House,"On agreeing to the Pallone amendment (A032) H.Amdt.276",244,179,0,7,430
+1623117,1222123,2022-07-14,House,"On agreeing to the Schiff amendment (A036) H.Amdt.280",215,213,0,3,431
+1623117,1222124,2022-07-14,House,"On agreeing to the Smith (WA) amendments (A025) as modified H.Amdt.269",330,99,0,1,430
+1623117,1222125,2022-07-14,House,"On agreeing to the Smith (WA) amendments (A026) H.Amdt.270",362,64,0,4,430
+1623117,1222126,2022-07-14,House,"On agreeing to the Smith (WA) amendments (A027) H.Amdt.271",277,150,0,3,430
+1623117,1222127,2022-07-14,House,"On agreeing to the Speier amendment (A022) H.Amdt.266",216,211,0,3,430
+1623117,1222128,2022-07-14,House,"On agreeing to the Speier amendment (A024) H.Amdt.268",226,203,0,1,430
+1623117,1222129,2022-07-14,House,"On agreeing to the Speier amendment (A031) H.Amdt.275",222,195,0,13,430
+1623117,1222130,2022-07-14,House,"On agreeing to the Torres (CA) amendment (A021) H.Amdt.265",209,217,0,4,430
+1623117,1222131,2022-07-14,House,"On passage",329,101,0,1,431
+1623342,1215092,2022-06-08,House,"On Retaining Title I",228,199,0,1,428
+1623342,1215093,2022-06-08,House,"On Retaining Title II",226,197,0,5,428
+1623342,1215094,2022-06-08,House,"On Retaining Title III",226,194,0,8,428
+1623342,1215095,2022-06-08,House,"On Retaining Title IV",220,205,0,3,428
+1623342,1215096,2022-06-08,House,"On Retaining Title V",233,194,0,1,428
+1623342,1215097,2022-06-08,House,"On Retaining Title VI",220,207,0,1,428
+1623342,1215098,2022-06-08,House,"On Retaining Title VII",380,47,0,1,428
+1623342,1215099,2022-06-08,House,"On motion to recommit",198,228,0,1,427
+1623342,1215100,2022-06-08,House,"On passage",223,204,0,1,428
+1623762,1230953,2022-12-22,House,"On Motion to Suspend the Rules and Concur in the Senate Amendment",380,35,0,15,430
+1623767,1230492,2022-12-06,House,"Passage of a Measure",220,208,0,3,431
+1623767,1230958,2022-12-06,House,"On Agreeing to the Amendment",213,207,0,11,431
+1623931,1216456,2022-06-15,Senate,"Motion to proceed to consideration of measure rejected in Senate",29,67,0,4,100
+1623976,1215088,2022-06-08,House,"On agreeing to the resolution",218,205,0,5,428
+1623976,1215089,2022-06-08,House,"On ordering the previous question",217,205,0,5,427
+1624077,1229996,2022-11-17,House,"Final Passage Under Suspension of the Rules Results",418,2,2,10,432
+1624327,1222070,2022-07-12,House,"On motion to suspend the rules and agree to the resolution, as amended",351,64,0,14,429
+1624508,1215974,2022-06-14,House,"On agreeing to the resolution",218,204,0,5,427
+1624508,1215975,2022-06-14,House,"On ordering the previous question",216,199,0,12,427
+1625357,1218183,2022-06-22,House,"On agreeing to the resolution",214,202,0,13,429
+1625357,1218184,2022-06-22,House,"On ordering the previous question",215,200,0,14,429
+1625695,1219231,2022-06-24,House,"On agreeing to the resolution",217,203,0,9,429
+1625695,1219232,2022-06-24,House,"On ordering the previous question",218,204,0,7,429
+1626279,1222167,2022-07-19,House,"On agreeing to the DeLauro amendments (A001) H.Amdt.293",199,229,0,8,436
+1626279,1222168,2022-07-19,House,"On agreeing to the DeLauro amendments (A002) H.Amdt.294",336,90,0,10,436
+1626279,1222169,2022-07-19,House,"On agreeing to the DeLauro amendments (A003) H.Amdt.295",225,201,0,10,436
+1626279,1222170,2022-07-19,House,"On agreeing to the DeLauro amendments (A004) H.Amdt.296",165,264,0,7,436
+1626279,1222171,2022-07-19,House,"On agreeing to the DeLauro amendments (A005) H.Amdt.297",197,230,0,9,436
+1626279,1222172,2022-07-19,House,"On agreeing to the DeLauro amendments (A006) H.Amdt.298",224,204,0,8,436
+1626279,1222175,2022-07-20,House,"On agreeing to the DeLauro amendments (A007) H.Amdt.299",355,56,0,25,436
+1626279,1222176,2022-07-20,House,"On agreeing to the DeLauro amendments (A009) H.Amdt.301",238,191,0,7,436
+1626279,1222177,2022-07-20,House,"On agreeing to the Tlaib amendment (A008) H.Amdt.300",163,260,0,13,436
+1626279,1222178,2022-07-20,House,"On motion to recommit",206,219,0,5,430
+1626279,1222179,2022-07-20,House,"On passage",220,207,0,4,431
+1626470,1222141,2022-07-15,House,"On motion to recommit",209,219,0,2,430
+1626470,1222142,2022-07-15,House,"On passage",223,205,0,3,431
+1626473,1222143,2022-07-15,House,"On motion to recommit",209,218,0,3,430
+1626473,1222144,2022-07-15,House,"On passage",219,210,0,2,431
+1626607,1226188,2022-09-15,House,"On agreeing to the Davis, Danny K. amendments (A001) H.Amdt.315",223,211,0,4,438
+1626607,1226189,2022-09-15,House,"On agreeing to the Hice (GA) amendment (A002) H.Amdt.316",210,222,0,6,438
+1626607,1226190,2022-09-15,House,"On passage",220,208,0,4,432
+1626688,1229982,2022-11-16,House,"Passage of a Measure",315,109,0,8,432
+1626691,1223068,2022-08-04,Senate,"Passed Senate without amendment",50,47,0,3,100
+1626698,1222071,2022-07-13,House,"On agreeing to the resolution",217,204,0,9,430
+1626698,1222072,2022-07-13,House,"On ordering the previous question",218,208,0,4,430
+1626726,1222145,2022-07-15,House,"On motion to suspend the rules and pass the bill",421,2,0,7,430
+1626751,1222187,2022-07-21,House,"On motion to recommit",190,234,0,6,430
+1626751,1222188,2022-07-21,House,"On passage",228,195,2,6,431
+1626804,1230718,2022-12-15,House,"Passage of a Measure",233,191,0,6,430
+1626804,1230719,2022-12-15,House,"Motion to Commit/Recommit Results",209,217,0,4,430
+1626853,1222165,2022-07-19,House,"On passage",267,157,0,7,431
+1626853,1229981,2022-11-16,Senate,"CLOTURE MOTION",62,37,0,1,100
+1626853,1230000,2022-11-17,Senate,"MOTION TO CONSIDER",53,23,0,24,100
+1626853,1230079,2022-11-29,Senate,"PASSED SENATE",61,36,0,3,100
+1626853,1230485,2022-12-08,House,"Motion to Reconsider Results",224,164,0,44,432
+1626853,1230486,2022-12-08,House,"Vote on House Agreeing to the Senate Action",258,169,1,4,432
+1626853,1230959,2022-11-28,Senate,"On the Cloture Motion H.R. 8404",61,35,0,4,100
+1626853,1230960,2022-11-29,Senate,"On the Amendment S.Amdt. 6482 to S.Amdt. 6487 to H.R. 8404 (No short title on file)",48,49,0,3,100
+1626853,1230961,2022-11-29,Senate,"On the Amendment S.Amdt. 6496 to S.Amdt. 6487 to H.R. 8404 (No short title on file)",45,52,0,3,100
+1626853,1230962,2022-11-29,Senate,"On the Amendment S.Amdt. 6493 to S.Amdt. 6487 to H.R. 8404 (No short title on file)",45,52,0,3,100
+1626903,1222174,2022-07-20,Senate,"Motion to proceed to consideration of measure rejected in Senate",34,63,0,3,100
+1626912,1222161,2022-07-19,House,"On agreeing to the resolution",219,200,0,11,430
+1626912,1222162,2022-07-19,House,"On ordering the previous question",219,199,0,12,430
+1626974,1227722,2022-09-29,House,"On motion to suspend the rules and pass the bill, as amended",331,95,0,6,432
+1627053,1227756,2022-09-29,House,"On motion to suspend the rules and pass the bill",334,87,0,11,432
+1627060,1222227,2022-07-26,House,"On motion to suspend the rules and pass the bill, as amended",325,95,0,10,430
+1627073,1227724,2022-09-29,House,"On motion to suspend the rules and pass the bill, as amended",351,73,0,8,432
+1627251,1222309,2022-07-27,House,"On agreeing to the resolution",218,207,0,5,430
+1627251,1222310,2022-07-27,House,"On ordering the previous question",218,208,0,4,430
+1627288,1222225,2022-07-26,House,"On agreeing to the resolution",218,201,0,11,430
+1627288,1222226,2022-07-26,House,"On ordering the previous question",217,193,0,20,430
+1627360,1226444,2022-09-22,House,"On passage",223,206,0,3,432
+1627394,1222483,2022-07-28,House,"On agreeing to the resolution",216,208,0,6,430
+1627394,1222484,2022-07-28,House,"On ordering the previous question",218,208,0,4,430
+1627602,1222595,2022-07-29,House,"On agreeing to the resolution",217,211,0,3,431
+1627602,1222596,2022-07-29,House,"On ordering the previous question",215,205,0,10,430
+1627641,1222597,2022-07-29,House,"On agreeing to the resolution",218,206,0,7,431
+1627641,1222598,2022-07-29,House,"On ordering the previous question",216,205,0,9,430
+1627893,1226130,2022-09-13,House,"On motion to suspend the rules and pass the bill",413,0,0,17,430
+1628116,1224058,2022-08-12,House,"On agreeing to the resolution",219,208,0,3,430
+1628116,1224059,2022-08-12,House,"On ordering the previous question",219,208,0,3,430
+1628562,1230643,2022-12-14,Senate,"FAILED PASSAGE",49,49,0,2,100
+1628778,1226435,2022-09-22,Senate,"Cloture on the motion to proceed to the measure",49,49,0,2,100
+1628821,1226147,2022-09-14,House,"On agreeing to the resolution",219,209,0,4,432
+1628821,1226148,2022-09-14,House,"On ordering the previous question",213,206,0,13,432
+1628849,1230491,2022-12-06,House,"Final Passage Under Suspension of the Rules Results",421,1,0,9,431
+1629308,1226313,2022-09-20,House,"On agreeing to the resolution",220,205,0,7,432
+1629308,1226314,2022-09-20,House,"On ordering the previous question",219,206,0,7,432
+1629310,1227731,2022-09-29,House,"On motion to suspend the rules and pass the bill, as amended",376,49,0,7,432
+1629336,1230487,2022-12-02,House,"Passage of a Measure",390,26,0,15,431
+1629348,1226372,2022-09-21,House,"On passage",229,203,0,1,433
+1629414,1227768,2022-09-29,House,"On motion to suspend the rules and pass the bill",415,9,0,8,432
+1629423,1226378,2022-09-21,House,"On agreeing to the resolution",219,209,0,4,432
+1629423,1226379,2022-09-21,House,"On ordering the previous question",219,209,0,4,432
+1629504,1226439,2022-09-22,House,"On agreeing to the resolution",216,215,1,1,433
+1629701,1229934,2022-11-15,Senate,"PASSED SENATE",62,36,0,2,100
+1629753,1230951,2022-12-21,House,"On Motion to Suspend the Rules and Pass",385,28,0,17,430
+1629822,1228137,2022-09-30,House,"On passage",400,31,0,2,433
+1630097,1227139,2022-09-28,House,"On agreeing to the resolution",217,212,0,3,432
+1630097,1227140,2022-09-28,House,"On ordering the previous question",220,208,0,4,432
+1630426,1228002,2022-09-30,House,"On agreeing to the resolution",219,209,0,4,432
+1630426,1228003,2022-09-30,House,"On ordering the previous question",219,208,0,5,432
+1633349,1229948,2022-11-15,House,"Passage of a Measure",215,208,0,9,432
+1633435,1230942,2022-12-22,House,"On Motion to Suspend the Rules and Pass",374,44,0,12,430
+1634314,1230482,2022-12-01,Senate,"PASSED SENATE",80,15,1,4,100
+1634314,1230483,2022-11-30,House,"Passage of a Measure",290,137,0,5,432
+1634314,1230952,2022-12-01,Senate,"On the Amendment S.Amdt. 6503 to H.J.Res. 100 (No short title on file)",25,70,0,5,100
+1634358,1230493,2022-12-01,Senate,"FAILED PASSAGE",52,43,0,5,100
+1634358,1230494,2022-11-30,House,"Passage of a Measure",221,207,0,4,432
+1637996,1230500,2022-11-30,House,"Passage of a Measure",216,202,0,13,431
+1638033,1230501,2022-12-06,House,"Passage of a Measure",215,201,0,15,431
+1638095,1230647,2022-12-14,House,"Final Passage Under Suspension of the Rules Results",422,4,0,4,430
+1638113,1230502,2022-12-07,House,"Passage of a Measure",217,204,0,10,431
+1638152,1230957,2022-12-21,House,"On Motion to Suspend the Rules and Pass",394,19,0,17,430
+1638160,1230503,2022-12-08,House,"Final Passage Under Suspension of the Rules Results",350,80,0,2,432
+1638716,1230644,2022-12-14,House,"Passage of a Measure",216,206,0,8,430
+1638716,1230645,2022-12-14,House,"Motion for Previous Question",212,210,0,8,430
+1638740,1230717,2022-12-15,House,"Passage of a Measure",217,201,0,12,430
+1639869,1230946,2022-12-21,House,"On Agreeing to the Resolution",216,193,0,21,430
+1639873,1230963,2022-12-22,House,"On Passage",222,201,0,8,431
+1639958,1230956,2022-12-22,Senate,"On Passage of the Bill S. 5355",22,73,0,5,100
+1640017,1230954,2022-12-23,House,"On Agreeing to the Resolution",215,206,0,10,431
