@@ -1,0 +1,90 @@
+
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-02-19 11:51:32">
+  <Identification>
+    <BillNumber>C-222</BillNumber>
+    <Parliament>
+      <Session>1</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>68-69</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2019-2020</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Expropriation Act (protection of private property)</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>An Act to amend the Expropriation Act (protection of private property)</RunningHead>
+    <BillHistory>
+      <Stages stage="first-reading-house">
+        <Date>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>25</DD>
+        </Date>
+      </Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mrs. Gallant</Emphasis>
+    </BillSponsor>
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
+    <BillRefNumber date-time="2020-02-19">431091</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Expropriation Act</XRefExternal> to provide that the power of the Governor in Council to waive the requirement for a public hearing in respect of an objection to the intended expropriation of an interest in land or immovable real right may not be exercised in certain circumstances.</Text>
+      </Provision>
+    </Summary>
+    <Enacts>
+      <Provision>
+        <Text>Her Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+      </Provision>
+    </Enacts>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. E-21</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Expropriation Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>1</Label>
+      <Text>Section 10 of the <XRefExternal reference-type="act">Expropriation Act</XRefExternal> is amended by adding the following after subsection (11):</Text>
+      <AmendedText>
+        <Subsection change="ins">
+          <MarginalNote>Exception</MarginalNote>
+          <Label>(11.1)</Label>
+          <Text>Subsection (11) does not apply if the interest or right to which the notice of intention relates is intended to be expropriated by the Crown for the purpose of restoring historical natural habitats or addressing, directly or indirectly, climate variability, regardless of whether or not that purpose is referred to in the notice or described in the notice as the primary purpose of the intended expropriation.</Text>
+        </Subsection>
+      </AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>2</Label>
+      <Text>Section 19 of the Act is amended by adding the following after subsection (2):</Text>
+      <AmendedText>
+        <Subsection change="ins">
+          <MarginalNote>Exception</MarginalNote>
+          <Label>(3)</Label>
+          <Text>Subsection (2) does not apply if the interest or right to which the notice of confirmation relates is intended to be expropriated by the Crown for the purpose of restoring historical natural habitats or addressing, directly or indirectly, climate variability, regardless of whether or not that purpose is referred to in the notice of intention or described in the notice of intention as the primary purpose of the intended expropriation.</Text>
+        </Subsection>
+      </AmendedText>
+    </Section>
+  </Body>
+</Bill>
