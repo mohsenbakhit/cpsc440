@@ -22,6 +22,27 @@ into a single file: `data/normalized/bills.csv`.
 | `status` | str | Current/final status description |
 | `passed` | int | **Primary label** — `1` = enacted, `0` = not enacted |
 | `year` | int | Year introduced (derived from `introduced_date`) |
+| **Shared derived features** | | |
+| `title_word_count` | int | Number of words in `title` |
+| `description_word_count` | int | Number of words in `description` |
+| `month_introduced` | int | Month (1–12) the bill was introduced |
+| **Canada-specific features** | | |
+| `parliament_number` | int | Parliament number (35–45). Proxy for the governing era. |
+| `session_number` | int | Session number within the parliament (1–3) |
+| `reinstated` | int | `1` if bill was reinstated from a previous session, else `0` |
+| `reached_house_second_reading` | int | `1` if the bill passed House second reading |
+| `reached_house_third_reading` | int | `1` if the bill passed House third reading |
+| `reached_senate_third_reading` | int | `1` if the bill passed Senate third reading |
+| `days_active` | int | Days from introduction to last recorded activity |
+| **US-specific features** | | |
+| `num_sponsors` | int | Total sponsors in `sponsors.csv` (primary + co-sponsors) |
+| `num_history_steps` | int | Number of recorded legislative actions in `history.csv` |
+| `num_text_versions` | int | Number of bill-text documents in `documents.csv` (tracks amendment revisions) |
+| `num_rollcalls` | int | Number of roll-call votes taken on the bill |
+| `final_yea_pct` | float | `yea / (yea + nay)` for the last "On passage" roll call. `NaN` if no passage vote recorded. |
+| `has_committee` | int | `1` if the bill was referred to a committee, else `0` |
+
+> Columns specific to one source are `NaN` for the other source.
 
 ## Normalisation decisions
 
