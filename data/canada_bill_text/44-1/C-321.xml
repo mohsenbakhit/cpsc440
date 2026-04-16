@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-01-27 16:22:11">
+ <Identification>
+ <BillNumber>C-321</BillNumber>
+ <Parliament>
+ <Session>1</Session>
+ <Number>44</Number>
+ <RegnalYear>
+ <Year-s>70-71</Year-s>
+ <Monarch>Elizabeth II â 1-2 Charles III</Monarch>
+ </RegnalYear>
+ <Year-s>2021-2022-2023</Year-s>
+ </Parliament>
+ <LongTitle>An Act to amend the Criminal Code (assaults against <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders)</LongTitle>
+ <ShortTitle status="unofficial" />
+ <RunningHead>An Act to amend the Criminal Code (assaults against persons who provide health services and first responders)</RunningHead>
+ <BillHistory>
+ <Stages stage="report-house">
+ <Date>
+ <YYYY>2023</YYYY>
+ <MM>12</MM>
+ <DD>6</DD>
+ </Date>
+ <StageText>Reprinted as amended by the Standing Committee on Justice and Human Rights as a working copy for the use of the House of Commons at Report Stage and as reported to the House on DecemberÂ 6, 2023</StageText></Stages>
+ </BillHistory>
+ <BillSponsor>
+ <Emphasis style="smallcaps">Mr. Doherty</Emphasis>
+ </BillSponsor>
+ 
+ <BillRefNumber date-time="2020-01-27">441010</BillRefNumber>
+ </Identification>
+ <Introduction>
+ <Summary>
+ <TitleText>SUMMARY</TitleText>
+ <Provision>
+ <Text>This enactment amends the <XRefExternal reference-type="act">Criminal Code</XRefExternal> to require a court to consider the fact that the victim of an assault is a person who provides health services or a first responder to be an aggravating circumstance for the purposes of sentencing.</Text>
+ </Provision>
+ </Summary>
+ <Preamble>
+ <Provision>
+ <MarginalNote>Preamble</MarginalNote>
+ <Text>Whereas there is an increasing number of incidents involving violence against <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders;</Text>
+ </Provision>
+ <Provision>
+ <Text>Whereas assaults on <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders have both a physical and a psychological impact;</Text>
+ </Provision>
+ <Provision>
+ <Text>And whereas <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders, who care for and protect others, deserve to feel protected and valued by the justice system;</Text>
+ </Provision>
+ </Preamble>
+ <Enacts>
+ <Provision>
+ <Text>His Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+ </Provision>
+ </Enacts>
+ </Introduction>
+ <Body>
+ <Heading level="1">
+ <MarginalNote>
+ <HistoricalNote>R.S., c. C-46</HistoricalNote>
+ </MarginalNote>
+ <TitleText>Criminal Code</TitleText>
+ </Heading>
+ <Section type="amending">
+ <Label>1</Label>
+ <Text>The <XRefExternal reference-type="act">Criminal Code</XRefExternal> is amended by adding the following after section 269.01:</Text>
+ <AmendedText>
+ <Section>
+ <MarginalNote>Aggravating circumstance â assault against persons who provide health services and first responders</MarginalNote>
+ <Label>269.02</Label>
+ <Text>When a court imposes a sentence for an offence referred to in paragraph 264.1(1)(a) or any of sections 266 to 269, it shall consider as an aggravating circumstance the fact that the victim of the offence was, at the time of the commission of the offence, a <Ins>person who provides</Ins> health <Ins>services, including personal care services</Ins>, or a first responder engaged in the performance of their duty.</Text>
+ </Section>
+ </AmendedText>
+ </Section>
+ </Body>
+</Bill>

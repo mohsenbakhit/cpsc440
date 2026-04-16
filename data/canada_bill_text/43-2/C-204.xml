@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-01-30 15:44:25">
+  <Identification>
+    <BillNumber>C-204</BillNumber>
+    <Parliament>
+      <Session>2</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>69-70</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2020-2021</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Canadian Environmental Protection Act, 1999 (final disposal of plastic waste)</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>An Act to amend the Canadian Environmental Protection Act, 1999 (final disposal of plastic waste)</RunningHead>
+    <BillHistory>
+      <Stages stage="report-house">
+        <Date>
+          <YYYY>2021</YYYY>
+          <MM>4</MM>
+          <DD>13</DD>
+        </Date>
+      <StageText>Reprinted as amended by the Standing Committee on Environment and Sustainable Development as a working copy for the use of the House of Commons at Report Stage and as reported to the House on AprilÂ 13, 2021</StageText></Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. Davidson</Emphasis>
+    </BillSponsor>
+    
+    <BillRefNumber date-time="2020-01-30">431080</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Canadian Environmental Protection Act, 1999</XRefExternal> to prohibit the export of certain types of plastic waste to foreign countries for final disposal.</Text>
+      </Provision>
+    </Summary>
+    <Enacts>
+      <Provision>
+        <Text>Her Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+      </Provision>
+    </Enacts>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <MarginalNote>
+        <HistoricalNote>1999, c. 33</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Canadian Environmental Protection Act, 1999</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>1</Label>
+      <Text>Section 186 of the <XRefExternal reference-type="act">Canadian Environmental Protection Act, 1999</XRefExternal> is amended by adding the following after subsection (1):</Text>
+      <AmendedText>
+        <Subsection>
+          <MarginalNote>Definition of <DefinitionRef>plastic waste</DefinitionRef></MarginalNote>
+          <Label>(1.1)</Label>
+          <Text>For the purposes of subsections (1.2) and (1.3), <DefinedTermEn>plastic waste</DefinedTermEn> means any type of plastic listed in Schedule 7.</Text>
+        </Subsection>
+        <Subsection>
+          <MarginalNote>Final disposal of plastic waste</MarginalNote>
+          <Label>(1.2)</Label>
+          <Text>Despite subsection (1), it is prohibited to export plastic waste to foreign countries for final disposal.</Text>
+        </Subsection>
+        <Subsection>
+          <MarginalNote>List of Plastic Waste</MarginalNote>
+          <Label>(1.3)</Label>
+          <Text>The Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 7 by adding or deleting from it any type of plastic.</Text>
+        </Subsection>
+      <Subsection change="ins"><MarginalNote>Competences</MarginalNote><Label>(1.4)</Label><Text>The prohibition provided for in subsection (1.2) shall be applied in a manner that respects the
+legislative competences of the federal and provincial governments.</Text></Subsection></AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>2</Label>
+      <Text>Paragraph 272(1)(a) of the Act is replaced by the following:</Text>
+      <AmendedText>
+        <Section>
+          <MarginalNote>Offence â persons</MarginalNote>
+          <Label>272</Label>
+          <Subsection>
+            <Label>(1)</Label>
+            <Text>Every person commits an offence who</Text>
+            <Paragraph>
+              <Label>(a)</Label>
+              <Text>contravenes subsection 16(3) or (4), any of subsections 81(1), (3), (4), (10), (11) and (14), 84(2) and 96(3) and (4), section 101, any of subsections 106(1), (3), (4), (10) and (11) and 109(2), section 117 or 123, any of subsections 124(1), (2) and (3), 125(1), (2), (3), (4) and (5), 126(1) and (2) and 139(1), section 142 or 144, subsection 150(3) or (4), section 152, subsection 153(1), section 154, subsection 155(5), section 171 or 181, subsection 185(1), 186(1.2) or (2), 189(1), 202(3) or (4) or 213(3) or (4), paragraph 228(a) or subsection 238(1);</Text>
+            </Paragraph>
+          </Subsection>
+        </Section>
+      </AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>3</Label>
+      <Text>The Act is amended by adding, after <Keep>Schedule 6</Keep>, the schedule set out in the schedule to this Act.</Text>
+    </Section>
+  <Heading level="1" change="ins"><TitleText>Coming into Force</TitleText></Heading><Section change="ins" type="amending"><MarginalNote>12 months after royal assent</MarginalNote><Label>4</Label><Text>The provisions of this Act come into force twelve months after the day on which this Act receives
+royal assent.</Text></Section></Body>
+  <Schedule type="amending">
+    <ScheduleFormHeading>
+      <Label>SCHEDULE</Label>
+      <OriginatingRef>
+        <Emphasis style="regular">(Section 3)</Emphasis>
+      </OriginatingRef>
+    </ScheduleFormHeading>
+    <Schedule type="normal">
+      <ScheduleFormHeading type="normal">
+        <Label>SCHEDULE 7</Label>
+        <OriginatingRef>(Subsections 186(1.1) and (1.3))</OriginatingRef>
+        <TitleText>List of Plastic Waste</TitleText>
+      </ScheduleFormHeading>
+      <List>
+        <Item>
+          <Label>â1</Label>
+          <Text>Ethylene</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â2</Label>
+          <Text>Styrene</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â3</Label>
+          <Text>Polypropylene</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â4</Label>
+          <Text>Polyethylene terephthalate</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â5</Label>
+          <Text>Acrylonitrile</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â6</Label>
+          <Text>Butadiene</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â7</Label>
+          <Text>Polyacetals</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â8</Label>
+          <Text>Polyamides</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â9</Label>
+          <Text>Polybutylene terephthalate</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â10</Label>
+          <Text>Polycarbonates</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â11</Label>
+          <Text>Polyethers</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â12</Label>
+          <Text>Polyphenylene sulphides</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â13</Label>
+          <Text>Acrylic polymers</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â14</Label>
+          <Text>Chlorinated alkanes C<Sub>10</Sub>-C<Sub>13</Sub> (plasticizer)</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â15</Label>
+          <Text>Polyurethane (not containing chlorofluorocarbons)</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â16</Label>
+          <Text>Polysiloxanes</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â17</Label>
+          <Text>Polymethyl methacrylate</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â18</Label>
+          <Text>Polyvinyl alcohol</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â19</Label>
+          <Text>Polyvinyl butyral</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â20</Label>
+          <Text>Polyvinyl acetate</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â21</Label>
+          <Text>Urea formaldehyde resins</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â22</Label>
+          <Text>Phenol formaldehyde resins</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â23</Label>
+          <Text>Melamine formaldehyde resins</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â24</Label>
+          <Text>Epoxy resins</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â25</Label>
+          <Text>Alkyd resins</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â26</Label>
+          <Text>Perfluoroethylene/propylene</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â27</Label>
+          <Text>Perfluoro alkoxyl alkane</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â28</Label>
+          <Text>Tetrafluoroethylene/perfluoro vinyl ether </Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â29</Label>
+          <Text>Tetrafluoroethylene/perfluoro methylvinyl ether</Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â30</Label>
+          <Text>Polyvinylfluoride<PageBreak /></Text>
+        </Item>
+      </List>
+      <List>
+        <Item>
+          <Label>â31</Label>
+          <Text>Polyvinylidenefluoride</Text>
+        </Item>
+      </List>
+    <List>
+        <Item>
+          <Label>â32</Label>
+          <Text>Polyvinyl chloride</Text>
+        </Item>
+      </List></Schedule>
+  </Schedule>
+</Bill>

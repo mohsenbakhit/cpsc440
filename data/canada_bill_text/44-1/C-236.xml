@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Bill bill-type="private-public" bill-origin="commons" xml:lang="en" date-time="2017-11-21 10:19:21">
+  <Identification>
+    <BillNumber>C-236</BillNumber>
+    <Parliament>
+      <Session>1</Session>
+      <Number>44</Number>
+      <RegnalYear>
+        <Year-s>70-71</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2021-2022</Year-s>
+    </Parliament>
+    <LongTitle>An Act to continue VIA Rail Canada Inc. under the name VIA Rail Canada and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>VIA Rail Canada Act</RunningHead>
+    <BillHistory>
+      <Stages stage="first-reading-house">
+        <Date>
+          <YYYY>2022</YYYY>
+          <MM>2</MM>
+          <DD>7</DD>
+        </Date>
+      </Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Ms. May</Emphasis>
+    </BillSponsor>
+    <BillRefNumber date-time="2017-11-21">441079</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment continues VIA Rail Canada Inc. under the name VIA Rail Canada and sets out its mandate. It also makes consequential amendments to other Acts.</Text>
+      </Provision>
+    </Summary>
+    <Preamble><Provision><MarginalNote>Preamble</MarginalNote><Text>Whereas it is desirable that Parliament establish a legislative framework for the provision by VIA Rail Canada of national public rail passenger services that are safe, adequate and efficient;</Text></Provision><Provision><Text>Whereas it is desirable to provide VIA Rail Canada with an effective legislative basis for its operational sustainability and success as Canadaâs national public rail passenger service provider;</Text></Provision><Provision><Text>And whereas it is imperative that railway facilities and infrastructure be provided in a reasonable, efficient and adequate manner for VIA Rail Canadaâs public passenger services;</Text></Provision><Provision language-align="yes"><Text>Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:</Text></Provision></Preamble>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <TitleText>Short Title</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Short title</MarginalNote>
+      <Label>1</Label>
+      <Text>This Act may be cited as the <XRefExternal reference-type="act">VIA Rail Canada Act</XRefExternal>.</Text>
+    </Section>
+    <Heading level="1">
+      <TitleText>Interpretation
+
+</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Definitions</MarginalNote>
+      <Label>2</Label>
+      <Text>The following definitions apply in this Act.</Text>
+      <Definition>
+        <Text>
+          <DefinedTermEn>board</DefinedTermEn>âmeans the board of directors of the Corporation established by section 12. (<DefinedTermFr>conseil</DefinedTermFr>)</Text>
+      </Definition>
+      <Definition>
+        <Text>
+          <DefinedTermEn>chairperson</DefinedTermEn>âmeans the chairperson of the board. (<DefinedTermFr>prÃ©sident</DefinedTermFr>)</Text>
+      </Definition>
+      <Definition>
+        <Text>
+          <DefinedTermEn>chief executive officer</DefinedTermEn>âmeans the chief executive officer of the Corporation. (<DefinedTermFr>premier dirigeant</DefinedTermFr>)</Text>
+      </Definition>
+      <Definition>
+        <Text>
+          <DefinedTermEn>Corporation</DefinedTermEn>âmeans VIA Rail Canada continued by section 4. (<DefinedTermFr>SociÃ©tÃ©</DefinedTermFr>)</Text>
+      </Definition>
+      <Definition>
+        <Text>
+          <DefinedTermEn>Minister</DefinedTermEn>âmeans the Minister of Transport. (<DefinedTermFr>ministre</DefinedTermFr>)</Text>
+      </Definition>
+    </Section>
+    <Heading level="1">
+      <TitleText>Appropriate Minister</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Appropriate minister</MarginalNote>
+      <Label>3</Label>
+      <Text>The Minister is the appropriate minister for the Corporation for the purposes of Part X of the <XRefExternal reference-type="act">Financial Administration Act</XRefExternal>.</Text>
+    </Section>
+    <Heading level="1">
+      <TitleText>Continuance and Organization of the Corporation</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Continuance of VIA Rail Canada Inc.</MarginalNote>
+      <Label>4</Label>
+      <Text>VIA Rail Canada Inc., incorporated on January 12, 1977, under the <XRefExternal reference-type="act">Canada Corporations Act</XRefExternal>, chapter C-32 of the Revised Statutes of Canada, 1970, is continued under this Act under the name VIA Rail Canada.</Text>
+    </Section>
+    <Section>
+      <MarginalNote>Charter</MarginalNote>
+      <Label>5</Label>
+      <Text>For the purpose of Part X of the <XRefExternal reference-type="act">Financial Administration Act</XRefExternal>, this Act is the charter of the Corporation.</Text>
+    </Section>
+    <Section>
+      <MarginalNote>Cessation of former legal regime</MarginalNote>
+      <Label>6</Label>
+      <Text>On the day on which this Act comes into force, the <XRefExternal reference-type="act">Canada Business Corporations Act</XRefExternal> ceases to apply to the Corporation and the constating documents of VIA Rail Canada Inc. cease to have effect.</Text>
+    </Section>
+    <Section>
+      <MarginalNote>Cancellation of shares</MarginalNote>
+      <Label>7</Label>
+      <Text>All shares of VIA Rail Canada Inc. are cancelled without any repayment of capital in respect of those shares. The capital constitutes a capital surplus of the Corporation.</Text>
+    </Section>
+    <Section>
+      <MarginalNote>Legal capacity</MarginalNote>
+      <Label>8</Label>
+      <Text>The Corporation has the capacity and, subject to the other provisions of this Act, the rights, powers and privileges of a natural person.</Text>
+    </Section>
+    <Section>
+      <MarginalNote>Not an agent of Her Majesty</MarginalNote>
+      <Label>9</Label>
+      <Text>The Corporation is not an agent of Her Majesty in right of Canada.</Text>
+    </Section>
+    <Heading level="1">
+      <TitleText>Mandate â Passenger Rail Service</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Mandate</MarginalNote>
+      <Label>10</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The Corporationâs mandate is to</Text>
+        <Paragraph>
+          <Label>(a)</Label>
+          <Text>provide a safe, efficient and reliable public passenger rail service in Canada that meets the needs of passengers;</Text>
+        </Paragraph>
+        <Paragraph>
+          <Label>(b)</Label>
+          <Text>use innovative concepts to develop a modern passenger rail service that contributes to a sustainable environment; and</Text>
+        </Paragraph>
+        <Paragraph>
+          <Label>(c)</Label>
+          <Text>cooperate with other public passenger service providers to improve the connectivity between the <Keep svc="1">various</Keep> services offered and to enhance the offer of passenger rail services in Canada.</Text>
+        </Paragraph>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Equipment, facilities and resources</MarginalNote>
+        <Label>(2)</Label>
+        <Text>The Corporation may use excess equipment, facilities and resources for any commercial purpose that is ancillary to its mandate with a view to reducing the need for payments to the Corporation out of the Consolidated Revenue Fund.</Text>
+      </Subsection>
+    </Section>
+    <Section>
+      <MarginalNote>Mandatory routes</MarginalNote>
+      <Label>11</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The Corporation must operate a service on all routes set out in the schedule to this Act.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Schedule</MarginalNote>
+        <Label>(2)</Label>
+        <Text>The Governor in Council may, by regulation, amend the schedule by adding or removing a route.</Text>
+      </Subsection>
+    </Section>
+    <Heading level="1">
+      <TitleText>Board of Directors and Chief Executive Officer</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Composition</MarginalNote>
+      <Label>12</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The Corporationâs board of directors is established, consisting of not more than 15 directors, including the chairperson and the chief executive officer.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Chairperson and chief executive officer</MarginalNote>
+        <Label>(2)</Label>
+        <Text>The chairperson and the chief executive officer are to be appointed by the Governor in Council.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Other directors</MarginalNote>
+        <Label>(3)</Label>
+        <Text>The directors, other than the chairperson and the chief executive officer, are to be appointed by the Minister, with the approval of the Governor in Council.</Text>
+      </Subsection>
+    </Section>
+    <Section>
+      <MarginalNote>Role of chairperson</MarginalNote>
+      <Label>13</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The chairperson presides at meetings of the board and exercises any powers and performs any duties and functions that are assigned by the by-laws of the Corporation.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Incapacity or vacancy</MarginalNote>
+        <Label>(2)</Label>
+        <Text>If the chairperson is absent or unable to act or if the office of chairperson is vacant, the board may designate another director to act as chairperson, but that person may act as chairperson for more than 90 days only with the approval of the Governor in Council.</Text>
+      </Subsection>
+    </Section>
+    <Section>
+      <MarginalNote>Role of chief executive officer</MarginalNote>
+      <Label>14</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The chief executive officer is responsible for the direction and management of the business and day-to-day operations of the Corporation. The chief executive officer exercises any powers and performs any duties and functions that are assigned by the by-laws of the Corporation.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Incapacity or vacancy</MarginalNote>
+        <Label>(2)</Label>
+        <Text>If the chief executive officer is absent or unable to act or if the office of chief executive officer is vacant, the board may designate another director to act as chief executive officer, but that person may act as chief executive officer for more than 90 days only with the approval of the Governor in Council.</Text>
+      </Subsection>
+    </Section>
+    <Heading level="1">
+      <TitleText>Head Office</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Head office</MarginalNote>
+      <Label>15</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The Corporationâs head office is to be in <Keep>MontrÃ©Â­</Keep>al, Quebec.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Change of location</MarginalNote>
+        <Label>(2)</Label>
+        <Text>Despite subsection (1), the Governor in Council may, by order, establish the Corporationâs head office in another city in Canada.</Text>
+      </Subsection>
+    </Section>
+    <Heading level="1">
+      <TitleText>Review and Report</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Five-year review</MarginalNote>
+      <Label>16</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>Five years after the day on which this Act comes into force, and every five years after that, the Minister must undertake a review of the provisions and operation of this Act.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Report to Parliament</MarginalNote>
+        <Label>(2)</Label>
+        <Text>Within one year after the review is undertaken, the Minister must cause a report on the review to be tabled in each House of Parliament.</Text>
+      </Subsection>
+    </Section>
+    <Heading level="1" type="transitional">
+      <TitleText>Transitional Provisions</TitleText>
+    </Heading>
+    <Section type="transitional">
+      <MarginalNote>Continuation â directors, chairperson and chief executive officer</MarginalNote>
+      <Label>17</Label>
+      <Text>The directors of VIA Rail Canada Inc., its chairperson and its chief executive officer continue to hold office as directors, chairperson and chief executive officer, respectively, of the Corporation according to the conditions of their appointments, until the expiry of their terms.</Text>
+    </Section>
+    <Section type="transitional">
+      <MarginalNote>References</MarginalNote>
+      <Label>18</Label>
+      <Text>Every reference to VIA Rail Canada Inc. in any deed, contract or other document executed or, in Quebec, signed by VIA Rail Canada Inc. in its own name is to be read as a reference to VIA Rail Canada, unless the context requires otherwise.</Text>
+    </Section>
+    <Section type="transitional">
+      <MarginalNote>Property</MarginalNote>
+      <Label>19</Label>
+      <Text>All rights and property held by or in the name of or in trust for VIA Rail Canada Inc. and all obligations and liabilities of VIA Rail Canada Inc. are deemed to be rights, property, obligations and liabilities of the Corporation.</Text>
+    </Section>
+    <Section type="transitional">
+      <MarginalNote>Continuation of legal proceedings</MarginalNote>
+      <Label>20</Label>
+      <Text>Any action, suit or other proceeding to which VIA Rail Canada Inc. is a party that is pending in any court on the day on which this Act comes into force may be continued by or against the Corporation in the same manner and to the same extent as it could have been continued by or against VIA Rail Canada Inc.</Text>
+    </Section>
+    <Section type="transitional">
+      <MarginalNote>Commencement of legal proceedings</MarginalNote>
+      <Label>21</Label>
+      <Text>Any action, suit or other proceeding in respect of an obligation or liability incurred by VIA Rail Canada Inc. may be brought against the Corporation in any court that would have had jurisdiction if the action, suit or other proceeding had been brought against VIA Rail Canada Inc.</Text>
+    </Section>
+    <Section type="transitional">
+      <MarginalNote>By-laws</MarginalNote>
+      <Label>22</Label>
+      <Text>Every by-law of VIA Rail Canada Inc. is, to the extent that it is consistent with this Act, a by-law of the Corporation.</Text>
+    </Section>
+    <Heading type="amending" level="1">
+      <TitleText>Consequential Amendments</TitleText>
+    </Heading>
+    <Heading level="2">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. A-1</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Access to Information Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>23</Label>
+      <Text>Paragraph 18.1(1)(d) of the <XRefExternal reference-type="act">Access to Information Act</XRefExternal> is replaced by the following:</Text>
+      <AmendedText>
+        <SectionPiece>
+          <Paragraph>
+            <Label>(d)</Label>
+            <Text>VIA Rail Canada.</Text>
+          </Paragraph>
+        </SectionPiece>
+      </AmendedText>
+    </Section>
+    <Heading level="2">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. F-8</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Federal-Provincial Fiscal Arrangements Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>24</Label>
+      <Text>Schedule I to the <XRefExternal reference-type="act">Federal-Provincial Fiscal Arrangements Act</XRefExternal> is amended by striking out the following:</Text>
+      <AmendedText>
+        <BilingualGroup>
+          <BilingualItemEn>VIA Rail Canada Inc.</BilingualItemEn>
+          <BilingualItemFr>VIA Rail Canada Inc.</BilingualItemFr>
+        </BilingualGroup>
+      </AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>25</Label>
+      <Text>Schedule I to the Act is amended by adding the following in alphabetical order:</Text>
+      <AmendedText>
+        <BilingualGroup>
+          <BilingualItemEn>VIA Rail Canada</BilingualItemEn>
+          <BilingualItemFr>VIA Rail Canada</BilingualItemFr>
+        </BilingualGroup>
+      </AmendedText>
+    </Section>
+    <Heading level="2">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. F-11</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Financial Administration Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>26</Label>
+      <Text>Part I of Schedule III to the <XRefExternal reference-type="act">Financial Administration Act</XRefExternal> is amended by striking out the following:</Text>
+      <AmendedText>
+        <BilingualGroup>
+          <BilingualItemEn>VIA Rail Canada Inc.</BilingualItemEn>
+          <BilingualItemFr>VIA Rail Canada Inc.</BilingualItemFr>
+        </BilingualGroup>
+      </AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>27</Label>
+      <Text>Part I of Schedule III to the Act is amended by adding the following in alphabetical order:</Text>
+      <AmendedText>
+        <BilingualGroup>
+          <BilingualItemEn>VIA Rail Canada</BilingualItemEn>
+          <BilingualItemFr>VIA Rail Canada</BilingualItemFr>
+        </BilingualGroup>
+      </AmendedText>
+    </Section>
+    <Heading level="2">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. M-13</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Payments in Lieu of Taxes Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>28</Label>
+      <Text>Schedule III to the <XRefExternal reference-type="act">Payments in Lieu of Taxes Act</XRefExternal> is amended by striking out the following:</Text>
+      <AmendedText>
+        <BilingualGroup>
+          <BilingualItemEn>VIA Rail Canada Inc.</BilingualItemEn>
+          <BilingualItemFr>VIA Rail Canada Inc.</BilingualItemFr>
+        </BilingualGroup>
+      </AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>29</Label>
+      <Text>Schedule III to the Act is amended by adding the following in alphabetical order:</Text>
+      <AmendedText>
+        <BilingualGroup>
+          <BilingualItemEn>VIA Rail Canada</BilingualItemEn>
+          <BilingualItemFr>VIA Rail Canada</BilingualItemFr>
+        </BilingualGroup>
+      </AmendedText>
+    </Section>
+    <Heading level="2">
+      <MarginalNote>
+        <HistoricalNote>1996, c. 10</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Canada Transportation Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>30</Label>
+      <Text>The definition <DefinedTermEn>public passenger service provider</DefinedTermEn> in section 87 of the <XRefExternal reference-type="act">Canada Transportation Act</XRefExternal> is replaced by the following:</Text>
+      <AmendedText>
+        <SectionPiece>
+          <Definition>
+            <Text>
+              <DefinedTermEn>public passenger service provider</DefinedTermEn>âmeans VIA Rail Canada, a passenger rail service provider designated by the Minister or an urban transit authority; (<DefinedTermFr>sociÃ©tÃ© de transport publique</DefinedTermFr>)</Text>
+          </Definition>
+        </SectionPiece>
+      </AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>31</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>Subsection 144.1(2) of the Act is replaced by the following:</Text>
+        <AmendedText>
+          <Subsection>
+            <MarginalNote>Declaration that line is for general advantage of Canada</MarginalNote>
+            <Label>(2)</Label>
+            <Text>Whenever a railway companyâs rights and obligations under an agreement with VIA Rail Canada are vested in another person or entity by subsection (1), the portion of the railway line to which the agreement relates is declared, as of the day the transfer takes place, to be a work for the general advantage of Canada.</Text>
+          </Subsection>
+        </AmendedText>
+      </Subsection>
+      <Subsection type="amending">
+        <Label>(2)</Label>
+        <Text>Paragraph 144.1(3)(a) of the Act is replaced by the following:</Text>
+        <AmendedText>
+          <SectionPiece>
+            <Paragraph>
+              <Label>(a)</Label>
+              <Text>VIA Rail Canada ceases to operate a passenger rail service on the portion of railway line to which the declaration relates; or</Text>
+            </Paragraph>
+          </SectionPiece>
+        </AmendedText>
+      </Subsection>
+    </Section>
+  </Body>
+  <Schedule>
+    <ScheduleFormHeading>
+      <Label>SCHEDULE</Label>
+      <OriginatingRef>(Section 11)</OriginatingRef>
+    </ScheduleFormHeading>
+    <TableGroup rowbreak="yes" pointsize="9" topmarginspacing="10">
+      <table frame="topbot">
+        <tgroup cols="2" colsep="4" rowsep="4">
+          <thead>
+            <row topdouble="yes">
+              <entry colsep="0" rowsep="1" valign="top" align="left">Item</entry>
+              <entry colsep="0" rowsep="1" valign="top" align="left">Routes</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">1.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â Vancouver</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">2.</entry>
+              <entry align="left" colsep="0" rowsep="0">Jasper â Prince Rupert</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">3.</entry>
+              <entry align="left" colsep="0" rowsep="0">Winnipeg â Churchill</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">4.</entry>
+              <entry align="left" colsep="0" rowsep="0">The Pas â Pukatawagan</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">5.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â MontrÃ©al</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">6.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â Ottawa</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">7.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â Kingston</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">8.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â Windsor</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">9.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â Sarnia</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">10.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â London</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">11.</entry>
+              <entry align="left" colsep="0" rowsep="0">Toronto â Niagara Falls</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">12.</entry>
+              <entry align="left" colsep="0" rowsep="0">Ottawa â MontrÃ©al</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">13.</entry>
+              <entry align="left" colsep="0" rowsep="0">Ottawa â QuÃ©bec</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">14.</entry>
+              <entry align="left" colsep="0" rowsep="0">MontrÃ©al â QuÃ©bec</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">15.</entry>
+              <entry align="left" colsep="0" rowsep="0">Ottawa â Kingston</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">16.</entry>
+              <entry align="left" colsep="0" rowsep="0">MontrÃ©al â JonquiÃ¨re</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">17.</entry>
+              <entry align="left" colsep="0" rowsep="0">MontrÃ©al â Senneterre</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">18.</entry>
+              <entry align="left" colsep="0" rowsep="0">MontrÃ©al â GaspÃ©</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">19.</entry>
+              <entry align="left" colsep="0" rowsep="0">Sudbury â White River</entry>
+            </row>
+            <row>
+              <entry align="left" colsep="0" rowsep="0">20.</entry>
+              <entry align="left" colsep="0" rowsep="0">MontrÃ©al â Halifax</entry>
+            </row><row>
+              <entry align="left" colsep="0" rowsep="0">21.</entry>
+              <entry align="left" colsep="0" rowsep="0">Victoria â Courtenay</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </TableGroup>
+  </Schedule>
+</Bill>

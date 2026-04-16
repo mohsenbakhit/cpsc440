@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-01-22 10:52:05">
+  <Identification>
+    <BillNumber>C-205</BillNumber>
+    <Parliament>
+      <Session>2</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>69-70</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2020-2021</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Health of Animals Act</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>An Act to amend the Health of Animals Act</RunningHead>
+    <BillHistory>
+      <Stages stage="report-house">
+        <Date>
+          <YYYY>2021</YYYY>
+          <MM>6</MM>
+          <DD>21</DD>
+        </Date>
+      <StageText>Reprinted as amended by the Standing Committee on Agriculture and Agri-Food as a working copy for the use of the House of Commons at Report Stage and as reported to the House on JuneÂ 21, 2021</StageText></Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. Barlow</Emphasis>
+    </BillSponsor>
+    
+    <BillRefNumber date-time="2020-01-22">431059</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Health of Animals Act</XRefExternal> to make it an offence to enter a place in which animals are kept, or take in any animal or thing, if doing so could reasonably result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them. </Text>
+      </Provision>
+    </Summary>
+    <Enacts>
+      <Provision>
+        <Text>Her Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+      </Provision>
+    </Enacts>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <MarginalNote>
+        <HistoricalNote>1990, c. 21</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Health of Animals Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>1</Label>
+      <Text>The <XRefExternal reference-type="act">Health of Animals Act</XRefExternal> is amended by adding the following after section 9:</Text>
+      <AmendedText>
+        <Section>
+          <MarginalNote>Exposure of animals to disease or toxic substance</MarginalNote>
+          <Label>9.1</Label>
+          <Text>No person shall enter a building or other enclosed place in which animals are kept, <Ins>or take in any animal or thing</Ins>, knowing that or being reckless as to whether entering such a
+place <Ins>or taking in the animal or thing</Ins> could <Ins>reasonably</Ins> result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.</Text>
+        </Section>
+      </AmendedText>
+    </Section>
+    <Section type="amending">
+      <Label>2</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The portion of subsection 65(1) of the Act before paragraph (a) is replaced by the following:</Text>
+        <AmendedText>
+          <Section>
+            <MarginalNote>General offence</MarginalNote>
+            <Label>65</Label>
+            <Subsection>
+              <Label>(1)</Label>
+              <Text>Every person who contravenes any provision of this Act, other than section 9.1 or 15, or the regulations or who refuses or neglects to perform any duty imposed by or under the Act or the regulations is guilty of</Text>
+            </Subsection>
+            <Subsection type="amending">
+              <Label>(2)</Label>
+              <Text>Section 65 of the Act is amended by adding the following after subsection (1):</Text>
+            </Subsection>
+            <Subsection>
+              <MarginalNote>Exposure of animals to disease â individuals</MarginalNote>
+              <Label>(1.1)</Label>
+              <Text>Every individual who contravenes section 9.1 is guilty of </Text>
+              <Paragraph>
+                <Label>(a)</Label>
+                <Text>an offence punishable on summary conviction and liable to a fine not exceeding fifty thousand dollars or to imprisonment for a term not exceeding six months, or to both; or</Text>
+              </Paragraph>
+              <Paragraph>
+                <Label>(b)</Label>
+                <Text>an indictable offence and liable to a fine not exceeding two hundred and fifty thousand dollars or to imprisonment for a term not exceeding two years, or to both.</Text>
+              </Paragraph>
+            </Subsection>
+            <Subsection>
+              <MarginalNote>Exposure of animals to disease â other persons</MarginalNote>
+              <Label>(1.2)</Label>
+              <Text>Every person, other than an individual, that contravenes section 9.1 is guilty of</Text>
+              <Paragraph>
+                <Label>(a)</Label>
+                <Text>an offence punishable on summary conviction and liable to a fine not exceeding one hundred thousand dollars; or</Text>
+              </Paragraph>
+              <Paragraph>
+                <Label>(b)</Label>
+                <Text>an indictable offence and liable to a fine not exceeding five hundred thousand dollars.</Text>
+              </Paragraph>
+            </Subsection>
+          </Section>
+        </AmendedText>
+      </Subsection>
+    </Section>
+  </Body>
+</Bill>
