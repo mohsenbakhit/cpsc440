@@ -1,0 +1,124 @@
+
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-02-06 10:35:20">
+  <Identification>
+    <BillNumber>C-221</BillNumber>
+    <Parliament>
+      <Session>1</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>68-69</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2019-2020</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Income Tax Act (oil and gas wells)</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>Environmental Restoration Incentive Act</RunningHead>
+    <BillHistory>
+      <Stages stage="first-reading-house">
+        <Date>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>25</DD>
+        </Date>
+      </Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mrs. Stubbs</Emphasis>
+    </BillSponsor>
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
+    <BillRefNumber date-time="2020-02-06">431062</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Income Tax Act</XRefExternal> to establish a tax credit for the closure of oil and gas wells. It also sets out a requirement for the Minister of Finance to make an assessment respecting the implementation of possible tax incentives for the closure of oil and gas wells.</Text>
+      </Provision>
+    </Summary>
+    <Enacts>
+      <Provision>
+        <Text>Her Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+      </Provision>
+    </Enacts>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <TitleText>Short Title</TitleText>
+    </Heading>
+    <Section>
+      <MarginalNote>Short title</MarginalNote>
+      <Label>1</Label>
+      <Text>This Act may be cited as the <XRefExternal reference-type="act">Environmental Restoration Incentive Act</XRefExternal>.</Text>
+    </Section>
+    <Heading level="1">
+      
+      <MarginalNote><HistoricalNote>R.S., c. 1 (5th Supp.)</HistoricalNote></MarginalNote><TitleText>Income Tax Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>2</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>The <XRefExternal reference-type="act">Income Tax Act</XRefExternal> is amended by adding the following after section 125.6:</Text>
+        <AmendedText>
+          <Section change="ins">
+            <MarginalNote>Definitions</MarginalNote>
+            <Label>125.7</Label>
+            <Subsection>
+              <Label>(1)</Label>
+              <Text>The following definitions apply in this section.</Text>
+              <Definition>
+                <Text>
+                  <DefinedTermEn>closure of an oil or gas well</DefinedTermEn>âmeans, in respect of an oil or gas well in Canada, the measures taken in accordance with federal laws or the laws of the province in which the oil or gas well is located to plug and cap the well to prevent leaks, to dismantle the surface structures and associated infrastructures, and to restore the surface to its previous condition. (<DefinedTermFr>fermeture dâun puits de pÃ©trole ou de gaz</DefinedTermFr>)</Text>
+              </Definition>
+              <Definition>
+                <Text>
+                  <DefinedTermEn>qualifying corporation</DefinedTermEn>âmeans a corporation that owns one or more oil or gas wells in Canada which, for a taxation year, produced on a daily average a total quantity of oil or gas that is less than 100,000 barrels of oil equivalent. (<DefinedTermFr>sociÃ©tÃ© admissible</DefinedTermFr>)</Text>
+              </Definition>
+            </Subsection>
+            <Subsection>
+              <MarginalNote>Closure of oil or gas well tax credit</MarginalNote>
+              <Label>(2)</Label>
+              <Text>There may be deducted from the tax otherwise payable under this Part by a qualifying corporation for a taxation year an amount equal to the qualifying corporationâs general rate reduction percentage for the taxation year (within the meaning assigned by subsection 123.4(1)) multiplied by the total of all expenses incurred by the qualifying corporation in that taxation year for the closure of an oil or gas well.</Text>
+            </Subsection>
+          </Section>
+        </AmendedText>
+      </Subsection>
+      <Subsection>
+        <Label>(2)</Label>
+        <Text>Subsection (1) applies in respect of expenses incurred after 2019 and before 2026.</Text>
+      </Subsection>
+    </Section>
+    <Heading level="1">
+      <TitleText>Report to Parliament</TitleText>
+    </Heading>
+    <Section type="amending">
+      <MarginalNote>Assessment â tax incentives</MarginalNote>
+      <Label>3</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>Within one year after the day on which this section comes into force, the Minister of Finance, in collaboration with the Minister of Natural Resources, must assess whether the implementation of a tax incentive, including a flow-through shares program, would increase private sector funds available to close oil or gas wells, reduce the risk of oil or gas wells becoming orphaned and promote the safe and effective closure of oil or gas wells.</Text>
+      </Subsection>
+      <Subsection>
+        <MarginalNote>Tabling</MarginalNote>
+        <Label>(2)</Label>
+        <Text>The Minister of Finance must prepare a report on the assessment and cause it to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.</Text>
+      </Subsection>
+    </Section>
+  </Body>
+</Bill>

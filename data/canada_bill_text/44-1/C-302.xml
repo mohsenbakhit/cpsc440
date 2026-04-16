@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2016-02-15 14:45:09">
+ <Identification>
+ <BillNumber>C-302</BillNumber>
+ <Parliament>
+ <Session>1</Session>
+ <Number>44</Number>
+ <RegnalYear>
+ <Year-s>70-71</Year-s>
+ <Monarch>Elizabeth II â 1 Charles III</Monarch>
+ </RegnalYear>
+ <Year-s>2021-2022</Year-s>
+ </Parliament>
+ <LongTitle>An Act to amend the Canada Labour Code (replacement workers)</LongTitle>
+ <ShortTitle status="unofficial" />
+ <RunningHead>An Act to amend the Canada Labour Code (replacement workers)</RunningHead>
+ <BillHistory>
+ <Stages stage="first-reading-house">
+ <Date>
+ <YYYY>2022</YYYY>
+ <MM>10</MM>
+ <DD>27</DD>
+ </Date>
+ </Stages>
+ </BillHistory>
+ <BillSponsor>
+ <Emphasis style="smallcaps">Mr. Boulerice</Emphasis>
+ </BillSponsor>
+ <BillRefNumber date-time="2016-02-15">441207</BillRefNumber>
+ </Identification>
+ <Introduction>
+ <Summary>
+ <TitleText>SUMMARY</TitleText>
+ <Provision>
+ <Text>This enactment amends the <XRefExternal reference-type="act">Canada Labour Code</XRefExternal> to make it an offence for employers to use replacement workers to perform all or part of the duties of employees who are on strike or locked out.</Text>
+ </Provision>
+ </Summary>
+ <Enacts>
+ <Provision>
+ <Text>His Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+ </Provision>
+ </Enacts>
+ </Introduction>
+ <Body>
+ <Heading level="1">
+ <MarginalNote>
+ <HistoricalNote>R.S., c. L-2</HistoricalNote>
+ </MarginalNote>
+ <TitleText>Canada Labour Code</TitleText>
+ </Heading>
+ <Section type="amending"><Label>1</Label><Text>The <XRefExternal reference-type="act">Canada Labour Code</XRefExternal> is amended by adding the following after section 87:</Text><AmendedText><Heading level="2" change="ins"><Label>DIVISION V.01</Label><TitleText>Settlement of Subsequent Agreements</TitleText></Heading><Section change="ins"><MarginalNote>Dispute â subsequent agreement</MarginalNote><Label>87.01</Label><Text>When a collective agreement has expired and a strike or lockout not prohibited by this Part has been initiated, the employer or the bargaining agent for a unit may apply in writing to the Board to settle the terms and conditions of the new collective agreement if </Text><Paragraph><Label>(a)</Label><Text>at least 90 days have elapsed since the strike or lockout was initiated;</Text></Paragraph><Paragraph><Label>(b)</Label><Text>during the strike or lockout, the parties have, for a period of at least 30 days, bargained collectively in good faith in an attempt to enter into a new collective agreement with the assistance of a conciliation officer, a mediator, an arbitrator or another person jointly selected by the parties; and</Text></Paragraph><Paragraph><Label>(c)</Label><Text>the parties have not entered into a new collective agreement.</Text></Paragraph></Section></AmendedText></Section><Section type="amending">
+ <Label>2</Label>
+ <Text>Section 87.6 of the Act is replaced by the following:</Text>
+ <AmendedText>
+ <Section>
+ <MarginalNote>Reinstatement of employees after strike or lockout</MarginalNote>
+ <Label>87.6</Label>
+ <Text>At the end of a strike or lockout not prohibited by this Part, the employer must reinstate employees in the bargaining unit on strike or locked out in preference to any <Ins>other</Ins> person.</Text>
+ </Section>
+ </AmendedText>
+ </Section>
+ <Section type="amending">
+ <Label>3</Label>
+ <Text>Subsection 94(2.1) of the Act is replaced by the following:</Text>
+ <AmendedText>
+ <Subsection>
+ <MarginalNote>Prohibitions relating to replacement workers</MarginalNote>
+ <Label>(2.1)</Label>
+ <Text><Ins>Subject to section 87.4, for the duration of a strike or lockout not prohibited by this Part</Ins>, no employer or person acting on behalf of an employer shall use, to perform all or part of the duties of an employee in the bargaining unit on strike or locked out, the services of</Text>
+ <Paragraph change="ins">
+ <Label>
+ (a)</Label>
+ <Text>a person who was hired during the period commencing on the day on which notice to bargain collectively was given and ending on the day on which a collective agreement or arbitral award comes into force bringing the strike or lockout to an end;</Text>
+ </Paragraph>
+ <Paragraph change="ins">
+ <Label>(b)</Label>
+ <Text>a contractor or a person employed by another employer; or</Text>
+ </Paragraph>
+ 
+ 
+ 
+ <Paragraph change="ins">
+ <Label>(c)</Label>
+ <Text>another employee of the employer.</Text>
+ </Paragraph>
+ </Subsection>
+ <Subsection change="ins">
+ <MarginalNote>Protections</MarginalNote>
+ <Label>(2.2)</Label>
+ <Text>Despite subsection (2.1), the employer may use a replacement worker to perform all or part of the duties of an employee in the bargaining unit on strike or locked out to the extent necessary to prevent</Text>
+ <Paragraph>
+ <Label>(a)</Label>
+ <Text>a threat to the life, health or safety of any person;</Text>
+ </Paragraph>
+ <Paragraph>
+ <Label>(b)</Label>
+ <Text>the destruction, or serious damage to, the employerâs machinery, equipment or premises; or</Text>
+ </Paragraph>
+ <Paragraph>
+ <Label>(c)</Label>
+ <Text>serious environmental damage affecting the premises.</Text>
+ </Paragraph>
+ </Subsection>
+ <Subsection change="ins">
+ <MarginalNote>Clarification</MarginalNote>
+ <Label>(2.3)</Label>
+ <Text>The use of a replacement worker under subsection (2.2) shall exclusively be for conservation purposes and not to allow the continuation of the production of goods or services otherwise prohibited by subsection (2.1).</Text>
+ </Subsection>
+ <Subsection change="ins">
+ <MarginalNote>Exceptions</MarginalNote>
+ <Label>(2.4)</Label>
+ <Text>The prohibitions set out in subsection (2.1) do not apply to a person serving as a senior manager, director or officer of a corporation, unless the person has been designated to serve in that capacity for the personâs employer by the employees or by a certified trade union.</Text>
+ 
+ 
+ </Subsection>
+ <Subsection change="ins"><MarginalNote>Investigation</MarginalNote><Label>(2.5)</Label><Text>The Minister may, on application, designate an investigator to ascertain whether the requirements of subsections (2.1) to (2.4) are being met. The Minister must provide the investigator with a certificate of that designation.</Text></Subsection><Subsection change="ins"><MarginalNote>Persons designated</MarginalNote><Label>(2.6)</Label><Text>The investigator may enter any place of employment immediately at any reasonable time and be accompanied by a person designated by the certified trade union, a person designated by the employer and any other person whose presence the investigator considers necessary for the purposes of the investigation.</Text></Subsection><Subsection change="ins"><MarginalNote>Duty to assist</MarginalNote><Label>(2.7)</Label><Text>The person in charge of a place of employment and every person employed at, or in connection with, a place of employment shall give all reasonable assistance to the investigator in the exercise of his or her powers, or in the performance of his or her duties or functions.</Text></Subsection><Subsection change="ins"><MarginalNote>Identification</MarginalNote><Label>(2.8)</Label><Text>The investigator shall, on request, produce the certificate of designation and identification.</Text></Subsection><Subsection change="ins"><MarginalNote>Report of investigation</MarginalNote><Label>(2.9)</Label><Text>The investigator shall, immediately after completing the investigation, make a report to the Minister and send a copy of the report to the parties.</Text></Subsection><Subsection change="ins"><MarginalNote>Powers</MarginalNote><Label>(2.10)</Label><Text>The investigator has, for the purposes of the investigation, all the powers of a commissioner appointed under the <XRefExternal reference-type="act">Inquiries Act</XRefExternal>, except the power to impose a sentence of imprisonment.</Text></Subsection></AmendedText>
+ </Section>
+ <Section type="amending">
+ <Label>4</Label>
+ <Text>Paragraph 99(1)(b.3) of the Act is replaced by the following:</Text>
+ <AmendedText>
+ <SectionPiece>
+ <Paragraph>
+ <Label>(b.3)</Label>
+ <Text>in respect of a failure to comply with subsection 94(2.1), by order, require the employer to stop using, for the duration of the dispute, the services of any person <Ins>described in any of paragraphs 94(2.1)(a) to (c)</Ins>;</Text>
+ </Paragraph>
+ </SectionPiece>
+ </AmendedText>
+ </Section>
+ <Section type="amending">
+ <Label>5</Label>
+ <Text>Section 100 of the Act is amended by adding the following after subsection (4):</Text>
+ <AmendedText>
+ <Subsection change="ins">
+ <MarginalNote>Unlawful use of replacement workers</MarginalNote>
+ <Label>(5)</Label>
+ <Text>Every person who contravenes or fails to comply with subsection 94(2.1) is guilty of an offence and liable, on summary conviction, to a fine not exceeding one hundred thousand dollars for each day or part of a day during which the offence continues.</Text>
+ </Subsection>
+ </AmendedText>
+ </Section>
+ </Body>
+</Bill>

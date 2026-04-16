@@ -1,0 +1,86 @@
+
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2018-01-23 08:55:23">
+  <Identification>
+    <BillNumber>C-226</BillNumber>
+    <Parliament>
+      <Session>1</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>68-69</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2019-2020</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Canadian Multiculturalism Act (non-application in Quebec)</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>An Act to amend the Canadian Multiculturalism Act (non-application in Quebec)</RunningHead>
+    <BillHistory>
+      <Stages stage="first-reading-house">
+        <Date>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>25</DD>
+        </Date>
+      </Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. ThÃ©riault</Emphasis>
+    </BillSponsor>
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
+    <BillRefNumber date-time="2018-01-23">431112</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Canadian Multiculturalism Act</XRefExternal> to provide that it does not apply in Quebec.</Text>
+      </Provision>
+    </Summary>
+    <Preamble>
+      <Provision>
+        <MarginalNote>Preamble</MarginalNote>
+        <Text>Whereas Quebecers  form a nation and therefore possess all the tools needed to define their identity and protect their common values, including as regards the protection of the French language, the separation of state and religion, and gender equality;</Text>
+      </Provision>
+      <Provision language-align="yes">
+        <Text>Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:</Text>
+      </Provision>
+    </Preamble>
+  </Introduction>
+  <Body>
+    <Heading level="1" type="amending">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. 24 (4th Supp.)</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Canadian Multiculturalism Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>1</Label>
+      <Text>The <XRefExternal reference-type="act">Canadian Multiculturalism Act</XRefExternal> is amended by adding the following after section 2:</Text>
+      <AmendedText>
+        <Heading level="1" type="amending" change="ins">
+          <TitleText>Application</TitleText>
+        </Heading>
+        <Section change="ins">
+          <MarginalNote>Exemption</MarginalNote>
+          <Label>2.1</Label>
+          <Text>This Act does not apply in Quebec.</Text>
+        </Section>
+      </AmendedText>
+    </Section>
+  </Body>
+</Bill>

@@ -1,0 +1,91 @@
+
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-02-14 15:02:45">
+  <Identification>
+    <BillNumber>C-214</BillNumber>
+    <Parliament>
+      <Session>1</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>68-69</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2019-2020</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Income Tax Act (qualifying environmental trust)</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>An Act to amend the Income Tax Act (qualifying environmental trust)</RunningHead>
+    <BillHistory>
+      <Stages stage="first-reading-house">
+        <Date>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>24</DD>
+        </Date>
+      </Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. McLean</Emphasis>
+    </BillSponsor>
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
+    <BillRefNumber date-time="2020-02-14">431090</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Income Tax Act</XRefExternal> to include, in the definition âqualifying environmental trustâ, trusts that are maintained for the sole purpose of funding the reclamation of an oil or gas well operated for the purpose of producing petroleum or natural gas.</Text>
+      </Provision>
+    </Summary>
+    <Enacts>
+      <Provision>
+        <Text>Her Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+      </Provision>
+    </Enacts>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. 1 (5th Supp.)</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Income Tax Act</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>1</Label>
+      <Subsection>
+        <Label>(1)</Label>
+        <Text>Paragraph (a) of the definition <DefinitionRef>excluded trust</DefinitionRef> in subsection 211.6(1) of the <XRefExternal reference-type="act">Income Tax Act</XRefExternal> is repealed.</Text>
+      </Subsection>
+      <Subsection>
+        <Label>(2)</Label>
+        <Text>The definition <DefinitionRef>qualifying site</DefinitionRef> in subsection 211.6(1) of the Act is amended by striking out âorâ at the end of paragraph (c), by adding âorâ at the end of paragraph (d) and by adding the following after paragraph (d):</Text>
+        <AmendedText>
+          <SectionPiece>
+            <Paragraph change="ins">
+              <Label>(e)</Label>
+              <Text>the operation of an oil or gas well drilled for the purpose of producing petroleum or natural gas.</Text>
+            </Paragraph>
+          </SectionPiece>
+        </AmendedText>
+      </Subsection>
+      <Subsection>
+        <Label>(3)</Label>
+        <Text>Subsections (1) and (2) apply to the 2020 and subsequent taxation years.</Text>
+      </Subsection>
+    </Section>
+  </Body>
+</Bill>

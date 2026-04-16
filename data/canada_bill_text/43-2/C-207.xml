@@ -1,0 +1,80 @@
+
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2017-08-14 12:51:30">
+  <Identification>
+    <BillNumber>C-207</BillNumber>
+    <Parliament>
+      <Session>1</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>68-69</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2019-2020</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Criminal Code (presentence report)</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>An Act to amend the Criminal Code (presentence report)</RunningHead>
+    <BillHistory>
+      <Stages stage="first-reading-house">
+        <Date>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>19</DD>
+        </Date>
+      </Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. Jowhari</Emphasis>
+    </BillSponsor>
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
+    <BillRefNumber date-time="2017-08-14">431072</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Criminal Code</XRefExternal> to require that a presentence report contain information on any aspect of the offender's mental condition that is relevant for sentencing purposes.</Text>
+      </Provision>
+    </Summary>
+    <Enacts>
+      <Provision>
+        <Text>Her Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+      </Provision>
+    </Enacts>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <MarginalNote>
+        <HistoricalNote>R.S., c. C-46</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Criminal Code</TitleText>
+    </Heading>
+    <Section type="amending">
+      <Label>1</Label>
+      <Text>Subsection 721(3) of the <XRefExternal reference-type="act">Criminal Code</XRefExternal> is amended by adding the following after paragraph (a):</Text>
+      <AmendedText>
+        <SectionPiece>
+          <Paragraph change="ins">
+            <Label>(a.1)</Label>
+            <Text>any aspect of the offenderâs mental condition that is relevant for sentencing purposes, as well as any mental health services or support available to the offender;</Text>
+          </Paragraph>
+        </SectionPiece>
+      </AmendedText>
+    </Section>
+  </Body>
+</Bill>
