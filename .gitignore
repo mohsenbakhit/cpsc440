@@ -3,3 +3,4 @@
 CLAUDE.md
 data/normalized/bills.csv
 data/us_bill_text/extracted
+data/**/*.txt
