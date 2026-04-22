@@ -15,7 +15,7 @@
     "recall":0.9152542373,
     "balanced_accuracy":0.8908626285,
     "predicted_positive_rate":0.1659634318,
-    "fit_seconds":2.797
+    "fit_seconds":1.826
   },
   {
     "split":"temporal_canada",
@@ -26,14 +26,14 @@
     "test_positive_rate":0.0414908579,
     "train_source_mix":"{\"canada\": 5686}",
     "test_source_mix":"{\"canada\": 1422}",
-    "pr_auc":0.7070201275,
-    "roc_auc":0.9237474663,
-    "f1":0.0951557093,
-    "precision":0.0501367366,
+    "pr_auc":0.7083547632,
+    "roc_auc":0.9239837348,
+    "f1":0.0929839391,
+    "precision":0.0489323843,
     "recall":0.9322033898,
-    "balanced_accuracy":0.5838566472,
-    "predicted_positive_rate":0.7714486639,
-    "fit_seconds":4.995
+    "balanced_accuracy":0.5739520251,
+    "predicted_positive_rate":0.7904360056,
+    "fit_seconds":3.108
   },
   {
     "split":"temporal_canada",
@@ -44,14 +44,14 @@
     "test_positive_rate":0.0414908579,
     "train_source_mix":"{\"canada\": 5686}",
     "test_source_mix":"{\"canada\": 1422}",
-    "pr_auc":0.5841227268,
-    "roc_auc":0.8724274718,
-    "f1":0.5773195876,
-    "precision":0.7368421053,
-    "recall":0.4745762712,
-    "balanced_accuracy":0.733619757,
-    "predicted_positive_rate":0.0267229255,
-    "fit_seconds":0.89
+    "pr_auc":0.5862552593,
+    "roc_auc":0.8951341134,
+    "f1":0.537037037,
+    "precision":0.5918367347,
+    "recall":0.4915254237,
+    "balanced_accuracy":0.7384259547,
+    "predicted_positive_rate":0.0344585091,
+    "fit_seconds":0.735
   },
   {
     "split":"temporal_canada",
@@ -69,7 +69,7 @@
     "recall":0.9322033898,
     "balanced_accuracy":0.5728515115,
     "predicted_positive_rate":0.7925457103,
-    "fit_seconds":0.932
+    "fit_seconds":0.749
   },
   {
     "split":"temporal_canada",
@@ -87,7 +87,7 @@
     "recall":0.9322033898,
     "balanced_accuracy":0.5728515115,
     "predicted_positive_rate":0.7925457103,
-    "fit_seconds":0.927
+    "fit_seconds":0.751
   },
   {
     "split":"temporal_canada",
@@ -98,14 +98,14 @@
     "test_positive_rate":0.0414908579,
     "train_source_mix":"{\"canada\": 5686}",
     "test_source_mix":"{\"canada\": 1422}",
-    "pr_auc":0.4936057451,
-    "roc_auc":0.9025206113,
-    "f1":0.1343101343,
-    "precision":0.0723684211,
-    "recall":0.9322033898,
-    "balanced_accuracy":0.7074810053,
-    "predicted_positive_rate":0.5344585091,
-    "fit_seconds":1.062
+    "pr_auc":0.549079841,
+    "roc_auc":0.8981558626,
+    "f1":0.1255813953,
+    "precision":0.0674157303,
+    "recall":0.9152542373,
+    "balanced_accuracy":0.683599239,
+    "predicted_positive_rate":0.5632911392,
+    "fit_seconds":0.86
   },
   {
     "split":"temporal_canada",
@@ -123,7 +123,7 @@
     "recall":0.1694915254,
     "balanced_accuracy":0.4945036497,
     "predicted_positive_rate":0.1800281294,
-    "fit_seconds":0.938
+    "fit_seconds":0.747
   },
   {
     "split":"temporal_us",
@@ -134,14 +134,14 @@
     "test_positive_rate":0.0079480726,
     "train_source_mix":"{\"us\": 90584}",
     "test_source_mix":"{\"us\": 22647}",
-    "pr_auc":0.0950953389,
-    "roc_auc":0.8139134929,
-    "f1":0.2102425876,
-    "precision":0.2041884817,
-    "recall":0.2166666667,
-    "balanced_accuracy":0.6049505942,
-    "predicted_positive_rate":0.0084337881,
-    "fit_seconds":28.998
+    "pr_auc":0.0971195987,
+    "roc_auc":0.8221934145,
+    "f1":0.2305764411,
+    "precision":0.2100456621,
+    "recall":0.2555555556,
+    "balanced_accuracy":0.6239276865,
+    "predicted_positive_rate":0.009670155,
+    "fit_seconds":53.873
   },
   {
     "split":"temporal_us",
@@ -152,14 +152,14 @@
     "test_positive_rate":0.0079480726,
     "train_source_mix":"{\"us\": 90584}",
     "test_source_mix":"{\"us\": 22647}",
-    "pr_auc":0.0841646719,
-    "roc_auc":0.835812896,
-    "f1":0.0,
-    "precision":0.0,
-    "recall":0.0,
-    "balanced_accuracy":0.5,
-    "predicted_positive_rate":0.0,
-    "fit_seconds":740.493
+    "pr_auc":0.0824996091,
+    "roc_auc":0.838472352,
+    "f1":0.0955631399,
+    "precision":0.0532319392,
+    "recall":0.4666666667,
+    "balanced_accuracy":0.7000845685,
+    "predicted_positive_rate":0.0696781031,
+    "fit_seconds":525.879
   },
   {
     "split":"temporal_us",
@@ -170,14 +170,14 @@
     "test_positive_rate":0.0079480726,
     "train_source_mix":"{\"us\": 90584}",
     "test_source_mix":"{\"us\": 22647}",
-    "pr_auc":0.05766616,
-    "roc_auc":0.8087341681,
-    "f1":0.0724810832,
-    "precision":0.039039039,
-    "recall":0.5055555556,
-    "balanced_accuracy":0.7029268854,
-    "predicted_positive_rate":0.1029275401,
-    "fit_seconds":49.107
+    "pr_auc":0.0801344549,
+    "roc_auc":0.8204028872,
+    "f1":0.0827023879,
+    "precision":0.0461938842,
+    "recall":0.3944444444,
+    "balanced_accuracy":0.6645965935,
+    "predicted_positive_rate":0.0678677087,
+    "fit_seconds":73.645
   },
   {
     "split":"temporal_us",
@@ -195,7 +195,7 @@
     "recall":0.3888888889,
     "balanced_accuracy":0.5974132431,
     "predicted_positive_rate":0.1956108977,
-    "fit_seconds":19.907
+    "fit_seconds":22.673
   },
   {
     "split":"temporal_us",
@@ -206,14 +206,14 @@
     "test_positive_rate":0.0079480726,
     "train_source_mix":"{\"us\": 90584}",
     "test_source_mix":"{\"us\": 22647}",
-    "pr_auc":0.0206100378,
-    "roc_auc":0.681717383,
+    "pr_auc":0.0206100498,
+    "roc_auc":0.6817176303,
     "f1":0.0301742456,
     "precision":0.015687141,
     "recall":0.3944444444,
     "balanced_accuracy":0.5980768089,
     "predicted_positive_rate":0.1998498697,
-    "fit_seconds":253.986
+    "fit_seconds":161.699
   },
   {
     "split":"temporal_us",
@@ -231,7 +231,7 @@
     "recall":0.0444444444,
     "balanced_accuracy":0.5165027225,
     "predicted_positive_rate":0.0117013291,
-    "fit_seconds":66.206
+    "fit_seconds":78.465
   },
   {
     "split":"temporal_us",
@@ -249,7 +249,7 @@
     "recall":0.0222222222,
     "balanced_accuracy":0.4988486818,
     "predicted_positive_rate":0.0245065572,
-    "fit_seconds":16.163
+    "fit_seconds":21.056
   },
   {
     "split":"transfer_canada_to_us",
@@ -260,14 +260,14 @@
     "test_positive_rate":0.0210807994,
     "train_source_mix":"{\"canada\": 7108}",
     "test_source_mix":"{\"us\": 113231}",
-    "pr_auc":0.0493721983,
-    "roc_auc":0.5524724532,
-    "f1":0.0390559891,
-    "precision":0.0199796521,
-    "recall":0.8638458316,
-    "balanced_accuracy":0.4756826141,
-    "predicted_positive_rate":0.9114553435,
-    "fit_seconds":49.128
+    "pr_auc":0.0491875273,
+    "roc_auc":0.5527839924,
+    "f1":0.0388437645,
+    "precision":0.0198703686,
+    "recall":0.8604943444,
+    "balanced_accuracy":0.4732264945,
+    "predicted_positive_rate":0.9129125416,
+    "fit_seconds":46.799
   },
   {
     "split":"transfer_canada_to_us",
@@ -278,14 +278,14 @@
     "test_positive_rate":0.0210807994,
     "train_source_mix":"{\"canada\": 7108}",
     "test_source_mix":"{\"us\": 113231}",
-    "pr_auc":0.0481868115,
-    "roc_auc":0.5421598737,
+    "pr_auc":0.0481868957,
+    "roc_auc":0.542162132,
     "f1":0.0412481725,
     "precision":0.0210589545,
     "recall":0.9987431923,
     "balanced_accuracy":0.4994708347,
     "predicted_positive_rate":0.9997792124,
-    "fit_seconds":20.268
+    "fit_seconds":18.145
   },
   {
     "split":"transfer_canada_to_us",
@@ -303,7 +303,7 @@
     "recall":0.9903644742,
     "balanced_accuracy":0.5052775061,
     "predicted_positive_rate":0.98003197,
-    "fit_seconds":19.634
+    "fit_seconds":17.082
   },
   {
     "split":"transfer_canada_to_us",
@@ -314,14 +314,14 @@
     "test_positive_rate":0.0210807994,
     "train_source_mix":"{\"canada\": 7108}",
     "test_source_mix":"{\"us\": 113231}",
-    "pr_auc":0.0265199665,
-    "roc_auc":0.5701592989,
-    "f1":0.0429202609,
-    "precision":0.0257749326,
-    "recall":0.1281943863,
-    "balanced_accuracy":0.5119247706,
-    "predicted_positive_rate":0.1048476124,
-    "fit_seconds":45.089
+    "pr_auc":0.026500668,
+    "roc_auc":0.5706160923,
+    "f1":0.042694148,
+    "precision":0.0244107744,
+    "recall":0.1700879765,
+    "balanced_accuracy":0.5118510324,
+    "predicted_positive_rate":0.1468855702,
+    "fit_seconds":46.461
   },
   {
     "split":"transfer_canada_to_us",
@@ -339,7 +339,7 @@
     "recall":0.3803937997,
     "balanced_accuracy":0.510922424,
     "predicted_positive_rate":0.3590094585,
-    "fit_seconds":53.336
+    "fit_seconds":49.626
   },
   {
     "split":"transfer_canada_to_us",
@@ -357,7 +357,7 @@
     "recall":0.1428571429,
     "balanced_accuracy":0.4968688298,
     "predicted_positive_rate":0.1489874681,
-    "fit_seconds":13.197
+    "fit_seconds":15.793
   },
   {
     "split":"transfer_canada_to_us",
@@ -368,14 +368,32 @@
     "test_positive_rate":0.0210807994,
     "train_source_mix":"{\"canada\": 7108}",
     "test_source_mix":"{\"us\": 113231}",
-    "pr_auc":0.0176684714,
-    "roc_auc":0.4156816831,
-    "f1":0.0325638396,
-    "precision":0.0173156719,
-    "recall":0.2727272727,
-    "balanced_accuracy":0.4697105022,
-    "predicted_positive_rate":0.3320292146,
-    "fit_seconds":48.904
+    "pr_auc":0.0182421472,
+    "roc_auc":0.4438733474,
+    "f1":0.0323927826,
+    "precision":0.0173020276,
+    "recall":0.2534562212,
+    "balanced_accuracy":0.4717264867,
+    "predicted_positive_rate":0.3088111913,
+    "fit_seconds":46.653
+  },
+  {
+    "split":"transfer_us_to_canada",
+    "model":"naive_bayes_text",
+    "n_train":113231,
+    "n_test":7108,
+    "train_positive_rate":0.0210807994,
+    "test_positive_rate":0.1498311761,
+    "train_source_mix":"{\"us\": 113231}",
+    "test_source_mix":"{\"canada\": 7108}",
+    "pr_auc":0.2520599741,
+    "roc_auc":0.6429424026,
+    "f1":0.0,
+    "precision":0.0,
+    "recall":0.0,
+    "balanced_accuracy":0.5,
+    "predicted_positive_rate":0.0,
+    "fit_seconds":57.388
   },
   {
     "split":"transfer_us_to_canada",
@@ -386,14 +404,14 @@
     "test_positive_rate":0.1498311761,
     "train_source_mix":"{\"us\": 113231}",
     "test_source_mix":"{\"canada\": 7108}",
-    "pr_auc":0.2073505968,
-    "roc_auc":0.6046251473,
+    "pr_auc":0.2262745515,
+    "roc_auc":0.6260991066,
     "f1":0.0,
     "precision":0.0,
     "recall":0.0,
     "balanced_accuracy":0.5,
     "predicted_positive_rate":0.0,
-    "fit_seconds":992.703
+    "fit_seconds":720.939
   },
   {
     "split":"transfer_us_to_canada",
@@ -411,25 +429,7 @@
     "recall":0.0,
     "balanced_accuracy":0.5,
     "predicted_positive_rate":0.0,
-    "fit_seconds":82.499
-  },
-  {
-    "split":"transfer_us_to_canada",
-    "model":"naive_bayes_text",
-    "n_train":113231,
-    "n_test":7108,
-    "train_positive_rate":0.0210807994,
-    "test_positive_rate":0.1498311761,
-    "train_source_mix":"{\"us\": 113231}",
-    "test_source_mix":"{\"canada\": 7108}",
-    "pr_auc":0.1877375506,
-    "roc_auc":0.5872807478,
-    "f1":0.0,
-    "precision":0.0,
-    "recall":0.0,
-    "balanced_accuracy":0.5,
-    "predicted_positive_rate":0.0,
-    "fit_seconds":35.97
+    "fit_seconds":88.112
   },
   {
     "split":"transfer_us_to_canada",
@@ -440,14 +440,14 @@
     "test_positive_rate":0.1498311761,
     "train_source_mix":"{\"us\": 113231}",
     "test_source_mix":"{\"canada\": 7108}",
-    "pr_auc":0.1725677391,
-    "roc_auc":0.4696720452,
+    "pr_auc":0.1721385026,
+    "roc_auc":0.4683177447,
     "f1":0.0,
     "precision":0.0,
     "recall":0.0,
     "balanced_accuracy":0.5,
     "predicted_positive_rate":0.0,
-    "fit_seconds":1069.099
+    "fit_seconds":629.294
   },
   {
     "split":"transfer_us_to_canada",
@@ -465,25 +465,7 @@
     "recall":0.0,
     "balanced_accuracy":0.5,
     "predicted_positive_rate":0.0,
-    "fit_seconds":20.801
-  },
-  {
-    "split":"transfer_us_to_canada",
-    "model":"linear_svm_meta_text",
-    "n_train":113231,
-    "n_test":7108,
-    "train_positive_rate":0.0210807994,
-    "test_positive_rate":0.1498311761,
-    "train_source_mix":"{\"us\": 113231}",
-    "test_source_mix":"{\"canada\": 7108}",
-    "pr_auc":0.1585818004,
-    "roc_auc":0.5301721854,
-    "f1":0.0,
-    "precision":0.0,
-    "recall":0.0,
-    "balanced_accuracy":0.4995035578,
-    "predicted_positive_rate":0.0008441193,
-    "fit_seconds":52.913
+    "fit_seconds":16.709
   },
   {
     "split":"transfer_us_to_canada",
@@ -501,6 +483,24 @@
     "recall":0.0159624413,
     "balanced_accuracy":0.4977214159,
     "predicted_positive_rate":0.0198368036,
-    "fit_seconds":17.424
+    "fit_seconds":14.491
+  },
+  {
+    "split":"transfer_us_to_canada",
+    "model":"linear_svm_meta_text",
+    "n_train":113231,
+    "n_test":7108,
+    "train_positive_rate":0.0210807994,
+    "test_positive_rate":0.1498311761,
+    "train_source_mix":"{\"us\": 113231}",
+    "test_source_mix":"{\"canada\": 7108}",
+    "pr_auc":0.1480127165,
+    "roc_auc":0.5157225331,
+    "f1":0.0,
+    "precision":0.0,
+    "recall":0.0,
+    "balanced_accuracy":0.4995862982,
+    "predicted_positive_rate":0.0007034328,
+    "fit_seconds":80.603
   }
 ]
