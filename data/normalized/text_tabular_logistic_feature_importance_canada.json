@@ -1,0 +1,189 @@
+{
+  "train_country": "canada",
+  "threshold": 0.5691226124763489,
+  "bias": -0.0030473321676254272,
+  "numeric_coefficients": [
+    {
+      "feature": "description_word_count",
+      "coef_on_standardized_input": 0.3451046347618103,
+      "coef_approx_raw_scale": 0.0399756096303463,
+      "abs_coef": 0.0399756096303463
+    },
+    {
+      "feature": "title_word_count",
+      "coef_on_standardized_input": -0.15369433164596558,
+      "coef_approx_raw_scale": -0.022812949493527412,
+      "abs_coef": 0.022812949493527412
+    },
+    {
+      "feature": "month_introduced",
+      "coef_on_standardized_input": -0.015609503723680973,
+      "coef_approx_raw_scale": -0.004397402983158827,
+      "abs_coef": 0.004397402983158827
+    },
+    {
+      "feature": "year",
+      "coef_on_standardized_input": 0.011181997135281563,
+      "coef_approx_raw_scale": 0.001848143758252263,
+      "abs_coef": 0.001848143758252263
+    }
+  ],
+  "categorical_contributions": [
+    {
+      "feature": "bill_type",
+      "category": "government_bill",
+      "logit_contribution": 0.7749394774436951,
+      "abs_contribution": 0.7749394774436951
+    },
+    {
+      "feature": "bill_type",
+      "category": "private_member_bill",
+      "logit_contribution": -0.4457261562347412,
+      "abs_contribution": 0.4457261562347412
+    },
+    {
+      "feature": "chamber",
+      "category": "Senate",
+      "logit_contribution": 0.38720130920410156,
+      "abs_contribution": 0.38720130920410156
+    },
+    {
+      "feature": "bill_type",
+      "category": "<UNK>",
+      "logit_contribution": -0.2317807972431183,
+      "abs_contribution": 0.2317807972431183
+    },
+    {
+      "feature": "chamber",
+      "category": "House",
+      "logit_contribution": -0.12003671377897263,
+      "abs_contribution": 0.12003671377897263
+    },
+    {
+      "feature": "chamber",
+      "category": "<PAD>",
+      "logit_contribution": 0.11735609173774719,
+      "abs_contribution": 0.11735609173774719
+    },
+    {
+      "feature": "bill_type",
+      "category": "<PAD>",
+      "logit_contribution": 0.11364999413490295,
+      "abs_contribution": 0.11364999413490295
+    },
+    {
+      "feature": "bill_type",
+      "category": "other",
+      "logit_contribution": 0.09400971978902817,
+      "abs_contribution": 0.09400971978902817
+    },
+    {
+      "feature": "chamber",
+      "category": "<UNK>",
+      "logit_contribution": 0.05840720236301422,
+      "abs_contribution": 0.05840720236301422
+    }
+  ],
+  "text_coefficients": [
+    {
+      "bert_dim": 419,
+      "coef": 0.133016437292099,
+      "abs_coef": 0.133016437292099
+    },
+    {
+      "bert_dim": 119,
+      "coef": 0.11624603718519211,
+      "abs_coef": 0.11624603718519211
+    },
+    {
+      "bert_dim": 37,
+      "coef": -0.11613921821117401,
+      "abs_coef": 0.11613921821117401
+    },
+    {
+      "bert_dim": 461,
+      "coef": 0.11507414281368256,
+      "abs_coef": 0.11507414281368256
+    },
+    {
+      "bert_dim": 642,
+      "coef": -0.11487458646297455,
+      "abs_coef": 0.11487458646297455
+    },
+    {
+      "bert_dim": 693,
+      "coef": 0.1130191907286644,
+      "abs_coef": 0.1130191907286644
+    },
+    {
+      "bert_dim": 11,
+      "coef": 0.10855958610773087,
+      "abs_coef": 0.10855958610773087
+    },
+    {
+      "bert_dim": 328,
+      "coef": 0.10438359528779984,
+      "abs_coef": 0.10438359528779984
+    },
+    {
+      "bert_dim": 648,
+      "coef": 0.10234343260526657,
+      "abs_coef": 0.10234343260526657
+    },
+    {
+      "bert_dim": 236,
+      "coef": -0.1008346900343895,
+      "abs_coef": 0.1008346900343895
+    },
+    {
+      "bert_dim": 652,
+      "coef": -0.09668897837400436,
+      "abs_coef": 0.09668897837400436
+    },
+    {
+      "bert_dim": 21,
+      "coef": -0.09653827548027039,
+      "abs_coef": 0.09653827548027039
+    },
+    {
+      "bert_dim": 315,
+      "coef": 0.09364333003759384,
+      "abs_coef": 0.09364333003759384
+    },
+    {
+      "bert_dim": 512,
+      "coef": -0.09186749160289764,
+      "abs_coef": 0.09186749160289764
+    },
+    {
+      "bert_dim": 695,
+      "coef": -0.09016521275043488,
+      "abs_coef": 0.09016521275043488
+    },
+    {
+      "bert_dim": 450,
+      "coef": 0.08866803348064423,
+      "abs_coef": 0.08866803348064423
+    },
+    {
+      "bert_dim": 443,
+      "coef": -0.08840718865394592,
+      "abs_coef": 0.08840718865394592
+    },
+    {
+      "bert_dim": 339,
+      "coef": 0.08814302086830139,
+      "abs_coef": 0.08814302086830139
+    },
+    {
+      "bert_dim": 145,
+      "coef": -0.08745435625314713,
+      "abs_coef": 0.08745435625314713
+    },
+    {
+      "bert_dim": 42,
+      "coef": -0.08552627265453339,
+      "abs_coef": 0.08552627265453339
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "train_country": "us",
+  "threshold": 0.8044192790985107,
+  "bias": -0.026508869603276253,
+  "numeric_coefficients": [
+    {
+      "feature": "title_word_count",
+      "coef_on_standardized_input": 0.39781540632247925,
+      "coef_approx_raw_scale": 0.03487255424261093,
+      "abs_coef": 0.03487255424261093
+    },
+    {
+      "feature": "month_introduced",
+      "coef_on_standardized_input": -0.0965532585978508,
+      "coef_approx_raw_scale": -0.0295261163264513,
+      "abs_coef": 0.0295261163264513
+    },
+    {
+      "feature": "year",
+      "coef_on_standardized_input": -0.05347040295600891,
+      "coef_approx_raw_scale": -0.014495222829282284,
+      "abs_coef": 0.014495222829282284
+    },
+    {
+      "feature": "description_word_count",
+      "coef_on_standardized_input": 0.32398727536201477,
+      "coef_approx_raw_scale": 0.0008063758141361177,
+      "abs_coef": 0.0008063758141361177
+    }
+  ],
+  "categorical_contributions": [
+    {
+      "feature": "bill_type",
+      "category": "resolution",
+      "logit_contribution": -9.695711135864258,
+      "abs_contribution": 9.695711135864258
+    },
+    {
+      "feature": "bill_type",
+      "category": "concurrent_resolution",
+      "logit_contribution": -5.867255687713623,
+      "abs_contribution": 5.867255687713623
+    },
+    {
+      "feature": "bill_type",
+      "category": "<UNK>",
+      "logit_contribution": 1.4615408182144165,
+      "abs_contribution": 1.4615408182144165
+    },
+    {
+      "feature": "bill_type",
+      "category": "joint_resolution",
+      "logit_contribution": 0.8063337206840515,
+      "abs_contribution": 0.8063337206840515
+    },
+    {
+      "feature": "bill_type",
+      "category": "<PAD>",
+      "logit_contribution": 0.4700773060321808,
+      "abs_contribution": 0.4700773060321808
+    },
+    {
+      "feature": "bill_type",
+      "category": "bill",
+      "logit_contribution": 0.2400478720664978,
+      "abs_contribution": 0.2400478720664978
+    },
+    {
+      "feature": "chamber",
+      "category": "House",
+      "logit_contribution": -0.18861320614814758,
+      "abs_contribution": 0.18861320614814758
+    },
+    {
+      "feature": "chamber",
+      "category": "Senate",
+      "logit_contribution": -0.1628250777721405,
+      "abs_contribution": 0.1628250777721405
+    },
+    {
+      "feature": "chamber",
+      "category": "<PAD>",
+      "logit_contribution": 0.08921601623296738,
+      "abs_contribution": 0.08921601623296738
+    },
+    {
+      "feature": "chamber",
+      "category": "<UNK>",
+      "logit_contribution": -0.006936477031558752,
+      "abs_contribution": 0.006936477031558752
+    }
+  ],
+  "text_coefficients": [
+    {
+      "bert_dim": 184,
+      "coef": 0.2984691858291626,
+      "abs_coef": 0.2984691858291626
+    },
+    {
+      "bert_dim": 297,
+      "coef": -0.26572999358177185,
+      "abs_coef": 0.26572999358177185
+    },
+    {
+      "bert_dim": 289,
+      "coef": 0.26106348633766174,
+      "abs_coef": 0.26106348633766174
+    },
+    {
+      "bert_dim": 573,
+      "coef": 0.2601856291294098,
+      "abs_coef": 0.2601856291294098
+    },
+    {
+      "bert_dim": 80,
+      "coef": 0.24996531009674072,
+      "abs_coef": 0.24996531009674072
+    },
+    {
+      "bert_dim": 386,
+      "coef": -0.24250724911689758,
+      "abs_coef": 0.24250724911689758
+    },
+    {
+      "bert_dim": 413,
+      "coef": -0.23948784172534943,
+      "abs_coef": 0.23948784172534943
+    },
+    {
+      "bert_dim": 23,
+      "coef": 0.23168997466564178,
+      "abs_coef": 0.23168997466564178
+    },
+    {
+      "bert_dim": 749,
+      "coef": 0.21732386946678162,
+      "abs_coef": 0.21732386946678162
+    },
+    {
+      "bert_dim": 671,
+      "coef": 0.20878994464874268,
+      "abs_coef": 0.20878994464874268
+    },
+    {
+      "bert_dim": 26,
+      "coef": -0.2081412971019745,
+      "abs_coef": 0.2081412971019745
+    },
+    {
+      "bert_dim": 595,
+      "coef": -0.20646530389785767,
+      "abs_coef": 0.20646530389785767
+    },
+    {
+      "bert_dim": 529,
+      "coef": -0.20441436767578125,
+      "abs_coef": 0.20441436767578125
+    },
+    {
+      "bert_dim": 712,
+      "coef": 0.2019965797662735,
+      "abs_coef": 0.2019965797662735
+    },
+    {
+      "bert_dim": 508,
+      "coef": -0.1968962401151657,
+      "abs_coef": 0.1968962401151657
+    },
+    {
+      "bert_dim": 417,
+      "coef": 0.19641569256782532,
+      "abs_coef": 0.19641569256782532
+    },
+    {
+      "bert_dim": 3,
+      "coef": 0.19426323473453522,
+      "abs_coef": 0.19426323473453522
+    },
+    {
+      "bert_dim": 446,
+      "coef": 0.1927565038204193,
+      "abs_coef": 0.1927565038204193
+    },
+    {
+      "bert_dim": 454,
+      "coef": 0.18658529222011566,
+      "abs_coef": 0.18658529222011566
+    },
+    {
+      "bert_dim": 249,
+      "coef": -0.1858091503381729,
+      "abs_coef": 0.1858091503381729
+    }
+  ]
+}
