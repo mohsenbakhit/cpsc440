@@ -1,10 +1,10 @@
 # Baseline Models Guide
 
-This file explains what [scripts/train_baselines.py](scripts/train_baselines.py) does, which models it trains, how evaluation is set up, and how to read the results files.
+This file explains what [../../scripts/train_baselines.py](../../scripts/train_baselines.py) does, which models it trains, how evaluation is set up, and how to read the results files.
 
 ## Purpose
 
-The script trains interpretable baseline classifiers for bill passage prediction using the normalized dataset at [data/normalized/bills.csv](data/normalized/bills.csv).
+The script trains interpretable baseline classifiers for bill passage prediction using the normalized dataset at [../../data/normalized/bills.csv](../../data/normalized/bills.csv).
 
 It is designed to answer two questions:
 
@@ -13,7 +13,7 @@ It is designed to answer two questions:
 
 ## Input Data
 
-The script expects the schema produced by [scripts/normalize.py](scripts/normalize.py), documented in [data/NORMALIZATION.md](data/NORMALIZATION.md).
+The script expects the schema produced by [../../scripts/normalize.py](../../scripts/normalize.py), documented in [../../data/NORMALIZATION.md](../../data/NORMALIZATION.md).
 
 Target:
 
@@ -87,8 +87,8 @@ For each split and model, the script saves:
 
 Running the script writes:
 
-- [data/normalized/baseline_metrics.csv](data/normalized/baseline_metrics.csv)
-- [data/normalized/baseline_metrics.json](data/normalized/baseline_metrics.json)
+- [../results_raw/baseline_metrics.csv](../results_raw/baseline_metrics.csv)
+- [../results_raw/baseline_metrics.json](../results_raw/baseline_metrics.json)
 
 ## Common Commands
 
@@ -106,7 +106,7 @@ Notes:
 
 ## What Current Results Show
 
-Based on [data/normalized/baseline_metrics.csv](data/normalized/baseline_metrics.csv), the best model for each split is:
+Based on [../results_raw/baseline_metrics.csv](../results_raw/baseline_metrics.csv), the best model for each split is:
 
 | Split | Best Model | PR-AUC | ROC-AUC | F1 |
 |---|---|---:|---:|---:|

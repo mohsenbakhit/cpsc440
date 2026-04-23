@@ -1,16 +1,16 @@
 # Introduction-Only Baseline Models Guide
 
-This file explains the introduction-only baseline workflow in [scripts/train_baselines_intro_only.py](scripts/train_baselines_intro_only.py), including which features are used, which models are trained, how evaluation is run, and how to read outputs.
+This file explains the introduction-only baseline workflow in [../../scripts/train_baselines_intro_only.py](../../scripts/train_baselines_intro_only.py), including which features are used, which models are trained, how evaluation is run, and how to read outputs.
 
 ## Purpose
 
-The script trains baseline classifiers for bill passage prediction using only features available at or near introduction time from [data/normalized/bills.csv](data/normalized/bills.csv).
+The script trains baseline classifiers for bill passage prediction using only features available at or near introduction time from [../../data/normalized/bills.csv](../../data/normalized/bills.csv).
 
 This version is intended to reduce downstream process leakage and give a more realistic early-prediction baseline.
 
 ## Input Data
 
-The script expects normalized schema from [scripts/normalize.py](scripts/normalize.py), documented in [data/NORMALIZATION.md](data/NORMALIZATION.md).
+The script expects normalized schema from [../../scripts/normalize.py](../../scripts/normalize.py), documented in [../../data/NORMALIZATION.md](../../data/NORMALIZATION.md).
 
 Target:
 
@@ -89,8 +89,8 @@ For each split and model, the script reports:
 
 Running the intro-only script writes:
 
-- [data/normalized/baseline_metrics_intro_only.csv](data/normalized/baseline_metrics_intro_only.csv)
-- [data/normalized/baseline_metrics_intro_only.json](data/normalized/baseline_metrics_intro_only.json)
+- [../results_raw/baseline_metrics_intro_only.csv](../results_raw/baseline_metrics_intro_only.csv)
+- [../results_raw/baseline_metrics_intro_only.json](../results_raw/baseline_metrics_intro_only.json)
 
 ## Common Commands
 
@@ -122,7 +122,7 @@ Notes:
 
 ## How To Compare With Process-Aware Baselines
 
-Use this file together with process-aware results from [data/normalized/baseline_metrics.csv](data/normalized/baseline_metrics.csv).
+Use this file together with process-aware results from [../results_raw/baseline_metrics.csv](../results_raw/baseline_metrics.csv).
 
 Suggested comparison flow:
 
