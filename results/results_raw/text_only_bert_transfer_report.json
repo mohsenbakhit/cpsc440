@@ -1,0 +1,54 @@
+[
+  {
+    "train_country": "canada",
+    "test_country": "canada",
+    "setting": "in_country_test",
+    "threshold": 0.740234375,
+    "accuracy": 0.8643710470836261,
+    "balanced_accuracy": 0.7914160743575724,
+    "pr_auc": 0.49513814261743805,
+    "roc_auc": 0.852602017992942,
+    "f1": 0.30324909747292417,
+    "precision": 0.1926605504587156,
+    "recall": 0.711864406779661
+  },
+  {
+    "train_country": "canada",
+    "test_country": "us",
+    "setting": "transfer_test",
+    "threshold": 0.740234375,
+    "accuracy": 0.788332450097156,
+    "balanced_accuracy": 0.5378561253561254,
+    "pr_auc": 0.01161242864681977,
+    "roc_auc": 0.5024456414213359,
+    "f1": 0.020837589376915218,
+    "precision": 0.010816542948038176,
+    "recall": 0.2833333333333333
+  },
+  {
+    "train_country": "us",
+    "test_country": "us",
+    "setting": "in_country_test",
+    "threshold": 0.97314453125,
+    "accuracy": 0.9867514573396926,
+    "balanced_accuracy": 0.5910167378917379,
+    "pr_auc": 0.05423309338589744,
+    "roc_auc": 0.6946248565606205,
+    "f1": 0.18478260869565216,
+    "precision": 0.18085106382978725,
+    "recall": 0.18888888888888888
+  },
+  {
+    "train_country": "us",
+    "test_country": "canada",
+    "setting": "transfer_test",
+    "threshold": 0.97314453125,
+    "accuracy": 0.9585382993675334,
+    "balanced_accuracy": 0.5,
+    "pr_auc": 0.10232844997422763,
+    "roc_auc": 0.7542186490382226,
+    "f1": 0.0,
+    "precision": 0.0,
+    "recall": 0.0
+  }
+]

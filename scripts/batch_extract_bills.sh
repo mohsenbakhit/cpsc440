@@ -8,7 +8,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # Default directory
-INPUT_DIR="${1:=$PROJECT_ROOT/data/canada_bill_text}"
+INPUT_DIR="${1:-$PROJECT_ROOT/data/canada_bill_text}"
 SPLIT="${2:-0.5}"
 
 echo "Extracting English text from PDFs in: $INPUT_DIR"
